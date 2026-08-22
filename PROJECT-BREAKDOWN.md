@@ -55,9 +55,9 @@ Lane **S** = Solver. Lane **H** = Harness.
 | 4 | Loop enumeration + pricing | `plan.py` | **Done** | S |
 | 5 | CP-SAT allocation | `plan.py` | **Done** | S |
 | 6 | Trim + end-of-run sell-off | `plan.py` | **Done** | S |
-| 7 | Construction planner (v1: full chain, all towns) | `build.py` | **Done** | S |
-| 8 | **Tools + fast-route planner** | `tools.py` | **Not started** | **S** |
-| 9 | **Upkeep planner (L4)** | `upkeep.py` | **Not started** | **S** |
+| 7 | Construction planner (v2: full 11-upgrade set) | `build.py` | **Done** | S |
+| 8 | Tools (boots + pickaxe in the build sweep) | `build.py` | **Done** | S |
+| 9 | Upkeep planner (declines itself: L4 towns trickle ~0) | `upkeep.py` | **Done** | S |
 | 10 | **Level input loader + validator** | `levels.py` | **Not started** | **H** |
 | 11 | **Submission packaging + determinism** | `make_submission.py` | **Not started** | **H** |
 | 12 | **Scoreboard** | `scoreboard.py` | **Not started** | **H** |
@@ -85,12 +85,12 @@ Then trims to fit and sells everything held at the end.
 
 ## 3. Where we stand
 
-| Level | Ticks | Enteloot | Units sold | Infrastructure | Towns developed | Invalid actions |
-|---|---|---|---|---|---|---|
-| 1 | 1,000 | 30,990 | 3,976 | 0 | 0 | 0 |
-| 2 | 5,000 | 139,788 | 20,517 | 150,000 | 10 | 0 |
-| 3 | 50,000 | 2,213,665 | 432,958 | 225,000 | 15 | 0 |
-| 4 | 100,000 | 7,439,705 | 1,374,931 | 450,000 | 30 | 0 |
+| Level | Ticks | Enteloot | Infrastructure | Towns developed | Invalid actions |
+|---|---|---|---|---|---|
+| 1 | 1,000 | 30,990 | 0 | 0 | 0 |
+| 2 | 5,000 | 107,906 | 180,000 | 9 of 10 | 0 |
+| 3 | 50,000 | 2,227,967 | 435,000 | 15 of 15 | 0 |
+| 4 | 100,000 | 7,513,206 | 870,000 | 30 of 30 | 0 |
 
 The build sweep (`build.py`, done 2026-08-22) put the full four-upgrade chain
 in every town on Levels 2-4 — and the civic upgrades pay for themselves, so
@@ -137,11 +137,11 @@ Touches: `plan.py`, `route.py`, `engine.py`, new `build.py`, `tools.py`,
 Fayyad owns everything **around** the solver. No solver logic, no merge conflicts.
 
 1. **Level input loader + validator** (section 10). A proper loader for
-   `Levels/*.txt`. Fail loudly and early on a missing or malformed field instead
+   `levels/levelN/level.json`. Fail loudly and early on a missing or malformed field instead
    of crashing halfway through a run. Report which town, which key, what was
    expected.
 2. **Submission packaging** (section 11). `make_submission.py` writes
-   `submissions/levelN/actions.txt`, zips the source, then re-runs the whole
+   `levels/levelN/actions.txt`, zips the source, then re-runs the whole
    pipeline and proves the output is **byte-identical**.
    **A submission whose source does not reproduce the file is invalid — this is
    the only task that can turn a good solution into a zero. Do it first.**
