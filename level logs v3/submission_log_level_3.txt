@@ -1,0 +1,2315 @@
+Action 0: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 2: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 3: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 4: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 5: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 6: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 7: Buy 75 sheep for 600 Enteloot.
+Action 8: craft 25x wool-garments (recipe).
+Action 9: Sell 25 wool-garments for 1175 Enteloot.
+Action 10: Buy 15 sheep for 120 Enteloot.
+Action 11: craft 5x wool-garments (recipe).
+Action 12: Sell 5 wool-garments for 235 Enteloot.
+Action 13: Travel to 'N3' (standard, 4 ticks, Toll 0).
+Action 14: gather 8 sheep at 'N3' (2 ticks).
+Action 15: gather 8 sheep at 'N3' (2 ticks).
+Action 16: gather 8 sheep at 'N3' (2 ticks).
+Action 17: gather 8 sheep at 'N3' (2 ticks).
+Action 18: gather 8 sheep at 'N3' (2 ticks).
+Action 19: gather 8 sheep at 'N3' (2 ticks).
+Action 20: gather 8 sheep at 'N3' (2 ticks).
+Action 21: gather 8 sheep at 'N3' (2 ticks).
+Action 22: gather 8 sheep at 'N3' (2 ticks).
+Action 23: gather 8 sheep at 'N3' (2 ticks).
+Action 24: gather 8 sheep at 'N3' (2 ticks).
+Action 25: gather 8 sheep at 'N3' (2 ticks).
+Action 26: gather 8 sheep at 'N3' (2 ticks).
+Action 27: gather 8 sheep at 'N3' (2 ticks).
+Action 28: gather 8 sheep at 'N3' (2 ticks).
+Action 29: gather 8 sheep at 'N3' (2 ticks).
+Action 30: gather 8 sheep at 'N3' (2 ticks).
+Action 31: gather 8 sheep at 'N3' (2 ticks).
+Action 32: gather 8 sheep at 'N3' (2 ticks).
+Action 33: gather 8 sheep at 'N3' (2 ticks).
+Action 34: gather 8 sheep at 'N3' (2 ticks).
+Action 35: gather 8 sheep at 'N3' (2 ticks).
+Action 36: gather 8 sheep at 'N3' (2 ticks).
+Action 37: gather 8 sheep at 'N3' (2 ticks).
+Action 38: gather 8 sheep at 'N3' (2 ticks).
+Action 39: gather 8 sheep at 'N3' (2 ticks).
+Action 40: gather 8 sheep at 'N3' (2 ticks).
+Action 41: gather 8 sheep at 'N3' (2 ticks).
+Action 42: gather 8 sheep at 'N3' (2 ticks).
+Action 43: gather 8 sheep at 'N3' (2 ticks).
+Action 44: gather 8 sheep at 'N3' (2 ticks).
+Action 45: gather 8 sheep at 'N3' (2 ticks).
+Action 46: gather 8 sheep at 'N3' (2 ticks).
+Action 47: gather 8 sheep at 'N3' (2 ticks).
+Action 48: gather 8 sheep at 'N3' (2 ticks).
+Action 49: gather 8 sheep at 'N3' (2 ticks).
+Action 50: gather 8 sheep at 'N3' (2 ticks).
+Action 51: gather 8 sheep at 'N3' (2 ticks).
+Action 52: gather 8 sheep at 'N3' (2 ticks).
+Action 53: gather 8 sheep at 'N3' (2 ticks).
+Action 54: gather 8 sheep at 'N3' (2 ticks).
+Action 55: gather 8 sheep at 'N3' (2 ticks).
+Action 56: gather 8 sheep at 'N3' (2 ticks).
+Action 57: gather 8 sheep at 'N3' (2 ticks).
+Action 58: gather 8 sheep at 'N3' (2 ticks).
+Action 59: gather 8 sheep at 'N3' (2 ticks).
+Action 60: gather 8 sheep at 'N3' (2 ticks).
+Action 61: gather 8 sheep at 'N3' (2 ticks).
+Action 62: gather 8 sheep at 'N3' (2 ticks).
+Action 63: gather 8 sheep at 'N3' (2 ticks).
+Action 64: gather 8 sheep at 'N3' (2 ticks).
+Action 65: gather 8 sheep at 'N3' (2 ticks).
+Action 66: gather 8 sheep at 'N3' (2 ticks).
+Action 67: gather 8 sheep at 'N3' (2 ticks).
+Action 68: gather 8 sheep at 'N3' (2 ticks).
+Action 69: gather 8 sheep at 'N3' (2 ticks).
+Action 70: gather 8 sheep at 'N3' (2 ticks).
+Action 71: gather 8 sheep at 'N3' (2 ticks).
+Action 72: gather 8 sheep at 'N3' (2 ticks).
+Action 73: gather 8 sheep at 'N3' (2 ticks).
+Action 74: gather 8 sheep at 'N3' (2 ticks).
+Action 75: gather 8 sheep at 'N3' (2 ticks).
+Action 76: gather 8 sheep at 'N3' (2 ticks).
+Action 77: gather 8 sheep at 'N3' (2 ticks).
+Action 78: gather 8 sheep at 'N3' (2 ticks).
+Action 79: gather 8 sheep at 'N3' (2 ticks).
+Action 80: gather 8 sheep at 'N3' (2 ticks).
+Action 81: gather 8 sheep at 'N3' (2 ticks).
+Action 82: gather 8 sheep at 'N3' (2 ticks).
+Action 83: gather 8 sheep at 'N3' (2 ticks).
+Action 84: gather 8 sheep at 'N3' (2 ticks).
+Action 85: gather 8 sheep at 'N3' (2 ticks).
+Action 86: gather 8 sheep at 'N3' (2 ticks).
+Action 87: gather 8 sheep at 'N3' (2 ticks).
+Action 88: gather 8 sheep at 'N3' (2 ticks).
+Action 89: Travel to 'Targon' (standard, 4 ticks, Toll 0).
+Action 90: craft 200x wool-garments (recipe).
+Action 91: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 92: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 93: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 94: Sell 200 wool-garments for 11400 Enteloot.
+Action 95: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 96: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 97: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 98: Buy 600 sheep for 4800 Enteloot.
+Action 99: craft 200x wool-garments (recipe).
+Action 100: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 101: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 102: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 103: Sell 200 wool-garments for 11400 Enteloot.
+Action 104: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 105: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 106: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 107: Buy 600 sheep for 4800 Enteloot.
+Action 108: craft 200x wool-garments (recipe).
+Action 109: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 110: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 111: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 112: Sell 200 wool-garments for 11400 Enteloot.
+Action 113: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 114: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 115: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 116: Buy 600 sheep for 4800 Enteloot.
+Action 117: craft 200x wool-garments (recipe).
+Action 118: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 119: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 120: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 121: Sell 200 wool-garments for 11400 Enteloot.
+Action 122: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 123: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 124: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 125: Buy 600 sheep for 4800 Enteloot.
+Action 126: craft 200x wool-garments (recipe).
+Action 127: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 128: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 129: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 130: Sell 200 wool-garments for 11400 Enteloot.
+Action 131: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 132: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 133: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 134: Buy 600 sheep for 4800 Enteloot.
+Action 135: craft 200x wool-garments (recipe).
+Action 136: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 137: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 138: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 139: Sell 200 wool-garments for 11400 Enteloot.
+Action 140: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 141: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 142: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 143: Buy 600 sheep for 4800 Enteloot.
+Action 144: craft 200x wool-garments (recipe).
+Action 145: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 146: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 147: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 148: Sell 200 wool-garments for 11400 Enteloot.
+Action 149: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 150: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 151: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 152: Buy 600 sheep for 4800 Enteloot.
+Action 153: craft 200x wool-garments (recipe).
+Action 154: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 155: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 156: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 157: Sell 200 wool-garments for 11400 Enteloot.
+Action 158: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 159: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 160: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 161: Buy 600 sheep for 4800 Enteloot.
+Action 162: craft 200x wool-garments (recipe).
+Action 163: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 164: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 165: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 166: Sell 200 wool-garments for 11400 Enteloot.
+Action 167: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 168: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 169: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 170: Buy 600 sheep for 4800 Enteloot.
+Action 171: craft 200x wool-garments (recipe).
+Action 172: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 173: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 174: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 175: Sell 200 wool-garments for 11400 Enteloot.
+Action 176: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 177: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 178: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 179: Buy 600 sheep for 4800 Enteloot.
+Action 180: craft 200x wool-garments (recipe).
+Action 181: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 182: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 183: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 184: Sell 200 wool-garments for 11400 Enteloot.
+Action 185: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 186: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 187: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 188: Buy 600 sheep for 4800 Enteloot.
+Action 189: craft 200x wool-garments (recipe).
+Action 190: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 191: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 192: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 193: Sell 200 wool-garments for 11400 Enteloot.
+Action 194: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 195: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 196: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 197: Buy 600 sheep for 4800 Enteloot.
+Action 198: craft 200x wool-garments (recipe).
+Action 199: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 200: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 201: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 202: Sell 200 wool-garments for 11400 Enteloot.
+Action 203: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 204: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 205: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 206: Buy 600 sheep for 4800 Enteloot.
+Action 207: craft 200x wool-garments (recipe).
+Action 208: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 209: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 210: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 211: Sell 200 wool-garments for 11400 Enteloot.
+Action 212: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 213: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 214: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 215: Buy 600 sheep for 4800 Enteloot.
+Action 216: craft 200x wool-garments (recipe).
+Action 217: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 218: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 219: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 220: Sell 200 wool-garments for 11400 Enteloot.
+Action 221: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 222: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 223: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 224: Buy 600 sheep for 4800 Enteloot.
+Action 225: craft 200x wool-garments (recipe).
+Action 226: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 227: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 228: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 229: Sell 200 wool-garments for 11400 Enteloot.
+Action 230: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 231: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 232: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 233: Buy 600 sheep for 4800 Enteloot.
+Action 234: craft 200x wool-garments (recipe).
+Action 235: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 236: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 237: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 238: Sell 200 wool-garments for 11400 Enteloot.
+Action 239: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 240: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 241: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 242: Buy 600 sheep for 4800 Enteloot.
+Action 243: craft 200x wool-garments (recipe).
+Action 244: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 245: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 246: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 247: Sell 200 wool-garments for 11400 Enteloot.
+Action 248: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 249: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 250: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 251: Buy 600 sheep for 4800 Enteloot.
+Action 252: craft 200x wool-garments (recipe).
+Action 253: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 254: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 255: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 256: Sell 200 wool-garments for 11400 Enteloot.
+Action 257: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 258: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 259: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 260: Buy 600 sheep for 4800 Enteloot.
+Action 261: craft 200x wool-garments (recipe).
+Action 262: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 263: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 264: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 265: Sell 200 wool-garments for 11400 Enteloot.
+Action 266: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 267: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 268: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 269: Buy 600 sheep for 4800 Enteloot.
+Action 270: craft 200x wool-garments (recipe).
+Action 271: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 272: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 273: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 274: Sell 200 wool-garments for 11400 Enteloot.
+Action 275: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 276: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 277: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 278: Buy 600 sheep for 4800 Enteloot.
+Action 279: craft 200x wool-garments (recipe).
+Action 280: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 281: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 282: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 283: Sell 200 wool-garments for 11400 Enteloot.
+Action 284: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 285: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 286: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 287: Buy 600 sheep for 4800 Enteloot.
+Action 288: craft 200x wool-garments (recipe).
+Action 289: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 290: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 291: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 292: Sell 200 wool-garments for 11400 Enteloot.
+Action 293: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 294: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 295: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 296: Buy 600 sheep for 4800 Enteloot.
+Action 297: craft 200x wool-garments (recipe).
+Action 298: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 299: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 300: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 301: Sell 200 wool-garments for 11400 Enteloot.
+Action 302: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 303: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 304: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 305: Buy 600 sheep for 4800 Enteloot.
+Action 306: craft 200x wool-garments (recipe).
+Action 307: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 308: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 309: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 310: Sell 200 wool-garments for 11400 Enteloot.
+Action 311: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 312: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 313: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 314: Buy 600 sheep for 4800 Enteloot.
+Action 315: craft 200x wool-garments (recipe).
+Action 316: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 317: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 318: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 319: Sell 200 wool-garments for 11400 Enteloot.
+Action 320: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 321: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 322: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 323: Buy 600 sheep for 4800 Enteloot.
+Action 324: craft 200x wool-garments (recipe).
+Action 325: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 326: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 327: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 328: Sell 200 wool-garments for 11400 Enteloot.
+Action 329: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 330: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 331: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 332: Buy 600 sheep for 4800 Enteloot.
+Action 333: craft 200x wool-garments (recipe).
+Action 334: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 335: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 336: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 337: Sell 200 wool-garments for 11400 Enteloot.
+Action 338: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 339: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 340: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 341: Buy 600 sheep for 4800 Enteloot.
+Action 342: craft 200x wool-garments (recipe).
+Action 343: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 344: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 345: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 346: Sell 200 wool-garments for 11400 Enteloot.
+Action 347: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 348: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 349: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 350: Buy 600 sheep for 4800 Enteloot.
+Action 351: craft 200x wool-garments (recipe).
+Action 352: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 353: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 354: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 355: Sell 200 wool-garments for 11400 Enteloot.
+Action 356: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 357: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 358: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 359: Buy 600 sheep for 4800 Enteloot.
+Action 360: craft 200x wool-garments (recipe).
+Action 361: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 362: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 363: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 364: Sell 200 wool-garments for 11400 Enteloot.
+Action 365: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 366: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 367: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 368: Buy 600 sheep for 4800 Enteloot.
+Action 369: craft 200x wool-garments (recipe).
+Action 370: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 371: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 372: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 373: Sell 200 wool-garments for 11400 Enteloot.
+Action 374: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 375: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 376: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 377: Buy 600 sheep for 4800 Enteloot.
+Action 378: craft 200x wool-garments (recipe).
+Action 379: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 380: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 381: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 382: Sell 200 wool-garments for 11400 Enteloot.
+Action 383: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 384: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 385: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 386: Buy 600 sheep for 4800 Enteloot.
+Action 387: craft 200x wool-garments (recipe).
+Action 388: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 389: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 390: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 391: Sell 200 wool-garments for 11400 Enteloot.
+Action 392: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 393: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 394: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 395: Buy 600 sheep for 4800 Enteloot.
+Action 396: craft 200x wool-garments (recipe).
+Action 397: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 398: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 399: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 400: Sell 200 wool-garments for 11400 Enteloot.
+Action 401: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 402: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 403: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 404: Buy 600 sheep for 4800 Enteloot.
+Action 405: craft 200x wool-garments (recipe).
+Action 406: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 407: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 408: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 409: Sell 200 wool-garments for 11400 Enteloot.
+Action 410: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 411: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 412: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 413: Buy 600 sheep for 4800 Enteloot.
+Action 414: craft 200x wool-garments (recipe).
+Action 415: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 416: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 417: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 418: Sell 200 wool-garments for 11400 Enteloot.
+Action 419: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 420: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 421: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 422: Buy 600 sheep for 4800 Enteloot.
+Action 423: craft 200x wool-garments (recipe).
+Action 424: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 425: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 426: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 427: Sell 200 wool-garments for 11400 Enteloot.
+Action 428: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 429: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 430: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 431: Buy 600 sheep for 4800 Enteloot.
+Action 432: craft 200x wool-garments (recipe).
+Action 433: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 434: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 435: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 436: Sell 200 wool-garments for 11400 Enteloot.
+Action 437: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 438: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 439: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 440: Buy 600 sheep for 4800 Enteloot.
+Action 441: craft 200x wool-garments (recipe).
+Action 442: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 443: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 444: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 445: Sell 200 wool-garments for 11400 Enteloot.
+Action 446: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 447: Buy 1028 wood for 5140 Enteloot.
+Action 448: Buy 885 stone for 4425 Enteloot.
+Action 449: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 450: Buy 120 wheat for 480 Enteloot.
+Action 451: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 452: gather 6 ore at 'N9' (3 ticks).
+Action 453: gather 6 ore at 'N9' (3 ticks).
+Action 454: gather 6 ore at 'N9' (3 ticks).
+Action 455: gather 6 ore at 'N9' (3 ticks).
+Action 456: gather 6 ore at 'N9' (3 ticks).
+Action 457: gather 6 ore at 'N9' (3 ticks).
+Action 458: gather 6 ore at 'N9' (3 ticks).
+Action 459: gather 6 ore at 'N9' (3 ticks).
+Action 460: gather 6 ore at 'N9' (3 ticks).
+Action 461: gather 6 ore at 'N9' (3 ticks).
+Action 462: gather 6 ore at 'N9' (3 ticks).
+Action 463: gather 6 ore at 'N9' (3 ticks).
+Action 464: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 465: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 466: Travel to 'Ixtal' (standard, 6 ticks, Toll 0).
+Action 467: Buy 1425 clay for 8550 Enteloot.
+Action 468: Travel to 'N6' (standard, 6 ticks, Toll 0).
+Action 469: Travel to 'N18' (fast, 1 ticks, Toll 75).
+Action 470: Travel to 'N19' (standard, 6 ticks, Toll 0).
+Action 471: Travel to 'Targon' (standard, 5 ticks, Toll 0).
+Action 472: Buy 394 sheep for 3152 Enteloot.
+Action 473: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 474: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 475: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 476: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 477: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 478: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 479: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 480: craft 197x rope (component).
+Action 481: craft 60x thatch (component).
+Action 482: craft 347x planks (component).
+Action 483: craft 435x mortar (component).
+Action 484: craft 150x stone-blocks (component).
+Action 485: craft 60x kiln-glass (component).
+Action 486: craft 34x iron-fittings (component).
+Action 487: craft 90x fencing (component).
+Action 488: craft 435x bricks (component).
+Action 489: craft 30x nets (component).
+Action 490: craft 1x boots (tool).
+Action 491: craft 1x pickaxe (tool).
+Action 492: Build 'pier' in 'Demacia'.
+Action 493: Build 'farmhouse' in 'Demacia'.
+Action 494: Build 'rec-center' in 'Demacia'.
+Action 495: Build 'fire-station' in 'Demacia'.
+Action 496: Build 'school' in 'Demacia'.
+Action 497: Build 'police-station' in 'Demacia'.
+Action 498: Build 'library' in 'Demacia'.
+Action 499: Build 'fertilised-fields' in 'Demacia'.
+Action 500: Build 'woodlands' in 'Demacia'.
+Action 501: Build 'quarry' in 'Demacia'.
+Action 502: Build 'pottery-house' in 'Demacia'.
+Action 503: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 504: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 505: Build 'fertilised-fields' in 'Borealis'.
+Action 506: Build 'farmhouse' in 'Borealis'.
+Action 507: Build 'rec-center' in 'Borealis'.
+Action 508: Build 'fire-station' in 'Borealis'.
+Action 509: Build 'school' in 'Borealis'.
+Action 510: Build 'police-station' in 'Borealis'.
+Action 511: Build 'library' in 'Borealis'.
+Action 512: Build 'woodlands' in 'Borealis'.
+Action 513: Build 'pier' in 'Borealis'.
+Action 514: Build 'quarry' in 'Borealis'.
+Action 515: Build 'pottery-house' in 'Borealis'.
+Action 516: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 517: Build 'woodlands' in 'Evermoor'.
+Action 518: Build 'quarry' in 'Evermoor'.
+Action 519: Build 'rec-center' in 'Evermoor'.
+Action 520: Build 'fire-station' in 'Evermoor'.
+Action 521: Build 'school' in 'Evermoor'.
+Action 522: Build 'police-station' in 'Evermoor'.
+Action 523: Build 'library' in 'Evermoor'.
+Action 524: Build 'farmhouse' in 'Evermoor'.
+Action 525: Build 'fertilised-fields' in 'Evermoor'.
+Action 526: Build 'pier' in 'Evermoor'.
+Action 527: Build 'pottery-house' in 'Evermoor'.
+Action 528: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 529: Build 'fertilised-fields' in 'Ixtal'.
+Action 530: Build 'pottery-house' in 'Ixtal'.
+Action 531: Build 'rec-center' in 'Ixtal'.
+Action 532: Build 'fire-station' in 'Ixtal'.
+Action 533: Build 'school' in 'Ixtal'.
+Action 534: Build 'police-station' in 'Ixtal'.
+Action 535: Build 'library' in 'Ixtal'.
+Action 536: Build 'farmhouse' in 'Ixtal'.
+Action 537: Build 'woodlands' in 'Ixtal'.
+Action 538: Build 'pier' in 'Ixtal'.
+Action 539: Build 'quarry' in 'Ixtal'.
+Action 540: Travel to 'N6' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 541: Travel to 'N18' (fast, 1 ticks, Toll 75).
+Action 542: Travel to 'Freljord' (standard, 1 ticks, Toll 0).
+Action 543: Build 'woodlands' in 'Freljord'.
+Action 544: Build 'pier' in 'Freljord'.
+Action 545: Build 'rec-center' in 'Freljord'.
+Action 546: Build 'fire-station' in 'Freljord'.
+Action 547: Build 'school' in 'Freljord'.
+Action 548: Build 'police-station' in 'Freljord'.
+Action 549: Build 'library' in 'Freljord'.
+Action 550: Build 'farmhouse' in 'Freljord'.
+Action 551: Build 'fertilised-fields' in 'Freljord'.
+Action 552: Build 'quarry' in 'Freljord'.
+Action 553: Build 'pottery-house' in 'Freljord'.
+Action 554: Travel to 'Aurora' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 555: Build 'quarry' in 'Aurora'.
+Action 556: Build 'pottery-house' in 'Aurora'.
+Action 557: Build 'rec-center' in 'Aurora'.
+Action 558: Build 'fire-station' in 'Aurora'.
+Action 559: Build 'school' in 'Aurora'.
+Action 560: Build 'police-station' in 'Aurora'.
+Action 561: Build 'library' in 'Aurora'.
+Action 562: Build 'farmhouse' in 'Aurora'.
+Action 563: Build 'fertilised-fields' in 'Aurora'.
+Action 564: Build 'woodlands' in 'Aurora'.
+Action 565: Build 'pier' in 'Aurora'.
+Action 566: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 567: Build 'woodlands' in 'Piltover'.
+Action 568: Build 'farmhouse' in 'Piltover'.
+Action 569: Build 'rec-center' in 'Piltover'.
+Action 570: Build 'fire-station' in 'Piltover'.
+Action 571: Build 'school' in 'Piltover'.
+Action 572: Build 'police-station' in 'Piltover'.
+Action 573: Build 'library' in 'Piltover'.
+Action 574: Build 'fertilised-fields' in 'Piltover'.
+Action 575: Build 'pier' in 'Piltover'.
+Action 576: Build 'quarry' in 'Piltover'.
+Action 577: Build 'pottery-house' in 'Piltover'.
+Action 578: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 579: Travel to 'N11' (fast, 3 ticks, Toll 50, boots reduced ticks from 4 to 3).
+Action 580: Travel to 'Highgarden' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 581: Build 'pier' in 'Highgarden'.
+Action 582: Build 'quarry' in 'Highgarden'.
+Action 583: Build 'rec-center' in 'Highgarden'.
+Action 584: Build 'fire-station' in 'Highgarden'.
+Action 585: Build 'school' in 'Highgarden'.
+Action 586: Build 'police-station' in 'Highgarden'.
+Action 587: Build 'library' in 'Highgarden'.
+Action 588: Build 'farmhouse' in 'Highgarden'.
+Action 589: Build 'fertilised-fields' in 'Highgarden'.
+Action 590: Build 'woodlands' in 'Highgarden'.
+Action 591: Build 'pottery-house' in 'Highgarden'.
+Action 592: Travel to 'N11' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 593: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 594: Travel to 'Zaun' (standard, 1 ticks, Toll 0).
+Action 595: Build 'fertilised-fields' in 'Zaun'.
+Action 596: Build 'quarry' in 'Zaun'.
+Action 597: Build 'rec-center' in 'Zaun'.
+Action 598: Build 'fire-station' in 'Zaun'.
+Action 599: Build 'school' in 'Zaun'.
+Action 600: Build 'police-station' in 'Zaun'.
+Action 601: Build 'library' in 'Zaun'.
+Action 602: Build 'farmhouse' in 'Zaun'.
+Action 603: Build 'woodlands' in 'Zaun'.
+Action 604: Build 'pier' in 'Zaun'.
+Action 605: Build 'pottery-house' in 'Zaun'.
+Action 606: Travel to 'N4' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 607: Travel to 'Targon' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 608: Build 'farmhouse' in 'Targon'.
+Action 609: Build 'pier' in 'Targon'.
+Action 610: Build 'rec-center' in 'Targon'.
+Action 611: Build 'fire-station' in 'Targon'.
+Action 612: Build 'school' in 'Targon'.
+Action 613: Build 'police-station' in 'Targon'.
+Action 614: Build 'library' in 'Targon'.
+Action 615: Build 'fertilised-fields' in 'Targon'.
+Action 616: Build 'woodlands' in 'Targon'.
+Action 617: Build 'quarry' in 'Targon'.
+Action 618: Build 'pottery-house' in 'Targon'.
+Action 619: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 620: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 621: Travel to 'Shurima' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 622: Build 'fertilised-fields' in 'Shurima'.
+Action 623: Build 'farmhouse' in 'Shurima'.
+Action 624: Build 'rec-center' in 'Shurima'.
+Action 625: Build 'fire-station' in 'Shurima'.
+Action 626: Build 'school' in 'Shurima'.
+Action 627: Build 'police-station' in 'Shurima'.
+Action 628: Build 'library' in 'Shurima'.
+Action 629: Build 'woodlands' in 'Shurima'.
+Action 630: Build 'pier' in 'Shurima'.
+Action 631: Build 'quarry' in 'Shurima'.
+Action 632: Build 'pottery-house' in 'Shurima'.
+Action 633: Travel to 'N10' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 634: Travel to 'N7' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 635: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 636: Build 'woodlands' in 'Noxus'.
+Action 637: Build 'farmhouse' in 'Noxus'.
+Action 638: Build 'rec-center' in 'Noxus'.
+Action 639: Build 'fire-station' in 'Noxus'.
+Action 640: Build 'school' in 'Noxus'.
+Action 641: Build 'police-station' in 'Noxus'.
+Action 642: Build 'library' in 'Noxus'.
+Action 643: Build 'fertilised-fields' in 'Noxus'.
+Action 644: Build 'pier' in 'Noxus'.
+Action 645: Build 'quarry' in 'Noxus'.
+Action 646: Build 'pottery-house' in 'Noxus'.
+Action 647: Travel to 'N7' (standard, 1 ticks, Toll 0).
+Action 648: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 649: Build 'woodlands' in 'Bilgewater'.
+Action 650: Build 'farmhouse' in 'Bilgewater'.
+Action 651: Build 'rec-center' in 'Bilgewater'.
+Action 652: Build 'fire-station' in 'Bilgewater'.
+Action 653: Build 'school' in 'Bilgewater'.
+Action 654: Build 'police-station' in 'Bilgewater'.
+Action 655: Build 'library' in 'Bilgewater'.
+Action 656: Build 'fertilised-fields' in 'Bilgewater'.
+Action 657: Build 'pier' in 'Bilgewater'.
+Action 658: Build 'quarry' in 'Bilgewater'.
+Action 659: Build 'pottery-house' in 'Bilgewater'.
+Action 660: Travel to 'N17' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 661: Travel to 'Bandle' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 662: Build 'quarry' in 'Bandle'.
+Action 663: Build 'farmhouse' in 'Bandle'.
+Action 664: Build 'rec-center' in 'Bandle'.
+Action 665: Build 'fire-station' in 'Bandle'.
+Action 666: Build 'school' in 'Bandle'.
+Action 667: Build 'police-station' in 'Bandle'.
+Action 668: Build 'library' in 'Bandle'.
+Action 669: Build 'fertilised-fields' in 'Bandle'.
+Action 670: Build 'woodlands' in 'Bandle'.
+Action 671: Build 'pier' in 'Bandle'.
+Action 672: Build 'pottery-house' in 'Bandle'.
+Action 673: Travel to 'Ionia' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 674: Build 'woodlands' in 'Ionia'.
+Action 675: Build 'quarry' in 'Ionia'.
+Action 676: Build 'rec-center' in 'Ionia'.
+Action 677: Build 'fire-station' in 'Ionia'.
+Action 678: Build 'school' in 'Ionia'.
+Action 679: Build 'police-station' in 'Ionia'.
+Action 680: Build 'library' in 'Ionia'.
+Action 681: Build 'farmhouse' in 'Ionia'.
+Action 682: Build 'fertilised-fields' in 'Ionia'.
+Action 683: Build 'pier' in 'Ionia'.
+Action 684: Build 'pottery-house' in 'Ionia'.
+Action 685: Travel to 'Bandle' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 686: Travel to 'N17' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 687: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 688: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 689: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 690: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 691: Buy 600 sheep for 4800 Enteloot.
+Action 692: craft 200x wool-garments (recipe).
+Action 693: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 694: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 695: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 696: Sell 200 wool-garments for 11400 Enteloot.
+Action 697: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 698: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 699: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 700: Buy 600 sheep for 4800 Enteloot.
+Action 701: craft 200x wool-garments (recipe).
+Action 702: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 703: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 704: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 705: Sell 200 wool-garments for 11400 Enteloot.
+Action 706: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 707: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 708: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 709: Buy 600 sheep for 4800 Enteloot.
+Action 710: craft 200x wool-garments (recipe).
+Action 711: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 712: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 713: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 714: Sell 200 wool-garments for 11400 Enteloot.
+Action 715: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 716: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 717: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 718: Buy 600 sheep for 4800 Enteloot.
+Action 719: craft 200x wool-garments (recipe).
+Action 720: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 721: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 722: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 723: Sell 200 wool-garments for 11400 Enteloot.
+Action 724: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 725: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 726: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 727: Buy 600 sheep for 4800 Enteloot.
+Action 728: craft 200x wool-garments (recipe).
+Action 729: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 730: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 731: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 732: Sell 200 wool-garments for 11400 Enteloot.
+Action 733: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 734: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 735: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 736: Buy 600 sheep for 4800 Enteloot.
+Action 737: craft 200x wool-garments (recipe).
+Action 738: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 739: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 740: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 741: Sell 200 wool-garments for 11400 Enteloot.
+Action 742: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 743: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 744: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 745: Buy 600 sheep for 4800 Enteloot.
+Action 746: craft 200x wool-garments (recipe).
+Action 747: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 748: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 749: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 750: Sell 200 wool-garments for 11400 Enteloot.
+Action 751: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 752: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 753: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 754: Buy 600 sheep for 4800 Enteloot.
+Action 755: craft 200x wool-garments (recipe).
+Action 756: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 757: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 758: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 759: Sell 200 wool-garments for 11400 Enteloot.
+Action 760: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 761: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 762: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 763: Buy 600 sheep for 4800 Enteloot.
+Action 764: craft 200x wool-garments (recipe).
+Action 765: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 766: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 767: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 768: Sell 200 wool-garments for 11400 Enteloot.
+Action 769: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 770: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 771: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 772: Buy 600 sheep for 4800 Enteloot.
+Action 773: craft 200x wool-garments (recipe).
+Action 774: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 775: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 776: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 777: Sell 200 wool-garments for 11400 Enteloot.
+Action 778: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 779: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 780: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 781: Buy 600 sheep for 4800 Enteloot.
+Action 782: craft 200x wool-garments (recipe).
+Action 783: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 784: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 785: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 786: Sell 200 wool-garments for 11400 Enteloot.
+Action 787: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 788: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 789: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 790: Buy 600 sheep for 4800 Enteloot.
+Action 791: craft 200x wool-garments (recipe).
+Action 792: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 793: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 794: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 795: Sell 200 wool-garments for 11400 Enteloot.
+Action 796: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 797: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 798: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 799: Buy 600 sheep for 4800 Enteloot.
+Action 800: craft 200x wool-garments (recipe).
+Action 801: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 802: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 803: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 804: Sell 200 wool-garments for 11400 Enteloot.
+Action 805: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 806: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 807: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 808: Buy 600 sheep for 4800 Enteloot.
+Action 809: craft 200x wool-garments (recipe).
+Action 810: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 811: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 812: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 813: Sell 200 wool-garments for 11400 Enteloot.
+Action 814: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 815: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 816: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 817: Buy 600 sheep for 4800 Enteloot.
+Action 818: craft 200x wool-garments (recipe).
+Action 819: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 820: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 821: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 822: Sell 200 wool-garments for 11400 Enteloot.
+Action 823: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 824: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 825: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 826: Buy 600 sheep for 4800 Enteloot.
+Action 827: craft 200x wool-garments (recipe).
+Action 828: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 829: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 830: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 831: Sell 200 wool-garments for 11400 Enteloot.
+Action 832: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 833: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 834: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 835: Buy 600 sheep for 4800 Enteloot.
+Action 836: craft 200x wool-garments (recipe).
+Action 837: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 838: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 839: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 840: Sell 200 wool-garments for 11400 Enteloot.
+Action 841: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 842: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 843: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 844: Buy 600 sheep for 4800 Enteloot.
+Action 845: craft 200x wool-garments (recipe).
+Action 846: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 847: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 848: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 849: Sell 200 wool-garments for 11400 Enteloot.
+Action 850: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 851: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 852: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 853: Buy 600 sheep for 4800 Enteloot.
+Action 854: craft 200x wool-garments (recipe).
+Action 855: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 856: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 857: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 858: Sell 200 wool-garments for 11400 Enteloot.
+Action 859: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 860: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 861: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 862: Buy 600 sheep for 4800 Enteloot.
+Action 863: craft 200x wool-garments (recipe).
+Action 864: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 865: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 866: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 867: Sell 200 wool-garments for 11400 Enteloot.
+Action 868: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 869: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 870: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 871: Buy 600 sheep for 4800 Enteloot.
+Action 872: craft 200x wool-garments (recipe).
+Action 873: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 874: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 875: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 876: Sell 200 wool-garments for 11400 Enteloot.
+Action 877: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 878: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 879: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 880: Buy 600 sheep for 4800 Enteloot.
+Action 881: craft 200x wool-garments (recipe).
+Action 882: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 883: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 884: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 885: Sell 200 wool-garments for 11400 Enteloot.
+Action 886: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 887: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 888: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 889: Buy 600 sheep for 4800 Enteloot.
+Action 890: craft 200x wool-garments (recipe).
+Action 891: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 892: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 893: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 894: Sell 200 wool-garments for 11400 Enteloot.
+Action 895: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 896: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 897: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 898: Buy 600 sheep for 4800 Enteloot.
+Action 899: craft 200x wool-garments (recipe).
+Action 900: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 901: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 902: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 903: Sell 200 wool-garments for 11400 Enteloot.
+Action 904: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 905: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 906: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 907: Buy 600 sheep for 4800 Enteloot.
+Action 908: craft 200x wool-garments (recipe).
+Action 909: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 910: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 911: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 912: Sell 200 wool-garments for 11400 Enteloot.
+Action 913: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 914: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 915: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 916: Buy 600 sheep for 4800 Enteloot.
+Action 917: craft 200x wool-garments (recipe).
+Action 918: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 919: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 920: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 921: Sell 200 wool-garments for 11400 Enteloot.
+Action 922: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 923: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 924: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 925: Buy 600 sheep for 4800 Enteloot.
+Action 926: craft 200x wool-garments (recipe).
+Action 927: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 928: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 929: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 930: Sell 200 wool-garments for 11400 Enteloot.
+Action 931: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 932: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 933: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 934: Buy 600 sheep for 4800 Enteloot.
+Action 935: craft 200x wool-garments (recipe).
+Action 936: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 937: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 938: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 939: Sell 200 wool-garments for 11400 Enteloot.
+Action 940: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 941: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 942: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 943: Buy 600 sheep for 4800 Enteloot.
+Action 944: craft 200x wool-garments (recipe).
+Action 945: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 946: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 947: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 948: Sell 200 wool-garments for 11400 Enteloot.
+Action 949: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 950: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 951: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 952: Buy 600 sheep for 4800 Enteloot.
+Action 953: craft 200x wool-garments (recipe).
+Action 954: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 955: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 956: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 957: Sell 200 wool-garments for 11400 Enteloot.
+Action 958: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 959: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 960: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 961: Buy 600 sheep for 4800 Enteloot.
+Action 962: craft 200x wool-garments (recipe).
+Action 963: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 964: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 965: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 966: Sell 200 wool-garments for 11400 Enteloot.
+Action 967: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 968: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 969: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 970: Buy 600 sheep for 4800 Enteloot.
+Action 971: craft 200x wool-garments (recipe).
+Action 972: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 973: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 974: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 975: Sell 200 wool-garments for 11400 Enteloot.
+Action 976: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 977: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 978: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 979: Buy 600 sheep for 4800 Enteloot.
+Action 980: craft 200x wool-garments (recipe).
+Action 981: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 982: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 983: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 984: Sell 200 wool-garments for 11400 Enteloot.
+Action 985: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 986: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 987: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 988: Buy 600 sheep for 4800 Enteloot.
+Action 989: craft 200x wool-garments (recipe).
+Action 990: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 991: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 992: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 993: Sell 200 wool-garments for 11400 Enteloot.
+Action 994: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 995: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 996: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 997: Buy 600 sheep for 4800 Enteloot.
+Action 998: craft 200x wool-garments (recipe).
+Action 999: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1000: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1001: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1002: Sell 200 wool-garments for 11400 Enteloot.
+Action 1003: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1004: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1005: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1006: Buy 600 sheep for 4800 Enteloot.
+Action 1007: craft 200x wool-garments (recipe).
+Action 1008: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1009: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1010: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1011: Sell 200 wool-garments for 11400 Enteloot.
+Action 1012: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1013: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1014: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1015: Buy 600 sheep for 4800 Enteloot.
+Action 1016: craft 200x wool-garments (recipe).
+Action 1017: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1018: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1019: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1020: Sell 200 wool-garments for 11400 Enteloot.
+Action 1021: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1022: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1023: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1024: Buy 600 sheep for 4800 Enteloot.
+Action 1025: craft 200x wool-garments (recipe).
+Action 1026: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1027: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1028: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1029: Sell 200 wool-garments for 11400 Enteloot.
+Action 1030: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1031: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1032: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1033: Buy 600 sheep for 4800 Enteloot.
+Action 1034: craft 200x wool-garments (recipe).
+Action 1035: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1036: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1037: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1038: Sell 200 wool-garments for 11400 Enteloot.
+Action 1039: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1040: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1041: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1042: Buy 600 sheep for 4800 Enteloot.
+Action 1043: craft 200x wool-garments (recipe).
+Action 1044: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1045: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1046: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1047: Sell 200 wool-garments for 11400 Enteloot.
+Action 1048: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1049: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1050: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1051: Buy 600 sheep for 4800 Enteloot.
+Action 1052: craft 200x wool-garments (recipe).
+Action 1053: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1054: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1055: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1056: Sell 200 wool-garments for 11400 Enteloot.
+Action 1057: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1058: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1059: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1060: Buy 600 sheep for 4800 Enteloot.
+Action 1061: craft 200x wool-garments (recipe).
+Action 1062: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1063: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1064: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1065: Sell 200 wool-garments for 11400 Enteloot.
+Action 1066: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1067: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1068: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1069: Buy 600 sheep for 4800 Enteloot.
+Action 1070: craft 200x wool-garments (recipe).
+Action 1071: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1072: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1073: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1074: Sell 200 wool-garments for 11400 Enteloot.
+Action 1075: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1076: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1077: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1078: Buy 600 sheep for 4800 Enteloot.
+Action 1079: craft 200x wool-garments (recipe).
+Action 1080: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1081: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1082: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1083: Sell 200 wool-garments for 11400 Enteloot.
+Action 1084: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1085: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1086: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1087: Buy 600 sheep for 4800 Enteloot.
+Action 1088: craft 200x wool-garments (recipe).
+Action 1089: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1090: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1091: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1092: Sell 200 wool-garments for 11400 Enteloot.
+Action 1093: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1094: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1095: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1096: Buy 600 sheep for 4800 Enteloot.
+Action 1097: craft 200x wool-garments (recipe).
+Action 1098: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1099: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1100: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1101: Sell 200 wool-garments for 11400 Enteloot.
+Action 1102: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1103: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1104: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1105: Buy 600 sheep for 4800 Enteloot.
+Action 1106: craft 200x wool-garments (recipe).
+Action 1107: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1108: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1109: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1110: Sell 200 wool-garments for 11400 Enteloot.
+Action 1111: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1112: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1113: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1114: Buy 600 sheep for 4800 Enteloot.
+Action 1115: craft 200x wool-garments (recipe).
+Action 1116: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1117: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1118: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1119: Sell 200 wool-garments for 11400 Enteloot.
+Action 1120: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1121: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1122: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1123: Buy 600 sheep for 4800 Enteloot.
+Action 1124: craft 200x wool-garments (recipe).
+Action 1125: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1126: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1127: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1128: Sell 200 wool-garments for 11400 Enteloot.
+Action 1129: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1130: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1131: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1132: Buy 600 sheep for 4800 Enteloot.
+Action 1133: craft 200x wool-garments (recipe).
+Action 1134: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1135: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1136: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1137: Sell 200 wool-garments for 11400 Enteloot.
+Action 1138: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1139: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1140: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1141: Buy 600 sheep for 4800 Enteloot.
+Action 1142: craft 200x wool-garments (recipe).
+Action 1143: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1144: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1145: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1146: Sell 200 wool-garments for 11400 Enteloot.
+Action 1147: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1148: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1149: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1150: Buy 600 sheep for 4800 Enteloot.
+Action 1151: craft 200x wool-garments (recipe).
+Action 1152: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1153: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1154: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1155: Sell 200 wool-garments for 11400 Enteloot.
+Action 1156: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1157: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1158: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1159: Buy 600 sheep for 4800 Enteloot.
+Action 1160: craft 200x wool-garments (recipe).
+Action 1161: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1162: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1163: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1164: Sell 200 wool-garments for 11400 Enteloot.
+Action 1165: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1166: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1167: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1168: Buy 600 sheep for 4800 Enteloot.
+Action 1169: craft 200x wool-garments (recipe).
+Action 1170: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1171: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1172: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1173: Sell 200 wool-garments for 11400 Enteloot.
+Action 1174: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1175: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1176: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1177: Buy 600 sheep for 4800 Enteloot.
+Action 1178: craft 200x wool-garments (recipe).
+Action 1179: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1180: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1181: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1182: Sell 200 wool-garments for 11400 Enteloot.
+Action 1183: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1184: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1185: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1186: Buy 600 sheep for 4800 Enteloot.
+Action 1187: craft 200x wool-garments (recipe).
+Action 1188: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1189: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1190: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1191: Sell 200 wool-garments for 11400 Enteloot.
+Action 1192: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1193: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1194: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1195: Buy 600 sheep for 4800 Enteloot.
+Action 1196: craft 200x wool-garments (recipe).
+Action 1197: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1198: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1199: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1200: Sell 200 wool-garments for 11400 Enteloot.
+Action 1201: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1202: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1203: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1204: Buy 600 sheep for 4800 Enteloot.
+Action 1205: craft 200x wool-garments (recipe).
+Action 1206: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1207: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1208: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1209: Sell 200 wool-garments for 11400 Enteloot.
+Action 1210: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1211: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1212: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1213: Buy 600 sheep for 4800 Enteloot.
+Action 1214: craft 200x wool-garments (recipe).
+Action 1215: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1216: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1217: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1218: Sell 200 wool-garments for 11400 Enteloot.
+Action 1219: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1220: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1221: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1222: Buy 600 sheep for 4800 Enteloot.
+Action 1223: craft 200x wool-garments (recipe).
+Action 1224: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1225: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1226: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1227: Sell 200 wool-garments for 11400 Enteloot.
+Action 1228: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1229: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1230: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1231: Buy 600 sheep for 4800 Enteloot.
+Action 1232: craft 200x wool-garments (recipe).
+Action 1233: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1234: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1235: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1236: Sell 200 wool-garments for 11400 Enteloot.
+Action 1237: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1238: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1239: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1240: Buy 600 sheep for 4800 Enteloot.
+Action 1241: craft 200x wool-garments (recipe).
+Action 1242: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1243: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1244: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1245: Sell 200 wool-garments for 11400 Enteloot.
+Action 1246: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1247: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1248: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1249: Buy 600 sheep for 4800 Enteloot.
+Action 1250: craft 200x wool-garments (recipe).
+Action 1251: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1252: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1253: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1254: Sell 200 wool-garments for 11400 Enteloot.
+Action 1255: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1256: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1257: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1258: Buy 600 sheep for 4800 Enteloot.
+Action 1259: craft 200x wool-garments (recipe).
+Action 1260: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1261: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1262: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1263: Sell 200 wool-garments for 11400 Enteloot.
+Action 1264: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1265: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1266: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1267: Buy 600 sheep for 4800 Enteloot.
+Action 1268: craft 200x wool-garments (recipe).
+Action 1269: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1270: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1271: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1272: Sell 200 wool-garments for 11400 Enteloot.
+Action 1273: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1274: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1275: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1276: Buy 600 sheep for 4800 Enteloot.
+Action 1277: craft 200x wool-garments (recipe).
+Action 1278: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1279: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1280: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1281: Sell 200 wool-garments for 11400 Enteloot.
+Action 1282: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1283: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1284: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1285: Buy 600 sheep for 4800 Enteloot.
+Action 1286: craft 200x wool-garments (recipe).
+Action 1287: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1288: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1289: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1290: Sell 200 wool-garments for 11400 Enteloot.
+Action 1291: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1292: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1293: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1294: Buy 600 sheep for 4800 Enteloot.
+Action 1295: craft 200x wool-garments (recipe).
+Action 1296: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1297: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1298: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1299: Sell 200 wool-garments for 11400 Enteloot.
+Action 1300: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1301: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1302: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1303: Buy 600 sheep for 4800 Enteloot.
+Action 1304: craft 200x wool-garments (recipe).
+Action 1305: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1306: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1307: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1308: Sell 200 wool-garments for 11400 Enteloot.
+Action 1309: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1310: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1311: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1312: Buy 600 sheep for 4800 Enteloot.
+Action 1313: craft 200x wool-garments (recipe).
+Action 1314: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1315: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1316: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1317: Sell 200 wool-garments for 11400 Enteloot.
+Action 1318: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1319: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1320: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1321: Buy 600 sheep for 4800 Enteloot.
+Action 1322: craft 200x wool-garments (recipe).
+Action 1323: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1324: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1325: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1326: Sell 200 wool-garments for 11400 Enteloot.
+Action 1327: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1328: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1329: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1330: Buy 600 sheep for 4800 Enteloot.
+Action 1331: craft 200x wool-garments (recipe).
+Action 1332: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1333: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1334: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1335: Sell 200 wool-garments for 11400 Enteloot.
+Action 1336: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1337: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1338: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1339: Buy 600 sheep for 4800 Enteloot.
+Action 1340: craft 200x wool-garments (recipe).
+Action 1341: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1342: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1343: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1344: Sell 200 wool-garments for 11400 Enteloot.
+Action 1345: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1346: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1347: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1348: Buy 600 sheep for 4800 Enteloot.
+Action 1349: craft 200x wool-garments (recipe).
+Action 1350: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1351: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1352: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1353: Sell 200 wool-garments for 11400 Enteloot.
+Action 1354: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1355: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1356: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1357: Buy 600 sheep for 4800 Enteloot.
+Action 1358: craft 200x wool-garments (recipe).
+Action 1359: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1360: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1361: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1362: Sell 200 wool-garments for 11400 Enteloot.
+Action 1363: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1364: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1365: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1366: Buy 600 sheep for 4800 Enteloot.
+Action 1367: craft 200x wool-garments (recipe).
+Action 1368: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1369: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1370: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1371: Sell 200 wool-garments for 11400 Enteloot.
+Action 1372: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1373: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1374: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1375: Buy 600 sheep for 4800 Enteloot.
+Action 1376: craft 200x wool-garments (recipe).
+Action 1377: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1378: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1379: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1380: Sell 200 wool-garments for 11400 Enteloot.
+Action 1381: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1382: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1383: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1384: Buy 600 sheep for 4800 Enteloot.
+Action 1385: craft 200x wool-garments (recipe).
+Action 1386: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1387: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1388: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1389: Sell 200 wool-garments for 11400 Enteloot.
+Action 1390: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1391: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1392: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1393: Buy 600 sheep for 4800 Enteloot.
+Action 1394: craft 200x wool-garments (recipe).
+Action 1395: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1396: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1397: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1398: Sell 200 wool-garments for 11400 Enteloot.
+Action 1399: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1400: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1401: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1402: Buy 600 sheep for 4800 Enteloot.
+Action 1403: craft 200x wool-garments (recipe).
+Action 1404: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1405: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1406: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1407: Sell 200 wool-garments for 11400 Enteloot.
+Action 1408: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1409: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1410: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1411: Buy 600 sheep for 4800 Enteloot.
+Action 1412: craft 200x wool-garments (recipe).
+Action 1413: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1414: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1415: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1416: Sell 200 wool-garments for 11400 Enteloot.
+Action 1417: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1418: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1419: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1420: Buy 600 sheep for 4800 Enteloot.
+Action 1421: craft 200x wool-garments (recipe).
+Action 1422: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1423: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1424: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1425: Sell 200 wool-garments for 11400 Enteloot.
+Action 1426: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1427: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1428: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1429: Buy 600 sheep for 4800 Enteloot.
+Action 1430: craft 200x wool-garments (recipe).
+Action 1431: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1432: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1433: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1434: Sell 200 wool-garments for 11400 Enteloot.
+Action 1435: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1436: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1437: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1438: Buy 600 sheep for 4800 Enteloot.
+Action 1439: craft 200x wool-garments (recipe).
+Action 1440: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1441: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1442: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1443: Sell 200 wool-garments for 11400 Enteloot.
+Action 1444: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1445: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1446: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1447: Buy 600 sheep for 4800 Enteloot.
+Action 1448: craft 200x wool-garments (recipe).
+Action 1449: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1450: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1451: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1452: Sell 200 wool-garments for 11400 Enteloot.
+Action 1453: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1454: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1455: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1456: Buy 600 sheep for 4800 Enteloot.
+Action 1457: craft 200x wool-garments (recipe).
+Action 1458: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1459: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1460: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1461: Sell 200 wool-garments for 11400 Enteloot.
+Action 1462: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1463: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1464: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1465: Buy 600 sheep for 4800 Enteloot.
+Action 1466: craft 200x wool-garments (recipe).
+Action 1467: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1468: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1469: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1470: Sell 200 wool-garments for 11400 Enteloot.
+Action 1471: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1472: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1473: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1474: Buy 600 sheep for 4800 Enteloot.
+Action 1475: craft 200x wool-garments (recipe).
+Action 1476: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1477: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1478: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1479: Sell 200 wool-garments for 11400 Enteloot.
+Action 1480: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1481: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1482: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1483: Buy 600 sheep for 4800 Enteloot.
+Action 1484: craft 200x wool-garments (recipe).
+Action 1485: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1486: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1487: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1488: Sell 200 wool-garments for 11400 Enteloot.
+Action 1489: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1490: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1491: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1492: Buy 600 sheep for 4800 Enteloot.
+Action 1493: craft 200x wool-garments (recipe).
+Action 1494: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1495: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1496: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1497: Sell 200 wool-garments for 11400 Enteloot.
+Action 1498: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1499: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1500: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1501: Buy 600 sheep for 4800 Enteloot.
+Action 1502: craft 200x wool-garments (recipe).
+Action 1503: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1504: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1505: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1506: Sell 200 wool-garments for 11400 Enteloot.
+Action 1507: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1508: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1509: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1510: Buy 600 sheep for 4800 Enteloot.
+Action 1511: craft 200x wool-garments (recipe).
+Action 1512: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1513: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1514: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1515: Sell 200 wool-garments for 11400 Enteloot.
+Action 1516: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1517: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1518: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1519: Buy 600 sheep for 4800 Enteloot.
+Action 1520: craft 200x wool-garments (recipe).
+Action 1521: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1522: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1523: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1524: Sell 200 wool-garments for 11400 Enteloot.
+Action 1525: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1526: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1527: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1528: Buy 600 sheep for 4800 Enteloot.
+Action 1529: craft 200x wool-garments (recipe).
+Action 1530: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1531: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1532: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1533: Sell 200 wool-garments for 11400 Enteloot.
+Action 1534: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1535: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1536: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1537: Buy 600 sheep for 4800 Enteloot.
+Action 1538: craft 200x wool-garments (recipe).
+Action 1539: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1540: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1541: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1542: Sell 200 wool-garments for 11400 Enteloot.
+Action 1543: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1544: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1545: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1546: Buy 600 sheep for 4800 Enteloot.
+Action 1547: craft 200x wool-garments (recipe).
+Action 1548: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1549: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1550: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1551: Sell 200 wool-garments for 11400 Enteloot.
+Action 1552: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1553: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1554: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1555: Buy 600 sheep for 4800 Enteloot.
+Action 1556: craft 200x wool-garments (recipe).
+Action 1557: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1558: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1559: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1560: Sell 200 wool-garments for 11400 Enteloot.
+Action 1561: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1562: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1563: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1564: Buy 600 sheep for 4800 Enteloot.
+Action 1565: craft 200x wool-garments (recipe).
+Action 1566: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1567: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1568: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1569: Sell 200 wool-garments for 11400 Enteloot.
+Action 1570: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1571: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1572: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1573: Buy 600 sheep for 4800 Enteloot.
+Action 1574: craft 200x wool-garments (recipe).
+Action 1575: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1576: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1577: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1578: Sell 200 wool-garments for 11400 Enteloot.
+Action 1579: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1580: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1581: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1582: Buy 600 sheep for 4800 Enteloot.
+Action 1583: craft 200x wool-garments (recipe).
+Action 1584: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1585: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1586: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1587: Sell 200 wool-garments for 11400 Enteloot.
+Action 1588: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1589: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1590: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1591: Buy 600 sheep for 4800 Enteloot.
+Action 1592: craft 200x wool-garments (recipe).
+Action 1593: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1594: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1595: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1596: Sell 200 wool-garments for 11400 Enteloot.
+Action 1597: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1598: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1599: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1600: Buy 600 sheep for 4800 Enteloot.
+Action 1601: craft 200x wool-garments (recipe).
+Action 1602: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1603: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1604: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1605: Sell 200 wool-garments for 11400 Enteloot.
+Action 1606: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1607: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1608: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1609: Buy 600 sheep for 4800 Enteloot.
+Action 1610: craft 200x wool-garments (recipe).
+Action 1611: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1612: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1613: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1614: Sell 200 wool-garments for 11400 Enteloot.
+Action 1615: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1616: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1617: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1618: Buy 600 sheep for 4800 Enteloot.
+Action 1619: craft 200x wool-garments (recipe).
+Action 1620: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1621: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1622: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1623: Sell 200 wool-garments for 11400 Enteloot.
+Action 1624: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1625: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1626: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1627: Buy 600 sheep for 4800 Enteloot.
+Action 1628: craft 200x wool-garments (recipe).
+Action 1629: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1630: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1631: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1632: Sell 200 wool-garments for 11400 Enteloot.
+Action 1633: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1634: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1635: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1636: Buy 600 sheep for 4800 Enteloot.
+Action 1637: craft 200x wool-garments (recipe).
+Action 1638: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1639: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1640: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1641: Sell 200 wool-garments for 11400 Enteloot.
+Action 1642: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1643: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1644: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1645: Buy 600 sheep for 4800 Enteloot.
+Action 1646: craft 200x wool-garments (recipe).
+Action 1647: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1648: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1649: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1650: Sell 200 wool-garments for 11400 Enteloot.
+Action 1651: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1652: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1653: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1654: Buy 600 sheep for 4800 Enteloot.
+Action 1655: craft 200x wool-garments (recipe).
+Action 1656: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1657: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1658: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1659: Sell 200 wool-garments for 11400 Enteloot.
+Action 1660: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1661: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1662: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1663: Buy 600 sheep for 4800 Enteloot.
+Action 1664: craft 200x wool-garments (recipe).
+Action 1665: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1666: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1667: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1668: Sell 200 wool-garments for 11400 Enteloot.
+Action 1669: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1670: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1671: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1672: Buy 600 sheep for 4800 Enteloot.
+Action 1673: craft 200x wool-garments (recipe).
+Action 1674: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1675: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1676: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1677: Sell 200 wool-garments for 11400 Enteloot.
+Action 1678: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1679: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1680: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1681: Buy 600 sheep for 4800 Enteloot.
+Action 1682: craft 200x wool-garments (recipe).
+Action 1683: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1684: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1685: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1686: Sell 200 wool-garments for 11400 Enteloot.
+Action 1687: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1688: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1689: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1690: Buy 600 sheep for 4800 Enteloot.
+Action 1691: craft 200x wool-garments (recipe).
+Action 1692: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1693: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1694: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1695: Sell 200 wool-garments for 11400 Enteloot.
+Action 1696: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1697: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1698: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1699: Buy 600 sheep for 4800 Enteloot.
+Action 1700: craft 200x wool-garments (recipe).
+Action 1701: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1702: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1703: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1704: Sell 200 wool-garments for 11400 Enteloot.
+Action 1705: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1706: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1707: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1708: Buy 600 sheep for 4800 Enteloot.
+Action 1709: craft 200x wool-garments (recipe).
+Action 1710: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1711: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1712: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1713: Sell 200 wool-garments for 11400 Enteloot.
+Action 1714: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1715: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1716: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1717: Buy 600 sheep for 4800 Enteloot.
+Action 1718: craft 200x wool-garments (recipe).
+Action 1719: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1720: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1721: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1722: Sell 200 wool-garments for 11400 Enteloot.
+Action 1723: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1724: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1725: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1726: Buy 600 sheep for 4800 Enteloot.
+Action 1727: craft 200x wool-garments (recipe).
+Action 1728: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1729: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1730: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1731: Sell 200 wool-garments for 11400 Enteloot.
+Action 1732: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1733: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1734: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1735: Buy 600 sheep for 4800 Enteloot.
+Action 1736: craft 200x wool-garments (recipe).
+Action 1737: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1738: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1739: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1740: Sell 200 wool-garments for 11400 Enteloot.
+Action 1741: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1742: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1743: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1744: Buy 600 sheep for 4800 Enteloot.
+Action 1745: craft 200x wool-garments (recipe).
+Action 1746: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1747: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1748: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1749: Sell 200 wool-garments for 11400 Enteloot.
+Action 1750: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1751: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1752: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1753: Buy 600 sheep for 4800 Enteloot.
+Action 1754: craft 200x wool-garments (recipe).
+Action 1755: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1756: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1757: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1758: Sell 200 wool-garments for 11400 Enteloot.
+Action 1759: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1760: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1761: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1762: Buy 600 sheep for 4800 Enteloot.
+Action 1763: craft 200x wool-garments (recipe).
+Action 1764: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1765: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1766: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1767: Sell 200 wool-garments for 11400 Enteloot.
+Action 1768: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1769: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1770: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1771: Buy 600 sheep for 4800 Enteloot.
+Action 1772: craft 200x wool-garments (recipe).
+Action 1773: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1774: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1775: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1776: Sell 200 wool-garments for 11400 Enteloot.
+Action 1777: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1778: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1779: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1780: Buy 600 sheep for 4800 Enteloot.
+Action 1781: craft 200x wool-garments (recipe).
+Action 1782: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1783: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1784: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1785: Sell 200 wool-garments for 11400 Enteloot.
+Action 1786: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1787: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1788: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1789: Buy 600 sheep for 4800 Enteloot.
+Action 1790: craft 200x wool-garments (recipe).
+Action 1791: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1792: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1793: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1794: Sell 200 wool-garments for 11400 Enteloot.
+Action 1795: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1796: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1797: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1798: Buy 600 sheep for 4800 Enteloot.
+Action 1799: craft 200x wool-garments (recipe).
+Action 1800: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1801: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1802: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1803: Sell 200 wool-garments for 11400 Enteloot.
+Action 1804: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1805: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1806: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1807: Buy 600 sheep for 4800 Enteloot.
+Action 1808: craft 200x wool-garments (recipe).
+Action 1809: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1810: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1811: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1812: Sell 200 wool-garments for 11400 Enteloot.
+Action 1813: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1814: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1815: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1816: Buy 600 sheep for 4800 Enteloot.
+Action 1817: craft 200x wool-garments (recipe).
+Action 1818: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1819: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1820: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1821: Sell 200 wool-garments for 11400 Enteloot.
+Action 1822: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1823: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1824: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1825: Buy 600 sheep for 4800 Enteloot.
+Action 1826: craft 200x wool-garments (recipe).
+Action 1827: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1828: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1829: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1830: Sell 200 wool-garments for 11400 Enteloot.
+Action 1831: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1832: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1833: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1834: Buy 600 sheep for 4800 Enteloot.
+Action 1835: craft 200x wool-garments (recipe).
+Action 1836: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1837: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1838: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1839: Sell 200 wool-garments for 11400 Enteloot.
+Action 1840: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1841: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1842: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1843: Buy 600 sheep for 4800 Enteloot.
+Action 1844: craft 200x wool-garments (recipe).
+Action 1845: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1846: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1847: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1848: Sell 200 wool-garments for 11400 Enteloot.
+Action 1849: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1850: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1851: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1852: Buy 600 sheep for 4800 Enteloot.
+Action 1853: craft 200x wool-garments (recipe).
+Action 1854: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1855: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1856: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1857: Sell 200 wool-garments for 11400 Enteloot.
+Action 1858: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1859: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1860: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1861: Buy 600 sheep for 4800 Enteloot.
+Action 1862: craft 200x wool-garments (recipe).
+Action 1863: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1864: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1865: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1866: Sell 200 wool-garments for 11400 Enteloot.
+Action 1867: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1868: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1869: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1870: Buy 600 sheep for 4800 Enteloot.
+Action 1871: craft 200x wool-garments (recipe).
+Action 1872: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1873: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1874: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1875: Sell 200 wool-garments for 11400 Enteloot.
+Action 1876: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1877: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1878: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1879: Buy 600 sheep for 4800 Enteloot.
+Action 1880: craft 200x wool-garments (recipe).
+Action 1881: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1882: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1883: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1884: Sell 200 wool-garments for 11400 Enteloot.
+Action 1885: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1886: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1887: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1888: Buy 600 sheep for 4800 Enteloot.
+Action 1889: craft 200x wool-garments (recipe).
+Action 1890: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1891: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1892: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1893: Sell 200 wool-garments for 11400 Enteloot.
+Action 1894: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1895: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1896: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1897: Buy 600 sheep for 4800 Enteloot.
+Action 1898: craft 200x wool-garments (recipe).
+Action 1899: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1900: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1901: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1902: Sell 200 wool-garments for 11400 Enteloot.
+Action 1903: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1904: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1905: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1906: Buy 600 sheep for 4800 Enteloot.
+Action 1907: craft 200x wool-garments (recipe).
+Action 1908: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1909: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1910: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1911: Sell 200 wool-garments for 11400 Enteloot.
+Action 1912: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1913: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1914: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1915: Buy 600 sheep for 4800 Enteloot.
+Action 1916: craft 200x wool-garments (recipe).
+Action 1917: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1918: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1919: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1920: Sell 200 wool-garments for 11400 Enteloot.
+Action 1921: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1922: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1923: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1924: Buy 600 sheep for 4800 Enteloot.
+Action 1925: craft 200x wool-garments (recipe).
+Action 1926: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1927: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1928: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1929: Sell 200 wool-garments for 11400 Enteloot.
+Action 1930: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1931: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1932: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1933: Buy 600 sheep for 4800 Enteloot.
+Action 1934: craft 200x wool-garments (recipe).
+Action 1935: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1936: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1937: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1938: Sell 200 wool-garments for 11400 Enteloot.
+Action 1939: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1940: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1941: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1942: Buy 600 sheep for 4800 Enteloot.
+Action 1943: craft 200x wool-garments (recipe).
+Action 1944: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1945: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1946: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1947: Sell 200 wool-garments for 11400 Enteloot.
+Action 1948: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1949: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1950: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1951: Buy 600 sheep for 4800 Enteloot.
+Action 1952: craft 200x wool-garments (recipe).
+Action 1953: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1954: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1955: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1956: Sell 200 wool-garments for 11400 Enteloot.
+Action 1957: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1958: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1959: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1960: Buy 600 sheep for 4800 Enteloot.
+Action 1961: craft 200x wool-garments (recipe).
+Action 1962: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1963: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1964: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1965: Sell 200 wool-garments for 11400 Enteloot.
+Action 1966: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1967: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1968: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1969: Buy 600 sheep for 4800 Enteloot.
+Action 1970: craft 200x wool-garments (recipe).
+Action 1971: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1972: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1973: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1974: Sell 200 wool-garments for 11400 Enteloot.
+Action 1975: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1976: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1977: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1978: Buy 600 sheep for 4800 Enteloot.
+Action 1979: craft 200x wool-garments (recipe).
+Action 1980: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1981: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1982: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1983: Sell 200 wool-garments for 11400 Enteloot.
+Action 1984: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1985: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1986: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1987: Buy 600 sheep for 4800 Enteloot.
+Action 1988: craft 200x wool-garments (recipe).
+Action 1989: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1990: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1991: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1992: Sell 200 wool-garments for 11400 Enteloot.
+Action 1993: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1994: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1995: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1996: Buy 600 sheep for 4800 Enteloot.
+Action 1997: craft 200x wool-garments (recipe).
+Action 1998: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1999: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2000: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2001: Sell 200 wool-garments for 11400 Enteloot.
+Action 2002: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2003: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2004: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2005: Buy 600 sheep for 4800 Enteloot.
+Action 2006: craft 200x wool-garments (recipe).
+Action 2007: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2008: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2009: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2010: Sell 200 wool-garments for 11400 Enteloot.
+Action 2011: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2012: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2013: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2014: Buy 600 sheep for 4800 Enteloot.
+Action 2015: craft 200x wool-garments (recipe).
+Action 2016: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2017: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2018: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2019: Sell 200 wool-garments for 11400 Enteloot.
+Action 2020: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2021: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2022: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2023: Buy 600 sheep for 4800 Enteloot.
+Action 2024: craft 200x wool-garments (recipe).
+Action 2025: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2026: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2027: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2028: Sell 200 wool-garments for 11400 Enteloot.
+Action 2029: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2030: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2031: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2032: Buy 600 sheep for 4800 Enteloot.
+Action 2033: craft 200x wool-garments (recipe).
+Action 2034: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2035: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2036: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2037: Sell 200 wool-garments for 11400 Enteloot.
+Action 2038: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2039: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2040: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2041: Buy 600 sheep for 4800 Enteloot.
+Action 2042: craft 200x wool-garments (recipe).
+Action 2043: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2044: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2045: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2046: Sell 200 wool-garments for 11400 Enteloot.
+Action 2047: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2048: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2049: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2050: Buy 600 sheep for 4800 Enteloot.
+Action 2051: craft 200x wool-garments (recipe).
+Action 2052: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2053: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2054: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2055: Sell 200 wool-garments for 11400 Enteloot.
+Action 2056: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2057: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2058: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2059: Buy 600 sheep for 4800 Enteloot.
+Action 2060: craft 200x wool-garments (recipe).
+Action 2061: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2062: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2063: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2064: Sell 200 wool-garments for 11400 Enteloot.
+Action 2065: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2066: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2067: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2068: Buy 600 sheep for 4800 Enteloot.
+Action 2069: craft 200x wool-garments (recipe).
+Action 2070: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2071: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2072: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2073: Sell 200 wool-garments for 11400 Enteloot.
+Action 2074: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2075: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2076: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2077: Buy 600 sheep for 4800 Enteloot.
+Action 2078: craft 200x wool-garments (recipe).
+Action 2079: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2080: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2081: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2082: Sell 200 wool-garments for 11400 Enteloot.
+Action 2083: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2084: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2085: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2086: Buy 600 sheep for 4800 Enteloot.
+Action 2087: craft 200x wool-garments (recipe).
+Action 2088: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2089: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2090: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2091: Sell 200 wool-garments for 11400 Enteloot.
+Action 2092: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2093: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2094: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2095: Buy 600 sheep for 4800 Enteloot.
+Action 2096: craft 200x wool-garments (recipe).
+Action 2097: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2098: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2099: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2100: Sell 200 wool-garments for 11400 Enteloot.
+Action 2101: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2102: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2103: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2104: Buy 600 sheep for 4800 Enteloot.
+Action 2105: craft 200x wool-garments (recipe).
+Action 2106: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2107: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2108: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2109: Sell 200 wool-garments for 11400 Enteloot.
+Action 2110: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2111: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2112: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2113: Buy 600 sheep for 4800 Enteloot.
+Action 2114: craft 200x wool-garments (recipe).
+Action 2115: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2116: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2117: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2118: Sell 200 wool-garments for 11400 Enteloot.
+Action 2119: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2120: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2121: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2122: Buy 600 sheep for 4800 Enteloot.
+Action 2123: craft 200x wool-garments (recipe).
+Action 2124: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2125: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2126: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2127: Sell 200 wool-garments for 11400 Enteloot.
+Action 2128: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2129: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2130: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2131: Buy 600 sheep for 4800 Enteloot.
+Action 2132: craft 200x wool-garments (recipe).
+Action 2133: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2134: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2135: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2136: Sell 200 wool-garments for 11400 Enteloot.
+Action 2137: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2138: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2139: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2140: Buy 600 sheep for 4800 Enteloot.
+Action 2141: craft 200x wool-garments (recipe).
+Action 2142: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2143: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2144: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2145: Sell 200 wool-garments for 11400 Enteloot.
+Action 2146: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2147: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2148: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2149: Buy 600 sheep for 4800 Enteloot.
+Action 2150: craft 200x wool-garments (recipe).
+Action 2151: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2152: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2153: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2154: Sell 200 wool-garments for 11400 Enteloot.
+Action 2155: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2156: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2157: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2158: Buy 600 sheep for 4800 Enteloot.
+Action 2159: craft 200x wool-garments (recipe).
+Action 2160: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2161: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2162: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2163: Sell 200 wool-garments for 11400 Enteloot.
+Action 2164: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2165: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2166: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2167: Buy 600 sheep for 4800 Enteloot.
+Action 2168: craft 200x wool-garments (recipe).
+Action 2169: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2170: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2171: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2172: Sell 200 wool-garments for 11400 Enteloot.
+Action 2173: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2174: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2175: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2176: Buy 600 sheep for 4800 Enteloot.
+Action 2177: craft 200x wool-garments (recipe).
+Action 2178: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2179: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2180: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2181: Sell 200 wool-garments for 11400 Enteloot.
+Action 2182: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2183: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2184: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2185: Buy 600 sheep for 4800 Enteloot.
+Action 2186: craft 200x wool-garments (recipe).
+Action 2187: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2188: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2189: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2190: Sell 200 wool-garments for 11400 Enteloot.
+Action 2191: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2192: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2193: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2194: Buy 600 sheep for 4800 Enteloot.
+Action 2195: craft 200x wool-garments (recipe).
+Action 2196: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2197: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2198: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2199: Sell 200 wool-garments for 11400 Enteloot.
+Action 2200: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2201: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2202: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2203: Buy 600 sheep for 4800 Enteloot.
+Action 2204: craft 200x wool-garments (recipe).
+Action 2205: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2206: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2207: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2208: Sell 200 wool-garments for 11400 Enteloot.
+Action 2209: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2210: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2211: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2212: Buy 600 sheep for 4800 Enteloot.
+Action 2213: craft 200x wool-garments (recipe).
+Action 2214: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2215: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2216: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2217: Sell 200 wool-garments for 11400 Enteloot.
+Action 2218: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2219: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2220: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2221: Buy 600 sheep for 4800 Enteloot.
+Action 2222: craft 200x wool-garments (recipe).
+Action 2223: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2224: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2225: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2226: Sell 200 wool-garments for 11400 Enteloot.
+Action 2227: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 2228: Travel to 'N20' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2229: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 2230: Buy 600 sheep for 4800 Enteloot.
+Action 2231: Sell 59588 clay for 238352 Enteloot.
+Action 2232: Sell 87481 fish for 349924 Enteloot.
+Action 2233: Sell 4 ore for 24 Enteloot.
+Action 2234: Sell 33617 sheep for 168085 Enteloot.
+Action 2235: Sell 91749 stone for 275247 Enteloot.
+Action 2236: Sell 78618 wheat for 157236 Enteloot.
+Action 2237: Sell 102848 wood for 308544 Enteloot.
+Action 2238: Sell 16 clay for 64 Enteloot.
+Action 2239: Sell 14 fish for 56 Enteloot.
+Action 2240: Sell 10 sheep for 50 Enteloot.
+Action 2241: Sell 10 stone for 30 Enteloot.
+Action 2242: Sell 12 wheat for 24 Enteloot.
+Action 2243: Sell 20 wood for 60 Enteloot.
+Action 2244: Sell 6 clay for 24 Enteloot.
+Action 2245 {'type': 'sell', 'item': 'fish', 'quantity': 16}: INVALID - Cannot sell 16 'fish': only 14 available in inventory..
+Action 2246: Sell 6 sheep for 30 Enteloot.
+Action 2247: Sell 20 stone for 60 Enteloot.
+Action 2248: Sell 14 wheat for 28 Enteloot.
+Action 2249: Sell 14 wood for 42 Enteloot.
+Action 2250: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 2251: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2252: Travel to 'Aurora' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 2253 {'type': 'buy', 'item': 'clay', 'quantity': 460269}: INVALID - Cannot afford 2761614 Enteloot for 460269 clay.
+Action 2254 {'type': 'sell', 'item': 'clay', 'quantity': 460269}: INVALID - Cannot sell 460269 'clay': only 24 available in inventory..
+Action 2255: Buy 306846 clay for 1841076 Enteloot.
+Action 2256: Sell 306846 clay for 1227384 Enteloot.
+Action 2257: Buy 204564 clay for 1227384 Enteloot.
+Action 2258: Sell 204564 clay for 818256 Enteloot.
+Action 2259: Buy 136376 clay for 818256 Enteloot.
+Action 2260: Sell 136376 clay for 545504 Enteloot.
+Action 2261: Buy 90917 clay for 545502 Enteloot.
+Action 2262: Sell 90917 clay for 363668 Enteloot.
+Action 2263: Buy 60611 clay for 363666 Enteloot.
+Action 2264: Sell 60611 clay for 242444 Enteloot.
+Action 2265: Buy 40408 clay for 242448 Enteloot.
+Action 2266: Sell 40408 clay for 161632 Enteloot.
+Action 2267: Buy 26938 clay for 161628 Enteloot.
+Action 2268: Sell 26938 clay for 107752 Enteloot.
+Action 2269: Buy 17959 clay for 107754 Enteloot.
+Action 2270: Sell 17959 clay for 71836 Enteloot.
+Action 2271: Buy 11973 clay for 71838 Enteloot.
+Action 2272: Sell 11973 clay for 47892 Enteloot.
+Action 2273: Buy 7982 clay for 47892 Enteloot.
+Action 2274: Sell 7982 clay for 31928 Enteloot.
+Action 2275: Buy 5321 clay for 31926 Enteloot.
+Action 2276: Sell 5321 clay for 21284 Enteloot.
+Action 2277: Buy 3547 clay for 21282 Enteloot.
+Action 2278: Sell 3547 clay for 14188 Enteloot.
+Action 2279: Buy 2365 clay for 14190 Enteloot.
+Action 2280: Sell 2365 clay for 9460 Enteloot.
+Action 2281: Buy 1577 clay for 9462 Enteloot.
+Action 2282: Sell 1577 clay for 6308 Enteloot.
+Action 2283: Buy 1051 clay for 6306 Enteloot.
+Action 2284: Sell 1051 clay for 4204 Enteloot.
+Action 2285: Buy 701 clay for 4206 Enteloot.
+Action 2286: Sell 701 clay for 2804 Enteloot.
+Action 2287: Buy 467 clay for 2802 Enteloot.
+Action 2288: Sell 467 clay for 1868 Enteloot.
+Action 2289: Buy 311 clay for 1866 Enteloot.
+Action 2290: Sell 311 clay for 1244 Enteloot.
+Action 2291: Buy 208 clay for 1248 Enteloot.
+Action 2292: Sell 208 clay for 832 Enteloot.
+Action 2293: Buy 138 clay for 828 Enteloot.
+Action 2294: Sell 138 clay for 552 Enteloot.
+Action 2295: Buy 92 clay for 552 Enteloot.
+Action 2296: Sell 92 clay for 368 Enteloot.
+Action 2297: Buy 62 clay for 372 Enteloot.
+Action 2298: Sell 62 clay for 248 Enteloot.
+Action 2299: Buy 41 clay for 246 Enteloot.
+Action 2300: Sell 41 clay for 164 Enteloot.
+Action 2301: Buy 27 clay for 162 Enteloot.
+Action 2302: Sell 27 clay for 108 Enteloot.
+Action 2303: Buy 18 clay for 108 Enteloot.
+Action 2304: Sell 18 clay for 72 Enteloot.
+Action 2305: Buy 12 clay for 72 Enteloot.
+Action 2306: Sell 12 clay for 48 Enteloot.
+===================================
+Level 3 Scoring
+===================================
+Your Enteloot: 921524
+Held items value: 2386
+Total sale revenue: 7586738
+===================================
+Final score: 26348034.0

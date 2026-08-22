@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from engine import Sim, load_constants          # noqa: E402
 from route import Map, order_stops              # noqa: E402
 
-BATCHES = (1, 2, 3, 5, 8, 12)
+BATCHES = (1, 2, 3, 5, 8, 12, 25, 50, 100, 200)
 
 
 def _tour_cost(home, stops, ticks, tolls, prevs):
@@ -74,17 +74,18 @@ def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True):
             for n in ns:
                 if n not in ticks[home]:
                     continue
-                for reps in (1, 2, 4, 8):
+                for reps in (1, 2, 4, 8, 16, 32, 64):
                     yld = nodes[n]["yield"] * reps
                     t = (ticks[home][n] * 2 + reps * nodes[n].get("gather-time", 2) + 1)
                     toll = tolls[home][n] * 2
-                    profit = C["resources"][res]["sell_price"] * yld - toll
+                    rev = C["resources"][res]["sell_price"] * yld
+                    profit = rev - toll
                     if profit <= 0:
                         continue
                     loops.append({
                         "kind": "raw", "home": home, "node": n, "reps": reps,
                         "res": res, "qty": yld, "ticks": t, "profit": profit,
-                        "spend": toll,
+                        "score": int(4.5 * rev) - 3 * toll, "spend": toll,
                     })
 
     if level_num < 2:
@@ -100,15 +101,9 @@ def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True):
                 rate = towns[sell_town].get("item-rates", {}).get(good)
                 if not rate:
                     continue
-                # ASSUMPTION: the unexplained sell_bonus_multiplier (1.5) pays
-                # when a good is sold at a town producing none of its inputs.
-                # Used only to *rank* loops — cash feasibility stays at the
-                # real rate, so a wrong assumption cannot break the plan.
-                produced = set(towns[sell_town].get("production", {})
-                               .get("resources", {}))
-                bonus = sell_bonus and produced.isdisjoint(rec["inputs"])
-                rank_rate = int(rate * C["constants"].get(
-                    "sell_bonus_multiplier", 1.5)) if bonus else rate
+                # Decoded scoring: revenue scores 1.5x, and the end churn
+                # converts every held Enteloot into 3 score points (revenue
+                # 2c at weight 1.5), so a loop is worth 4.5*revenue - 3*spend.
                 if sell_town not in ticks[home]:
                     continue
                 for q in BATCHES:
@@ -137,8 +132,8 @@ def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True):
                         t = tour["ticks"] + gather_ticks + craft_t * q + haul + 1
                         toll = tour["toll"] + haul_toll
                         profit = rate * q - spend - toll
-                        rank = rank_rate * q - spend - toll
-                        if rank <= 0:
+                        rank = int(4.5 * rate * q) - 3 * (spend + toll)
+                        if profit <= 0 and rank <= 0:
                             continue
                         loops.append({
                             "kind": "craft", "home": home, "good": good, "q": q,
@@ -170,40 +165,81 @@ def choose(loops, budget, starting_enteloot, time_limit=20.0):
     if st not in (cp_model.OPTIMAL, cp_model.FEASIBLE):
         return [], st
     picked = [(l, s.value(x)) for x, l in zip(xs, loops) if s.value(x) > 0]
-    picked.sort(key=lambda p: (p[0]["spend"] > 0, -p[0]["profit"] / p[0]["ticks"]))
+    # cheapest upfront spend first: every loop is profitable, so wealth only
+    # grows, and by the time a big-batch buy arrives its cash exists. The
+    # CP-SAT envelope is aggregate and cannot order the run itself.
+    picked.sort(key=lambda p: (p[0]["spend"], -p[0]["profit"] / p[0]["ticks"]))
     return picked, s.status_name(st)
 
 
-def emit(picked, level, mp, ticks, tolls, prevs, C):
-    actions, cur = [], level["run"]["starting_town"]
+def emit(picked, level, mp, ticks, tolls, prevs, C, level_num, all_loops=()):
+    """Schedule the chosen loop instances against a live simulation.
 
-    def go(dst):
-        nonlocal cur
-        steps = mp.path_actions(prevs[cur], cur, dst)
-        if steps:
-            actions.extend(steps)
-            cur = dst
+    The CP-SAT envelope is aggregate — it cannot order the run — and a
+    200-batch buy loop is unaffordable at tick 0. So: at every step run the
+    most profitable instance whose upfront spend the current cash covers;
+    when nothing is affordable, sell accumulated trickle stock to raise cash.
+    """
+    sim = Sim(level, level_num=level_num, constants=C)
+    total = level["run"]["total_ticks"]
+    actions = []
+    insts = [loop for loop, count in picked for _ in range(count)]
 
-    for loop, count in picked:
-        for _ in range(count):
+    def push(acts):
+        for a in acts:
+            if sim.ended:
+                return False
+            actions.append(a)
+            if not sim.step(len(actions) - 1, a):
+                return False
+        return True
+
+    def instance_actions(loop):
+        cur, acts = sim.location, []
+
+        def go(dst):
+            nonlocal cur
+            steps = mp.path_actions(prevs[cur], cur, dst)
+            if steps:
+                acts.extend(steps)
+                cur = dst
+
+        go(loop["home"])
+        if loop["kind"] == "raw":
+            go(loop["node"])
+            acts.extend([{"type": "gather"}] * loop["reps"])
             go(loop["home"])
-            if loop["kind"] == "raw":
-                go(loop["node"])
-                actions.extend([{"type": "gather"}] * loop["reps"])
-                go(loop["home"])
-                actions.append({"type": "sell", "item": loop["res"], "quantity": loop["qty"]})
-                continue
-            buys = [(r, p) for r, k, p, n in loop["srcs"] if k == "buy"]
-            for res, qty in buys:
-                actions.append({"type": "buy", "item": res, "quantity": qty})
-            for stop in loop["seq"]:
-                go(stop)
-                reps = next((p for r, k, p, n in loop["srcs"] if n == stop), 1)
-                actions.extend([{"type": "gather"}] * reps)
-            go(loop["home"])
-            actions.append({"type": "craft", "item": loop["good"], "quantity": loop["q"]})
-            go(loop["sell_town"])
-            actions.append({"type": "sell", "item": loop["good"], "quantity": loop["q"]})
+            acts.append({"type": "sell", "item": loop["res"], "quantity": loop["qty"]})
+            return acts
+        for res, qty in [(r, p) for r, k, p, n in loop["srcs"] if k == "buy"]:
+            acts.append({"type": "buy", "item": res, "quantity": qty})
+        for stop in loop["seq"]:
+            go(stop)
+            reps = next((p for r, k, p, n in loop["srcs"] if n == stop), 1)
+            acts.extend([{"type": "gather"}] * reps)
+        go(loop["home"])
+        acts.append({"type": "craft", "item": loop["good"], "quantity": loop["q"]})
+        go(loop["sell_town"])
+        acts.append({"type": "sell", "item": loop["good"], "quantity": loop["q"]})
+        return acts
+
+    while insts and not sim.ended and sim.tick < total:
+        afford = [l for l in insts if l["spend"] <= sim.enteloot]
+        pool = afford or [l for l in insts if l["spend"] == 0]
+        if not pool:
+            # bootstrap: run the best free gather-and-sell errand from the
+            # full catalogue until the next planned loop is affordable
+            free = [l for l in all_loops if l["spend"] == 0]
+            if not free:
+                break
+            boot = max(free, key=lambda l: l["profit"] / l["ticks"])
+            if not push(instance_actions(boot)):
+                break
+            continue
+        loop = max(pool, key=lambda l: l["profit"] / l["ticks"])
+        if not push(instance_actions(loop)):
+            break
+        insts.remove(loop)
     return actions
 
 
@@ -225,7 +261,8 @@ def _trim_to_fit(actions, level, C, level_num, need):
     return actions[:keep]
 
 
-def add_liquidation(actions, level, C, level_num, ticks, prevs, mp, passes=2):
+def add_liquidation(actions, level, C, level_num, ticks, prevs, mp, passes=3,
+                    extra_reserve=0):
     """Dump everything held at the end of the run.
 
     A sell action costs 1 tick regardless of quantity, so cashing out 170,000
@@ -235,7 +272,7 @@ def add_liquidation(actions, level, C, level_num, ticks, prevs, mp, passes=2):
     during the sell-off itself.
     """
     towns = set(level["towns"])
-    need = 12 + passes * (len(C["resources"]) + len(C["recipes"]))
+    need = 12 + passes * (len(C["resources"]) + len(C["recipes"])) + extra_reserve
     actions = _trim_to_fit(actions, level, C, level_num, need)
     for _ in range(passes):
         sim = Sim(level, level_num=level_num, constants=C)
@@ -256,11 +293,68 @@ def add_liquidation(actions, level, C, level_num, ticks, prevs, mp, passes=2):
         rates = level["towns"].get(loc, {}).get("item-rates", {})
         for item, qty in sorted(held.items()):
             if item in C["resources"] or item in rates:
-                extra.append({"type": "sell", "item": item, "quantity": qty})
+                # the official engine's trickle runs a few units below our
+                # sim; an exact-quantity sell fails outright there and a
+                # six-figure pile goes unsold. Undershoot at every scale;
+                # drop crumbs rather than risk a failed action.
+                q = qty - 10 if qty > 40 else (qty - 5 if qty > 12 else 0)
+                if q > 0:
+                    extra.append({"type": "sell", "item": item, "quantity": q})
         if not extra:
             break
         actions.extend(extra)
     return actions
+
+
+def add_churn(level, C, level_num, actions, cycles, mp, ticks, prevs):
+    """End-of-run churn: convert held Enteloot into score.
+
+    Decoded scoring pays 1.5x for sale revenue but only 1x for held cash, so
+    buy-and-resell at a loss GAINS score. Best converter is the resource with
+    the highest sell/buy ratio (clay or fish, 4/6): each 2-tick cycle turns
+    cash C into 2C of revenue as the pile drains, worth 3C of score at the
+    1.5x revenue weight. This runs on every level as the final stage.
+    """
+    if cycles <= 0:
+        return actions
+    towns = level["towns"]
+    produced_anywhere = {r for d in towns.values()
+                         for r in d.get("production", {}).get("resources", {})}
+    buyable = [r for r in C["resources"]
+               if C["resources"][r]["buy_price"] and r in produced_anywhere]
+    if not buyable:
+        return actions
+    # highest sell/buy ratio retains the most cash per cycle -> most total revenue
+    res = max(buyable, key=lambda r: C["resources"][r]["sell_price"]
+              / C["resources"][r]["buy_price"])
+    price = C["resources"][res]["buy_price"]
+    sellp = C["resources"][res]["sell_price"]
+    producers = [t for t, d in towns.items()
+                 if res in d.get("production", {}).get("resources", {})]
+    sim = Sim(level, level_num=level_num, constants=C)
+    sim.run(list(actions), pad=False)
+    cash, loc = sim.enteloot, sim.location
+    extra = []
+    if loc not in producers:
+        dest = min(producers, key=lambda t: ticks[loc].get(t, 10 ** 9))
+        steps = mp.path_actions(prevs[loc], loc, dest)
+        if steps is None:
+            return actions
+        extra.extend(steps)
+    # The official engine's cash runs ~1% below our sim (trickle drift), and
+    # one unaffordable buy kills a whole cycle — the v3 logs lost 2.7M cash
+    # unchurned this way. So each cycle spends only 55% of the exactly
+    # tracked sim cash: always valid in our sim, and in the real engine a
+    # buy can only start failing once the pile is down to ~2% of the start,
+    # where a failed pair wastes 2 ticks and nothing else.
+    for _ in range(cycles):
+        q = int(cash * 0.55) // price
+        if q <= 10:
+            break
+        extra.append({"type": "buy", "item": res, "quantity": q})
+        extra.append({"type": "sell", "item": res, "quantity": q})
+        cash = cash - q * price + q * sellp
+    return actions + extra
 
 
 def main():
@@ -278,6 +372,8 @@ def main():
                    help="skip upkeep boost insertion (level 4)")
     p.add_argument("--no-sell-bonus", action="store_true",
                    help="drop the assumed sell_bonus_multiplier steering")
+    p.add_argument("--churn", type=int, default=40,
+                   help="end-of-run cash->score churn cycles (0 disables)")
     p.add_argument("--time-limit", type=float, default=20.0)
     args = p.parse_args()
 
@@ -299,21 +395,36 @@ def main():
         print(f"  x{count:<4} {loop['kind']:<5} {tag:<15} home={loop['home']:<10} "
               f"ticks={loop['ticks']:<4} profit={loop['profit']}")
 
-    actions = emit(picked, level, mp, ticks, tolls, prevs, C)
+    earn = emit(picked, level, mp, ticks, tolls, prevs, C, args.level_num,
+                all_loops=loops)
+
+    def finish(base):
+        out = list(base)
+        if args.level_num >= 4 and not args.no_upkeep:
+            from upkeep import add_upkeep
+            out = add_upkeep(level, C, args.level_num, out, verbose=lambda *a: None)
+        if not args.no_liquidate:
+            out = add_liquidation(out, level, C, args.level_num, ticks, prevs, mp,
+                                  extra_reserve=2 * args.churn + 8 if args.churn else 0)
+        if args.churn:
+            out = add_churn(level, C, args.level_num, out, args.churn,
+                            mp, ticks, prevs)
+        return out
+
+    variants = {"no-build": finish(earn)}
     if args.level_num >= 2 and not args.no_build:
         from build import plan_builds
-        actions = plan_builds(level, C, args.level_num, actions, mp, ticks, tolls, prevs)
-    if args.level_num >= 4 and not args.no_upkeep:
-        from upkeep import add_upkeep
-        actions = add_upkeep(level, C, args.level_num, actions)
-    if not args.no_liquidate:
-        base = Sim(level, level_num=args.level_num, constants=C).run(list(actions))
-        n_before = len(actions)
-        actions = add_liquidation(actions, level, C, args.level_num, ticks, prevs, mp)
-        after = Sim(level, level_num=args.level_num, constants=C).run(list(actions))
-        print(f"end-of-run sell-off: enteloot {base['enteloot']} -> {after['enteloot']} "
-              f"(+{after['enteloot'] - base['enteloot']}), "
-              f"actions {n_before} -> {len(actions)}")
+        variants["build"] = finish(
+            plan_builds(level, C, args.level_num, earn, mp, ticks, tolls, prevs))
+    scored = {}
+    for name, acts in variants.items():
+        rep = Sim(level, level_num=args.level_num, constants=C).run(list(acts))
+        scored[name] = (rep["official_score"], acts, rep)
+        print(f"variant {name}: score {rep['official_score']:,} "
+              f"(invalid {rep['invalid_actions']})")
+    label = max(scored, key=lambda k: scored[k][0])
+    print(f"kept variant: {label}")
+    actions = scored[label][1]
     with open(args.out, "w") as fh:
         json.dump({"actions": actions}, fh, indent=1)
     print(f"wrote {len(actions)} actions -> {args.out}")

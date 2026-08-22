@@ -1298,6 +1298,147 @@
    "type": "gather"
   },
   {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
    "type": "travel",
    "destination": "N2"
   },
@@ -1308,322 +1449,63 @@
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 478
+   "quantity": 542
   },
   {
    "type": "sell",
    "item": "fish",
-   "quantity": 526
+   "quantity": 598
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 384
   },
   {
    "type": "sell",
    "item": "stone",
-   "quantity": 326
+   "quantity": 378
   },
   {
    "type": "sell",
    "item": "wheat",
-   "quantity": 158
+   "quantity": 189
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 10
+   "quantity": 5
   },
   {
    "type": "sell",
    "item": "fish",
-   "quantity": 11
+   "quantity": 4
   },
   {
-   "type": "sell",
-   "item": "stone",
-   "quantity": 11
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "travel",
+   "destination": "N6"
+  },
+  {
+   "type": "travel",
+   "destination": "Ionia"
+  },
+  {
+   "type": "buy",
+   "item": "wheat",
+   "quantity": 9083
   },
   {
    "type": "sell",
    "item": "wheat",
-   "quantity": 8
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 2980
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 2980
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 2434
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 2434
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 1988
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 1988
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 1623
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 1623
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 1326
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 1326
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 1083
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 1083
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 884
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 884
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 722
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 722
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 590
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 590
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 482
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 482
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 393
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 393
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 321
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 321
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 262
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 262
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 214
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 214
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 175
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 175
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 143
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 143
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 117
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 117
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 95
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 95
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 78
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 78
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 64
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 64
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 52
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 52
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 42
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 42
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 35
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 35
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 28
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 28
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 23
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 23
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 19
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 19
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 15
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 15
-  },
-  {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 13
-  },
-  {
-   "type": "sell",
-   "item": "clay",
-   "quantity": 13
+   "quantity": 9083
   }
  ]
 }

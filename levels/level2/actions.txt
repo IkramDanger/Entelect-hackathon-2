@@ -5,5189 +5,194 @@
    "destination": "Shurima"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
    "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "destination": "N2"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
    "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "destination": "Bilgewater"
   },
   {
    "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "destination": "N2"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Shurima"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Demacia"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "wheat",
-   "quantity": 56
+   "type": "gather"
   },
   {
    "type": "travel",
    "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 287
   },
   {
    "type": "travel",
@@ -5195,12 +200,273 @@
   },
   {
    "type": "travel",
-   "destination": "Ionia"
+   "destination": "N3"
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 182
+   "type": "travel",
+   "destination": "N9"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N3"
   },
   {
    "type": "travel",
@@ -5219,248 +485,22 @@
    "destination": "Bilgewater"
   },
   {
+   "type": "craft",
+   "item": "roof-tiles",
+   "quantity": 200
+  },
+  {
    "type": "travel",
    "destination": "N11"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
   },
   {
    "type": "travel",
    "destination": "Noxus"
   },
   {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 539
+   "type": "sell",
+   "item": "roof-tiles",
+   "quantity": 200
   },
   {
    "type": "travel",
@@ -5479,341 +519,537 @@
    "destination": "Shurima"
   },
   {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
    "type": "travel",
    "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "rope",
-   "quantity": 91
-  },
-  {
-   "type": "craft",
-   "item": "thatch",
-   "quantity": 28
-  },
-  {
-   "type": "craft",
-   "item": "planks",
-   "quantity": 161
-  },
-  {
-   "type": "craft",
-   "item": "mortar",
-   "quantity": 161
-  },
-  {
-   "type": "craft",
-   "item": "stone-blocks",
-   "quantity": 42
-  },
-  {
-   "type": "craft",
-   "item": "kiln-glass",
-   "quantity": 28
-  },
-  {
-   "type": "craft",
-   "item": "fencing",
-   "quantity": 42
-  },
-  {
-   "type": "craft",
-   "item": "bricks",
-   "quantity": 161
-  },
-  {
-   "type": "craft",
-   "item": "nets",
-   "quantity": 14
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
   },
   {
    "type": "travel",
    "destination": "Shurima"
   },
   {
-   "type": "build",
-   "upgrade": "pier"
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
   },
   {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
   },
   {
    "type": "travel",
-   "destination": "Ixtal"
+   "destination": "Demacia"
   },
   {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "travel",
-   "destination": "Ionia"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "travel",
-   "destination": "Piltover"
-  },
-  {
-   "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "travel",
-   "destination": "N1"
-  },
-  {
-   "type": "travel",
-   "destination": "Zaun"
-  },
-  {
-   "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "travel",
-   "destination": "N1"
-  },
-  {
-   "type": "travel",
-   "destination": "Piltover"
-  },
-  {
-   "type": "travel",
-   "destination": "N14"
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
   },
   {
    "type": "travel",
    "destination": "Shurima"
   },
   {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
    "type": "travel",
-   "destination": "Freljord"
+   "destination": "Demacia"
   },
   {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
   },
   {
    "type": "travel",
    "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 200
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 1000
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 798
+  },
+  {
+   "type": "sell",
+   "item": "fish",
+   "quantity": 5957
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 3214
+  },
+  {
+   "type": "sell",
+   "item": "stone",
+   "quantity": 2811
+  },
+  {
+   "type": "sell",
+   "item": "wheat",
+   "quantity": 2289
+  },
+  {
+   "type": "sell",
+   "item": "fish",
+   "quantity": 18
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 13
+  },
+  {
+   "type": "sell",
+   "item": "stone",
+   "quantity": 8
+  },
+  {
+   "type": "sell",
+   "item": "wheat",
+   "quantity": 9
   },
   {
    "type": "travel",
@@ -5832,274 +1068,384 @@
    "destination": "Noxus"
   },
   {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "travel",
-   "destination": "N11"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "travel",
-   "destination": "N2"
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
    "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
-  },
-  {
-   "type": "craft",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Demacia"
-  },
-  {
-   "type": "sell",
-   "item": "stone-works",
-   "quantity": 12
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 60
+   "item": "clay",
+   "quantity": 21042
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 852
+   "quantity": 21042
   },
   {
-   "type": "sell",
-   "item": "fish",
-   "quantity": 6434
-  },
-  {
-   "type": "sell",
-   "item": "sheep",
-   "quantity": 3463
-  },
-  {
-   "type": "sell",
-   "item": "stone",
-   "quantity": 2076
-  },
-  {
-   "type": "sell",
-   "item": "wheat",
-   "quantity": 2391
+   "type": "buy",
+   "item": "clay",
+   "quantity": 17184
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 4
+   "quantity": 17184
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 14034
   },
   {
    "type": "sell",
-   "item": "fish",
+   "item": "clay",
+   "quantity": 14034
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 11461
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 11461
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 9360
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 9360
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 7644
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 7644
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6242
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 6242
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 5098
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 5098
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 4163
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 4163
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 3400
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 3400
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 2777
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 2777
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 2268
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 2268
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 1852
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 1852
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 1512
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 1512
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 1235
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 1235
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 1009
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 1009
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 824
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 824
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 673
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 673
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 549
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 549
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 449
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 449
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 366
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 366
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 299
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 299
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 244
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 244
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 200
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 200
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 163
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 163
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 133
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 133
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 109
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 109
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 89
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 89
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 72
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 72
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 59
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 59
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 48
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 48
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 40
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 40
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 32
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 32
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 26
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 26
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 22
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 22
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 18
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 18
+  },
+  {
+   "type": "buy",
+   "item": "clay",
    "quantity": 14
   },
   {
    "type": "sell",
-   "item": "sheep",
-   "quantity": 16
+   "item": "clay",
+   "quantity": 14
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 12
   }
  ]
 }

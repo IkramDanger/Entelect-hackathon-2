@@ -1,0 +1,368 @@
+Action 0: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 1: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 2: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 3: Travel to 'N2' (standard, 6 ticks, Toll 0).
+Action 4: gather 7 stone at 'N2' (2 ticks).
+Action 5: gather 7 stone at 'N2' (2 ticks).
+Action 6: gather 7 stone at 'N2' (2 ticks).
+Action 7: gather 7 stone at 'N2' (2 ticks).
+Action 8: gather 7 stone at 'N2' (2 ticks).
+Action 9: gather 7 stone at 'N2' (2 ticks).
+Action 10: gather 7 stone at 'N2' (2 ticks).
+Action 11: gather 7 stone at 'N2' (2 ticks).
+Action 12: gather 7 stone at 'N2' (2 ticks).
+Action 13: gather 7 stone at 'N2' (2 ticks).
+Action 14: gather 7 stone at 'N2' (2 ticks).
+Action 15: gather 7 stone at 'N2' (2 ticks).
+Action 16: gather 7 stone at 'N2' (2 ticks).
+Action 17: gather 7 stone at 'N2' (2 ticks).
+Action 18: gather 7 stone at 'N2' (2 ticks).
+Action 19: gather 7 stone at 'N2' (2 ticks).
+Action 20: gather 7 stone at 'N2' (2 ticks).
+Action 21: gather 7 stone at 'N2' (2 ticks).
+Action 22: gather 7 stone at 'N2' (2 ticks).
+Action 23: gather 7 stone at 'N2' (2 ticks).
+Action 24: gather 7 stone at 'N2' (2 ticks).
+Action 25: gather 7 stone at 'N2' (2 ticks).
+Action 26: gather 7 stone at 'N2' (2 ticks).
+Action 27: gather 7 stone at 'N2' (2 ticks).
+Action 28: gather 7 stone at 'N2' (2 ticks).
+Action 29: gather 7 stone at 'N2' (2 ticks).
+Action 30: gather 7 stone at 'N2' (2 ticks).
+Action 31: gather 7 stone at 'N2' (2 ticks).
+Action 32: gather 7 stone at 'N2' (2 ticks).
+Action 33: gather 7 stone at 'N2' (2 ticks).
+Action 34: gather 7 stone at 'N2' (2 ticks).
+Action 35: gather 7 stone at 'N2' (2 ticks).
+Action 36: gather 7 stone at 'N2' (2 ticks).
+Action 37: gather 7 stone at 'N2' (2 ticks).
+Action 38: gather 7 stone at 'N2' (2 ticks).
+Action 39: gather 7 stone at 'N2' (2 ticks).
+Action 40: gather 7 stone at 'N2' (2 ticks).
+Action 41: gather 7 stone at 'N2' (2 ticks).
+Action 42: gather 7 stone at 'N2' (2 ticks).
+Action 43: gather 7 stone at 'N2' (2 ticks).
+Action 44: gather 7 stone at 'N2' (2 ticks).
+Action 45: gather 7 stone at 'N2' (2 ticks).
+Action 46: gather 7 stone at 'N2' (2 ticks).
+Action 47: gather 7 stone at 'N2' (2 ticks).
+Action 48: gather 7 stone at 'N2' (2 ticks).
+Action 49: gather 7 stone at 'N2' (2 ticks).
+Action 50: gather 7 stone at 'N2' (2 ticks).
+Action 51: gather 7 stone at 'N2' (2 ticks).
+Action 52: gather 7 stone at 'N2' (2 ticks).
+Action 53: gather 7 stone at 'N2' (2 ticks).
+Action 54: gather 7 stone at 'N2' (2 ticks).
+Action 55: gather 7 stone at 'N2' (2 ticks).
+Action 56: gather 7 stone at 'N2' (2 ticks).
+Action 57: gather 7 stone at 'N2' (2 ticks).
+Action 58: gather 7 stone at 'N2' (2 ticks).
+Action 59: gather 7 stone at 'N2' (2 ticks).
+Action 60: gather 7 stone at 'N2' (2 ticks).
+Action 61: gather 7 stone at 'N2' (2 ticks).
+Action 62: Travel to 'Shurima' (standard, 2 ticks, Toll 0).
+Action 63: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 64: Travel to 'N3' (standard, 6 ticks, Toll 0).
+Action 65: Travel to 'N9' (standard, 4 ticks, Toll 0).
+Action 66: gather 7 clay at 'N9' (2 ticks).
+Action 67: gather 7 clay at 'N9' (2 ticks).
+Action 68: gather 7 clay at 'N9' (2 ticks).
+Action 69: gather 7 clay at 'N9' (2 ticks).
+Action 70: gather 7 clay at 'N9' (2 ticks).
+Action 71: gather 7 clay at 'N9' (2 ticks).
+Action 72: gather 7 clay at 'N9' (2 ticks).
+Action 73: gather 7 clay at 'N9' (2 ticks).
+Action 74: gather 7 clay at 'N9' (2 ticks).
+Action 75: gather 7 clay at 'N9' (2 ticks).
+Action 76: gather 7 clay at 'N9' (2 ticks).
+Action 77: gather 7 clay at 'N9' (2 ticks).
+Action 78: gather 7 clay at 'N9' (2 ticks).
+Action 79: gather 7 clay at 'N9' (2 ticks).
+Action 80: gather 7 clay at 'N9' (2 ticks).
+Action 81: gather 7 clay at 'N9' (2 ticks).
+Action 82: gather 7 clay at 'N9' (2 ticks).
+Action 83: gather 7 clay at 'N9' (2 ticks).
+Action 84: gather 7 clay at 'N9' (2 ticks).
+Action 85: gather 7 clay at 'N9' (2 ticks).
+Action 86: gather 7 clay at 'N9' (2 ticks).
+Action 87: gather 7 clay at 'N9' (2 ticks).
+Action 88: gather 7 clay at 'N9' (2 ticks).
+Action 89: gather 7 clay at 'N9' (2 ticks).
+Action 90: gather 7 clay at 'N9' (2 ticks).
+Action 91: gather 7 clay at 'N9' (2 ticks).
+Action 92: gather 7 clay at 'N9' (2 ticks).
+Action 93: gather 7 clay at 'N9' (2 ticks).
+Action 94: gather 7 clay at 'N9' (2 ticks).
+Action 95: gather 7 clay at 'N9' (2 ticks).
+Action 96: gather 7 clay at 'N9' (2 ticks).
+Action 97: gather 7 clay at 'N9' (2 ticks).
+Action 98: gather 7 clay at 'N9' (2 ticks).
+Action 99: gather 7 clay at 'N9' (2 ticks).
+Action 100: gather 7 clay at 'N9' (2 ticks).
+Action 101: gather 7 clay at 'N9' (2 ticks).
+Action 102: gather 7 clay at 'N9' (2 ticks).
+Action 103: gather 7 clay at 'N9' (2 ticks).
+Action 104: gather 7 clay at 'N9' (2 ticks).
+Action 105: gather 7 clay at 'N9' (2 ticks).
+Action 106: gather 7 clay at 'N9' (2 ticks).
+Action 107: gather 7 clay at 'N9' (2 ticks).
+Action 108: gather 7 clay at 'N9' (2 ticks).
+Action 109: gather 7 clay at 'N9' (2 ticks).
+Action 110: gather 7 clay at 'N9' (2 ticks).
+Action 111: gather 7 clay at 'N9' (2 ticks).
+Action 112: gather 7 clay at 'N9' (2 ticks).
+Action 113: gather 7 clay at 'N9' (2 ticks).
+Action 114: gather 7 clay at 'N9' (2 ticks).
+Action 115: gather 7 clay at 'N9' (2 ticks).
+Action 116: gather 7 clay at 'N9' (2 ticks).
+Action 117: gather 7 clay at 'N9' (2 ticks).
+Action 118: gather 7 clay at 'N9' (2 ticks).
+Action 119: gather 7 clay at 'N9' (2 ticks).
+Action 120: gather 7 clay at 'N9' (2 ticks).
+Action 121: gather 7 clay at 'N9' (2 ticks).
+Action 122: gather 7 clay at 'N9' (2 ticks).
+Action 123: gather 7 clay at 'N9' (2 ticks).
+Action 124: gather 7 clay at 'N9' (2 ticks).
+Action 125: gather 7 clay at 'N9' (2 ticks).
+Action 126: gather 7 clay at 'N9' (2 ticks).
+Action 127: gather 7 clay at 'N9' (2 ticks).
+Action 128: gather 7 clay at 'N9' (2 ticks).
+Action 129: gather 7 clay at 'N9' (2 ticks).
+Action 130: gather 7 clay at 'N9' (2 ticks).
+Action 131: gather 7 clay at 'N9' (2 ticks).
+Action 132: gather 7 clay at 'N9' (2 ticks).
+Action 133: gather 7 clay at 'N9' (2 ticks).
+Action 134: gather 7 clay at 'N9' (2 ticks).
+Action 135: gather 7 clay at 'N9' (2 ticks).
+Action 136: gather 7 clay at 'N9' (2 ticks).
+Action 137: gather 7 clay at 'N9' (2 ticks).
+Action 138: gather 7 clay at 'N9' (2 ticks).
+Action 139: gather 7 clay at 'N9' (2 ticks).
+Action 140: gather 7 clay at 'N9' (2 ticks).
+Action 141: gather 7 clay at 'N9' (2 ticks).
+Action 142: gather 7 clay at 'N9' (2 ticks).
+Action 143: gather 7 clay at 'N9' (2 ticks).
+Action 144: gather 7 clay at 'N9' (2 ticks).
+Action 145: gather 7 clay at 'N9' (2 ticks).
+Action 146: gather 7 clay at 'N9' (2 ticks).
+Action 147: gather 7 clay at 'N9' (2 ticks).
+Action 148: gather 7 clay at 'N9' (2 ticks).
+Action 149: gather 7 clay at 'N9' (2 ticks).
+Action 150: gather 7 clay at 'N9' (2 ticks).
+Action 151: gather 7 clay at 'N9' (2 ticks).
+Action 152: Travel to 'N3' (standard, 4 ticks, Toll 0).
+Action 153: Travel to 'Ixtal' (standard, 6 ticks, Toll 0).
+Action 154: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 155: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 156: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 157: craft 200x roof-tiles (recipe).
+Action 158: Travel to 'N11' (standard, 4 ticks, Toll 0).
+Action 159: Travel to 'Noxus' (standard, 5 ticks, Toll 0).
+Action 160: Sell 200 roof-tiles for 13800 Enteloot.
+Action 161: Travel to 'N11' (standard, 5 ticks, Toll 0).
+Action 162: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 163: Travel to 'N2' (standard, 6 ticks, Toll 0).
+Action 164: Travel to 'Shurima' (standard, 2 ticks, Toll 0).
+Action 165: Buy 1000 stone for 5000 Enteloot.
+Action 166: craft 200x stone-works (recipe).
+Action 167: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 168: Sell 200 stone-works for 11600 Enteloot.
+Action 169: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 170: Buy 1000 stone for 5000 Enteloot.
+Action 171: craft 200x stone-works (recipe).
+Action 172: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 173: Sell 200 stone-works for 11600 Enteloot.
+Action 174: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 175: Buy 1000 stone for 5000 Enteloot.
+Action 176: craft 200x stone-works (recipe).
+Action 177: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 178: Sell 200 stone-works for 11600 Enteloot.
+Action 179: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 180: Buy 1000 stone for 5000 Enteloot.
+Action 181: craft 200x stone-works (recipe).
+Action 182: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 183: Sell 200 stone-works for 11600 Enteloot.
+Action 184: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 185: Buy 1000 stone for 5000 Enteloot.
+Action 186: craft 200x stone-works (recipe).
+Action 187: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 188: Sell 200 stone-works for 11600 Enteloot.
+Action 189: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 190: Buy 1000 stone for 5000 Enteloot.
+Action 191: craft 200x stone-works (recipe).
+Action 192: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 193: Sell 200 stone-works for 11600 Enteloot.
+Action 194: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 195: Buy 1000 stone for 5000 Enteloot.
+Action 196: craft 200x stone-works (recipe).
+Action 197: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 198: Sell 200 stone-works for 11600 Enteloot.
+Action 199: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 200: Buy 1000 stone for 5000 Enteloot.
+Action 201: craft 200x stone-works (recipe).
+Action 202: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 203: Sell 200 stone-works for 11600 Enteloot.
+Action 204: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 205: Buy 1000 stone for 5000 Enteloot.
+Action 206: craft 200x stone-works (recipe).
+Action 207: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 208: Sell 200 stone-works for 11600 Enteloot.
+Action 209: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 210: Buy 1000 stone for 5000 Enteloot.
+Action 211: craft 200x stone-works (recipe).
+Action 212: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 213: Sell 200 stone-works for 11600 Enteloot.
+Action 214: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 215: Buy 1000 stone for 5000 Enteloot.
+Action 216: craft 200x stone-works (recipe).
+Action 217: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 218: Sell 200 stone-works for 11600 Enteloot.
+Action 219: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 220: Buy 1000 stone for 5000 Enteloot.
+Action 221: craft 200x stone-works (recipe).
+Action 222: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 223: Sell 200 stone-works for 11600 Enteloot.
+Action 224: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 225: Buy 1000 stone for 5000 Enteloot.
+Action 226: craft 200x stone-works (recipe).
+Action 227: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 228: Sell 200 stone-works for 11600 Enteloot.
+Action 229: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 230: Buy 1000 stone for 5000 Enteloot.
+Action 231: craft 200x stone-works (recipe).
+Action 232: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 233: Sell 200 stone-works for 11600 Enteloot.
+Action 234: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 235: Buy 1000 stone for 5000 Enteloot.
+Action 236: craft 200x stone-works (recipe).
+Action 237: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 238: Sell 200 stone-works for 11600 Enteloot.
+Action 239: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 240: Buy 1000 stone for 5000 Enteloot.
+Action 241: craft 200x stone-works (recipe).
+Action 242: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 243: Sell 200 stone-works for 11600 Enteloot.
+Action 244: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 245: Buy 1000 stone for 5000 Enteloot.
+Action 246: craft 200x stone-works (recipe).
+Action 247: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 248: Sell 200 stone-works for 11600 Enteloot.
+Action 249: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 250: Buy 1000 stone for 5000 Enteloot.
+Action 251: craft 200x stone-works (recipe).
+Action 252: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 253: Sell 200 stone-works for 11600 Enteloot.
+Action 254: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 255: Buy 1000 stone for 5000 Enteloot.
+Action 256: craft 200x stone-works (recipe).
+Action 257: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 258: Sell 200 stone-works for 11600 Enteloot.
+Action 259: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 260: Buy 1000 stone for 5000 Enteloot.
+Action 261: craft 200x stone-works (recipe).
+Action 262: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 263: Sell 200 stone-works for 11600 Enteloot.
+Action 264: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 265: Buy 1000 stone for 5000 Enteloot.
+Action 266: craft 200x stone-works (recipe).
+Action 267: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 268: Sell 200 stone-works for 11600 Enteloot.
+Action 269: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 270: Buy 1000 stone for 5000 Enteloot.
+Action 271: Sell 798 clay for 3192 Enteloot.
+Action 272: Sell 5957 fish for 23828 Enteloot.
+Action 273: Sell 3214 sheep for 16070 Enteloot.
+Action 274: Sell 2811 stone for 8433 Enteloot.
+Action 275: Sell 2289 wheat for 4578 Enteloot.
+Action 276: Sell 18 fish for 72 Enteloot.
+Action 277: Sell 13 sheep for 65 Enteloot.
+Action 278: Sell 8 stone for 24 Enteloot.
+Action 279: Sell 9 wheat for 18 Enteloot.
+Action 280: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 281: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 282: Travel to 'N11' (standard, 4 ticks, Toll 0).
+Action 283: Travel to 'Noxus' (standard, 5 ticks, Toll 0).
+Action 284: Buy 21042 clay for 126252 Enteloot.
+Action 285: Sell 21042 clay for 84168 Enteloot.
+Action 286: Buy 17184 clay for 103104 Enteloot.
+Action 287: Sell 17184 clay for 68736 Enteloot.
+Action 288: Buy 14034 clay for 84204 Enteloot.
+Action 289: Sell 14034 clay for 56136 Enteloot.
+Action 290: Buy 11461 clay for 68766 Enteloot.
+Action 291: Sell 11461 clay for 45844 Enteloot.
+Action 292: Buy 9360 clay for 56160 Enteloot.
+Action 293: Sell 9360 clay for 37440 Enteloot.
+Action 294: Buy 7644 clay for 45864 Enteloot.
+Action 295: Sell 7644 clay for 30576 Enteloot.
+Action 296: Buy 6242 clay for 37452 Enteloot.
+Action 297: Sell 6242 clay for 24968 Enteloot.
+Action 298: Buy 5098 clay for 30588 Enteloot.
+Action 299: Sell 5098 clay for 20392 Enteloot.
+Action 300: Buy 4163 clay for 24978 Enteloot.
+Action 301: Sell 4163 clay for 16652 Enteloot.
+Action 302: Buy 3400 clay for 20400 Enteloot.
+Action 303: Sell 3400 clay for 13600 Enteloot.
+Action 304: Buy 2777 clay for 16662 Enteloot.
+Action 305: Sell 2777 clay for 11108 Enteloot.
+Action 306: Buy 2268 clay for 13608 Enteloot.
+Action 307: Sell 2268 clay for 9072 Enteloot.
+Action 308: Buy 1852 clay for 11112 Enteloot.
+Action 309: Sell 1852 clay for 7408 Enteloot.
+Action 310: Buy 1512 clay for 9072 Enteloot.
+Action 311: Sell 1512 clay for 6048 Enteloot.
+Action 312: Buy 1235 clay for 7410 Enteloot.
+Action 313: Sell 1235 clay for 4940 Enteloot.
+Action 314: Buy 1009 clay for 6054 Enteloot.
+Action 315: Sell 1009 clay for 4036 Enteloot.
+Action 316: Buy 824 clay for 4944 Enteloot.
+Action 317: Sell 824 clay for 3296 Enteloot.
+Action 318: Buy 673 clay for 4038 Enteloot.
+Action 319: Sell 673 clay for 2692 Enteloot.
+Action 320: Buy 549 clay for 3294 Enteloot.
+Action 321: Sell 549 clay for 2196 Enteloot.
+Action 322: Buy 449 clay for 2694 Enteloot.
+Action 323: Sell 449 clay for 1796 Enteloot.
+Action 324: Buy 366 clay for 2196 Enteloot.
+Action 325: Sell 366 clay for 1464 Enteloot.
+Action 326: Buy 299 clay for 1794 Enteloot.
+Action 327: Sell 299 clay for 1196 Enteloot.
+Action 328: Buy 244 clay for 1464 Enteloot.
+Action 329: Sell 244 clay for 976 Enteloot.
+Action 330: Buy 200 clay for 1200 Enteloot.
+Action 331: Sell 200 clay for 800 Enteloot.
+Action 332: Buy 163 clay for 978 Enteloot.
+Action 333: Sell 163 clay for 652 Enteloot.
+Action 334: Buy 133 clay for 798 Enteloot.
+Action 335: Sell 133 clay for 532 Enteloot.
+Action 336: Buy 109 clay for 654 Enteloot.
+Action 337: Sell 109 clay for 436 Enteloot.
+Action 338: Buy 89 clay for 534 Enteloot.
+Action 339: Sell 89 clay for 356 Enteloot.
+Action 340: Buy 72 clay for 432 Enteloot.
+Action 341: Sell 72 clay for 288 Enteloot.
+Action 342: Buy 59 clay for 354 Enteloot.
+Action 343: Sell 59 clay for 236 Enteloot.
+Action 344: Buy 48 clay for 288 Enteloot.
+Action 345: Sell 48 clay for 192 Enteloot.
+Action 346: Buy 40 clay for 240 Enteloot.
+Action 347: Sell 40 clay for 160 Enteloot.
+Action 348: Buy 32 clay for 192 Enteloot.
+Action 349: Sell 32 clay for 128 Enteloot.
+Action 350: Buy 26 clay for 156 Enteloot.
+Action 351: Sell 26 clay for 104 Enteloot.
+Action 352: Buy 22 clay for 132 Enteloot.
+Action 353: Sell 22 clay for 88 Enteloot.
+Action 354: Buy 18 clay for 108 Enteloot.
+Action 355: Sell 18 clay for 72 Enteloot.
+Action 356: Buy 14 clay for 84 Enteloot.
+Action 357: Sell 14 clay for 56 Enteloot.
+Action 358: Buy 12 clay for 72 Enteloot.
+Action 359: Sell 12 clay for 48 Enteloot.
+===================================
+Level 2 Scoring
+===================================
+Your Enteloot: 534
+Held items value: 1164
+Total sale revenue: 772568
+===================================
+Final score: 17408250.0

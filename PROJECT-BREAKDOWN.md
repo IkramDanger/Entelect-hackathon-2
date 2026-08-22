@@ -173,7 +173,7 @@ never edit the same file.
 
 ---
 
-## 5. The three unknowns — now bet on, not just flagged
+## 5. The three unknowns — SOLVED (decoded from official logs)
 
 Fayyad owns this, and it blocks Ikram's calibration. Budget an hour, on day one.
 
@@ -199,6 +199,21 @@ now tells us whether to keep or revert them, so it matters more, not less.
   them.
 
 ---
+
+## 5b. Leaderboard experiments (the road past 47M)
+
+The first upload scored 47M, fitting `enteloot + infra x towns` almost
+exactly. Under that formula our mechanics are near the ceiling (~48M), so
+150M requires a term we cannot see locally. Prime suspect: a **units-sold
+multiplier** (documented for Level 1, possibly global). Buy+sell cost 1 tick
+each at ANY quantity, so churning converts cash into units at ~cash/4 units
+per cycle.
+
+`experiments/level4-churn2/` and `experiments/level1-churn1/` are
+self-reproducing packages (their zips regenerate their actions.txt bytes).
+Protocol: upload ONE experiment in place of that level's main submission,
+read the score delta, restore the main. If Level 4's score jumps, churn gets
+baked into every level and re-tuned for the optimal cash/units balance.
 
 ## 6. Working agreement
 

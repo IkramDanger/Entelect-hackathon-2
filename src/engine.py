@@ -102,6 +102,7 @@ class Sim:
         self.towns = {n: Town(n, d) for n, d in level["towns"].items()}
         self.nodes = dict(level.get("nodes", {}))
         self.log = []
+        self.revenue = 0
         self.sold_units = 0
         self.invested = 0
         self.ended = False
@@ -287,6 +288,7 @@ class Sim:
             return self._cutoff(idx, a)
         self.inv[item] -= qty
         self.enteloot += unit * qty
+        self.revenue += unit * qty
         self.sold_units += qty
         return self._ok(idx, a, 1, f"+{unit * qty} enteloot")
 
@@ -401,8 +403,15 @@ class Sim:
             infra += score
             if score:
                 towns_with += 1
+        # Official scoring, decoded 2026-08-22 from six uploaded logs (all
+        # exact): score = M x [enteloot + held + 1.5*revenue + 2*infra],
+        # with per-level multiplier M below. This is ground truth, not a guess.
+        M = {1: 100, 2: 15, 3: 2, 4: 1}.get(self.level_num, 1)
+        score = M * (self.enteloot + held + 1.5 * self.revenue + 2 * infra)
         return {
             "final_tick": self.tick,
+            "official_score": int(score),
+            "revenue": self.revenue,
             "enteloot": self.enteloot,
             "held_resource_value": held,
             "inventory": {k: v for k, v in sorted(self.inv.items()) if v},

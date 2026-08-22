@@ -1,0 +1,2861 @@
+Action 0: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 1: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 2: Travel to 'Ixtal' (fast, 2 ticks, Toll 75).
+Action 3: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 4: Buy 6 sheep for 48 Enteloot.
+Action 5: craft 2x wool-garments (recipe).
+Action 6: Sell 2 wool-garments for 118 Enteloot.
+Action 7: Travel to 'Ixtal' (standard, 2 ticks, Toll 0).
+Action 8: Travel to 'Thornwood' (fast, 2 ticks, Toll 75).
+Action 9: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 10: Travel to 'N23' (standard, 6 ticks, Toll 0).
+Action 11: gather 8 sheep at 'N23' (2 ticks).
+Action 12: gather 8 sheep at 'N23' (2 ticks).
+Action 13: gather 8 sheep at 'N23' (2 ticks).
+Action 14: gather 8 sheep at 'N23' (2 ticks).
+Action 15: gather 8 sheep at 'N23' (2 ticks).
+Action 16: gather 8 sheep at 'N23' (2 ticks).
+Action 17: gather 8 sheep at 'N23' (2 ticks).
+Action 18: gather 8 sheep at 'N23' (2 ticks).
+Action 19: gather 8 sheep at 'N23' (2 ticks).
+Action 20: gather 8 sheep at 'N23' (2 ticks).
+Action 21: gather 8 sheep at 'N23' (2 ticks).
+Action 22: gather 8 sheep at 'N23' (2 ticks).
+Action 23: gather 8 sheep at 'N23' (2 ticks).
+Action 24: gather 8 sheep at 'N23' (2 ticks).
+Action 25: gather 8 sheep at 'N23' (2 ticks).
+Action 26: gather 8 sheep at 'N23' (2 ticks).
+Action 27: gather 8 sheep at 'N23' (2 ticks).
+Action 28: gather 8 sheep at 'N23' (2 ticks).
+Action 29: gather 8 sheep at 'N23' (2 ticks).
+Action 30: gather 8 sheep at 'N23' (2 ticks).
+Action 31: gather 8 sheep at 'N23' (2 ticks).
+Action 32: gather 8 sheep at 'N23' (2 ticks).
+Action 33: gather 8 sheep at 'N23' (2 ticks).
+Action 34: gather 8 sheep at 'N23' (2 ticks).
+Action 35: gather 8 sheep at 'N23' (2 ticks).
+Action 36: gather 8 sheep at 'N23' (2 ticks).
+Action 37: gather 8 sheep at 'N23' (2 ticks).
+Action 38: gather 8 sheep at 'N23' (2 ticks).
+Action 39: gather 8 sheep at 'N23' (2 ticks).
+Action 40: gather 8 sheep at 'N23' (2 ticks).
+Action 41: gather 8 sheep at 'N23' (2 ticks).
+Action 42: gather 8 sheep at 'N23' (2 ticks).
+Action 43: gather 8 sheep at 'N23' (2 ticks).
+Action 44: gather 8 sheep at 'N23' (2 ticks).
+Action 45: gather 8 sheep at 'N23' (2 ticks).
+Action 46: gather 8 sheep at 'N23' (2 ticks).
+Action 47: gather 8 sheep at 'N23' (2 ticks).
+Action 48: gather 8 sheep at 'N23' (2 ticks).
+Action 49: gather 8 sheep at 'N23' (2 ticks).
+Action 50: gather 8 sheep at 'N23' (2 ticks).
+Action 51: gather 8 sheep at 'N23' (2 ticks).
+Action 52: gather 8 sheep at 'N23' (2 ticks).
+Action 53: gather 8 sheep at 'N23' (2 ticks).
+Action 54: gather 8 sheep at 'N23' (2 ticks).
+Action 55: gather 8 sheep at 'N23' (2 ticks).
+Action 56: gather 8 sheep at 'N23' (2 ticks).
+Action 57: gather 8 sheep at 'N23' (2 ticks).
+Action 58: gather 8 sheep at 'N23' (2 ticks).
+Action 59: gather 8 sheep at 'N23' (2 ticks).
+Action 60: gather 8 sheep at 'N23' (2 ticks).
+Action 61: gather 8 sheep at 'N23' (2 ticks).
+Action 62: gather 8 sheep at 'N23' (2 ticks).
+Action 63: gather 8 sheep at 'N23' (2 ticks).
+Action 64: gather 8 sheep at 'N23' (2 ticks).
+Action 65: gather 8 sheep at 'N23' (2 ticks).
+Action 66: gather 8 sheep at 'N23' (2 ticks).
+Action 67: gather 8 sheep at 'N23' (2 ticks).
+Action 68: gather 8 sheep at 'N23' (2 ticks).
+Action 69: gather 8 sheep at 'N23' (2 ticks).
+Action 70: gather 8 sheep at 'N23' (2 ticks).
+Action 71: gather 8 sheep at 'N23' (2 ticks).
+Action 72: gather 8 sheep at 'N23' (2 ticks).
+Action 73: gather 8 sheep at 'N23' (2 ticks).
+Action 74: gather 8 sheep at 'N23' (2 ticks).
+Action 75: gather 8 sheep at 'N23' (2 ticks).
+Action 76: gather 8 sheep at 'N23' (2 ticks).
+Action 77: gather 8 sheep at 'N23' (2 ticks).
+Action 78: gather 8 sheep at 'N23' (2 ticks).
+Action 79: gather 8 sheep at 'N23' (2 ticks).
+Action 80: gather 8 sheep at 'N23' (2 ticks).
+Action 81: gather 8 sheep at 'N23' (2 ticks).
+Action 82: gather 8 sheep at 'N23' (2 ticks).
+Action 83: gather 8 sheep at 'N23' (2 ticks).
+Action 84: gather 8 sheep at 'N23' (2 ticks).
+Action 85: gather 8 sheep at 'N23' (2 ticks).
+Action 86: Travel to 'Marrowfen' (standard, 6 ticks, Toll 0).
+Action 87: craft 200x wool-garments (recipe).
+Action 88: Sell 200 wool-garments for 12000 Enteloot.
+Action 89: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 90: Travel to 'Ixtal' (fast, 2 ticks, Toll 75).
+Action 91: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 92: Buy 600 sheep for 4800 Enteloot.
+Action 93: craft 200x wool-garments (recipe).
+Action 94: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 95: Sell 200 wool-garments for 11600 Enteloot.
+Action 96: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 97: Buy 600 sheep for 4800 Enteloot.
+Action 98: craft 200x wool-garments (recipe).
+Action 99: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 100: Sell 200 wool-garments for 11600 Enteloot.
+Action 101: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 102: Buy 600 sheep for 4800 Enteloot.
+Action 103: craft 200x wool-garments (recipe).
+Action 104: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 105: Sell 200 wool-garments for 11600 Enteloot.
+Action 106: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 107: Buy 600 sheep for 4800 Enteloot.
+Action 108: craft 200x wool-garments (recipe).
+Action 109: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 110: Sell 200 wool-garments for 11600 Enteloot.
+Action 111: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 112: Buy 600 sheep for 4800 Enteloot.
+Action 113: craft 200x wool-garments (recipe).
+Action 114: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 115: Sell 200 wool-garments for 11600 Enteloot.
+Action 116: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 117: Buy 600 sheep for 4800 Enteloot.
+Action 118: craft 200x wool-garments (recipe).
+Action 119: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 120: Sell 200 wool-garments for 11600 Enteloot.
+Action 121: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 122: Buy 600 sheep for 4800 Enteloot.
+Action 123: craft 200x wool-garments (recipe).
+Action 124: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 125: Sell 200 wool-garments for 11600 Enteloot.
+Action 126: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 127: Buy 600 sheep for 4800 Enteloot.
+Action 128: craft 200x wool-garments (recipe).
+Action 129: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 130: Sell 200 wool-garments for 11600 Enteloot.
+Action 131: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 132: Buy 600 sheep for 4800 Enteloot.
+Action 133: craft 200x wool-garments (recipe).
+Action 134: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 135: Sell 200 wool-garments for 11600 Enteloot.
+Action 136: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 137: Buy 600 sheep for 4800 Enteloot.
+Action 138: craft 200x wool-garments (recipe).
+Action 139: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 140: Sell 200 wool-garments for 11600 Enteloot.
+Action 141: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 142: Buy 600 sheep for 4800 Enteloot.
+Action 143: craft 200x wool-garments (recipe).
+Action 144: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 145: Sell 200 wool-garments for 11600 Enteloot.
+Action 146: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 147: Buy 600 sheep for 4800 Enteloot.
+Action 148: craft 200x wool-garments (recipe).
+Action 149: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 150: Sell 200 wool-garments for 11600 Enteloot.
+Action 151: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 152: Buy 600 sheep for 4800 Enteloot.
+Action 153: craft 200x wool-garments (recipe).
+Action 154: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 155: Sell 200 wool-garments for 11600 Enteloot.
+Action 156: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 157: Buy 600 sheep for 4800 Enteloot.
+Action 158: craft 200x wool-garments (recipe).
+Action 159: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 160: Sell 200 wool-garments for 11600 Enteloot.
+Action 161: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 162: Buy 600 sheep for 4800 Enteloot.
+Action 163: craft 200x wool-garments (recipe).
+Action 164: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 165: Sell 200 wool-garments for 11600 Enteloot.
+Action 166: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 167: Buy 600 sheep for 4800 Enteloot.
+Action 168: craft 200x wool-garments (recipe).
+Action 169: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 170: Sell 200 wool-garments for 11600 Enteloot.
+Action 171: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 172: Buy 600 sheep for 4800 Enteloot.
+Action 173: craft 200x wool-garments (recipe).
+Action 174: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 175: Sell 200 wool-garments for 11600 Enteloot.
+Action 176: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 177: Buy 600 sheep for 4800 Enteloot.
+Action 178: craft 200x wool-garments (recipe).
+Action 179: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 180: Sell 200 wool-garments for 11600 Enteloot.
+Action 181: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 182: Buy 600 sheep for 4800 Enteloot.
+Action 183: craft 200x wool-garments (recipe).
+Action 184: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 185: Sell 200 wool-garments for 11600 Enteloot.
+Action 186: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 187: Buy 600 sheep for 4800 Enteloot.
+Action 188: craft 200x wool-garments (recipe).
+Action 189: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 190: Sell 200 wool-garments for 11600 Enteloot.
+Action 191: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 192: Buy 600 sheep for 4800 Enteloot.
+Action 193: craft 200x wool-garments (recipe).
+Action 194: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 195: Sell 200 wool-garments for 11600 Enteloot.
+Action 196: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 197: Buy 600 sheep for 4800 Enteloot.
+Action 198: craft 200x wool-garments (recipe).
+Action 199: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 200: Sell 200 wool-garments for 11600 Enteloot.
+Action 201: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 202: Buy 600 sheep for 4800 Enteloot.
+Action 203: craft 200x wool-garments (recipe).
+Action 204: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 205: Sell 200 wool-garments for 11600 Enteloot.
+Action 206: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 207: Buy 600 sheep for 4800 Enteloot.
+Action 208: craft 200x wool-garments (recipe).
+Action 209: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 210: Sell 200 wool-garments for 11600 Enteloot.
+Action 211: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 212: Buy 600 sheep for 4800 Enteloot.
+Action 213: craft 200x wool-garments (recipe).
+Action 214: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 215: Sell 200 wool-garments for 11600 Enteloot.
+Action 216: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 217: Buy 600 sheep for 4800 Enteloot.
+Action 218: craft 200x wool-garments (recipe).
+Action 219: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 220: Sell 200 wool-garments for 11600 Enteloot.
+Action 221: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 222: Buy 600 sheep for 4800 Enteloot.
+Action 223: craft 200x wool-garments (recipe).
+Action 224: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 225: Sell 200 wool-garments for 11600 Enteloot.
+Action 226: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 227: Buy 600 sheep for 4800 Enteloot.
+Action 228: craft 200x wool-garments (recipe).
+Action 229: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 230: Sell 200 wool-garments for 11600 Enteloot.
+Action 231: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 232: Buy 600 sheep for 4800 Enteloot.
+Action 233: craft 200x wool-garments (recipe).
+Action 234: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 235: Sell 200 wool-garments for 11600 Enteloot.
+Action 236: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 237: Buy 600 sheep for 4800 Enteloot.
+Action 238: craft 200x wool-garments (recipe).
+Action 239: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 240: Sell 200 wool-garments for 11600 Enteloot.
+Action 241: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 242: Buy 600 sheep for 4800 Enteloot.
+Action 243: craft 200x wool-garments (recipe).
+Action 244: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 245: Sell 200 wool-garments for 11600 Enteloot.
+Action 246: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 247: Buy 600 sheep for 4800 Enteloot.
+Action 248: craft 200x wool-garments (recipe).
+Action 249: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 250: Sell 200 wool-garments for 11600 Enteloot.
+Action 251: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 252: Buy 600 sheep for 4800 Enteloot.
+Action 253: craft 200x wool-garments (recipe).
+Action 254: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 255: Sell 200 wool-garments for 11600 Enteloot.
+Action 256: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 257: Buy 600 sheep for 4800 Enteloot.
+Action 258: craft 200x wool-garments (recipe).
+Action 259: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 260: Sell 200 wool-garments for 11600 Enteloot.
+Action 261: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 262: Buy 600 sheep for 4800 Enteloot.
+Action 263: craft 200x wool-garments (recipe).
+Action 264: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 265: Sell 200 wool-garments for 11600 Enteloot.
+Action 266: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 267: Buy 600 sheep for 4800 Enteloot.
+Action 268: craft 200x wool-garments (recipe).
+Action 269: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 270: Sell 200 wool-garments for 11600 Enteloot.
+Action 271: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 272: Buy 600 sheep for 4800 Enteloot.
+Action 273: craft 200x wool-garments (recipe).
+Action 274: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 275: Sell 200 wool-garments for 11600 Enteloot.
+Action 276: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 277: Buy 600 sheep for 4800 Enteloot.
+Action 278: craft 200x wool-garments (recipe).
+Action 279: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 280: Sell 200 wool-garments for 11600 Enteloot.
+Action 281: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 282: Buy 600 sheep for 4800 Enteloot.
+Action 283: craft 200x wool-garments (recipe).
+Action 284: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 285: Sell 200 wool-garments for 11600 Enteloot.
+Action 286: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 287: Buy 600 sheep for 4800 Enteloot.
+Action 288: craft 200x wool-garments (recipe).
+Action 289: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 290: Sell 200 wool-garments for 11600 Enteloot.
+Action 291: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 292: Buy 600 sheep for 4800 Enteloot.
+Action 293: craft 200x wool-garments (recipe).
+Action 294: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 295: Sell 200 wool-garments for 11600 Enteloot.
+Action 296: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 297: Buy 600 sheep for 4800 Enteloot.
+Action 298: craft 200x wool-garments (recipe).
+Action 299: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 300: Sell 200 wool-garments for 11600 Enteloot.
+Action 301: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 302: Buy 600 sheep for 4800 Enteloot.
+Action 303: craft 200x wool-garments (recipe).
+Action 304: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 305: Sell 200 wool-garments for 11600 Enteloot.
+Action 306: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 307: Buy 600 sheep for 4800 Enteloot.
+Action 308: craft 200x wool-garments (recipe).
+Action 309: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 310: Sell 200 wool-garments for 11600 Enteloot.
+Action 311: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 312: Buy 600 sheep for 4800 Enteloot.
+Action 313: craft 200x wool-garments (recipe).
+Action 314: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 315: Sell 200 wool-garments for 11600 Enteloot.
+Action 316: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 317: Buy 600 sheep for 4800 Enteloot.
+Action 318: craft 200x wool-garments (recipe).
+Action 319: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 320: Sell 200 wool-garments for 11600 Enteloot.
+Action 321: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 322: Buy 600 sheep for 4800 Enteloot.
+Action 323: craft 200x wool-garments (recipe).
+Action 324: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 325: Sell 200 wool-garments for 11600 Enteloot.
+Action 326: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 327: Buy 600 sheep for 4800 Enteloot.
+Action 328: craft 200x wool-garments (recipe).
+Action 329: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 330: Sell 200 wool-garments for 11600 Enteloot.
+Action 331: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 332: Buy 600 sheep for 4800 Enteloot.
+Action 333: craft 200x wool-garments (recipe).
+Action 334: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 335: Sell 200 wool-garments for 11600 Enteloot.
+Action 336: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 337: Buy 600 sheep for 4800 Enteloot.
+Action 338: craft 200x wool-garments (recipe).
+Action 339: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 340: Sell 200 wool-garments for 11600 Enteloot.
+Action 341: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 342: Buy 600 sheep for 4800 Enteloot.
+Action 343: craft 200x wool-garments (recipe).
+Action 344: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 345: Sell 200 wool-garments for 11600 Enteloot.
+Action 346: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 347: Buy 600 sheep for 4800 Enteloot.
+Action 348: craft 200x wool-garments (recipe).
+Action 349: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 350: Sell 200 wool-garments for 11600 Enteloot.
+Action 351: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 352: Buy 600 sheep for 4800 Enteloot.
+Action 353: craft 200x wool-garments (recipe).
+Action 354: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 355: Sell 200 wool-garments for 11600 Enteloot.
+Action 356: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 357: Buy 600 sheep for 4800 Enteloot.
+Action 358: craft 200x wool-garments (recipe).
+Action 359: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 360: Sell 200 wool-garments for 11600 Enteloot.
+Action 361: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 362: Buy 600 sheep for 4800 Enteloot.
+Action 363: craft 200x wool-garments (recipe).
+Action 364: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 365: Sell 200 wool-garments for 11600 Enteloot.
+Action 366: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 367: Buy 600 sheep for 4800 Enteloot.
+Action 368: craft 200x wool-garments (recipe).
+Action 369: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 370: Sell 200 wool-garments for 11600 Enteloot.
+Action 371: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 372: Buy 600 sheep for 4800 Enteloot.
+Action 373: craft 200x wool-garments (recipe).
+Action 374: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 375: Sell 200 wool-garments for 11600 Enteloot.
+Action 376: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 377: Buy 600 sheep for 4800 Enteloot.
+Action 378: craft 200x wool-garments (recipe).
+Action 379: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 380: Sell 200 wool-garments for 11600 Enteloot.
+Action 381: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 382: Buy 600 sheep for 4800 Enteloot.
+Action 383: craft 200x wool-garments (recipe).
+Action 384: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 385: Sell 200 wool-garments for 11600 Enteloot.
+Action 386: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 387: Buy 600 sheep for 4800 Enteloot.
+Action 388: craft 200x wool-garments (recipe).
+Action 389: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 390: Sell 200 wool-garments for 11600 Enteloot.
+Action 391: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 392: Buy 600 sheep for 4800 Enteloot.
+Action 393: craft 200x wool-garments (recipe).
+Action 394: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 395: Sell 200 wool-garments for 11600 Enteloot.
+Action 396: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 397: Buy 600 sheep for 4800 Enteloot.
+Action 398: craft 200x wool-garments (recipe).
+Action 399: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 400: Sell 200 wool-garments for 11600 Enteloot.
+Action 401: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 402: Buy 600 sheep for 4800 Enteloot.
+Action 403: craft 200x wool-garments (recipe).
+Action 404: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 405: Sell 200 wool-garments for 11600 Enteloot.
+Action 406: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 407: Buy 600 sheep for 4800 Enteloot.
+Action 408: craft 200x wool-garments (recipe).
+Action 409: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 410: Sell 200 wool-garments for 11600 Enteloot.
+Action 411: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 412: Buy 600 sheep for 4800 Enteloot.
+Action 413: craft 200x wool-garments (recipe).
+Action 414: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 415: Sell 200 wool-garments for 11600 Enteloot.
+Action 416: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 417: Buy 600 sheep for 4800 Enteloot.
+Action 418: craft 200x wool-garments (recipe).
+Action 419: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 420: Sell 200 wool-garments for 11600 Enteloot.
+Action 421: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 422: Buy 600 sheep for 4800 Enteloot.
+Action 423: craft 200x wool-garments (recipe).
+Action 424: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 425: Sell 200 wool-garments for 11600 Enteloot.
+Action 426: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 427: Buy 600 sheep for 4800 Enteloot.
+Action 428: craft 200x wool-garments (recipe).
+Action 429: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 430: Sell 200 wool-garments for 11600 Enteloot.
+Action 431: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 432: Buy 600 sheep for 4800 Enteloot.
+Action 433: craft 200x wool-garments (recipe).
+Action 434: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 435: Sell 200 wool-garments for 11600 Enteloot.
+Action 436: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 437: Buy 600 sheep for 4800 Enteloot.
+Action 438: craft 200x wool-garments (recipe).
+Action 439: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 440: Sell 200 wool-garments for 11600 Enteloot.
+Action 441: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 442: Buy 600 sheep for 4800 Enteloot.
+Action 443: craft 200x wool-garments (recipe).
+Action 444: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 445: Sell 200 wool-garments for 11600 Enteloot.
+Action 446: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 447: Buy 600 sheep for 4800 Enteloot.
+Action 448: craft 200x wool-garments (recipe).
+Action 449: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 450: Sell 200 wool-garments for 11600 Enteloot.
+Action 451: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 452: Buy 600 sheep for 4800 Enteloot.
+Action 453: craft 200x wool-garments (recipe).
+Action 454: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 455: Sell 200 wool-garments for 11600 Enteloot.
+Action 456: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 457: Buy 600 sheep for 4800 Enteloot.
+Action 458: craft 200x wool-garments (recipe).
+Action 459: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 460: Sell 200 wool-garments for 11600 Enteloot.
+Action 461: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 462: Buy 600 sheep for 4800 Enteloot.
+Action 463: craft 200x wool-garments (recipe).
+Action 464: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 465: Sell 200 wool-garments for 11600 Enteloot.
+Action 466: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 467: Buy 600 sheep for 4800 Enteloot.
+Action 468: craft 200x wool-garments (recipe).
+Action 469: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 470: Sell 200 wool-garments for 11600 Enteloot.
+Action 471: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 472: Buy 600 sheep for 4800 Enteloot.
+Action 473: craft 200x wool-garments (recipe).
+Action 474: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 475: Sell 200 wool-garments for 11600 Enteloot.
+Action 476: Buy 2850 clay for 17100 Enteloot.
+Action 477: Travel to 'N15' (standard, 2 ticks, Toll 0).
+Action 478: gather 5 ore at 'N15' (3 ticks).
+Action 479: gather 5 ore at 'N15' (3 ticks).
+Action 480: gather 5 ore at 'N15' (3 ticks).
+Action 481: gather 5 ore at 'N15' (3 ticks).
+Action 482: gather 5 ore at 'N15' (3 ticks).
+Action 483: gather 5 ore at 'N15' (3 ticks).
+Action 484: gather 5 ore at 'N15' (3 ticks).
+Action 485: gather 5 ore at 'N15' (3 ticks).
+Action 486: gather 5 ore at 'N15' (3 ticks).
+Action 487: gather 5 ore at 'N15' (3 ticks).
+Action 488: gather 5 ore at 'N15' (3 ticks).
+Action 489: gather 5 ore at 'N15' (3 ticks).
+Action 490: gather 5 ore at 'N15' (3 ticks).
+Action 491: gather 5 ore at 'N15' (3 ticks).
+Action 492: gather 5 ore at 'N15' (3 ticks).
+Action 493: gather 5 ore at 'N15' (3 ticks).
+Action 494: gather 5 ore at 'N15' (3 ticks).
+Action 495: gather 5 ore at 'N15' (3 ticks).
+Action 496: gather 5 ore at 'N15' (3 ticks).
+Action 497: gather 5 ore at 'N15' (3 ticks).
+Action 498: gather 5 ore at 'N15' (3 ticks).
+Action 499: gather 5 ore at 'N15' (3 ticks).
+Action 500: gather 5 ore at 'N15' (3 ticks).
+Action 501: gather 5 ore at 'N15' (3 ticks).
+Action 502: gather 5 ore at 'N15' (3 ticks).
+Action 503: gather 5 ore at 'N15' (3 ticks).
+Action 504: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 505: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 506: Buy 784 sheep for 6272 Enteloot.
+Action 507: Travel to 'Ixtal' (standard, 2 ticks, Toll 0).
+Action 508: Buy 240 wheat for 960 Enteloot.
+Action 509: Travel to 'Thornwood' (fast, 2 ticks, Toll 75).
+Action 510: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 511: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 512: Travel to 'Bilgewater' (standard, 2 ticks, Toll 0).
+Action 513: Buy 1770 stone for 8850 Enteloot.
+Action 514: Travel to 'Borealis' (standard, 5 ticks, Toll 0).
+Action 515: Travel to 'Stormgate' (fast, 3 ticks, Toll 30).
+Action 516: Buy 2048 wood for 10240 Enteloot.
+Action 517: Travel to 'Borealis' (fast, 3 ticks, Toll 30).
+Action 518: craft 692x planks (component).
+Action 519: craft 120x thatch (component).
+Action 520: craft 392x rope (component).
+Action 521: craft 870x mortar (component).
+Action 522: craft 300x stone-blocks (component).
+Action 523: craft 120x kiln-glass (component).
+Action 524: craft 64x iron-fittings (component).
+Action 525: craft 180x fencing (component).
+Action 526: craft 870x bricks (component).
+Action 527: craft 60x nets (component).
+Action 528: craft 1x boots (tool).
+Action 529: craft 1x pickaxe (tool).
+Action 530: Build 'pottery-house' in 'Borealis'.
+Action 531: Build 'farmhouse' in 'Borealis'.
+Action 532: Build 'rec-center' in 'Borealis'.
+Action 533: Build 'fire-station' in 'Borealis'.
+Action 534: Build 'school' in 'Borealis'.
+Action 535: Build 'police-station' in 'Borealis'.
+Action 536: Build 'library' in 'Borealis'.
+Action 537: Build 'fertilised-fields' in 'Borealis'.
+Action 538: Build 'woodlands' in 'Borealis'.
+Action 539: Build 'pier' in 'Borealis'.
+Action 540: Build 'quarry' in 'Borealis'.
+Action 541: Travel to 'Stormgate' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 542: Build 'woodlands' in 'Stormgate'.
+Action 543: Build 'pier' in 'Stormgate'.
+Action 544: Build 'rec-center' in 'Stormgate'.
+Action 545: Build 'fire-station' in 'Stormgate'.
+Action 546: Build 'school' in 'Stormgate'.
+Action 547: Build 'police-station' in 'Stormgate'.
+Action 548: Build 'library' in 'Stormgate'.
+Action 549: Build 'farmhouse' in 'Stormgate'.
+Action 550: Build 'fertilised-fields' in 'Stormgate'.
+Action 551: Build 'quarry' in 'Stormgate'.
+Action 552: Build 'pottery-house' in 'Stormgate'.
+Action 553: Travel to 'Ravensford' (fast, 3 ticks, Toll 50, boots reduced ticks from 4 to 3).
+Action 554: Travel to 'Oakhaven' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 555: Build 'quarry' in 'Oakhaven'.
+Action 556: Build 'farmhouse' in 'Oakhaven'.
+Action 557: Build 'rec-center' in 'Oakhaven'.
+Action 558: Build 'fire-station' in 'Oakhaven'.
+Action 559: Build 'school' in 'Oakhaven'.
+Action 560: Build 'police-station' in 'Oakhaven'.
+Action 561: Build 'library' in 'Oakhaven'.
+Action 562: Build 'fertilised-fields' in 'Oakhaven'.
+Action 563: Build 'woodlands' in 'Oakhaven'.
+Action 564: Build 'pier' in 'Oakhaven'.
+Action 565: Build 'pottery-house' in 'Oakhaven'.
+Action 566: Travel to 'Ravensford' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 567: Build 'woodlands' in 'Ravensford'.
+Action 568: Build 'pottery-house' in 'Ravensford'.
+Action 569: Build 'rec-center' in 'Ravensford'.
+Action 570: Build 'fire-station' in 'Ravensford'.
+Action 571: Build 'school' in 'Ravensford'.
+Action 572: Build 'police-station' in 'Ravensford'.
+Action 573: Build 'library' in 'Ravensford'.
+Action 574: Build 'farmhouse' in 'Ravensford'.
+Action 575: Build 'fertilised-fields' in 'Ravensford'.
+Action 576: Build 'pier' in 'Ravensford'.
+Action 577: Build 'quarry' in 'Ravensford'.
+Action 578: Travel to 'Windmere' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 579: Build 'fertilised-fields' in 'Windmere'.
+Action 580: Build 'pier' in 'Windmere'.
+Action 581: Build 'rec-center' in 'Windmere'.
+Action 582: Build 'fire-station' in 'Windmere'.
+Action 583: Build 'school' in 'Windmere'.
+Action 584: Build 'police-station' in 'Windmere'.
+Action 585: Build 'library' in 'Windmere'.
+Action 586: Build 'farmhouse' in 'Windmere'.
+Action 587: Build 'woodlands' in 'Windmere'.
+Action 588: Build 'quarry' in 'Windmere'.
+Action 589: Build 'pottery-house' in 'Windmere'.
+Action 590: Travel to 'N7' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 591: Travel to 'N26' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 592: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 593: Build 'quarry' in 'Demacia'.
+Action 594: Build 'farmhouse' in 'Demacia'.
+Action 595: Build 'rec-center' in 'Demacia'.
+Action 596: Build 'fire-station' in 'Demacia'.
+Action 597: Build 'school' in 'Demacia'.
+Action 598: Build 'police-station' in 'Demacia'.
+Action 599: Build 'library' in 'Demacia'.
+Action 600: Build 'fertilised-fields' in 'Demacia'.
+Action 601: Build 'woodlands' in 'Demacia'.
+Action 602: Build 'pier' in 'Demacia'.
+Action 603: Build 'pottery-house' in 'Demacia'.
+Action 604: Travel to 'Marrowfen' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 605: Travel to 'Northwind' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 606: Build 'pier' in 'Northwind'.
+Action 607: Build 'farmhouse' in 'Northwind'.
+Action 608: Build 'rec-center' in 'Northwind'.
+Action 609: Build 'fire-station' in 'Northwind'.
+Action 610: Build 'school' in 'Northwind'.
+Action 611: Build 'police-station' in 'Northwind'.
+Action 612: Build 'library' in 'Northwind'.
+Action 613: Build 'fertilised-fields' in 'Northwind'.
+Action 614: Build 'woodlands' in 'Northwind'.
+Action 615: Build 'quarry' in 'Northwind'.
+Action 616: Build 'pottery-house' in 'Northwind'.
+Action 617: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 618: Travel to 'Ionia' (fast, 2 ticks, Toll 100, boots reduced ticks from 3 to 2).
+Action 619: Build 'fertilised-fields' in 'Ionia'.
+Action 620: Build 'pier' in 'Ionia'.
+Action 621: Build 'rec-center' in 'Ionia'.
+Action 622: Build 'fire-station' in 'Ionia'.
+Action 623: Build 'school' in 'Ionia'.
+Action 624: Build 'police-station' in 'Ionia'.
+Action 625: Build 'library' in 'Ionia'.
+Action 626: Build 'farmhouse' in 'Ionia'.
+Action 627: Build 'woodlands' in 'Ionia'.
+Action 628: Build 'quarry' in 'Ionia'.
+Action 629: Build 'pottery-house' in 'Ionia'.
+Action 630: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 631: Build 'fertilised-fields' in 'Evermoor'.
+Action 632: Build 'pottery-house' in 'Evermoor'.
+Action 633: Build 'rec-center' in 'Evermoor'.
+Action 634: Build 'fire-station' in 'Evermoor'.
+Action 635: Build 'school' in 'Evermoor'.
+Action 636: Build 'police-station' in 'Evermoor'.
+Action 637: Build 'library' in 'Evermoor'.
+Action 638: Build 'farmhouse' in 'Evermoor'.
+Action 639: Build 'woodlands' in 'Evermoor'.
+Action 640: Build 'pier' in 'Evermoor'.
+Action 641: Build 'quarry' in 'Evermoor'.
+Action 642: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 643: Travel to 'Yarrowdale' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 644: Build 'farmhouse' in 'Yarrowdale'.
+Action 645: Build 'quarry' in 'Yarrowdale'.
+Action 646: Build 'rec-center' in 'Yarrowdale'.
+Action 647: Build 'fire-station' in 'Yarrowdale'.
+Action 648: Build 'school' in 'Yarrowdale'.
+Action 649: Build 'police-station' in 'Yarrowdale'.
+Action 650: Build 'library' in 'Yarrowdale'.
+Action 651: Build 'fertilised-fields' in 'Yarrowdale'.
+Action 652: Build 'woodlands' in 'Yarrowdale'.
+Action 653: Build 'pier' in 'Yarrowdale'.
+Action 654: Build 'pottery-house' in 'Yarrowdale'.
+Action 655: Travel to 'Shurima' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 656: Build 'quarry' in 'Shurima'.
+Action 657: Build 'farmhouse' in 'Shurima'.
+Action 658: Build 'rec-center' in 'Shurima'.
+Action 659: Build 'fire-station' in 'Shurima'.
+Action 660: Build 'school' in 'Shurima'.
+Action 661: Build 'police-station' in 'Shurima'.
+Action 662: Build 'library' in 'Shurima'.
+Action 663: Build 'fertilised-fields' in 'Shurima'.
+Action 664: Build 'woodlands' in 'Shurima'.
+Action 665: Build 'pier' in 'Shurima'.
+Action 666: Build 'pottery-house' in 'Shurima'.
+Action 667: Travel to 'Yarrowdale' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 668: Travel to 'N5' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 669: Travel to 'Zaun' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 670: Build 'farmhouse' in 'Zaun'.
+Action 671: Build 'fertilised-fields' in 'Zaun'.
+Action 672: Build 'rec-center' in 'Zaun'.
+Action 673: Build 'fire-station' in 'Zaun'.
+Action 674: Build 'school' in 'Zaun'.
+Action 675: Build 'police-station' in 'Zaun'.
+Action 676: Build 'library' in 'Zaun'.
+Action 677: Build 'woodlands' in 'Zaun'.
+Action 678: Build 'pier' in 'Zaun'.
+Action 679: Build 'quarry' in 'Zaun'.
+Action 680: Build 'pottery-house' in 'Zaun'.
+Action 681: Travel to 'N5' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 682: Travel to 'Valcrest' (standard, 1 ticks, Toll 0).
+Action 683: Build 'quarry' in 'Valcrest'.
+Action 684: Build 'farmhouse' in 'Valcrest'.
+Action 685: Build 'rec-center' in 'Valcrest'.
+Action 686: Build 'fire-station' in 'Valcrest'.
+Action 687: Build 'school' in 'Valcrest'.
+Action 688: Build 'police-station' in 'Valcrest'.
+Action 689: Build 'library' in 'Valcrest'.
+Action 690: Build 'fertilised-fields' in 'Valcrest'.
+Action 691: Build 'woodlands' in 'Valcrest'.
+Action 692: Build 'pier' in 'Valcrest'.
+Action 693: Build 'pottery-house' in 'Valcrest'.
+Action 694: Travel to 'N3' (fast, 1 ticks, Toll 30, boots reduced ticks from 2 to 1).
+Action 695: Travel to 'Umberford' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 696: Build 'farmhouse' in 'Umberford'.
+Action 697: Build 'fertilised-fields' in 'Umberford'.
+Action 698: Build 'rec-center' in 'Umberford'.
+Action 699: Build 'fire-station' in 'Umberford'.
+Action 700: Build 'school' in 'Umberford'.
+Action 701: Build 'police-station' in 'Umberford'.
+Action 702: Build 'library' in 'Umberford'.
+Action 703: Build 'woodlands' in 'Umberford'.
+Action 704: Build 'pier' in 'Umberford'.
+Action 705: Build 'quarry' in 'Umberford'.
+Action 706: Build 'pottery-house' in 'Umberford'.
+Action 707: Travel to 'Lumenvale' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 708: Build 'farmhouse' in 'Lumenvale'.
+Action 709: Build 'fertilised-fields' in 'Lumenvale'.
+Action 710: Build 'rec-center' in 'Lumenvale'.
+Action 711: Build 'fire-station' in 'Lumenvale'.
+Action 712: Build 'school' in 'Lumenvale'.
+Action 713: Build 'police-station' in 'Lumenvale'.
+Action 714: Build 'library' in 'Lumenvale'.
+Action 715: Build 'woodlands' in 'Lumenvale'.
+Action 716: Build 'pier' in 'Lumenvale'.
+Action 717: Build 'quarry' in 'Lumenvale'.
+Action 718: Build 'pottery-house' in 'Lumenvale'.
+Action 719: Travel to 'Umberford' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 720: Travel to 'N3' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 721: Travel to 'N16' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 722: Travel to 'Bilgewater' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 723: Build 'quarry' in 'Bilgewater'.
+Action 724: Build 'farmhouse' in 'Bilgewater'.
+Action 725: Build 'rec-center' in 'Bilgewater'.
+Action 726: Build 'fire-station' in 'Bilgewater'.
+Action 727: Build 'school' in 'Bilgewater'.
+Action 728: Build 'police-station' in 'Bilgewater'.
+Action 729: Build 'library' in 'Bilgewater'.
+Action 730: Build 'fertilised-fields' in 'Bilgewater'.
+Action 731: Build 'woodlands' in 'Bilgewater'.
+Action 732: Build 'pier' in 'Bilgewater'.
+Action 733: Build 'pottery-house' in 'Bilgewater'.
+Action 734: Travel to 'Noxus' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 735: Build 'pier' in 'Noxus'.
+Action 736: Build 'farmhouse' in 'Noxus'.
+Action 737: Build 'rec-center' in 'Noxus'.
+Action 738: Build 'fire-station' in 'Noxus'.
+Action 739: Build 'school' in 'Noxus'.
+Action 740: Build 'police-station' in 'Noxus'.
+Action 741: Build 'library' in 'Noxus'.
+Action 742: Build 'fertilised-fields' in 'Noxus'.
+Action 743: Build 'woodlands' in 'Noxus'.
+Action 744: Build 'quarry' in 'Noxus'.
+Action 745: Build 'pottery-house' in 'Noxus'.
+Action 746: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 747: Build 'fertilised-fields' in 'Marrowfen'.
+Action 748: Build 'quarry' in 'Marrowfen'.
+Action 749: Build 'rec-center' in 'Marrowfen'.
+Action 750: Build 'fire-station' in 'Marrowfen'.
+Action 751: Build 'school' in 'Marrowfen'.
+Action 752: Build 'police-station' in 'Marrowfen'.
+Action 753: Build 'library' in 'Marrowfen'.
+Action 754: Build 'farmhouse' in 'Marrowfen'.
+Action 755: Build 'woodlands' in 'Marrowfen'.
+Action 756: Build 'pier' in 'Marrowfen'.
+Action 757: Build 'pottery-house' in 'Marrowfen'.
+Action 758: Travel to 'Ironhold' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 759: Build 'farmhouse' in 'Ironhold'.
+Action 760: Build 'fertilised-fields' in 'Ironhold'.
+Action 761: Build 'rec-center' in 'Ironhold'.
+Action 762: Build 'fire-station' in 'Ironhold'.
+Action 763: Build 'school' in 'Ironhold'.
+Action 764: Build 'police-station' in 'Ironhold'.
+Action 765: Build 'library' in 'Ironhold'.
+Action 766: Build 'woodlands' in 'Ironhold'.
+Action 767: Build 'pier' in 'Ironhold'.
+Action 768: Build 'quarry' in 'Ironhold'.
+Action 769: Build 'pottery-house' in 'Ironhold'.
+Action 770: Travel to 'N24' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 771: Travel to 'Aurora' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 772: Build 'pottery-house' in 'Aurora'.
+Action 773: Build 'farmhouse' in 'Aurora'.
+Action 774: Build 'rec-center' in 'Aurora'.
+Action 775: Build 'fire-station' in 'Aurora'.
+Action 776: Build 'school' in 'Aurora'.
+Action 777: Build 'police-station' in 'Aurora'.
+Action 778: Build 'library' in 'Aurora'.
+Action 779: Build 'fertilised-fields' in 'Aurora'.
+Action 780: Build 'woodlands' in 'Aurora'.
+Action 781: Build 'pier' in 'Aurora'.
+Action 782: Build 'quarry' in 'Aurora'.
+Action 783: Travel to 'Questral' (standard, 1 ticks, Toll 0).
+Action 784: Build 'farmhouse' in 'Questral'.
+Action 785: Build 'fertilised-fields' in 'Questral'.
+Action 786: Build 'rec-center' in 'Questral'.
+Action 787: Build 'fire-station' in 'Questral'.
+Action 788: Build 'school' in 'Questral'.
+Action 789: Build 'police-station' in 'Questral'.
+Action 790: Build 'library' in 'Questral'.
+Action 791: Build 'woodlands' in 'Questral'.
+Action 792: Build 'pier' in 'Questral'.
+Action 793: Build 'quarry' in 'Questral'.
+Action 794: Build 'pottery-house' in 'Questral'.
+Action 795: Travel to 'Ixtal' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 796: Build 'fertilised-fields' in 'Ixtal'.
+Action 797: Build 'pier' in 'Ixtal'.
+Action 798: Build 'rec-center' in 'Ixtal'.
+Action 799: Build 'fire-station' in 'Ixtal'.
+Action 800: Build 'school' in 'Ixtal'.
+Action 801: Build 'police-station' in 'Ixtal'.
+Action 802: Build 'library' in 'Ixtal'.
+Action 803: Build 'farmhouse' in 'Ixtal'.
+Action 804: Build 'woodlands' in 'Ixtal'.
+Action 805: Build 'quarry' in 'Ixtal'.
+Action 806: Build 'pottery-house' in 'Ixtal'.
+Action 807: Travel to 'Thornwood' (fast, 1 ticks, Toll 75, boots reduced ticks from 2 to 1).
+Action 808: Build 'pier' in 'Thornwood'.
+Action 809: Build 'farmhouse' in 'Thornwood'.
+Action 810: Build 'rec-center' in 'Thornwood'.
+Action 811: Build 'fire-station' in 'Thornwood'.
+Action 812: Build 'school' in 'Thornwood'.
+Action 813: Build 'police-station' in 'Thornwood'.
+Action 814: Build 'library' in 'Thornwood'.
+Action 815: Build 'fertilised-fields' in 'Thornwood'.
+Action 816: Build 'woodlands' in 'Thornwood'.
+Action 817: Build 'quarry' in 'Thornwood'.
+Action 818: Build 'pottery-house' in 'Thornwood'.
+Action 819: Travel to 'Targon' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 820: Build 'woodlands' in 'Targon'.
+Action 821: Build 'pier' in 'Targon'.
+Action 822: Build 'rec-center' in 'Targon'.
+Action 823: Build 'fire-station' in 'Targon'.
+Action 824: Build 'school' in 'Targon'.
+Action 825: Build 'police-station' in 'Targon'.
+Action 826: Build 'library' in 'Targon'.
+Action 827: Build 'farmhouse' in 'Targon'.
+Action 828: Build 'fertilised-fields' in 'Targon'.
+Action 829: Build 'quarry' in 'Targon'.
+Action 830: Build 'pottery-house' in 'Targon'.
+Action 831: Travel to 'Thornwood' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 832: Travel to 'Piltover' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 833: Build 'woodlands' in 'Piltover'.
+Action 834: Build 'farmhouse' in 'Piltover'.
+Action 835: Build 'rec-center' in 'Piltover'.
+Action 836: Build 'fire-station' in 'Piltover'.
+Action 837: Build 'school' in 'Piltover'.
+Action 838: Build 'police-station' in 'Piltover'.
+Action 839: Build 'library' in 'Piltover'.
+Action 840: Build 'fertilised-fields' in 'Piltover'.
+Action 841: Build 'pier' in 'Piltover'.
+Action 842: Build 'quarry' in 'Piltover'.
+Action 843: Build 'pottery-house' in 'Piltover'.
+Action 844: Travel to 'N2' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 845: Travel to 'Bandle' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 846: Build 'woodlands' in 'Bandle'.
+Action 847: Build 'pier' in 'Bandle'.
+Action 848: Build 'rec-center' in 'Bandle'.
+Action 849: Build 'fire-station' in 'Bandle'.
+Action 850: Build 'school' in 'Bandle'.
+Action 851: Build 'police-station' in 'Bandle'.
+Action 852: Build 'library' in 'Bandle'.
+Action 853: Build 'farmhouse' in 'Bandle'.
+Action 854: Build 'fertilised-fields' in 'Bandle'.
+Action 855: Build 'quarry' in 'Bandle'.
+Action 856: Build 'pottery-house' in 'Bandle'.
+Action 857: Travel to 'Pinecliff' (fast, 4 ticks, Toll 100, boots reduced ticks from 5 to 4).
+Action 858: Build 'pier' in 'Pinecliff'.
+Action 859: Build 'farmhouse' in 'Pinecliff'.
+Action 860: Build 'rec-center' in 'Pinecliff'.
+Action 861: Build 'fire-station' in 'Pinecliff'.
+Action 862: Build 'school' in 'Pinecliff'.
+Action 863: Build 'police-station' in 'Pinecliff'.
+Action 864: Build 'library' in 'Pinecliff'.
+Action 865: Build 'fertilised-fields' in 'Pinecliff'.
+Action 866: Build 'woodlands' in 'Pinecliff'.
+Action 867: Build 'quarry' in 'Pinecliff'.
+Action 868: Build 'pottery-house' in 'Pinecliff'.
+Action 869: Travel to 'Bandle' (fast, 4 ticks, Toll 100, boots reduced ticks from 5 to 4).
+Action 870: Travel to 'N7' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 871: Travel to 'Windmere' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 872: Travel to 'Highgarden' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 873: Build 'farmhouse' in 'Highgarden'.
+Action 874: Build 'fertilised-fields' in 'Highgarden'.
+Action 875: Build 'rec-center' in 'Highgarden'.
+Action 876: Build 'fire-station' in 'Highgarden'.
+Action 877: Build 'school' in 'Highgarden'.
+Action 878: Build 'police-station' in 'Highgarden'.
+Action 879: Build 'library' in 'Highgarden'.
+Action 880: Build 'woodlands' in 'Highgarden'.
+Action 881: Build 'pier' in 'Highgarden'.
+Action 882: Build 'quarry' in 'Highgarden'.
+Action 883: Build 'pottery-house' in 'Highgarden'.
+Action 884: Travel to 'N14' (fast, 3 ticks, Toll 75, boots reduced ticks from 4 to 3).
+Action 885: Travel to 'Freljord' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 886: Build 'woodlands' in 'Freljord'.
+Action 887: Build 'farmhouse' in 'Freljord'.
+Action 888: Build 'rec-center' in 'Freljord'.
+Action 889: Build 'fire-station' in 'Freljord'.
+Action 890: Build 'school' in 'Freljord'.
+Action 891: Build 'police-station' in 'Freljord'.
+Action 892: Build 'library' in 'Freljord'.
+Action 893: Build 'fertilised-fields' in 'Freljord'.
+Action 894: Build 'pier' in 'Freljord'.
+Action 895: Build 'quarry' in 'Freljord'.
+Action 896: Build 'pottery-house' in 'Freljord'.
+Action 897: Travel to 'N14' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 898: Travel to 'N10' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 899: Travel to 'Karthus' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 900: Build 'fertilised-fields' in 'Karthus'.
+Action 901: Build 'pottery-house' in 'Karthus'.
+Action 902: Build 'rec-center' in 'Karthus'.
+Action 903: Build 'fire-station' in 'Karthus'.
+Action 904: Build 'school' in 'Karthus'.
+Action 905: Build 'police-station' in 'Karthus'.
+Action 906: Build 'library' in 'Karthus'.
+Action 907: Build 'farmhouse' in 'Karthus'.
+Action 908: Build 'woodlands' in 'Karthus'.
+Action 909: Build 'pier' in 'Karthus'.
+Action 910: Build 'quarry' in 'Karthus'.
+Action 911: Travel to 'N10' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 912: Travel to 'Borealis' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 913: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 914: Buy 600 sheep for 4800 Enteloot.
+Action 915: craft 200x wool-garments (recipe).
+Action 916: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 917: Sell 200 wool-garments for 11600 Enteloot.
+Action 918: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 919: Buy 600 sheep for 4800 Enteloot.
+Action 920: craft 200x wool-garments (recipe).
+Action 921: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 922: Sell 200 wool-garments for 11600 Enteloot.
+Action 923: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 924: Buy 600 sheep for 4800 Enteloot.
+Action 925: craft 200x wool-garments (recipe).
+Action 926: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 927: Sell 200 wool-garments for 11600 Enteloot.
+Action 928: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 929: Buy 600 sheep for 4800 Enteloot.
+Action 930: craft 200x wool-garments (recipe).
+Action 931: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 932: Sell 200 wool-garments for 11600 Enteloot.
+Action 933: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 934: Buy 600 sheep for 4800 Enteloot.
+Action 935: craft 200x wool-garments (recipe).
+Action 936: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 937: Sell 200 wool-garments for 11600 Enteloot.
+Action 938: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 939: Buy 600 sheep for 4800 Enteloot.
+Action 940: craft 200x wool-garments (recipe).
+Action 941: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 942: Sell 200 wool-garments for 11600 Enteloot.
+Action 943: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 944: Buy 600 sheep for 4800 Enteloot.
+Action 945: craft 200x wool-garments (recipe).
+Action 946: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 947: Sell 200 wool-garments for 11600 Enteloot.
+Action 948: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 949: Buy 600 sheep for 4800 Enteloot.
+Action 950: craft 200x wool-garments (recipe).
+Action 951: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 952: Sell 200 wool-garments for 11600 Enteloot.
+Action 953: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 954: Buy 600 sheep for 4800 Enteloot.
+Action 955: craft 200x wool-garments (recipe).
+Action 956: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 957: Sell 200 wool-garments for 11600 Enteloot.
+Action 958: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 959: Buy 600 sheep for 4800 Enteloot.
+Action 960: craft 200x wool-garments (recipe).
+Action 961: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 962: Sell 200 wool-garments for 11600 Enteloot.
+Action 963: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 964: Buy 600 sheep for 4800 Enteloot.
+Action 965: craft 200x wool-garments (recipe).
+Action 966: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 967: Sell 200 wool-garments for 11600 Enteloot.
+Action 968: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 969: Buy 600 sheep for 4800 Enteloot.
+Action 970: craft 200x wool-garments (recipe).
+Action 971: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 972: Sell 200 wool-garments for 11600 Enteloot.
+Action 973: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 974: Buy 600 sheep for 4800 Enteloot.
+Action 975: craft 200x wool-garments (recipe).
+Action 976: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 977: Sell 200 wool-garments for 11600 Enteloot.
+Action 978: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 979: Buy 600 sheep for 4800 Enteloot.
+Action 980: craft 200x wool-garments (recipe).
+Action 981: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 982: Sell 200 wool-garments for 11600 Enteloot.
+Action 983: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 984: Buy 600 sheep for 4800 Enteloot.
+Action 985: craft 200x wool-garments (recipe).
+Action 986: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 987: Sell 200 wool-garments for 11600 Enteloot.
+Action 988: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 989: Buy 600 sheep for 4800 Enteloot.
+Action 990: craft 200x wool-garments (recipe).
+Action 991: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 992: Sell 200 wool-garments for 11600 Enteloot.
+Action 993: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 994: Buy 600 sheep for 4800 Enteloot.
+Action 995: craft 200x wool-garments (recipe).
+Action 996: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 997: Sell 200 wool-garments for 11600 Enteloot.
+Action 998: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 999: Buy 600 sheep for 4800 Enteloot.
+Action 1000: craft 200x wool-garments (recipe).
+Action 1001: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1002: Sell 200 wool-garments for 11600 Enteloot.
+Action 1003: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1004: Buy 600 sheep for 4800 Enteloot.
+Action 1005: craft 200x wool-garments (recipe).
+Action 1006: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1007: Sell 200 wool-garments for 11600 Enteloot.
+Action 1008: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1009: Buy 600 sheep for 4800 Enteloot.
+Action 1010: craft 200x wool-garments (recipe).
+Action 1011: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1012: Sell 200 wool-garments for 11600 Enteloot.
+Action 1013: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1014: Buy 600 sheep for 4800 Enteloot.
+Action 1015: craft 200x wool-garments (recipe).
+Action 1016: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1017: Sell 200 wool-garments for 11600 Enteloot.
+Action 1018: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1019: Buy 600 sheep for 4800 Enteloot.
+Action 1020: craft 200x wool-garments (recipe).
+Action 1021: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1022: Sell 200 wool-garments for 11600 Enteloot.
+Action 1023: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1024: Buy 600 sheep for 4800 Enteloot.
+Action 1025: craft 200x wool-garments (recipe).
+Action 1026: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1027: Sell 200 wool-garments for 11600 Enteloot.
+Action 1028: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1029: Buy 600 sheep for 4800 Enteloot.
+Action 1030: craft 200x wool-garments (recipe).
+Action 1031: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1032: Sell 200 wool-garments for 11600 Enteloot.
+Action 1033: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1034: Buy 600 sheep for 4800 Enteloot.
+Action 1035: craft 200x wool-garments (recipe).
+Action 1036: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1037: Sell 200 wool-garments for 11600 Enteloot.
+Action 1038: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1039: Buy 600 sheep for 4800 Enteloot.
+Action 1040: craft 200x wool-garments (recipe).
+Action 1041: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1042: Sell 200 wool-garments for 11600 Enteloot.
+Action 1043: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1044: Buy 600 sheep for 4800 Enteloot.
+Action 1045: craft 200x wool-garments (recipe).
+Action 1046: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1047: Sell 200 wool-garments for 11600 Enteloot.
+Action 1048: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1049: Buy 600 sheep for 4800 Enteloot.
+Action 1050: craft 200x wool-garments (recipe).
+Action 1051: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1052: Sell 200 wool-garments for 11600 Enteloot.
+Action 1053: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1054: Buy 600 sheep for 4800 Enteloot.
+Action 1055: craft 200x wool-garments (recipe).
+Action 1056: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1057: Sell 200 wool-garments for 11600 Enteloot.
+Action 1058: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1059: Buy 600 sheep for 4800 Enteloot.
+Action 1060: craft 200x wool-garments (recipe).
+Action 1061: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1062: Sell 200 wool-garments for 11600 Enteloot.
+Action 1063: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1064: Buy 600 sheep for 4800 Enteloot.
+Action 1065: craft 200x wool-garments (recipe).
+Action 1066: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1067: Sell 200 wool-garments for 11600 Enteloot.
+Action 1068: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1069: Buy 600 sheep for 4800 Enteloot.
+Action 1070: craft 200x wool-garments (recipe).
+Action 1071: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1072: Sell 200 wool-garments for 11600 Enteloot.
+Action 1073: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1074: Buy 600 sheep for 4800 Enteloot.
+Action 1075: craft 200x wool-garments (recipe).
+Action 1076: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1077: Sell 200 wool-garments for 11600 Enteloot.
+Action 1078: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1079: Buy 600 sheep for 4800 Enteloot.
+Action 1080: craft 200x wool-garments (recipe).
+Action 1081: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1082: Sell 200 wool-garments for 11600 Enteloot.
+Action 1083: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1084: Buy 600 sheep for 4800 Enteloot.
+Action 1085: craft 200x wool-garments (recipe).
+Action 1086: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1087: Sell 200 wool-garments for 11600 Enteloot.
+Action 1088: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1089: Buy 600 sheep for 4800 Enteloot.
+Action 1090: craft 200x wool-garments (recipe).
+Action 1091: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1092: Sell 200 wool-garments for 11600 Enteloot.
+Action 1093: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1094: Buy 600 sheep for 4800 Enteloot.
+Action 1095: craft 200x wool-garments (recipe).
+Action 1096: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1097: Sell 200 wool-garments for 11600 Enteloot.
+Action 1098: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1099: Buy 600 sheep for 4800 Enteloot.
+Action 1100: craft 200x wool-garments (recipe).
+Action 1101: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1102: Sell 200 wool-garments for 11600 Enteloot.
+Action 1103: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1104: Buy 600 sheep for 4800 Enteloot.
+Action 1105: craft 200x wool-garments (recipe).
+Action 1106: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1107: Sell 200 wool-garments for 11600 Enteloot.
+Action 1108: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1109: Buy 600 sheep for 4800 Enteloot.
+Action 1110: craft 200x wool-garments (recipe).
+Action 1111: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1112: Sell 200 wool-garments for 11600 Enteloot.
+Action 1113: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1114: Buy 600 sheep for 4800 Enteloot.
+Action 1115: craft 200x wool-garments (recipe).
+Action 1116: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1117: Sell 200 wool-garments for 11600 Enteloot.
+Action 1118: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1119: Buy 600 sheep for 4800 Enteloot.
+Action 1120: craft 200x wool-garments (recipe).
+Action 1121: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1122: Sell 200 wool-garments for 11600 Enteloot.
+Action 1123: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1124: Buy 600 sheep for 4800 Enteloot.
+Action 1125: craft 200x wool-garments (recipe).
+Action 1126: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1127: Sell 200 wool-garments for 11600 Enteloot.
+Action 1128: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1129: Buy 600 sheep for 4800 Enteloot.
+Action 1130: craft 200x wool-garments (recipe).
+Action 1131: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1132: Sell 200 wool-garments for 11600 Enteloot.
+Action 1133: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1134: Buy 600 sheep for 4800 Enteloot.
+Action 1135: craft 200x wool-garments (recipe).
+Action 1136: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1137: Sell 200 wool-garments for 11600 Enteloot.
+Action 1138: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1139: Buy 600 sheep for 4800 Enteloot.
+Action 1140: craft 200x wool-garments (recipe).
+Action 1141: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1142: Sell 200 wool-garments for 11600 Enteloot.
+Action 1143: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1144: Buy 600 sheep for 4800 Enteloot.
+Action 1145: craft 200x wool-garments (recipe).
+Action 1146: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1147: Sell 200 wool-garments for 11600 Enteloot.
+Action 1148: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1149: Buy 600 sheep for 4800 Enteloot.
+Action 1150: craft 200x wool-garments (recipe).
+Action 1151: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1152: Sell 200 wool-garments for 11600 Enteloot.
+Action 1153: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1154: Buy 600 sheep for 4800 Enteloot.
+Action 1155: craft 200x wool-garments (recipe).
+Action 1156: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1157: Sell 200 wool-garments for 11600 Enteloot.
+Action 1158: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1159: Buy 600 sheep for 4800 Enteloot.
+Action 1160: craft 200x wool-garments (recipe).
+Action 1161: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1162: Sell 200 wool-garments for 11600 Enteloot.
+Action 1163: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1164: Buy 600 sheep for 4800 Enteloot.
+Action 1165: craft 200x wool-garments (recipe).
+Action 1166: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1167: Sell 200 wool-garments for 11600 Enteloot.
+Action 1168: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1169: Buy 600 sheep for 4800 Enteloot.
+Action 1170: craft 200x wool-garments (recipe).
+Action 1171: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1172: Sell 200 wool-garments for 11600 Enteloot.
+Action 1173: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1174: Buy 600 sheep for 4800 Enteloot.
+Action 1175: craft 200x wool-garments (recipe).
+Action 1176: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1177: Sell 200 wool-garments for 11600 Enteloot.
+Action 1178: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1179: Buy 600 sheep for 4800 Enteloot.
+Action 1180: craft 200x wool-garments (recipe).
+Action 1181: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1182: Sell 200 wool-garments for 11600 Enteloot.
+Action 1183: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1184: Buy 600 sheep for 4800 Enteloot.
+Action 1185: craft 200x wool-garments (recipe).
+Action 1186: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1187: Sell 200 wool-garments for 11600 Enteloot.
+Action 1188: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1189: Buy 600 sheep for 4800 Enteloot.
+Action 1190: craft 200x wool-garments (recipe).
+Action 1191: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1192: Sell 200 wool-garments for 11600 Enteloot.
+Action 1193: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1194: Buy 600 sheep for 4800 Enteloot.
+Action 1195: craft 200x wool-garments (recipe).
+Action 1196: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1197: Sell 200 wool-garments for 11600 Enteloot.
+Action 1198: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1199: Buy 600 sheep for 4800 Enteloot.
+Action 1200: craft 200x wool-garments (recipe).
+Action 1201: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1202: Sell 200 wool-garments for 11600 Enteloot.
+Action 1203: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1204: Buy 600 sheep for 4800 Enteloot.
+Action 1205: craft 200x wool-garments (recipe).
+Action 1206: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1207: Sell 200 wool-garments for 11600 Enteloot.
+Action 1208: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1209: Buy 600 sheep for 4800 Enteloot.
+Action 1210: craft 200x wool-garments (recipe).
+Action 1211: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1212: Sell 200 wool-garments for 11600 Enteloot.
+Action 1213: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1214: Buy 600 sheep for 4800 Enteloot.
+Action 1215: craft 200x wool-garments (recipe).
+Action 1216: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1217: Sell 200 wool-garments for 11600 Enteloot.
+Action 1218: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1219: Buy 600 sheep for 4800 Enteloot.
+Action 1220: craft 200x wool-garments (recipe).
+Action 1221: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1222: Sell 200 wool-garments for 11600 Enteloot.
+Action 1223: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1224: Buy 600 sheep for 4800 Enteloot.
+Action 1225: craft 200x wool-garments (recipe).
+Action 1226: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1227: Sell 200 wool-garments for 11600 Enteloot.
+Action 1228: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1229: Buy 600 sheep for 4800 Enteloot.
+Action 1230: craft 200x wool-garments (recipe).
+Action 1231: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1232: Sell 200 wool-garments for 11600 Enteloot.
+Action 1233: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1234: Buy 600 sheep for 4800 Enteloot.
+Action 1235: craft 200x wool-garments (recipe).
+Action 1236: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1237: Sell 200 wool-garments for 11600 Enteloot.
+Action 1238: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1239: Buy 600 sheep for 4800 Enteloot.
+Action 1240: craft 200x wool-garments (recipe).
+Action 1241: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1242: Sell 200 wool-garments for 11600 Enteloot.
+Action 1243: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1244: Buy 600 sheep for 4800 Enteloot.
+Action 1245: craft 200x wool-garments (recipe).
+Action 1246: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1247: Sell 200 wool-garments for 11600 Enteloot.
+Action 1248: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1249: Buy 600 sheep for 4800 Enteloot.
+Action 1250: craft 200x wool-garments (recipe).
+Action 1251: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1252: Sell 200 wool-garments for 11600 Enteloot.
+Action 1253: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1254: Buy 600 sheep for 4800 Enteloot.
+Action 1255: craft 200x wool-garments (recipe).
+Action 1256: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1257: Sell 200 wool-garments for 11600 Enteloot.
+Action 1258: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1259: Buy 600 sheep for 4800 Enteloot.
+Action 1260: craft 200x wool-garments (recipe).
+Action 1261: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1262: Sell 200 wool-garments for 11600 Enteloot.
+Action 1263: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1264: Buy 600 sheep for 4800 Enteloot.
+Action 1265: craft 200x wool-garments (recipe).
+Action 1266: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1267: Sell 200 wool-garments for 11600 Enteloot.
+Action 1268: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1269: Buy 600 sheep for 4800 Enteloot.
+Action 1270: craft 200x wool-garments (recipe).
+Action 1271: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1272: Sell 200 wool-garments for 11600 Enteloot.
+Action 1273: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1274: Buy 600 sheep for 4800 Enteloot.
+Action 1275: craft 200x wool-garments (recipe).
+Action 1276: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1277: Sell 200 wool-garments for 11600 Enteloot.
+Action 1278: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1279: Buy 600 sheep for 4800 Enteloot.
+Action 1280: craft 200x wool-garments (recipe).
+Action 1281: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1282: Sell 200 wool-garments for 11600 Enteloot.
+Action 1283: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1284: Buy 600 sheep for 4800 Enteloot.
+Action 1285: craft 200x wool-garments (recipe).
+Action 1286: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1287: Sell 200 wool-garments for 11600 Enteloot.
+Action 1288: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1289: Buy 600 sheep for 4800 Enteloot.
+Action 1290: craft 200x wool-garments (recipe).
+Action 1291: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1292: Sell 200 wool-garments for 11600 Enteloot.
+Action 1293: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1294: Buy 600 sheep for 4800 Enteloot.
+Action 1295: craft 200x wool-garments (recipe).
+Action 1296: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1297: Sell 200 wool-garments for 11600 Enteloot.
+Action 1298: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1299: Buy 600 sheep for 4800 Enteloot.
+Action 1300: craft 200x wool-garments (recipe).
+Action 1301: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1302: Sell 200 wool-garments for 11600 Enteloot.
+Action 1303: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1304: Buy 600 sheep for 4800 Enteloot.
+Action 1305: craft 200x wool-garments (recipe).
+Action 1306: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1307: Sell 200 wool-garments for 11600 Enteloot.
+Action 1308: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1309: Buy 600 sheep for 4800 Enteloot.
+Action 1310: craft 200x wool-garments (recipe).
+Action 1311: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1312: Sell 200 wool-garments for 11600 Enteloot.
+Action 1313: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1314: Buy 600 sheep for 4800 Enteloot.
+Action 1315: craft 200x wool-garments (recipe).
+Action 1316: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1317: Sell 200 wool-garments for 11600 Enteloot.
+Action 1318: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1319: Buy 600 sheep for 4800 Enteloot.
+Action 1320: craft 200x wool-garments (recipe).
+Action 1321: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1322: Sell 200 wool-garments for 11600 Enteloot.
+Action 1323: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1324: Buy 600 sheep for 4800 Enteloot.
+Action 1325: craft 200x wool-garments (recipe).
+Action 1326: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1327: Sell 200 wool-garments for 11600 Enteloot.
+Action 1328: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1329: Buy 600 sheep for 4800 Enteloot.
+Action 1330: craft 200x wool-garments (recipe).
+Action 1331: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1332: Sell 200 wool-garments for 11600 Enteloot.
+Action 1333: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1334: Buy 600 sheep for 4800 Enteloot.
+Action 1335: craft 200x wool-garments (recipe).
+Action 1336: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1337: Sell 200 wool-garments for 11600 Enteloot.
+Action 1338: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1339: Buy 600 sheep for 4800 Enteloot.
+Action 1340: craft 200x wool-garments (recipe).
+Action 1341: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1342: Sell 200 wool-garments for 11600 Enteloot.
+Action 1343: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1344: Buy 600 sheep for 4800 Enteloot.
+Action 1345: craft 200x wool-garments (recipe).
+Action 1346: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1347: Sell 200 wool-garments for 11600 Enteloot.
+Action 1348: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1349: Buy 600 sheep for 4800 Enteloot.
+Action 1350: craft 200x wool-garments (recipe).
+Action 1351: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1352: Sell 200 wool-garments for 11600 Enteloot.
+Action 1353: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1354: Buy 600 sheep for 4800 Enteloot.
+Action 1355: craft 200x wool-garments (recipe).
+Action 1356: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1357: Sell 200 wool-garments for 11600 Enteloot.
+Action 1358: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1359: Buy 600 sheep for 4800 Enteloot.
+Action 1360: craft 200x wool-garments (recipe).
+Action 1361: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1362: Sell 200 wool-garments for 11600 Enteloot.
+Action 1363: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1364: Buy 600 sheep for 4800 Enteloot.
+Action 1365: craft 200x wool-garments (recipe).
+Action 1366: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1367: Sell 200 wool-garments for 11600 Enteloot.
+Action 1368: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1369: Buy 600 sheep for 4800 Enteloot.
+Action 1370: craft 200x wool-garments (recipe).
+Action 1371: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1372: Sell 200 wool-garments for 11600 Enteloot.
+Action 1373: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1374: Buy 600 sheep for 4800 Enteloot.
+Action 1375: craft 200x wool-garments (recipe).
+Action 1376: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1377: Sell 200 wool-garments for 11600 Enteloot.
+Action 1378: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1379: Buy 600 sheep for 4800 Enteloot.
+Action 1380: craft 200x wool-garments (recipe).
+Action 1381: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1382: Sell 200 wool-garments for 11600 Enteloot.
+Action 1383: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1384: Buy 600 sheep for 4800 Enteloot.
+Action 1385: craft 200x wool-garments (recipe).
+Action 1386: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1387: Sell 200 wool-garments for 11600 Enteloot.
+Action 1388: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1389: Buy 600 sheep for 4800 Enteloot.
+Action 1390: craft 200x wool-garments (recipe).
+Action 1391: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1392: Sell 200 wool-garments for 11600 Enteloot.
+Action 1393: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1394: Buy 600 sheep for 4800 Enteloot.
+Action 1395: craft 200x wool-garments (recipe).
+Action 1396: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1397: Sell 200 wool-garments for 11600 Enteloot.
+Action 1398: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1399: Buy 600 sheep for 4800 Enteloot.
+Action 1400: craft 200x wool-garments (recipe).
+Action 1401: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1402: Sell 200 wool-garments for 11600 Enteloot.
+Action 1403: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1404: Buy 600 sheep for 4800 Enteloot.
+Action 1405: craft 200x wool-garments (recipe).
+Action 1406: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1407: Sell 200 wool-garments for 11600 Enteloot.
+Action 1408: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1409: Buy 600 sheep for 4800 Enteloot.
+Action 1410: craft 200x wool-garments (recipe).
+Action 1411: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1412: Sell 200 wool-garments for 11600 Enteloot.
+Action 1413: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1414: Buy 600 sheep for 4800 Enteloot.
+Action 1415: craft 200x wool-garments (recipe).
+Action 1416: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1417: Sell 200 wool-garments for 11600 Enteloot.
+Action 1418: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1419: Buy 600 sheep for 4800 Enteloot.
+Action 1420: craft 200x wool-garments (recipe).
+Action 1421: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1422: Sell 200 wool-garments for 11600 Enteloot.
+Action 1423: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1424: Buy 600 sheep for 4800 Enteloot.
+Action 1425: craft 200x wool-garments (recipe).
+Action 1426: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1427: Sell 200 wool-garments for 11600 Enteloot.
+Action 1428: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1429: Buy 600 sheep for 4800 Enteloot.
+Action 1430: craft 200x wool-garments (recipe).
+Action 1431: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1432: Sell 200 wool-garments for 11600 Enteloot.
+Action 1433: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1434: Buy 600 sheep for 4800 Enteloot.
+Action 1435: craft 200x wool-garments (recipe).
+Action 1436: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1437: Sell 200 wool-garments for 11600 Enteloot.
+Action 1438: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1439: Buy 600 sheep for 4800 Enteloot.
+Action 1440: craft 200x wool-garments (recipe).
+Action 1441: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1442: Sell 200 wool-garments for 11600 Enteloot.
+Action 1443: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1444: Buy 600 sheep for 4800 Enteloot.
+Action 1445: craft 200x wool-garments (recipe).
+Action 1446: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1447: Sell 200 wool-garments for 11600 Enteloot.
+Action 1448: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1449: Buy 600 sheep for 4800 Enteloot.
+Action 1450: craft 200x wool-garments (recipe).
+Action 1451: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1452: Sell 200 wool-garments for 11600 Enteloot.
+Action 1453: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1454: Buy 600 sheep for 4800 Enteloot.
+Action 1455: craft 200x wool-garments (recipe).
+Action 1456: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1457: Sell 200 wool-garments for 11600 Enteloot.
+Action 1458: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1459: Buy 600 sheep for 4800 Enteloot.
+Action 1460: craft 200x wool-garments (recipe).
+Action 1461: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1462: Sell 200 wool-garments for 11600 Enteloot.
+Action 1463: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1464: Buy 600 sheep for 4800 Enteloot.
+Action 1465: craft 200x wool-garments (recipe).
+Action 1466: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1467: Sell 200 wool-garments for 11600 Enteloot.
+Action 1468: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1469: Buy 600 sheep for 4800 Enteloot.
+Action 1470: craft 200x wool-garments (recipe).
+Action 1471: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1472: Sell 200 wool-garments for 11600 Enteloot.
+Action 1473: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1474: Buy 600 sheep for 4800 Enteloot.
+Action 1475: craft 200x wool-garments (recipe).
+Action 1476: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1477: Sell 200 wool-garments for 11600 Enteloot.
+Action 1478: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1479: Buy 600 sheep for 4800 Enteloot.
+Action 1480: craft 200x wool-garments (recipe).
+Action 1481: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1482: Sell 200 wool-garments for 11600 Enteloot.
+Action 1483: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1484: Buy 600 sheep for 4800 Enteloot.
+Action 1485: craft 200x wool-garments (recipe).
+Action 1486: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1487: Sell 200 wool-garments for 11600 Enteloot.
+Action 1488: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1489: Buy 600 sheep for 4800 Enteloot.
+Action 1490: craft 200x wool-garments (recipe).
+Action 1491: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1492: Sell 200 wool-garments for 11600 Enteloot.
+Action 1493: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1494: Buy 600 sheep for 4800 Enteloot.
+Action 1495: craft 200x wool-garments (recipe).
+Action 1496: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1497: Sell 200 wool-garments for 11600 Enteloot.
+Action 1498: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1499: Buy 600 sheep for 4800 Enteloot.
+Action 1500: craft 200x wool-garments (recipe).
+Action 1501: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1502: Sell 200 wool-garments for 11600 Enteloot.
+Action 1503: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1504: Buy 600 sheep for 4800 Enteloot.
+Action 1505: craft 200x wool-garments (recipe).
+Action 1506: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1507: Sell 200 wool-garments for 11600 Enteloot.
+Action 1508: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1509: Buy 600 sheep for 4800 Enteloot.
+Action 1510: craft 200x wool-garments (recipe).
+Action 1511: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1512: Sell 200 wool-garments for 11600 Enteloot.
+Action 1513: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1514: Buy 600 sheep for 4800 Enteloot.
+Action 1515: craft 200x wool-garments (recipe).
+Action 1516: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1517: Sell 200 wool-garments for 11600 Enteloot.
+Action 1518: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1519: Buy 600 sheep for 4800 Enteloot.
+Action 1520: craft 200x wool-garments (recipe).
+Action 1521: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1522: Sell 200 wool-garments for 11600 Enteloot.
+Action 1523: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1524: Buy 600 sheep for 4800 Enteloot.
+Action 1525: craft 200x wool-garments (recipe).
+Action 1526: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1527: Sell 200 wool-garments for 11600 Enteloot.
+Action 1528: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1529: Buy 600 sheep for 4800 Enteloot.
+Action 1530: craft 200x wool-garments (recipe).
+Action 1531: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1532: Sell 200 wool-garments for 11600 Enteloot.
+Action 1533: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1534: Buy 600 sheep for 4800 Enteloot.
+Action 1535: craft 200x wool-garments (recipe).
+Action 1536: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1537: Sell 200 wool-garments for 11600 Enteloot.
+Action 1538: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1539: Buy 600 sheep for 4800 Enteloot.
+Action 1540: craft 200x wool-garments (recipe).
+Action 1541: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1542: Sell 200 wool-garments for 11600 Enteloot.
+Action 1543: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1544: Buy 600 sheep for 4800 Enteloot.
+Action 1545: craft 200x wool-garments (recipe).
+Action 1546: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1547: Sell 200 wool-garments for 11600 Enteloot.
+Action 1548: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1549: Buy 600 sheep for 4800 Enteloot.
+Action 1550: craft 200x wool-garments (recipe).
+Action 1551: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1552: Sell 200 wool-garments for 11600 Enteloot.
+Action 1553: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1554: Buy 600 sheep for 4800 Enteloot.
+Action 1555: craft 200x wool-garments (recipe).
+Action 1556: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1557: Sell 200 wool-garments for 11600 Enteloot.
+Action 1558: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1559: Buy 600 sheep for 4800 Enteloot.
+Action 1560: craft 200x wool-garments (recipe).
+Action 1561: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1562: Sell 200 wool-garments for 11600 Enteloot.
+Action 1563: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1564: Buy 600 sheep for 4800 Enteloot.
+Action 1565: craft 200x wool-garments (recipe).
+Action 1566: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1567: Sell 200 wool-garments for 11600 Enteloot.
+Action 1568: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1569: Buy 600 sheep for 4800 Enteloot.
+Action 1570: craft 200x wool-garments (recipe).
+Action 1571: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1572: Sell 200 wool-garments for 11600 Enteloot.
+Action 1573: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1574: Buy 600 sheep for 4800 Enteloot.
+Action 1575: craft 200x wool-garments (recipe).
+Action 1576: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1577: Sell 200 wool-garments for 11600 Enteloot.
+Action 1578: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1579: Buy 600 sheep for 4800 Enteloot.
+Action 1580: craft 200x wool-garments (recipe).
+Action 1581: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1582: Sell 200 wool-garments for 11600 Enteloot.
+Action 1583: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1584: Buy 600 sheep for 4800 Enteloot.
+Action 1585: craft 200x wool-garments (recipe).
+Action 1586: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1587: Sell 200 wool-garments for 11600 Enteloot.
+Action 1588: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1589: Buy 600 sheep for 4800 Enteloot.
+Action 1590: craft 200x wool-garments (recipe).
+Action 1591: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1592: Sell 200 wool-garments for 11600 Enteloot.
+Action 1593: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1594: Buy 600 sheep for 4800 Enteloot.
+Action 1595: craft 200x wool-garments (recipe).
+Action 1596: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1597: Sell 200 wool-garments for 11600 Enteloot.
+Action 1598: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1599: Buy 600 sheep for 4800 Enteloot.
+Action 1600: craft 200x wool-garments (recipe).
+Action 1601: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1602: Sell 200 wool-garments for 11600 Enteloot.
+Action 1603: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1604: Buy 600 sheep for 4800 Enteloot.
+Action 1605: craft 200x wool-garments (recipe).
+Action 1606: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1607: Sell 200 wool-garments for 11600 Enteloot.
+Action 1608: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1609: Buy 600 sheep for 4800 Enteloot.
+Action 1610: craft 200x wool-garments (recipe).
+Action 1611: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1612: Sell 200 wool-garments for 11600 Enteloot.
+Action 1613: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1614: Buy 600 sheep for 4800 Enteloot.
+Action 1615: craft 200x wool-garments (recipe).
+Action 1616: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1617: Sell 200 wool-garments for 11600 Enteloot.
+Action 1618: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1619: Buy 600 sheep for 4800 Enteloot.
+Action 1620: craft 200x wool-garments (recipe).
+Action 1621: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1622: Sell 200 wool-garments for 11600 Enteloot.
+Action 1623: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1624: Buy 600 sheep for 4800 Enteloot.
+Action 1625: craft 200x wool-garments (recipe).
+Action 1626: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1627: Sell 200 wool-garments for 11600 Enteloot.
+Action 1628: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1629: Buy 600 sheep for 4800 Enteloot.
+Action 1630: craft 200x wool-garments (recipe).
+Action 1631: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1632: Sell 200 wool-garments for 11600 Enteloot.
+Action 1633: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1634: Buy 600 sheep for 4800 Enteloot.
+Action 1635: craft 200x wool-garments (recipe).
+Action 1636: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1637: Sell 200 wool-garments for 11600 Enteloot.
+Action 1638: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1639: Buy 600 sheep for 4800 Enteloot.
+Action 1640: craft 200x wool-garments (recipe).
+Action 1641: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1642: Sell 200 wool-garments for 11600 Enteloot.
+Action 1643: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1644: Buy 600 sheep for 4800 Enteloot.
+Action 1645: craft 200x wool-garments (recipe).
+Action 1646: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1647: Sell 200 wool-garments for 11600 Enteloot.
+Action 1648: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1649: Buy 600 sheep for 4800 Enteloot.
+Action 1650: craft 200x wool-garments (recipe).
+Action 1651: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1652: Sell 200 wool-garments for 11600 Enteloot.
+Action 1653: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1654: Buy 600 sheep for 4800 Enteloot.
+Action 1655: craft 200x wool-garments (recipe).
+Action 1656: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1657: Sell 200 wool-garments for 11600 Enteloot.
+Action 1658: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1659: Buy 600 sheep for 4800 Enteloot.
+Action 1660: craft 200x wool-garments (recipe).
+Action 1661: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1662: Sell 200 wool-garments for 11600 Enteloot.
+Action 1663: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1664: Buy 600 sheep for 4800 Enteloot.
+Action 1665: craft 200x wool-garments (recipe).
+Action 1666: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1667: Sell 200 wool-garments for 11600 Enteloot.
+Action 1668: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1669: Buy 600 sheep for 4800 Enteloot.
+Action 1670: craft 200x wool-garments (recipe).
+Action 1671: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1672: Sell 200 wool-garments for 11600 Enteloot.
+Action 1673: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1674: Buy 600 sheep for 4800 Enteloot.
+Action 1675: craft 200x wool-garments (recipe).
+Action 1676: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1677: Sell 200 wool-garments for 11600 Enteloot.
+Action 1678: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1679: Buy 600 sheep for 4800 Enteloot.
+Action 1680: craft 200x wool-garments (recipe).
+Action 1681: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1682: Sell 200 wool-garments for 11600 Enteloot.
+Action 1683: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1684: Buy 600 sheep for 4800 Enteloot.
+Action 1685: craft 200x wool-garments (recipe).
+Action 1686: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1687: Sell 200 wool-garments for 11600 Enteloot.
+Action 1688: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1689: Buy 600 sheep for 4800 Enteloot.
+Action 1690: craft 200x wool-garments (recipe).
+Action 1691: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1692: Sell 200 wool-garments for 11600 Enteloot.
+Action 1693: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1694: Buy 600 sheep for 4800 Enteloot.
+Action 1695: craft 200x wool-garments (recipe).
+Action 1696: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1697: Sell 200 wool-garments for 11600 Enteloot.
+Action 1698: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1699: Buy 600 sheep for 4800 Enteloot.
+Action 1700: craft 200x wool-garments (recipe).
+Action 1701: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1702: Sell 200 wool-garments for 11600 Enteloot.
+Action 1703: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1704: Buy 600 sheep for 4800 Enteloot.
+Action 1705: craft 200x wool-garments (recipe).
+Action 1706: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1707: Sell 200 wool-garments for 11600 Enteloot.
+Action 1708: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1709: Buy 600 sheep for 4800 Enteloot.
+Action 1710: craft 200x wool-garments (recipe).
+Action 1711: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1712: Sell 200 wool-garments for 11600 Enteloot.
+Action 1713: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1714: Buy 600 sheep for 4800 Enteloot.
+Action 1715: craft 200x wool-garments (recipe).
+Action 1716: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1717: Sell 200 wool-garments for 11600 Enteloot.
+Action 1718: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1719: Buy 600 sheep for 4800 Enteloot.
+Action 1720: craft 200x wool-garments (recipe).
+Action 1721: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1722: Sell 200 wool-garments for 11600 Enteloot.
+Action 1723: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1724: Buy 600 sheep for 4800 Enteloot.
+Action 1725: craft 200x wool-garments (recipe).
+Action 1726: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1727: Sell 200 wool-garments for 11600 Enteloot.
+Action 1728: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1729: Buy 600 sheep for 4800 Enteloot.
+Action 1730: craft 200x wool-garments (recipe).
+Action 1731: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1732: Sell 200 wool-garments for 11600 Enteloot.
+Action 1733: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1734: Buy 600 sheep for 4800 Enteloot.
+Action 1735: craft 200x wool-garments (recipe).
+Action 1736: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1737: Sell 200 wool-garments for 11600 Enteloot.
+Action 1738: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1739: Buy 600 sheep for 4800 Enteloot.
+Action 1740: craft 200x wool-garments (recipe).
+Action 1741: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1742: Sell 200 wool-garments for 11600 Enteloot.
+Action 1743: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1744: Buy 600 sheep for 4800 Enteloot.
+Action 1745: craft 200x wool-garments (recipe).
+Action 1746: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1747: Sell 200 wool-garments for 11600 Enteloot.
+Action 1748: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1749: Buy 600 sheep for 4800 Enteloot.
+Action 1750: craft 200x wool-garments (recipe).
+Action 1751: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1752: Sell 200 wool-garments for 11600 Enteloot.
+Action 1753: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1754: Buy 600 sheep for 4800 Enteloot.
+Action 1755: craft 200x wool-garments (recipe).
+Action 1756: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1757: Sell 200 wool-garments for 11600 Enteloot.
+Action 1758: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1759: Buy 600 sheep for 4800 Enteloot.
+Action 1760: craft 200x wool-garments (recipe).
+Action 1761: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1762: Sell 200 wool-garments for 11600 Enteloot.
+Action 1763: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1764: Buy 600 sheep for 4800 Enteloot.
+Action 1765: craft 200x wool-garments (recipe).
+Action 1766: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1767: Sell 200 wool-garments for 11600 Enteloot.
+Action 1768: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1769: Buy 600 sheep for 4800 Enteloot.
+Action 1770: craft 200x wool-garments (recipe).
+Action 1771: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1772: Sell 200 wool-garments for 11600 Enteloot.
+Action 1773: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1774: Buy 600 sheep for 4800 Enteloot.
+Action 1775: craft 200x wool-garments (recipe).
+Action 1776: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1777: Sell 200 wool-garments for 11600 Enteloot.
+Action 1778: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1779: Buy 600 sheep for 4800 Enteloot.
+Action 1780: craft 200x wool-garments (recipe).
+Action 1781: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1782: Sell 200 wool-garments for 11600 Enteloot.
+Action 1783: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1784: Buy 600 sheep for 4800 Enteloot.
+Action 1785: craft 200x wool-garments (recipe).
+Action 1786: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1787: Sell 200 wool-garments for 11600 Enteloot.
+Action 1788: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1789: Buy 600 sheep for 4800 Enteloot.
+Action 1790: craft 200x wool-garments (recipe).
+Action 1791: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1792: Sell 200 wool-garments for 11600 Enteloot.
+Action 1793: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1794: Buy 600 sheep for 4800 Enteloot.
+Action 1795: craft 200x wool-garments (recipe).
+Action 1796: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1797: Sell 200 wool-garments for 11600 Enteloot.
+Action 1798: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1799: Buy 600 sheep for 4800 Enteloot.
+Action 1800: craft 200x wool-garments (recipe).
+Action 1801: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1802: Sell 200 wool-garments for 11600 Enteloot.
+Action 1803: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1804: Buy 600 sheep for 4800 Enteloot.
+Action 1805: craft 200x wool-garments (recipe).
+Action 1806: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1807: Sell 200 wool-garments for 11600 Enteloot.
+Action 1808: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1809: Buy 600 sheep for 4800 Enteloot.
+Action 1810: craft 200x wool-garments (recipe).
+Action 1811: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1812: Sell 200 wool-garments for 11600 Enteloot.
+Action 1813: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1814: Buy 600 sheep for 4800 Enteloot.
+Action 1815: craft 200x wool-garments (recipe).
+Action 1816: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1817: Sell 200 wool-garments for 11600 Enteloot.
+Action 1818: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1819: Buy 600 sheep for 4800 Enteloot.
+Action 1820: craft 200x wool-garments (recipe).
+Action 1821: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1822: Sell 200 wool-garments for 11600 Enteloot.
+Action 1823: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1824: Buy 600 sheep for 4800 Enteloot.
+Action 1825: craft 200x wool-garments (recipe).
+Action 1826: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1827: Sell 200 wool-garments for 11600 Enteloot.
+Action 1828: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1829: Buy 600 sheep for 4800 Enteloot.
+Action 1830: craft 200x wool-garments (recipe).
+Action 1831: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1832: Sell 200 wool-garments for 11600 Enteloot.
+Action 1833: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1834: Buy 600 sheep for 4800 Enteloot.
+Action 1835: craft 200x wool-garments (recipe).
+Action 1836: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1837: Sell 200 wool-garments for 11600 Enteloot.
+Action 1838: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1839: Buy 600 sheep for 4800 Enteloot.
+Action 1840: craft 200x wool-garments (recipe).
+Action 1841: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1842: Sell 200 wool-garments for 11600 Enteloot.
+Action 1843: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1844: Buy 600 sheep for 4800 Enteloot.
+Action 1845: craft 200x wool-garments (recipe).
+Action 1846: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1847: Sell 200 wool-garments for 11600 Enteloot.
+Action 1848: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1849: Buy 600 sheep for 4800 Enteloot.
+Action 1850: craft 200x wool-garments (recipe).
+Action 1851: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1852: Sell 200 wool-garments for 11600 Enteloot.
+Action 1853: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1854: Buy 600 sheep for 4800 Enteloot.
+Action 1855: craft 200x wool-garments (recipe).
+Action 1856: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1857: Sell 200 wool-garments for 11600 Enteloot.
+Action 1858: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1859: Buy 600 sheep for 4800 Enteloot.
+Action 1860: craft 200x wool-garments (recipe).
+Action 1861: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1862: Sell 200 wool-garments for 11600 Enteloot.
+Action 1863: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1864: Buy 600 sheep for 4800 Enteloot.
+Action 1865: craft 200x wool-garments (recipe).
+Action 1866: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1867: Sell 200 wool-garments for 11600 Enteloot.
+Action 1868: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1869: Buy 600 sheep for 4800 Enteloot.
+Action 1870: craft 200x wool-garments (recipe).
+Action 1871: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1872: Sell 200 wool-garments for 11600 Enteloot.
+Action 1873: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1874: Buy 600 sheep for 4800 Enteloot.
+Action 1875: craft 200x wool-garments (recipe).
+Action 1876: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1877: Sell 200 wool-garments for 11600 Enteloot.
+Action 1878: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1879: Buy 600 sheep for 4800 Enteloot.
+Action 1880: craft 200x wool-garments (recipe).
+Action 1881: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1882: Sell 200 wool-garments for 11600 Enteloot.
+Action 1883: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1884: Buy 600 sheep for 4800 Enteloot.
+Action 1885: craft 200x wool-garments (recipe).
+Action 1886: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1887: Sell 200 wool-garments for 11600 Enteloot.
+Action 1888: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1889: Buy 600 sheep for 4800 Enteloot.
+Action 1890: craft 200x wool-garments (recipe).
+Action 1891: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1892: Sell 200 wool-garments for 11600 Enteloot.
+Action 1893: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1894: Buy 600 sheep for 4800 Enteloot.
+Action 1895: craft 200x wool-garments (recipe).
+Action 1896: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1897: Sell 200 wool-garments for 11600 Enteloot.
+Action 1898: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1899: Buy 600 sheep for 4800 Enteloot.
+Action 1900: craft 200x wool-garments (recipe).
+Action 1901: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1902: Sell 200 wool-garments for 11600 Enteloot.
+Action 1903: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1904: Buy 600 sheep for 4800 Enteloot.
+Action 1905: craft 200x wool-garments (recipe).
+Action 1906: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1907: Sell 200 wool-garments for 11600 Enteloot.
+Action 1908: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1909: Buy 600 sheep for 4800 Enteloot.
+Action 1910: craft 200x wool-garments (recipe).
+Action 1911: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1912: Sell 200 wool-garments for 11600 Enteloot.
+Action 1913: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1914: Buy 600 sheep for 4800 Enteloot.
+Action 1915: craft 200x wool-garments (recipe).
+Action 1916: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1917: Sell 200 wool-garments for 11600 Enteloot.
+Action 1918: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1919: Buy 600 sheep for 4800 Enteloot.
+Action 1920: craft 200x wool-garments (recipe).
+Action 1921: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1922: Sell 200 wool-garments for 11600 Enteloot.
+Action 1923: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1924: Buy 600 sheep for 4800 Enteloot.
+Action 1925: craft 200x wool-garments (recipe).
+Action 1926: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1927: Sell 200 wool-garments for 11600 Enteloot.
+Action 1928: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1929: Buy 600 sheep for 4800 Enteloot.
+Action 1930: craft 200x wool-garments (recipe).
+Action 1931: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1932: Sell 200 wool-garments for 11600 Enteloot.
+Action 1933: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1934: Buy 600 sheep for 4800 Enteloot.
+Action 1935: craft 200x wool-garments (recipe).
+Action 1936: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1937: Sell 200 wool-garments for 11600 Enteloot.
+Action 1938: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1939: Buy 600 sheep for 4800 Enteloot.
+Action 1940: craft 200x wool-garments (recipe).
+Action 1941: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1942: Sell 200 wool-garments for 11600 Enteloot.
+Action 1943: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1944: Buy 600 sheep for 4800 Enteloot.
+Action 1945: craft 200x wool-garments (recipe).
+Action 1946: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1947: Sell 200 wool-garments for 11600 Enteloot.
+Action 1948: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1949: Buy 600 sheep for 4800 Enteloot.
+Action 1950: craft 200x wool-garments (recipe).
+Action 1951: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1952: Sell 200 wool-garments for 11600 Enteloot.
+Action 1953: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1954: Buy 600 sheep for 4800 Enteloot.
+Action 1955: craft 200x wool-garments (recipe).
+Action 1956: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1957: Sell 200 wool-garments for 11600 Enteloot.
+Action 1958: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1959: Buy 600 sheep for 4800 Enteloot.
+Action 1960: craft 200x wool-garments (recipe).
+Action 1961: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1962: Sell 200 wool-garments for 11600 Enteloot.
+Action 1963: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1964: Buy 600 sheep for 4800 Enteloot.
+Action 1965: craft 200x wool-garments (recipe).
+Action 1966: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1967: Sell 200 wool-garments for 11600 Enteloot.
+Action 1968: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1969: Buy 600 sheep for 4800 Enteloot.
+Action 1970: craft 200x wool-garments (recipe).
+Action 1971: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1972: Sell 200 wool-garments for 11600 Enteloot.
+Action 1973: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1974: Buy 600 sheep for 4800 Enteloot.
+Action 1975: craft 200x wool-garments (recipe).
+Action 1976: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1977: Sell 200 wool-garments for 11600 Enteloot.
+Action 1978: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1979: Buy 600 sheep for 4800 Enteloot.
+Action 1980: craft 200x wool-garments (recipe).
+Action 1981: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1982: Sell 200 wool-garments for 11600 Enteloot.
+Action 1983: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1984: Buy 600 sheep for 4800 Enteloot.
+Action 1985: craft 200x wool-garments (recipe).
+Action 1986: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1987: Sell 200 wool-garments for 11600 Enteloot.
+Action 1988: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1989: Buy 600 sheep for 4800 Enteloot.
+Action 1990: craft 200x wool-garments (recipe).
+Action 1991: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1992: Sell 200 wool-garments for 11600 Enteloot.
+Action 1993: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1994: Buy 600 sheep for 4800 Enteloot.
+Action 1995: craft 200x wool-garments (recipe).
+Action 1996: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1997: Sell 200 wool-garments for 11600 Enteloot.
+Action 1998: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1999: Buy 600 sheep for 4800 Enteloot.
+Action 2000: craft 200x wool-garments (recipe).
+Action 2001: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2002: Sell 200 wool-garments for 11600 Enteloot.
+Action 2003: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2004: Buy 600 sheep for 4800 Enteloot.
+Action 2005: craft 200x wool-garments (recipe).
+Action 2006: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2007: Sell 200 wool-garments for 11600 Enteloot.
+Action 2008: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2009: Buy 600 sheep for 4800 Enteloot.
+Action 2010: craft 200x wool-garments (recipe).
+Action 2011: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2012: Sell 200 wool-garments for 11600 Enteloot.
+Action 2013: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2014: Buy 600 sheep for 4800 Enteloot.
+Action 2015: craft 200x wool-garments (recipe).
+Action 2016: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2017: Sell 200 wool-garments for 11600 Enteloot.
+Action 2018: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2019: Buy 600 sheep for 4800 Enteloot.
+Action 2020: craft 200x wool-garments (recipe).
+Action 2021: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2022: Sell 200 wool-garments for 11600 Enteloot.
+Action 2023: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2024: Buy 600 sheep for 4800 Enteloot.
+Action 2025: craft 200x wool-garments (recipe).
+Action 2026: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2027: Sell 200 wool-garments for 11600 Enteloot.
+Action 2028: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2029: Buy 600 sheep for 4800 Enteloot.
+Action 2030: craft 200x wool-garments (recipe).
+Action 2031: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2032: Sell 200 wool-garments for 11600 Enteloot.
+Action 2033: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2034: Buy 600 sheep for 4800 Enteloot.
+Action 2035: craft 200x wool-garments (recipe).
+Action 2036: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2037: Sell 200 wool-garments for 11600 Enteloot.
+Action 2038: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2039: Buy 600 sheep for 4800 Enteloot.
+Action 2040: craft 200x wool-garments (recipe).
+Action 2041: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2042: Sell 200 wool-garments for 11600 Enteloot.
+Action 2043: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2044: Buy 600 sheep for 4800 Enteloot.
+Action 2045: craft 200x wool-garments (recipe).
+Action 2046: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2047: Sell 200 wool-garments for 11600 Enteloot.
+Action 2048: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2049: Buy 600 sheep for 4800 Enteloot.
+Action 2050: craft 200x wool-garments (recipe).
+Action 2051: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2052: Sell 200 wool-garments for 11600 Enteloot.
+Action 2053: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2054: Buy 600 sheep for 4800 Enteloot.
+Action 2055: craft 200x wool-garments (recipe).
+Action 2056: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2057: Sell 200 wool-garments for 11600 Enteloot.
+Action 2058: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2059: Buy 600 sheep for 4800 Enteloot.
+Action 2060: craft 200x wool-garments (recipe).
+Action 2061: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2062: Sell 200 wool-garments for 11600 Enteloot.
+Action 2063: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2064: Buy 600 sheep for 4800 Enteloot.
+Action 2065: craft 200x wool-garments (recipe).
+Action 2066: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2067: Sell 200 wool-garments for 11600 Enteloot.
+Action 2068: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2069: Buy 600 sheep for 4800 Enteloot.
+Action 2070: craft 200x wool-garments (recipe).
+Action 2071: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2072: Sell 200 wool-garments for 11600 Enteloot.
+Action 2073: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2074: Buy 600 sheep for 4800 Enteloot.
+Action 2075: craft 200x wool-garments (recipe).
+Action 2076: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2077: Sell 200 wool-garments for 11600 Enteloot.
+Action 2078: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2079: Buy 600 sheep for 4800 Enteloot.
+Action 2080: craft 200x wool-garments (recipe).
+Action 2081: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2082: Sell 200 wool-garments for 11600 Enteloot.
+Action 2083: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2084: Buy 600 sheep for 4800 Enteloot.
+Action 2085: craft 200x wool-garments (recipe).
+Action 2086: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2087: Sell 200 wool-garments for 11600 Enteloot.
+Action 2088: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2089: Buy 600 sheep for 4800 Enteloot.
+Action 2090: craft 200x wool-garments (recipe).
+Action 2091: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2092: Sell 200 wool-garments for 11600 Enteloot.
+Action 2093: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2094: Buy 600 sheep for 4800 Enteloot.
+Action 2095: craft 200x wool-garments (recipe).
+Action 2096: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2097: Sell 200 wool-garments for 11600 Enteloot.
+Action 2098: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2099: Buy 600 sheep for 4800 Enteloot.
+Action 2100: craft 200x wool-garments (recipe).
+Action 2101: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2102: Sell 200 wool-garments for 11600 Enteloot.
+Action 2103: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2104: Buy 600 sheep for 4800 Enteloot.
+Action 2105: craft 200x wool-garments (recipe).
+Action 2106: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2107: Sell 200 wool-garments for 11600 Enteloot.
+Action 2108: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2109: Buy 600 sheep for 4800 Enteloot.
+Action 2110: craft 200x wool-garments (recipe).
+Action 2111: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2112: Sell 200 wool-garments for 11600 Enteloot.
+Action 2113: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2114: Buy 600 sheep for 4800 Enteloot.
+Action 2115: craft 200x wool-garments (recipe).
+Action 2116: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2117: Sell 200 wool-garments for 11600 Enteloot.
+Action 2118: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2119: Buy 600 sheep for 4800 Enteloot.
+Action 2120: craft 200x wool-garments (recipe).
+Action 2121: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2122: Sell 200 wool-garments for 11600 Enteloot.
+Action 2123: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2124: Buy 600 sheep for 4800 Enteloot.
+Action 2125: craft 200x wool-garments (recipe).
+Action 2126: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2127: Sell 200 wool-garments for 11600 Enteloot.
+Action 2128: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2129: Buy 600 sheep for 4800 Enteloot.
+Action 2130: craft 200x wool-garments (recipe).
+Action 2131: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2132: Sell 200 wool-garments for 11600 Enteloot.
+Action 2133: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2134: Buy 600 sheep for 4800 Enteloot.
+Action 2135: craft 200x wool-garments (recipe).
+Action 2136: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2137: Sell 200 wool-garments for 11600 Enteloot.
+Action 2138: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2139: Buy 600 sheep for 4800 Enteloot.
+Action 2140: craft 200x wool-garments (recipe).
+Action 2141: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2142: Sell 200 wool-garments for 11600 Enteloot.
+Action 2143: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2144: Buy 600 sheep for 4800 Enteloot.
+Action 2145: craft 200x wool-garments (recipe).
+Action 2146: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2147: Sell 200 wool-garments for 11600 Enteloot.
+Action 2148: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2149: Buy 600 sheep for 4800 Enteloot.
+Action 2150: craft 200x wool-garments (recipe).
+Action 2151: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2152: Sell 200 wool-garments for 11600 Enteloot.
+Action 2153: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2154: Buy 600 sheep for 4800 Enteloot.
+Action 2155: craft 200x wool-garments (recipe).
+Action 2156: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2157: Sell 200 wool-garments for 11600 Enteloot.
+Action 2158: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2159: Buy 600 sheep for 4800 Enteloot.
+Action 2160: craft 200x wool-garments (recipe).
+Action 2161: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2162: Sell 200 wool-garments for 11600 Enteloot.
+Action 2163: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2164: Buy 600 sheep for 4800 Enteloot.
+Action 2165: craft 200x wool-garments (recipe).
+Action 2166: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2167: Sell 200 wool-garments for 11600 Enteloot.
+Action 2168: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2169: Buy 600 sheep for 4800 Enteloot.
+Action 2170: craft 200x wool-garments (recipe).
+Action 2171: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2172: Sell 200 wool-garments for 11600 Enteloot.
+Action 2173: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2174: Buy 600 sheep for 4800 Enteloot.
+Action 2175: craft 200x wool-garments (recipe).
+Action 2176: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2177: Sell 200 wool-garments for 11600 Enteloot.
+Action 2178: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2179: Buy 600 sheep for 4800 Enteloot.
+Action 2180: craft 200x wool-garments (recipe).
+Action 2181: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2182: Sell 200 wool-garments for 11600 Enteloot.
+Action 2183: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2184: Buy 600 sheep for 4800 Enteloot.
+Action 2185: craft 200x wool-garments (recipe).
+Action 2186: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2187: Sell 200 wool-garments for 11600 Enteloot.
+Action 2188: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2189: Buy 600 sheep for 4800 Enteloot.
+Action 2190: craft 200x wool-garments (recipe).
+Action 2191: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2192: Sell 200 wool-garments for 11600 Enteloot.
+Action 2193: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2194: Buy 600 sheep for 4800 Enteloot.
+Action 2195: craft 200x wool-garments (recipe).
+Action 2196: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2197: Sell 200 wool-garments for 11600 Enteloot.
+Action 2198: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2199: Buy 600 sheep for 4800 Enteloot.
+Action 2200: craft 200x wool-garments (recipe).
+Action 2201: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2202: Sell 200 wool-garments for 11600 Enteloot.
+Action 2203: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2204: Buy 600 sheep for 4800 Enteloot.
+Action 2205: craft 200x wool-garments (recipe).
+Action 2206: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2207: Sell 200 wool-garments for 11600 Enteloot.
+Action 2208: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2209: Buy 600 sheep for 4800 Enteloot.
+Action 2210: craft 200x wool-garments (recipe).
+Action 2211: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2212: Sell 200 wool-garments for 11600 Enteloot.
+Action 2213: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2214: Buy 600 sheep for 4800 Enteloot.
+Action 2215: craft 200x wool-garments (recipe).
+Action 2216: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2217: Sell 200 wool-garments for 11600 Enteloot.
+Action 2218: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2219: Buy 600 sheep for 4800 Enteloot.
+Action 2220: craft 200x wool-garments (recipe).
+Action 2221: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2222: Sell 200 wool-garments for 11600 Enteloot.
+Action 2223: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2224: Buy 600 sheep for 4800 Enteloot.
+Action 2225: craft 200x wool-garments (recipe).
+Action 2226: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2227: Sell 200 wool-garments for 11600 Enteloot.
+Action 2228: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2229: Buy 600 sheep for 4800 Enteloot.
+Action 2230: craft 200x wool-garments (recipe).
+Action 2231: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2232: Sell 200 wool-garments for 11600 Enteloot.
+Action 2233: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2234: Buy 600 sheep for 4800 Enteloot.
+Action 2235: craft 200x wool-garments (recipe).
+Action 2236: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2237: Sell 200 wool-garments for 11600 Enteloot.
+Action 2238: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2239: Buy 600 sheep for 4800 Enteloot.
+Action 2240: craft 200x wool-garments (recipe).
+Action 2241: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2242: Sell 200 wool-garments for 11600 Enteloot.
+Action 2243: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2244: Buy 600 sheep for 4800 Enteloot.
+Action 2245: craft 200x wool-garments (recipe).
+Action 2246: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2247: Sell 200 wool-garments for 11600 Enteloot.
+Action 2248: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2249: Buy 600 sheep for 4800 Enteloot.
+Action 2250: craft 200x wool-garments (recipe).
+Action 2251: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2252: Sell 200 wool-garments for 11600 Enteloot.
+Action 2253: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2254: Buy 600 sheep for 4800 Enteloot.
+Action 2255: craft 200x wool-garments (recipe).
+Action 2256: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2257: Sell 200 wool-garments for 11600 Enteloot.
+Action 2258: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2259: Buy 600 sheep for 4800 Enteloot.
+Action 2260: craft 200x wool-garments (recipe).
+Action 2261: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2262: Sell 200 wool-garments for 11600 Enteloot.
+Action 2263: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2264: Buy 600 sheep for 4800 Enteloot.
+Action 2265: craft 200x wool-garments (recipe).
+Action 2266: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2267: Sell 200 wool-garments for 11600 Enteloot.
+Action 2268: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2269: Buy 600 sheep for 4800 Enteloot.
+Action 2270: craft 200x wool-garments (recipe).
+Action 2271: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2272: Sell 200 wool-garments for 11600 Enteloot.
+Action 2273: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2274: Buy 600 sheep for 4800 Enteloot.
+Action 2275: craft 200x wool-garments (recipe).
+Action 2276: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2277: Sell 200 wool-garments for 11600 Enteloot.
+Action 2278: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2279: Buy 600 sheep for 4800 Enteloot.
+Action 2280: craft 200x wool-garments (recipe).
+Action 2281: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2282: Sell 200 wool-garments for 11600 Enteloot.
+Action 2283: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2284: Buy 600 sheep for 4800 Enteloot.
+Action 2285: craft 200x wool-garments (recipe).
+Action 2286: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2287: Sell 200 wool-garments for 11600 Enteloot.
+Action 2288: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2289: Buy 600 sheep for 4800 Enteloot.
+Action 2290: craft 200x wool-garments (recipe).
+Action 2291: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2292: Sell 200 wool-garments for 11600 Enteloot.
+Action 2293: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2294: Buy 600 sheep for 4800 Enteloot.
+Action 2295: craft 200x wool-garments (recipe).
+Action 2296: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2297: Sell 200 wool-garments for 11600 Enteloot.
+Action 2298: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2299: Buy 600 sheep for 4800 Enteloot.
+Action 2300: craft 200x wool-garments (recipe).
+Action 2301: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2302: Sell 200 wool-garments for 11600 Enteloot.
+Action 2303: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2304: Buy 600 sheep for 4800 Enteloot.
+Action 2305: craft 200x wool-garments (recipe).
+Action 2306: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2307: Sell 200 wool-garments for 11600 Enteloot.
+Action 2308: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2309: Buy 600 sheep for 4800 Enteloot.
+Action 2310: craft 200x wool-garments (recipe).
+Action 2311: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2312: Sell 200 wool-garments for 11600 Enteloot.
+Action 2313: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2314: Buy 600 sheep for 4800 Enteloot.
+Action 2315: craft 200x wool-garments (recipe).
+Action 2316: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2317: Sell 200 wool-garments for 11600 Enteloot.
+Action 2318: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2319: Buy 600 sheep for 4800 Enteloot.
+Action 2320: craft 200x wool-garments (recipe).
+Action 2321: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2322: Sell 200 wool-garments for 11600 Enteloot.
+Action 2323: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2324: Buy 600 sheep for 4800 Enteloot.
+Action 2325: craft 200x wool-garments (recipe).
+Action 2326: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2327: Sell 200 wool-garments for 11600 Enteloot.
+Action 2328: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2329: Buy 600 sheep for 4800 Enteloot.
+Action 2330: craft 200x wool-garments (recipe).
+Action 2331: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2332: Sell 200 wool-garments for 11600 Enteloot.
+Action 2333: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2334: Buy 600 sheep for 4800 Enteloot.
+Action 2335: craft 200x wool-garments (recipe).
+Action 2336: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2337: Sell 200 wool-garments for 11600 Enteloot.
+Action 2338: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2339: Buy 600 sheep for 4800 Enteloot.
+Action 2340: craft 200x wool-garments (recipe).
+Action 2341: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2342: Sell 200 wool-garments for 11600 Enteloot.
+Action 2343: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2344: Buy 600 sheep for 4800 Enteloot.
+Action 2345: craft 200x wool-garments (recipe).
+Action 2346: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2347: Sell 200 wool-garments for 11600 Enteloot.
+Action 2348: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2349: Buy 600 sheep for 4800 Enteloot.
+Action 2350: craft 200x wool-garments (recipe).
+Action 2351: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2352: Sell 200 wool-garments for 11600 Enteloot.
+Action 2353: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2354: Buy 600 sheep for 4800 Enteloot.
+Action 2355: craft 200x wool-garments (recipe).
+Action 2356: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2357: Sell 200 wool-garments for 11600 Enteloot.
+Action 2358: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2359: Buy 600 sheep for 4800 Enteloot.
+Action 2360: craft 200x wool-garments (recipe).
+Action 2361: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2362: Sell 200 wool-garments for 11600 Enteloot.
+Action 2363: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2364: Buy 600 sheep for 4800 Enteloot.
+Action 2365: craft 200x wool-garments (recipe).
+Action 2366: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2367: Sell 200 wool-garments for 11600 Enteloot.
+Action 2368: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2369: Buy 600 sheep for 4800 Enteloot.
+Action 2370: craft 200x wool-garments (recipe).
+Action 2371: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2372: Sell 200 wool-garments for 11600 Enteloot.
+Action 2373: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2374: Buy 600 sheep for 4800 Enteloot.
+Action 2375: craft 200x wool-garments (recipe).
+Action 2376: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2377: Sell 200 wool-garments for 11600 Enteloot.
+Action 2378: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2379: Buy 600 sheep for 4800 Enteloot.
+Action 2380: craft 200x wool-garments (recipe).
+Action 2381: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2382: Sell 200 wool-garments for 11600 Enteloot.
+Action 2383: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2384: Buy 600 sheep for 4800 Enteloot.
+Action 2385: craft 200x wool-garments (recipe).
+Action 2386: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2387: Sell 200 wool-garments for 11600 Enteloot.
+Action 2388: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2389: Buy 600 sheep for 4800 Enteloot.
+Action 2390: craft 200x wool-garments (recipe).
+Action 2391: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2392: Sell 200 wool-garments for 11600 Enteloot.
+Action 2393: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2394: Buy 600 sheep for 4800 Enteloot.
+Action 2395: craft 200x wool-garments (recipe).
+Action 2396: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2397: Sell 200 wool-garments for 11600 Enteloot.
+Action 2398: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2399: Buy 600 sheep for 4800 Enteloot.
+Action 2400: craft 200x wool-garments (recipe).
+Action 2401: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2402: Sell 200 wool-garments for 11600 Enteloot.
+Action 2403: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2404: Buy 600 sheep for 4800 Enteloot.
+Action 2405: craft 200x wool-garments (recipe).
+Action 2406: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2407: Sell 200 wool-garments for 11600 Enteloot.
+Action 2408: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2409: Buy 600 sheep for 4800 Enteloot.
+Action 2410: craft 200x wool-garments (recipe).
+Action 2411: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2412: Sell 200 wool-garments for 11600 Enteloot.
+Action 2413: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2414: Buy 600 sheep for 4800 Enteloot.
+Action 2415: craft 200x wool-garments (recipe).
+Action 2416: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2417: Sell 200 wool-garments for 11600 Enteloot.
+Action 2418: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2419: Buy 600 sheep for 4800 Enteloot.
+Action 2420: craft 200x wool-garments (recipe).
+Action 2421: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2422: Sell 200 wool-garments for 11600 Enteloot.
+Action 2423: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2424: Buy 600 sheep for 4800 Enteloot.
+Action 2425: craft 200x wool-garments (recipe).
+Action 2426: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2427: Sell 200 wool-garments for 11600 Enteloot.
+Action 2428: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2429: Buy 600 sheep for 4800 Enteloot.
+Action 2430: craft 200x wool-garments (recipe).
+Action 2431: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2432: Sell 200 wool-garments for 11600 Enteloot.
+Action 2433: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2434: Buy 600 sheep for 4800 Enteloot.
+Action 2435: craft 200x wool-garments (recipe).
+Action 2436: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2437: Sell 200 wool-garments for 11600 Enteloot.
+Action 2438: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2439: Buy 600 sheep for 4800 Enteloot.
+Action 2440: craft 200x wool-garments (recipe).
+Action 2441: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2442: Sell 200 wool-garments for 11600 Enteloot.
+Action 2443: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2444: Buy 600 sheep for 4800 Enteloot.
+Action 2445: craft 200x wool-garments (recipe).
+Action 2446: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2447: Sell 200 wool-garments for 11600 Enteloot.
+Action 2448: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2449: Buy 600 sheep for 4800 Enteloot.
+Action 2450: craft 200x wool-garments (recipe).
+Action 2451: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2452: Sell 200 wool-garments for 11600 Enteloot.
+Action 2453: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2454: Buy 600 sheep for 4800 Enteloot.
+Action 2455: craft 200x wool-garments (recipe).
+Action 2456: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2457: Sell 200 wool-garments for 11600 Enteloot.
+Action 2458: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2459: Buy 600 sheep for 4800 Enteloot.
+Action 2460: craft 200x wool-garments (recipe).
+Action 2461: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2462: Sell 200 wool-garments for 11600 Enteloot.
+Action 2463: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2464: Buy 600 sheep for 4800 Enteloot.
+Action 2465: craft 200x wool-garments (recipe).
+Action 2466: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2467: Sell 200 wool-garments for 11600 Enteloot.
+Action 2468: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2469: Buy 600 sheep for 4800 Enteloot.
+Action 2470: craft 200x wool-garments (recipe).
+Action 2471: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2472: Sell 200 wool-garments for 11600 Enteloot.
+Action 2473: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2474: Buy 600 sheep for 4800 Enteloot.
+Action 2475: craft 200x wool-garments (recipe).
+Action 2476: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2477: Sell 200 wool-garments for 11600 Enteloot.
+Action 2478: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2479: Buy 600 sheep for 4800 Enteloot.
+Action 2480: craft 200x wool-garments (recipe).
+Action 2481: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2482: Sell 200 wool-garments for 11600 Enteloot.
+Action 2483: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2484: Buy 600 sheep for 4800 Enteloot.
+Action 2485: craft 200x wool-garments (recipe).
+Action 2486: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2487: Sell 200 wool-garments for 11600 Enteloot.
+Action 2488: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2489: Buy 600 sheep for 4800 Enteloot.
+Action 2490: craft 200x wool-garments (recipe).
+Action 2491: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2492: Sell 200 wool-garments for 11600 Enteloot.
+Action 2493: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2494: Buy 600 sheep for 4800 Enteloot.
+Action 2495: craft 200x wool-garments (recipe).
+Action 2496: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2497: Sell 200 wool-garments for 11600 Enteloot.
+Action 2498: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2499: Buy 600 sheep for 4800 Enteloot.
+Action 2500: craft 200x wool-garments (recipe).
+Action 2501: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2502: Sell 200 wool-garments for 11600 Enteloot.
+Action 2503: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2504: Buy 600 sheep for 4800 Enteloot.
+Action 2505: craft 200x wool-garments (recipe).
+Action 2506: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2507: Sell 200 wool-garments for 11600 Enteloot.
+Action 2508: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2509: Buy 600 sheep for 4800 Enteloot.
+Action 2510: craft 200x wool-garments (recipe).
+Action 2511: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2512: Sell 200 wool-garments for 11600 Enteloot.
+Action 2513: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2514: Buy 600 sheep for 4800 Enteloot.
+Action 2515: craft 200x wool-garments (recipe).
+Action 2516: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2517: Sell 200 wool-garments for 11600 Enteloot.
+Action 2518: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2519: Buy 600 sheep for 4800 Enteloot.
+Action 2520: craft 200x wool-garments (recipe).
+Action 2521: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2522: Sell 200 wool-garments for 11600 Enteloot.
+Action 2523: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2524: Buy 600 sheep for 4800 Enteloot.
+Action 2525: craft 200x wool-garments (recipe).
+Action 2526: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2527: Sell 200 wool-garments for 11600 Enteloot.
+Action 2528: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2529: Buy 600 sheep for 4800 Enteloot.
+Action 2530: craft 200x wool-garments (recipe).
+Action 2531: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2532: Sell 200 wool-garments for 11600 Enteloot.
+Action 2533: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2534: Buy 600 sheep for 4800 Enteloot.
+Action 2535: craft 200x wool-garments (recipe).
+Action 2536: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2537: Sell 200 wool-garments for 11600 Enteloot.
+Action 2538: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2539: Buy 600 sheep for 4800 Enteloot.
+Action 2540: craft 200x wool-garments (recipe).
+Action 2541: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2542: Sell 200 wool-garments for 11600 Enteloot.
+Action 2543: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2544: Buy 600 sheep for 4800 Enteloot.
+Action 2545: craft 200x wool-garments (recipe).
+Action 2546: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2547: Sell 200 wool-garments for 11600 Enteloot.
+Action 2548: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2549: Buy 600 sheep for 4800 Enteloot.
+Action 2550: craft 200x wool-garments (recipe).
+Action 2551: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2552: Sell 200 wool-garments for 11600 Enteloot.
+Action 2553: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2554: Buy 600 sheep for 4800 Enteloot.
+Action 2555: craft 200x wool-garments (recipe).
+Action 2556: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2557: Sell 200 wool-garments for 11600 Enteloot.
+Action 2558: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2559: Buy 600 sheep for 4800 Enteloot.
+Action 2560: craft 200x wool-garments (recipe).
+Action 2561: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2562: Sell 200 wool-garments for 11600 Enteloot.
+Action 2563: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2564: Buy 600 sheep for 4800 Enteloot.
+Action 2565: craft 200x wool-garments (recipe).
+Action 2566: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2567: Sell 200 wool-garments for 11600 Enteloot.
+Action 2568: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2569: Buy 600 sheep for 4800 Enteloot.
+Action 2570: craft 200x wool-garments (recipe).
+Action 2571: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2572: Sell 200 wool-garments for 11600 Enteloot.
+Action 2573: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2574: Buy 600 sheep for 4800 Enteloot.
+Action 2575: craft 200x wool-garments (recipe).
+Action 2576: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2577: Sell 200 wool-garments for 11600 Enteloot.
+Action 2578: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2579: Buy 600 sheep for 4800 Enteloot.
+Action 2580: craft 200x wool-garments (recipe).
+Action 2581: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2582: Sell 200 wool-garments for 11600 Enteloot.
+Action 2583: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2584: Buy 600 sheep for 4800 Enteloot.
+Action 2585: craft 200x wool-garments (recipe).
+Action 2586: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2587: Sell 200 wool-garments for 11600 Enteloot.
+Action 2588: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2589: Buy 600 sheep for 4800 Enteloot.
+Action 2590: craft 200x wool-garments (recipe).
+Action 2591: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2592: Sell 200 wool-garments for 11600 Enteloot.
+Action 2593: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2594: Buy 600 sheep for 4800 Enteloot.
+Action 2595: craft 200x wool-garments (recipe).
+Action 2596: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2597: Sell 200 wool-garments for 11600 Enteloot.
+Action 2598: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2599: Buy 600 sheep for 4800 Enteloot.
+Action 2600: craft 200x wool-garments (recipe).
+Action 2601: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2602: Sell 200 wool-garments for 11600 Enteloot.
+Action 2603: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2604: Buy 600 sheep for 4800 Enteloot.
+Action 2605: craft 200x wool-garments (recipe).
+Action 2606: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2607: Sell 200 wool-garments for 11600 Enteloot.
+Action 2608: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2609: Buy 600 sheep for 4800 Enteloot.
+Action 2610: craft 200x wool-garments (recipe).
+Action 2611: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2612: Sell 200 wool-garments for 11600 Enteloot.
+Action 2613: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2614: Buy 600 sheep for 4800 Enteloot.
+Action 2615: craft 200x wool-garments (recipe).
+Action 2616: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2617: Sell 200 wool-garments for 11600 Enteloot.
+Action 2618: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2619: Buy 600 sheep for 4800 Enteloot.
+Action 2620: craft 200x wool-garments (recipe).
+Action 2621: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2622: Sell 200 wool-garments for 11600 Enteloot.
+Action 2623: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2624: Buy 600 sheep for 4800 Enteloot.
+Action 2625: craft 200x wool-garments (recipe).
+Action 2626: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2627: Sell 200 wool-garments for 11600 Enteloot.
+Action 2628: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2629: Buy 600 sheep for 4800 Enteloot.
+Action 2630: craft 200x wool-garments (recipe).
+Action 2631: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2632: Sell 200 wool-garments for 11600 Enteloot.
+Action 2633: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2634: Buy 600 sheep for 4800 Enteloot.
+Action 2635: craft 200x wool-garments (recipe).
+Action 2636: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2637: Sell 200 wool-garments for 11600 Enteloot.
+Action 2638: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2639: Buy 600 sheep for 4800 Enteloot.
+Action 2640: craft 200x wool-garments (recipe).
+Action 2641: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2642: Sell 200 wool-garments for 11600 Enteloot.
+Action 2643: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2644: Buy 600 sheep for 4800 Enteloot.
+Action 2645: craft 200x wool-garments (recipe).
+Action 2646: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2647: Sell 200 wool-garments for 11600 Enteloot.
+Action 2648: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2649: Buy 600 sheep for 4800 Enteloot.
+Action 2650: craft 200x wool-garments (recipe).
+Action 2651: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2652: Sell 200 wool-garments for 11600 Enteloot.
+Action 2653: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2654: Buy 600 sheep for 4800 Enteloot.
+Action 2655: craft 200x wool-garments (recipe).
+Action 2656: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2657: Sell 200 wool-garments for 11600 Enteloot.
+Action 2658: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2659: Buy 600 sheep for 4800 Enteloot.
+Action 2660: craft 200x wool-garments (recipe).
+Action 2661: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2662: Sell 200 wool-garments for 11600 Enteloot.
+Action 2663: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2664: Buy 600 sheep for 4800 Enteloot.
+Action 2665: craft 200x wool-garments (recipe).
+Action 2666: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2667: Sell 200 wool-garments for 11600 Enteloot.
+Action 2668: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2669: Buy 600 sheep for 4800 Enteloot.
+Action 2670: craft 200x wool-garments (recipe).
+Action 2671: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2672: Sell 200 wool-garments for 11600 Enteloot.
+Action 2673: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2674: Buy 600 sheep for 4800 Enteloot.
+Action 2675: craft 200x wool-garments (recipe).
+Action 2676: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2677: Sell 200 wool-garments for 11600 Enteloot.
+Action 2678: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2679: Buy 600 sheep for 4800 Enteloot.
+Action 2680: craft 200x wool-garments (recipe).
+Action 2681: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2682: Sell 200 wool-garments for 11600 Enteloot.
+Action 2683: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2684: Buy 600 sheep for 4800 Enteloot.
+Action 2685: craft 200x wool-garments (recipe).
+Action 2686: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2687: Sell 200 wool-garments for 11600 Enteloot.
+Action 2688: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2689: Buy 600 sheep for 4800 Enteloot.
+Action 2690: craft 200x wool-garments (recipe).
+Action 2691: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2692: Sell 200 wool-garments for 11600 Enteloot.
+Action 2693: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2694: Buy 600 sheep for 4800 Enteloot.
+Action 2695: craft 200x wool-garments (recipe).
+Action 2696: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2697: Sell 200 wool-garments for 11600 Enteloot.
+Action 2698: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2699: Buy 600 sheep for 4800 Enteloot.
+Action 2700: craft 200x wool-garments (recipe).
+Action 2701: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2702: Sell 200 wool-garments for 11600 Enteloot.
+Action 2703: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2704: Buy 600 sheep for 4800 Enteloot.
+Action 2705: craft 200x wool-garments (recipe).
+Action 2706: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2707: Sell 200 wool-garments for 11600 Enteloot.
+Action 2708: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2709: Buy 600 sheep for 4800 Enteloot.
+Action 2710: craft 200x wool-garments (recipe).
+Action 2711: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2712: Sell 200 wool-garments for 11600 Enteloot.
+Action 2713: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2714: Buy 600 sheep for 4800 Enteloot.
+Action 2715: craft 200x wool-garments (recipe).
+Action 2716: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2717: Sell 200 wool-garments for 11600 Enteloot.
+Action 2718: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2719: Buy 600 sheep for 4800 Enteloot.
+Action 2720: craft 200x wool-garments (recipe).
+Action 2721: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2722: Sell 200 wool-garments for 11600 Enteloot.
+Action 2723: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2724: Buy 600 sheep for 4800 Enteloot.
+Action 2725: craft 200x wool-garments (recipe).
+Action 2726: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2727: Sell 200 wool-garments for 11600 Enteloot.
+Action 2728: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2729: Buy 600 sheep for 4800 Enteloot.
+Action 2730: craft 200x wool-garments (recipe).
+Action 2731: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2732: Sell 200 wool-garments for 11600 Enteloot.
+Action 2733: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2734: Buy 600 sheep for 4800 Enteloot.
+Action 2735: craft 200x wool-garments (recipe).
+Action 2736: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2737: Sell 200 wool-garments for 11600 Enteloot.
+Action 2738: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2739: Buy 600 sheep for 4800 Enteloot.
+Action 2740: craft 200x wool-garments (recipe).
+Action 2741: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2742: Sell 200 wool-garments for 11600 Enteloot.
+Action 2743: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2744: Buy 600 sheep for 4800 Enteloot.
+Action 2745: craft 200x wool-garments (recipe).
+Action 2746: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2747: Sell 200 wool-garments for 11600 Enteloot.
+Action 2748: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2749: Buy 600 sheep for 4800 Enteloot.
+Action 2750: craft 200x wool-garments (recipe).
+Action 2751: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2752: Sell 200 wool-garments for 11600 Enteloot.
+Action 2753: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2754: Buy 600 sheep for 4800 Enteloot.
+Action 2755: craft 200x wool-garments (recipe).
+Action 2756: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2757: Sell 200 wool-garments for 11600 Enteloot.
+Action 2758: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2759: Buy 600 sheep for 4800 Enteloot.
+Action 2760: craft 200x wool-garments (recipe).
+Action 2761: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2762: Sell 200 wool-garments for 11600 Enteloot.
+Action 2763: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2764: Buy 600 sheep for 4800 Enteloot.
+Action 2765: craft 200x wool-garments (recipe).
+Action 2766: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2767: Sell 200 wool-garments for 11600 Enteloot.
+Action 2768: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2769: Buy 600 sheep for 4800 Enteloot.
+Action 2770: craft 200x wool-garments (recipe).
+Action 2771: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2772: Sell 200 wool-garments for 11600 Enteloot.
+Action 2773: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2774: Buy 600 sheep for 4800 Enteloot.
+Action 2775: craft 200x wool-garments (recipe).
+Action 2776: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2777: Sell 200 wool-garments for 11600 Enteloot.
+Action 2778: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2779: Buy 600 sheep for 4800 Enteloot.
+Action 2780: craft 200x wool-garments (recipe).
+Action 2781: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2782: Sell 200 wool-garments for 11600 Enteloot.
+Action 2783: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2784: Buy 600 sheep for 4800 Enteloot.
+Action 2785: craft 200x wool-garments (recipe).
+Action 2786: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2787: Sell 200 wool-garments for 11600 Enteloot.
+Action 2788: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2789: Buy 600 sheep for 4800 Enteloot.
+Action 2790: craft 200x wool-garments (recipe).
+Action 2791: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2792: Sell 200 wool-garments for 11600 Enteloot.
+Action 2793: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2794: Buy 600 sheep for 4800 Enteloot.
+Action 2795: craft 200x wool-garments (recipe).
+Action 2796: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2797: Sell 200 wool-garments for 11600 Enteloot.
+Action 2798: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2799: Buy 600 sheep for 4800 Enteloot.
+Action 2800: craft 200x wool-garments (recipe).
+Action 2801: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2802: Sell 200 wool-garments for 11600 Enteloot.
+Action 2803: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2804: Buy 600 sheep for 4800 Enteloot.
+Action 2805: craft 200x wool-garments (recipe).
+Action 2806: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2807: Sell 200 wool-garments for 11600 Enteloot.
+Action 2808: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2809: Buy 600 sheep for 4800 Enteloot.
+Action 2810: craft 200x wool-garments (recipe).
+Action 2811: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2812: Sell 200 wool-garments for 11600 Enteloot.
+Action 2813: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2814: Buy 600 sheep for 4800 Enteloot.
+Action 2815: craft 200x wool-garments (recipe).
+Action 2816: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2817: Sell 200 wool-garments for 11600 Enteloot.
+Action 2818: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2819: Buy 600 sheep for 4800 Enteloot.
+Action 2820: craft 200x wool-garments (recipe).
+Action 2821: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2822: Sell 200 wool-garments for 11600 Enteloot.
+Action 2823: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2824: Buy 600 sheep for 4800 Enteloot.
+Action 2825: craft 200x wool-garments (recipe).
+Action 2826: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2827: Sell 200 wool-garments for 11600 Enteloot.
+Action 2828: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2829: Buy 600 sheep for 4800 Enteloot.
+Action 2830: craft 200x wool-garments (recipe).
+Action 2831: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2832: Sell 200 wool-garments for 11600 Enteloot.
+Action 2833: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2834: Buy 600 sheep for 4800 Enteloot.
+Action 2835: craft 200x wool-garments (recipe).
+Action 2836: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2837: Sell 200 wool-garments for 11600 Enteloot.
+Action 2838: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 2839: Buy 600 sheep for 4800 Enteloot.
+Action 2840 {'type': 'sell', 'item': 'clay', 'quantity': 119498}: INVALID - Cannot sell 119498 'clay': only 119495 available in inventory..
+Action 2841 {'type': 'sell', 'item': 'fish', 'quantity': 304591}: INVALID - Cannot sell 304591 'fish': only 304589 available in inventory..
+Action 2842: Sell 2 ore for 12 Enteloot.
+Action 2843: Sell 287098 sheep for 1435490 Enteloot.
+Action 2844: Sell 264516 stone for 793548 Enteloot.
+Action 2845: Sell 297171 wheat for 594342 Enteloot.
+Action 2846: Sell 161245 wood for 483735 Enteloot.
+Action 2847: Sell 8 clay for 32 Enteloot.
+Action 2848: Sell 32 fish for 128 Enteloot.
+Action 2849: Sell 18 sheep for 90 Enteloot.
+Action 2850 {'type': 'sell', 'item': 'stone', 'quantity': 24}: INVALID - Cannot sell 24 'stone': only 21 available in inventory..
+Action 2851: Sell 18 wheat for 36 Enteloot.
+Action 2852: Sell 20 wood for 60 Enteloot.
+===================================
+Level 4 Scoring
+===================================
+Your Enteloot: 6166588
+Held items value: 1696541
+Total sale revenue: 8678791
+===================================
+Final score: 22621315.0

@@ -50,22 +50,27 @@ publishes `levels/levelN/actions.txt` plus a reproducible `source.zip` beside
 it. The ZIP alone regenerates the exact actions.txt — verified. Always ship
 what this tool produced, never a hand-run plan.py output.
 
-## Current baseline
+## Current baseline — decoded scoring
 
-| Level | Ticks | Enteloot | Infrastructure | Towns developed | Tools | Invalid actions |
-|---|---|---|---|---|---|---|
-| 1 | 1,000 | 30,990 | 0 | 0 | — | 0 |
-| 2 | 5,000 | 95,141 | 168,000 (70/100 upgrades) | 7 of 10 | — | 0 |
-| 3 | 50,000 | 2,003,367 | 435,000 (max) | 15 of 15 | boots + pickaxe | 0 |
-| 4 | 100,000 | 6,588,418 | 870,000 (max) | 30 of 30 | boots + pickaxe | 0 |
+The official score formula was decoded exactly from six uploaded logs:
 
-Engine-reported Enteloot is now a *floor*: the planner deliberately sells at
-towns where the assumed `sell_bonus_multiplier` (1.5x) would pay, which our
-engine does not credit. `--no-sell-bonus` reverts that bet. See
-`PROJECT-BREAKDOWN.md` section 5 for all three assumption bets.
+```
+score = M x [ enteloot + held + 1.5 x revenue + 2 x infra x D ]
+M = 100 / 15 / 2 / 1 for L1-L4,  D = (1 + towns_developed/towns_total) / 2
+```
 
-Levels 3 and 4 build **every upgrade in every town** — 870,000 is the literal
-infrastructure maximum on Level 4. Note: the real level files give towns almost
-no passive Enteloot (rates of 1,250–5,000 ticks), the opposite of the spec's
-example — so cash comes from trading and resource trickle, and civic upgrades
-are score items, not money-makers.
+Consequences built into the planner: revenue outranks cash (loops valued at
+4.5xrevenue - 3xspend), every run ends with a clay churn converting each held
+Enteloot into ~3 score points, and the build sweep is A/B-tested per level
+(L2 scores higher with no builds at all).
+
+| Level | Predicted score | Revenue | Infra | Invalid |
+|---|---|---|---|---|
+| 1 | 13,193,000 | 86,036 | 0 | 0 |
+| 2 | 17,431,852 | 773,013 | 0 (A/B: builds lose) | 0 |
+| 3 | 30,038,780 | 9,427,878 | 435,000 | 0 |
+| 4 | 41,592,209 | 26,560,255 | 870,000 | 0 |
+| **Total** | **~102M** | | | |
+
+Last verified upload scored 60M with the same engine agreement (our
+per-level predictions matched the official logs to within trickle drift).
