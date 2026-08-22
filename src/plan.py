@@ -261,6 +261,8 @@ def main():
                    help="skip the end-of-run sell-off")
     p.add_argument("--no-build", action="store_true",
                    help="skip the construction sweep (levels 2+)")
+    p.add_argument("--no-upkeep", action="store_true",
+                   help="skip upkeep boost insertion (level 4)")
     p.add_argument("--time-limit", type=float, default=20.0)
     args = p.parse_args()
 
@@ -285,6 +287,9 @@ def main():
     if args.level_num >= 2 and not args.no_build:
         from build import plan_builds
         actions = plan_builds(level, C, args.level_num, actions, mp, ticks, tolls, prevs)
+    if args.level_num >= 4 and not args.no_upkeep:
+        from upkeep import add_upkeep
+        actions = add_upkeep(level, C, args.level_num, actions)
     if not args.no_liquidate:
         base = Sim(level, level_num=args.level_num, constants=C).run(list(actions))
         n_before = len(actions)

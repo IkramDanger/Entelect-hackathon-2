@@ -1,6 +1,6 @@
 ---
 name: enteland-optimizer
-description: Plan and validate Age of Enteland runs (Entelect hackathon). Use whenever the task involves the Enteland level files in Levels/, the actions.txt submission, tick budgets, routing between towns and nodes, gather-vs-buy decisions, crafting and hauling, upgrade build order, tools, upkeep timing, or scoring. Wraps a deterministic simulator plus OR-Tools CP-SAT and routing solvers.
+description: Plan and validate Age of Enteland runs (Entelect hackathon). Use whenever the task involves the Enteland level files in levels/, the actions.txt submission, tick budgets, routing between towns and nodes, gather-vs-buy decisions, crafting and hauling, upgrade build order, tools, upkeep timing, or scoring. Wraps a deterministic simulator plus OR-Tools CP-SAT and routing solvers.
 ---
 
 # Enteland optimizer
@@ -17,7 +17,7 @@ Solvers live in the repo venv. Set it once per shell:
 
 ```bash
 PY=.venv/bin/python
-SC=.claude/skills/enteland-optimizer/scripts
+SC=src
 ```
 
 Installed: `ortools` 9.15 (CP-SAT + routing), `pulp` 3.3 (CBC), `pypdf`.
@@ -30,12 +30,12 @@ from any working directory.
 
 ## Always simulate before submitting
 
-`scripts/engine.py` is a deterministic transcription of `specification.pdf`.
+`src/engine.py` is a deterministic transcription of `specification.pdf`.
 It reproduces the spec's worked example exactly (16 ticks, 360 Enteloot).
 
 ```bash
 $PY $SC/engine.py --self-test
-$PY $SC/engine.py --level Levels/2.txt --actions actions.txt --level-num 2 --verbose
+$PY $SC/engine.py --level levels/level2/level.json --actions actions.txt --level-num 2 --verbose
 ```
 
 It prints per-action ticks and running totals plus a final report:
@@ -54,7 +54,7 @@ the first sell-off attempt fail with "not enough held".
 ## Generating a plan
 
 ```bash
-$PY $SC/plan.py --level Levels/2.txt --level-num 2 --out submissions/level2/actions.txt
+$PY $SC/plan.py --level levels/level2/level.json --level-num 2 --out levels/level2/actions.txt
 ```
 
 `plan.py` runs four stages:
@@ -87,7 +87,7 @@ feeds the Level 1 multiplier.
 
 ## Map layer
 
-`scripts/route.py`: `Map.dijkstra`, `Map.all_pairs`, `Map.path_actions`
+`src/route.py`: `Map.dijkstra`, `Map.all_pairs`, `Map.path_actions`
 (rebuilds travel actions, marking `fast`), and `order_stops`.
 
 Construct with `allow_fast=(level >= 3)` and `boots=True` once the boots tool is
@@ -104,9 +104,10 @@ routes; the slower of those is just a worse standard route, and treating it as
 - **Score is driven by infrastructure, not cash.** Hoarded Enteloot scores far
   less than invested Enteloot, and development spread across towns earns a
   multiplier. On Levels 2+ a plan that only trades is a losing plan.
-- **Town Enteloot trickle usually dwarfs trading.** Check
-  `enteloot.amount / enteloot.rate` per town first. Civic upgrades multiply it,
-  so they compound — build early.
+- **On the real maps, town Enteloot trickle is nearly zero** (rates of
+  1,250-5,000 ticks, amounts under 200) — the opposite of the spec's example.
+  Cash comes from trading and resource trickle; civic upgrades are score
+  items. Check `enteloot.amount / enteloot.rate` before assuming either way.
 - **Buying is always faster and always worse per Enteloot.** Use buys to fill a
   small shortfall, gathering trips for bulk.
 - **Craft at affinity towns.** 1 tick per item instead of 2.
@@ -114,7 +115,7 @@ routes; the slower of those is just a worse standard route, and treating it as
   which gate both tools and the police-station.
 - **Invalid actions cost 1 tick each.** Cheapest bug to find, easiest to leave in.
 
-## The build sweep (`scripts/build.py`)
+## The build sweep (`src/build.py`)
 
 Runs by default on levels 2+ (`--no-build` disables). Strategy: earn until
 cash covers the programme, then one sweep — buy raws at producing towns,

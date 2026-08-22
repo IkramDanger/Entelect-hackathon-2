@@ -12,43 +12,43 @@ python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 ```
 
-## Run
-
-```bash
-PY=.venv/bin/python
-SC=.claude/skills/enteland-optimizer/scripts
-
-# generate a submission and simulate it in one step
-$PY $SC/plan.py --level Levels/2.txt --level-num 2 --out submissions/level2/actions.txt
-
-# check an existing submission
-$PY $SC/engine.py --level Levels/2.txt --actions submissions/level2/actions.txt --level-num 2
-```
-
-`engine.py --self-test` reproduces the worked example from `specification.pdf`
-(16 ticks, 360 Enteloot). Run it after any change to the engine.
-
 ## Layout
 
 | Path | What |
 |---|---|
+| `src/` | All solver source (engine, routing, planners) |
+| `levels/levelN/level.json` | The level input |
+| `levels/levelN/actions.txt` | The generated submission for that level |
 | `specification.pdf` | The problem statement (source of truth) |
 | `supporting-resources/resources.json` | Global constants: prices, recipes, upgrades, tools |
-| `Levels/1.txt` … `4.txt` | The four level files |
-| `.claude/skills/enteland-optimizer/` | Solver + simulator + docs |
-| `submissions/levelN/` | Per-level `actions.txt` to submit |
+| `.claude/skills/enteland-optimizer/` | Claude Code skill docs |
+
+## Run
+
+```bash
+PY=.venv/bin/python
+
+# generate a submission and simulate it in one step
+$PY src/plan.py --level levels/level2/level.json --level-num 2 --out levels/level2/actions.txt
+
+# check an existing submission
+$PY src/engine.py --level levels/level2/level.json --actions levels/level2/actions.txt --level-num 2
+```
+
+`src/engine.py --self-test` reproduces the worked example from
+`specification.pdf` (16 ticks, 360 Enteloot). Run it after any engine change.
 
 ## Current baseline
 
-| Level | Ticks | Enteloot | Units sold | Infrastructure | Towns developed | Invalid actions |
+| Level | Ticks | Enteloot | Infrastructure | Towns developed | Tools | Invalid actions |
 |---|---|---|---|---|---|---|
-| 1 | 1,000 | 30,990 | 3,976 | 0 | 0 | 0 |
-| 2 | 5,000 | 139,788 | 20,517 | 150,000 | 10 | 0 |
-| 3 | 50,000 | 2,213,665 | 432,958 | 225,000 | 15 | 0 |
-| 4 | 100,000 | 7,439,705 | 1,374,931 | 450,000 | 30 | 0 |
+| 1 | 1,000 | 30,990 | 0 | 0 | — | 0 |
+| 2 | 5,000 | 107,906 | 180,000 | 9 of 10 | — | 0 |
+| 3 | 50,000 | 2,227,967 | 435,000 | 15 of 15 | boots + pickaxe | 0 |
+| 4 | 100,000 | 7,513,206 | 870,000 | 30 of 30 | boots + pickaxe | 0 |
 
-Every buildable town now runs the full chain (production upgrade →
-rec-center → school → library) via the build sweep in `build.py`. The civic
-upgrades pay for themselves: Levels 3 and 4 end with **more** Enteloot than the
-earn-only plan did. Remaining solver work (fire-station/police-station chains,
-tools, tolls, upkeep) is in `PROJECT-BREAKDOWN.md` section 4.
+Levels 3 and 4 build **every upgrade in every town** — 870,000 is the literal
+infrastructure maximum on Level 4. Note: the real level files give towns almost
+no passive Enteloot (rates of 1,250–5,000 ticks), the opposite of the spec's
+example — so cash comes from trading and resource trickle, and civic upgrades
+are score items, not money-makers.
