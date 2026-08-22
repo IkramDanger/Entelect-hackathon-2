@@ -1,0 +1,4917 @@
+{
+ "actions": [
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 140
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "buy",
+   "item": "wheat",
+   "quantity": 24
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "travel",
+   "destination": "Ixtal"
+  },
+  {
+   "type": "travel",
+   "destination": "Ionia"
+  },
+  {
+   "type": "buy",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "Ixtal"
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Bilgewater"
+  },
+  {
+   "type": "travel",
+   "destination": "N11"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "Noxus"
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 500
+  },
+  {
+   "type": "travel",
+   "destination": "N11"
+  },
+  {
+   "type": "travel",
+   "destination": "Bilgewater"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "craft",
+   "item": "rope",
+   "quantity": 32
+  },
+  {
+   "type": "craft",
+   "item": "thatch",
+   "quantity": 12
+  },
+  {
+   "type": "craft",
+   "item": "planks",
+   "quantity": 145
+  },
+  {
+   "type": "craft",
+   "item": "mortar",
+   "quantity": 140
+  },
+  {
+   "type": "craft",
+   "item": "kiln-glass",
+   "quantity": 40
+  },
+  {
+   "type": "craft",
+   "item": "fencing",
+   "quantity": 14
+  },
+  {
+   "type": "craft",
+   "item": "bricks",
+   "quantity": 140
+  },
+  {
+   "type": "craft",
+   "item": "nets",
+   "quantity": 8
+  },
+  {
+   "type": "build",
+   "upgrade": "pier"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "build",
+   "upgrade": "fertilised-fields"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "travel",
+   "destination": "Ixtal"
+  },
+  {
+   "type": "build",
+   "upgrade": "fertilised-fields"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "Ionia"
+  },
+  {
+   "type": "build",
+   "upgrade": "farmhouse"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "build",
+   "upgrade": "pier"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "travel",
+   "destination": "Zaun"
+  },
+  {
+   "type": "build",
+   "upgrade": "pier"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "Targon"
+  },
+  {
+   "type": "build",
+   "upgrade": "fertilised-fields"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "Zaun"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "travel",
+   "destination": "N14"
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "travel",
+   "destination": "Freljord"
+  },
+  {
+   "type": "build",
+   "upgrade": "farmhouse"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Bilgewater"
+  },
+  {
+   "type": "build",
+   "upgrade": "pier"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "N11"
+  },
+  {
+   "type": "travel",
+   "destination": "Noxus"
+  },
+  {
+   "type": "build",
+   "upgrade": "farmhouse"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "travel",
+   "destination": "N11"
+  },
+  {
+   "type": "travel",
+   "destination": "Bilgewater"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Shurima"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 12
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 60
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 824
+  },
+  {
+   "type": "sell",
+   "item": "fish",
+   "quantity": 7096
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 4198
+  },
+  {
+   "type": "sell",
+   "item": "stone",
+   "quantity": 1914
+  },
+  {
+   "type": "sell",
+   "item": "wheat",
+   "quantity": 3027
+  },
+  {
+   "type": "sell",
+   "item": "wood",
+   "quantity": 4
+  },
+  {
+   "type": "sell",
+   "item": "fish",
+   "quantity": 11
+  },
+  {
+   "type": "sell",
+   "item": "stone",
+   "quantity": 3
+  },
+  {
+   "type": "sell",
+   "item": "wheat",
+   "quantity": 8
+  }
+ ]
+}

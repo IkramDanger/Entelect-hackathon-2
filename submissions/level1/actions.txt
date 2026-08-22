@@ -1,0 +1,1627 @@
+{
+ "actions": [
+  {
+   "type": "travel",
+   "destination": "N3"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 64
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 547
+  },
+  {
+   "type": "sell",
+   "item": "fish",
+   "quantity": 602
+  },
+  {
+   "type": "sell",
+   "item": "stone",
+   "quantity": 378
+  },
+  {
+   "type": "sell",
+   "item": "wheat",
+   "quantity": 189
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 5
+  },
+  {
+   "type": "sell",
+   "item": "fish",
+   "quantity": 6
+  },
+  {
+   "type": "sell",
+   "item": "stone",
+   "quantity": 6
+  },
+  {
+   "type": "sell",
+   "item": "wheat",
+   "quantity": 3
+  }
+ ]
+}
