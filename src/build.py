@@ -171,6 +171,11 @@ def plan_builds(level, C, level_num, earn_actions, mp, ticks, tolls, prevs,
     # try the full 11-upgrade programme and the lean 7-upgrade one; short
     # levels cannot afford full chains in every town, and developed-town
     # spread beats a few extra production upgrades
+    # ASSUMPTION: the distribution multiplier is the one the spec's own
+    # appendix floats — upgrades built / total possible — and it multiplies
+    # the infrastructure score. So rank programmes by infra x built/total.
+    per_town_max = len(make_chains(True)[next(iter(towns))])
+    total_possible = per_town_max * len(towns)
     best = None
     for full in (True, False):
         chains = make_chains(full)
@@ -179,7 +184,8 @@ def plan_builds(level, C, level_num, earn_actions, mp, ticks, tolls, prevs,
         if result is None:
             continue
         combined, rep = result
-        key = (rep["towns_developed"], rep["infrastructure_score"])
+        built = sum(len(v) for v in rep["upgrades_by_town"].values())
+        key = rep["infrastructure_score"] * built / total_possible
         if best is None or key > best[0]:
             best = (key, combined, rep, "full" if full else "lean")
     if best:
@@ -187,6 +193,7 @@ def plan_builds(level, C, level_num, earn_actions, mp, ticks, tolls, prevs,
         verbose(f"build sweep: kept {prof} programme — "
                 f"{rep['towns_developed']} towns, "
                 f"infrastructure {rep['infrastructure_score']}, "
+                f"assumed multiplier {best[0] / max(1, rep['infrastructure_score']):.2f}, "
                 f"invested {rep['enteloot_invested']}")
         return combined
     verbose("build sweep: no build programme fits, keeping earn-only plan")

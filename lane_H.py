@@ -18,7 +18,7 @@ from typing import Any, Dict, List
 
 
 ROOT = Path(__file__).resolve().parent
-SCRIPTS = ROOT / ".claude" / "skills" / "enteland-optimizer" / "scripts"
+SCRIPTS = ROOT / "src"
 PLANNER = SCRIPTS / "plan.py"
 ENGINE = SCRIPTS / "engine.py"
 
@@ -30,10 +30,11 @@ COMMON_SOURCE_FILES = (
     Path("requirements.txt"),
     Path("README.md"),
     Path("supporting-resources/resources.json"),
-    Path(".claude/skills/enteland-optimizer/scripts/plan.py"),
-    Path(".claude/skills/enteland-optimizer/scripts/route.py"),
-    Path(".claude/skills/enteland-optimizer/scripts/engine.py"),
-    Path(".claude/skills/enteland-optimizer/scripts/build.py"),
+    Path("src/plan.py"),
+    Path("src/route.py"),
+    Path("src/engine.py"),
+    Path("src/build.py"),
+    Path("src/upkeep.py"),
 )
 
 
@@ -147,7 +148,9 @@ def make_submission(level_path: Path, level_num: int) -> Dict[str, Any]:
         raise SubmissionError(f"level file does not exist: {level_path}")
     source_files = _source_files(level_path)
 
-    submission_dir = ROOT / "submissions" / f"level{level_num}"
+    # publish into the level's own folder so the verified actions.txt is the
+    # single working copy, with its source archive beside it
+    submission_dir = ROOT / "levels" / f"level{level_num}"
     final_actions = submission_dir / "actions.txt"
     final_zip = submission_dir / "source.zip"
 

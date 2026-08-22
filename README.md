@@ -38,14 +38,31 @@ $PY src/engine.py --level levels/level2/level.json --actions levels/level2/actio
 `src/engine.py --self-test` reproduces the worked example from
 `specification.pdf` (16 ticks, 360 Enteloot). Run it after any engine change.
 
+## Package a submission (the official way)
+
+```bash
+$PY lane_H.py --level levels/level2/level.json --level-num 2
+```
+
+`lane_H.py` generates the plan **twice** and fails if the bytes differ,
+validates it with the engine (any invalid action is a hard failure), then
+publishes `levels/levelN/actions.txt` plus a reproducible `source.zip` beside
+it. The ZIP alone regenerates the exact actions.txt — verified. Always ship
+what this tool produced, never a hand-run plan.py output.
+
 ## Current baseline
 
 | Level | Ticks | Enteloot | Infrastructure | Towns developed | Tools | Invalid actions |
 |---|---|---|---|---|---|---|
 | 1 | 1,000 | 30,990 | 0 | 0 | — | 0 |
-| 2 | 5,000 | 107,906 | 180,000 | 9 of 10 | — | 0 |
-| 3 | 50,000 | 2,227,967 | 435,000 | 15 of 15 | boots + pickaxe | 0 |
-| 4 | 100,000 | 7,513,206 | 870,000 | 30 of 30 | boots + pickaxe | 0 |
+| 2 | 5,000 | 95,141 | 168,000 (70/100 upgrades) | 7 of 10 | — | 0 |
+| 3 | 50,000 | 2,003,367 | 435,000 (max) | 15 of 15 | boots + pickaxe | 0 |
+| 4 | 100,000 | 6,588,418 | 870,000 (max) | 30 of 30 | boots + pickaxe | 0 |
+
+Engine-reported Enteloot is now a *floor*: the planner deliberately sells at
+towns where the assumed `sell_bonus_multiplier` (1.5x) would pay, which our
+engine does not credit. `--no-sell-bonus` reverts that bet. See
+`PROJECT-BREAKDOWN.md` section 5 for all three assumption bets.
 
 Levels 3 and 4 build **every upgrade in every town** — 870,000 is the literal
 infrastructure maximum on Level 4. Note: the real level files give towns almost

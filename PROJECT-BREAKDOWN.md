@@ -9,7 +9,7 @@ what the project is made of, what is already done, and who takes what next.
 > can turn a finished solution into a score of 0. After that, the three
 > unknowns in section 5 — they block Ikram's calibration. Your checklist:
 >
-> 1. `make_submission.py` — package + byte-identical determinism proof
+> 1. ~~Packaging~~ — **done**: `lane_H.py` (generate twice, byte-compare, validate, reproducible zip)
 > 2. Answer the three unknowns against the official engine (section 5)
 > 3. `scoreboard.py` — one command, one table, every run appended
 > 4. `test_regression.py` — fails loudly if anything gets worse
@@ -59,7 +59,7 @@ Lane **S** = Solver. Lane **H** = Harness.
 | 8 | Tools (boots + pickaxe in the build sweep) | `build.py` | **Done** | S |
 | 9 | Upkeep planner (declines itself: L4 towns trickle ~0) | `upkeep.py` | **Done** | S |
 | 10 | **Level input loader + validator** | `levels.py` | **Not started** | **H** |
-| 11 | **Submission packaging + determinism** | `make_submission.py` | **Not started** | **H** |
+| 11 | Submission packaging + determinism | `lane_H.py` | **Done** | H |
 | 12 | **Scoreboard** | `scoreboard.py` | **Not started** | **H** |
 | 13 | **Regression guard** | `test_regression.py` | **Not started** | **H** |
 | 14 | **Verify rules vs the official engine** | — | **Not started** | **H** |
@@ -173,9 +173,19 @@ never edit the same file.
 
 ---
 
-## 5. Do first: three unknowns
+## 5. The three unknowns — now bet on, not just flagged
 
 Fayyad owns this, and it blocks Ikram's calibration. Budget an hour, on day one.
+
+**Update 2026-08-22: the planner now acts on a chosen answer for each.** The
+bets are picked to be plausible *and* score-maximising; Fayyad's verification
+now tells us whether to keep or revert them, so it matters more, not less.
+
+| Unknown | Bet taken | Where | If the bet is wrong |
+|---|---|---|---|
+| Retroactive trickle | No action needed — early building is fine under both readings | — | Nothing changes |
+| `sell_bonus_multiplier` | Pays 1.5x when a good is sold at a town producing none of its inputs; steers loop *ranking* only, cash stays real | `plan.py` (`--no-sell-bonus` reverts) | ~10% Enteloot given up for nothing |
+| Distribution multiplier | The spec appendix's own formula: upgrades built / total possible, multiplying infra score | `build.py` | L2 favours 7 deep towns over 9 shallow ones needlessly |
 
 - **Does trickle after an upgrade pay out retroactively?** The spec formula
   `floor(tick / rate) * amount` reads as retroactive. `engine.py` credits each

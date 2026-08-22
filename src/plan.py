@@ -61,7 +61,7 @@ def _source_options(resource, need, home, towns, node_by_res, nodes, C, prefer_b
     return best
 
 
-def build_loops(level, C, level_num, ticks, tolls, prevs):
+def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True):
     towns, nodes = level["towns"], level.get("nodes", {})
     node_by_res = defaultdict(list)
     for n, d in nodes.items():
@@ -100,6 +100,15 @@ def build_loops(level, C, level_num, ticks, tolls, prevs):
                 rate = towns[sell_town].get("item-rates", {}).get(good)
                 if not rate:
                     continue
+                # ASSUMPTION: the unexplained sell_bonus_multiplier (1.5) pays
+                # when a good is sold at a town producing none of its inputs.
+                # Used only to *rank* loops — cash feasibility stays at the
+                # real rate, so a wrong assumption cannot break the plan.
+                produced = set(towns[sell_town].get("production", {})
+                               .get("resources", {}))
+                bonus = sell_bonus and produced.isdisjoint(rec["inputs"])
+                rank_rate = int(rate * C["constants"].get(
+                    "sell_bonus_multiplier", 1.5)) if bonus else rate
                 if sell_town not in ticks[home]:
                     continue
                 for q in BATCHES:
@@ -128,12 +137,14 @@ def build_loops(level, C, level_num, ticks, tolls, prevs):
                         t = tour["ticks"] + gather_ticks + craft_t * q + haul + 1
                         toll = tour["toll"] + haul_toll
                         profit = rate * q - spend - toll
-                        if profit <= 0:
+                        rank = rank_rate * q - spend - toll
+                        if rank <= 0:
                             continue
                         loops.append({
                             "kind": "craft", "home": home, "good": good, "q": q,
                             "sell_town": sell_town, "srcs": srcs, "seq": tour["seq"],
-                            "ticks": t, "profit": profit, "spend": spend + toll,
+                            "ticks": t, "profit": profit, "score": rank,
+                            "spend": spend + toll,
                         })
     return loops
 
@@ -149,7 +160,9 @@ def choose(loops, budget, starting_enteloot, time_limit=20.0):
     # keep upfront spending inside a plausible cash envelope
     m.add(sum(x * l["spend"] for x, l in zip(xs, loops))
           <= starting_enteloot + sum(x * l["profit"] for x, l in zip(xs, loops)))
-    m.maximize(sum(x * l["profit"] for x, l in zip(xs, loops)))
+    # objective ranks by assumed score; the cash envelope above stays at the
+    # real profit so the plan never spends bonus money it may not receive
+    m.maximize(sum(x * l.get("score", l["profit"]) for x, l in zip(xs, loops)))
     s = cp_model.CpSolver()
     s.parameters.max_time_in_seconds = time_limit
     s.parameters.num_workers = 8
@@ -263,6 +276,8 @@ def main():
                    help="skip the construction sweep (levels 2+)")
     p.add_argument("--no-upkeep", action="store_true",
                    help="skip upkeep boost insertion (level 4)")
+    p.add_argument("--no-sell-bonus", action="store_true",
+                   help="drop the assumed sell_bonus_multiplier steering")
     p.add_argument("--time-limit", type=float, default=20.0)
     args = p.parse_args()
 
@@ -273,7 +288,8 @@ def main():
              allow_fast=args.level_num >= 3)
     ticks, tolls, prevs = mp.all_pairs()
 
-    loops = build_loops(level, C, args.level_num, ticks, tolls, prevs)
+    loops = build_loops(level, C, args.level_num, ticks, tolls, prevs,
+                        sell_bonus=not args.no_sell_bonus)
     print(f"candidate loops: {len(loops)}")
     budget = level["run"]["total_ticks"] - args.reserve
     picked, status = choose(loops, budget, level["run"]["starting_enteloot"], args.time_limit)

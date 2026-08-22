@@ -1,0 +1,473 @@
+Action 0: Travel to 'N3' (standard, 6 ticks, Toll 0).
+Action 1: Travel to 'Piltover' (standard, 5 ticks, Toll 0).
+Action 2: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 3: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 4: gather 8 sheep at 'N1' (2 ticks).
+Action 5: gather 8 sheep at 'N1' (2 ticks).
+Action 6: gather 8 sheep at 'N1' (2 ticks).
+Action 7: gather 8 sheep at 'N1' (2 ticks).
+Action 8: gather 8 sheep at 'N1' (2 ticks).
+Action 9: gather 8 sheep at 'N1' (2 ticks).
+Action 10: gather 8 sheep at 'N1' (2 ticks).
+Action 11: gather 8 sheep at 'N1' (2 ticks).
+Action 12: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 13: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 14: Sell 64 sheep for 320 Enteloot.
+Action 15: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 16: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 17: gather 8 sheep at 'N1' (2 ticks).
+Action 18: gather 8 sheep at 'N1' (2 ticks).
+Action 19: gather 8 sheep at 'N1' (2 ticks).
+Action 20: gather 8 sheep at 'N1' (2 ticks).
+Action 21: gather 8 sheep at 'N1' (2 ticks).
+Action 22: gather 8 sheep at 'N1' (2 ticks).
+Action 23: gather 8 sheep at 'N1' (2 ticks).
+Action 24: gather 8 sheep at 'N1' (2 ticks).
+Action 25: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 26: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 27: Sell 64 sheep for 320 Enteloot.
+Action 28: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 29: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 30: gather 8 sheep at 'N1' (2 ticks).
+Action 31: gather 8 sheep at 'N1' (2 ticks).
+Action 32: gather 8 sheep at 'N1' (2 ticks).
+Action 33: gather 8 sheep at 'N1' (2 ticks).
+Action 34: gather 8 sheep at 'N1' (2 ticks).
+Action 35: gather 8 sheep at 'N1' (2 ticks).
+Action 36: gather 8 sheep at 'N1' (2 ticks).
+Action 37: gather 8 sheep at 'N1' (2 ticks).
+Action 38: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 39: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 40: Sell 64 sheep for 320 Enteloot.
+Action 41: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 42: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 43: gather 8 sheep at 'N1' (2 ticks).
+Action 44: gather 8 sheep at 'N1' (2 ticks).
+Action 45: gather 8 sheep at 'N1' (2 ticks).
+Action 46: gather 8 sheep at 'N1' (2 ticks).
+Action 47: gather 8 sheep at 'N1' (2 ticks).
+Action 48: gather 8 sheep at 'N1' (2 ticks).
+Action 49: gather 8 sheep at 'N1' (2 ticks).
+Action 50: gather 8 sheep at 'N1' (2 ticks).
+Action 51: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 52: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 53: Sell 64 sheep for 320 Enteloot.
+Action 54: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 55: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 56: gather 8 sheep at 'N1' (2 ticks).
+Action 57: gather 8 sheep at 'N1' (2 ticks).
+Action 58: gather 8 sheep at 'N1' (2 ticks).
+Action 59: gather 8 sheep at 'N1' (2 ticks).
+Action 60: gather 8 sheep at 'N1' (2 ticks).
+Action 61: gather 8 sheep at 'N1' (2 ticks).
+Action 62: gather 8 sheep at 'N1' (2 ticks).
+Action 63: gather 8 sheep at 'N1' (2 ticks).
+Action 64: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 65: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 66: Sell 64 sheep for 320 Enteloot.
+Action 67: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 68: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 69: gather 8 sheep at 'N1' (2 ticks).
+Action 70: gather 8 sheep at 'N1' (2 ticks).
+Action 71: gather 8 sheep at 'N1' (2 ticks).
+Action 72: gather 8 sheep at 'N1' (2 ticks).
+Action 73: gather 8 sheep at 'N1' (2 ticks).
+Action 74: gather 8 sheep at 'N1' (2 ticks).
+Action 75: gather 8 sheep at 'N1' (2 ticks).
+Action 76: gather 8 sheep at 'N1' (2 ticks).
+Action 77: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 78: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 79: Sell 64 sheep for 320 Enteloot.
+Action 80: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 81: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 82: gather 8 sheep at 'N1' (2 ticks).
+Action 83: gather 8 sheep at 'N1' (2 ticks).
+Action 84: gather 8 sheep at 'N1' (2 ticks).
+Action 85: gather 8 sheep at 'N1' (2 ticks).
+Action 86: gather 8 sheep at 'N1' (2 ticks).
+Action 87: gather 8 sheep at 'N1' (2 ticks).
+Action 88: gather 8 sheep at 'N1' (2 ticks).
+Action 89: gather 8 sheep at 'N1' (2 ticks).
+Action 90: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 91: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 92: Sell 64 sheep for 320 Enteloot.
+Action 93: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 94: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 95: gather 8 sheep at 'N1' (2 ticks).
+Action 96: gather 8 sheep at 'N1' (2 ticks).
+Action 97: gather 8 sheep at 'N1' (2 ticks).
+Action 98: gather 8 sheep at 'N1' (2 ticks).
+Action 99: gather 8 sheep at 'N1' (2 ticks).
+Action 100: gather 8 sheep at 'N1' (2 ticks).
+Action 101: gather 8 sheep at 'N1' (2 ticks).
+Action 102: gather 8 sheep at 'N1' (2 ticks).
+Action 103: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 104: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 105: Sell 64 sheep for 320 Enteloot.
+Action 106: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 107: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 108: gather 8 sheep at 'N1' (2 ticks).
+Action 109: gather 8 sheep at 'N1' (2 ticks).
+Action 110: gather 8 sheep at 'N1' (2 ticks).
+Action 111: gather 8 sheep at 'N1' (2 ticks).
+Action 112: gather 8 sheep at 'N1' (2 ticks).
+Action 113: gather 8 sheep at 'N1' (2 ticks).
+Action 114: gather 8 sheep at 'N1' (2 ticks).
+Action 115: gather 8 sheep at 'N1' (2 ticks).
+Action 116: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 117: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 118: Sell 64 sheep for 320 Enteloot.
+Action 119: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 120: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 121: gather 8 sheep at 'N1' (2 ticks).
+Action 122: gather 8 sheep at 'N1' (2 ticks).
+Action 123: gather 8 sheep at 'N1' (2 ticks).
+Action 124: gather 8 sheep at 'N1' (2 ticks).
+Action 125: gather 8 sheep at 'N1' (2 ticks).
+Action 126: gather 8 sheep at 'N1' (2 ticks).
+Action 127: gather 8 sheep at 'N1' (2 ticks).
+Action 128: gather 8 sheep at 'N1' (2 ticks).
+Action 129: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 130: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 131: Sell 64 sheep for 320 Enteloot.
+Action 132: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 133: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 134: gather 8 sheep at 'N1' (2 ticks).
+Action 135: gather 8 sheep at 'N1' (2 ticks).
+Action 136: gather 8 sheep at 'N1' (2 ticks).
+Action 137: gather 8 sheep at 'N1' (2 ticks).
+Action 138: gather 8 sheep at 'N1' (2 ticks).
+Action 139: gather 8 sheep at 'N1' (2 ticks).
+Action 140: gather 8 sheep at 'N1' (2 ticks).
+Action 141: gather 8 sheep at 'N1' (2 ticks).
+Action 142: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 143: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 144: Sell 64 sheep for 320 Enteloot.
+Action 145: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 146: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 147: gather 8 sheep at 'N1' (2 ticks).
+Action 148: gather 8 sheep at 'N1' (2 ticks).
+Action 149: gather 8 sheep at 'N1' (2 ticks).
+Action 150: gather 8 sheep at 'N1' (2 ticks).
+Action 151: gather 8 sheep at 'N1' (2 ticks).
+Action 152: gather 8 sheep at 'N1' (2 ticks).
+Action 153: gather 8 sheep at 'N1' (2 ticks).
+Action 154: gather 8 sheep at 'N1' (2 ticks).
+Action 155: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 156: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 157: Sell 64 sheep for 320 Enteloot.
+Action 158: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 159: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 160: gather 8 sheep at 'N1' (2 ticks).
+Action 161: gather 8 sheep at 'N1' (2 ticks).
+Action 162: gather 8 sheep at 'N1' (2 ticks).
+Action 163: gather 8 sheep at 'N1' (2 ticks).
+Action 164: gather 8 sheep at 'N1' (2 ticks).
+Action 165: gather 8 sheep at 'N1' (2 ticks).
+Action 166: gather 8 sheep at 'N1' (2 ticks).
+Action 167: gather 8 sheep at 'N1' (2 ticks).
+Action 168: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 169: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 170: Sell 64 sheep for 320 Enteloot.
+Action 171: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 172: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 173: gather 8 sheep at 'N1' (2 ticks).
+Action 174: gather 8 sheep at 'N1' (2 ticks).
+Action 175: gather 8 sheep at 'N1' (2 ticks).
+Action 176: gather 8 sheep at 'N1' (2 ticks).
+Action 177: gather 8 sheep at 'N1' (2 ticks).
+Action 178: gather 8 sheep at 'N1' (2 ticks).
+Action 179: gather 8 sheep at 'N1' (2 ticks).
+Action 180: gather 8 sheep at 'N1' (2 ticks).
+Action 181: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 182: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 183: Sell 64 sheep for 320 Enteloot.
+Action 184: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 185: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 186: gather 8 sheep at 'N1' (2 ticks).
+Action 187: gather 8 sheep at 'N1' (2 ticks).
+Action 188: gather 8 sheep at 'N1' (2 ticks).
+Action 189: gather 8 sheep at 'N1' (2 ticks).
+Action 190: gather 8 sheep at 'N1' (2 ticks).
+Action 191: gather 8 sheep at 'N1' (2 ticks).
+Action 192: gather 8 sheep at 'N1' (2 ticks).
+Action 193: gather 8 sheep at 'N1' (2 ticks).
+Action 194: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 195: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 196: Sell 64 sheep for 320 Enteloot.
+Action 197: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 198: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 199: gather 8 sheep at 'N1' (2 ticks).
+Action 200: gather 8 sheep at 'N1' (2 ticks).
+Action 201: gather 8 sheep at 'N1' (2 ticks).
+Action 202: gather 8 sheep at 'N1' (2 ticks).
+Action 203: gather 8 sheep at 'N1' (2 ticks).
+Action 204: gather 8 sheep at 'N1' (2 ticks).
+Action 205: gather 8 sheep at 'N1' (2 ticks).
+Action 206: gather 8 sheep at 'N1' (2 ticks).
+Action 207: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 208: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 209: Sell 64 sheep for 320 Enteloot.
+Action 210: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 211: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 212: gather 8 sheep at 'N1' (2 ticks).
+Action 213: gather 8 sheep at 'N1' (2 ticks).
+Action 214: gather 8 sheep at 'N1' (2 ticks).
+Action 215: gather 8 sheep at 'N1' (2 ticks).
+Action 216: gather 8 sheep at 'N1' (2 ticks).
+Action 217: gather 8 sheep at 'N1' (2 ticks).
+Action 218: gather 8 sheep at 'N1' (2 ticks).
+Action 219: gather 8 sheep at 'N1' (2 ticks).
+Action 220: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 221: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 222: Sell 64 sheep for 320 Enteloot.
+Action 223: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 224: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 225: gather 8 sheep at 'N1' (2 ticks).
+Action 226: gather 8 sheep at 'N1' (2 ticks).
+Action 227: gather 8 sheep at 'N1' (2 ticks).
+Action 228: gather 8 sheep at 'N1' (2 ticks).
+Action 229: gather 8 sheep at 'N1' (2 ticks).
+Action 230: gather 8 sheep at 'N1' (2 ticks).
+Action 231: gather 8 sheep at 'N1' (2 ticks).
+Action 232: gather 8 sheep at 'N1' (2 ticks).
+Action 233: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 234: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 235: Sell 64 sheep for 320 Enteloot.
+Action 236: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 237: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 238: gather 8 sheep at 'N1' (2 ticks).
+Action 239: gather 8 sheep at 'N1' (2 ticks).
+Action 240: gather 8 sheep at 'N1' (2 ticks).
+Action 241: gather 8 sheep at 'N1' (2 ticks).
+Action 242: gather 8 sheep at 'N1' (2 ticks).
+Action 243: gather 8 sheep at 'N1' (2 ticks).
+Action 244: gather 8 sheep at 'N1' (2 ticks).
+Action 245: gather 8 sheep at 'N1' (2 ticks).
+Action 246: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 247: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 248: Sell 64 sheep for 320 Enteloot.
+Action 249: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 250: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 251: gather 8 sheep at 'N1' (2 ticks).
+Action 252: gather 8 sheep at 'N1' (2 ticks).
+Action 253: gather 8 sheep at 'N1' (2 ticks).
+Action 254: gather 8 sheep at 'N1' (2 ticks).
+Action 255: gather 8 sheep at 'N1' (2 ticks).
+Action 256: gather 8 sheep at 'N1' (2 ticks).
+Action 257: gather 8 sheep at 'N1' (2 ticks).
+Action 258: gather 8 sheep at 'N1' (2 ticks).
+Action 259: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 260: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 261: Sell 64 sheep for 320 Enteloot.
+Action 262: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 263: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 264: gather 8 sheep at 'N1' (2 ticks).
+Action 265: gather 8 sheep at 'N1' (2 ticks).
+Action 266: gather 8 sheep at 'N1' (2 ticks).
+Action 267: gather 8 sheep at 'N1' (2 ticks).
+Action 268: gather 8 sheep at 'N1' (2 ticks).
+Action 269: gather 8 sheep at 'N1' (2 ticks).
+Action 270: gather 8 sheep at 'N1' (2 ticks).
+Action 271: gather 8 sheep at 'N1' (2 ticks).
+Action 272: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 273: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 274: Sell 64 sheep for 320 Enteloot.
+Action 275: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 276: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 277: gather 8 sheep at 'N1' (2 ticks).
+Action 278: gather 8 sheep at 'N1' (2 ticks).
+Action 279: gather 8 sheep at 'N1' (2 ticks).
+Action 280: gather 8 sheep at 'N1' (2 ticks).
+Action 281: gather 8 sheep at 'N1' (2 ticks).
+Action 282: gather 8 sheep at 'N1' (2 ticks).
+Action 283: gather 8 sheep at 'N1' (2 ticks).
+Action 284: gather 8 sheep at 'N1' (2 ticks).
+Action 285: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 286: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 287: Sell 64 sheep for 320 Enteloot.
+Action 288: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 289: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 290: gather 8 sheep at 'N1' (2 ticks).
+Action 291: gather 8 sheep at 'N1' (2 ticks).
+Action 292: gather 8 sheep at 'N1' (2 ticks).
+Action 293: gather 8 sheep at 'N1' (2 ticks).
+Action 294: gather 8 sheep at 'N1' (2 ticks).
+Action 295: gather 8 sheep at 'N1' (2 ticks).
+Action 296: gather 8 sheep at 'N1' (2 ticks).
+Action 297: gather 8 sheep at 'N1' (2 ticks).
+Action 298: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 299: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 300: Sell 64 sheep for 320 Enteloot.
+Action 301: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 302: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 303: gather 8 sheep at 'N1' (2 ticks).
+Action 304: gather 8 sheep at 'N1' (2 ticks).
+Action 305: gather 8 sheep at 'N1' (2 ticks).
+Action 306: gather 8 sheep at 'N1' (2 ticks).
+Action 307: gather 8 sheep at 'N1' (2 ticks).
+Action 308: gather 8 sheep at 'N1' (2 ticks).
+Action 309: gather 8 sheep at 'N1' (2 ticks).
+Action 310: gather 8 sheep at 'N1' (2 ticks).
+Action 311: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 312: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 313: Sell 64 sheep for 320 Enteloot.
+Action 314: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 315: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 316: gather 8 sheep at 'N1' (2 ticks).
+Action 317: gather 8 sheep at 'N1' (2 ticks).
+Action 318: gather 8 sheep at 'N1' (2 ticks).
+Action 319: gather 8 sheep at 'N1' (2 ticks).
+Action 320: gather 8 sheep at 'N1' (2 ticks).
+Action 321: gather 8 sheep at 'N1' (2 ticks).
+Action 322: gather 8 sheep at 'N1' (2 ticks).
+Action 323: gather 8 sheep at 'N1' (2 ticks).
+Action 324: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 325: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 326: Sell 64 sheep for 320 Enteloot.
+Action 327: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 328: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 329: gather 8 sheep at 'N1' (2 ticks).
+Action 330: gather 8 sheep at 'N1' (2 ticks).
+Action 331: gather 8 sheep at 'N1' (2 ticks).
+Action 332: gather 8 sheep at 'N1' (2 ticks).
+Action 333: gather 8 sheep at 'N1' (2 ticks).
+Action 334: gather 8 sheep at 'N1' (2 ticks).
+Action 335: gather 8 sheep at 'N1' (2 ticks).
+Action 336: gather 8 sheep at 'N1' (2 ticks).
+Action 337: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 338: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 339: Sell 64 sheep for 320 Enteloot.
+Action 340: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 341: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 342: gather 8 sheep at 'N1' (2 ticks).
+Action 343: gather 8 sheep at 'N1' (2 ticks).
+Action 344: gather 8 sheep at 'N1' (2 ticks).
+Action 345: gather 8 sheep at 'N1' (2 ticks).
+Action 346: gather 8 sheep at 'N1' (2 ticks).
+Action 347: gather 8 sheep at 'N1' (2 ticks).
+Action 348: gather 8 sheep at 'N1' (2 ticks).
+Action 349: gather 8 sheep at 'N1' (2 ticks).
+Action 350: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 351: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 352: Sell 64 sheep for 320 Enteloot.
+Action 353: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 354: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 355: gather 8 sheep at 'N1' (2 ticks).
+Action 356: gather 8 sheep at 'N1' (2 ticks).
+Action 357: gather 8 sheep at 'N1' (2 ticks).
+Action 358: gather 8 sheep at 'N1' (2 ticks).
+Action 359: gather 8 sheep at 'N1' (2 ticks).
+Action 360: gather 8 sheep at 'N1' (2 ticks).
+Action 361: gather 8 sheep at 'N1' (2 ticks).
+Action 362: gather 8 sheep at 'N1' (2 ticks).
+Action 363: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 364: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 365: Sell 64 sheep for 320 Enteloot.
+Action 366: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 367: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 368: gather 8 sheep at 'N1' (2 ticks).
+Action 369: gather 8 sheep at 'N1' (2 ticks).
+Action 370: gather 8 sheep at 'N1' (2 ticks).
+Action 371: gather 8 sheep at 'N1' (2 ticks).
+Action 372: gather 8 sheep at 'N1' (2 ticks).
+Action 373: gather 8 sheep at 'N1' (2 ticks).
+Action 374: gather 8 sheep at 'N1' (2 ticks).
+Action 375: gather 8 sheep at 'N1' (2 ticks).
+Action 376: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 377: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 378: Sell 64 sheep for 320 Enteloot.
+Action 379: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 380: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 381: gather 8 sheep at 'N1' (2 ticks).
+Action 382: gather 8 sheep at 'N1' (2 ticks).
+Action 383: gather 8 sheep at 'N1' (2 ticks).
+Action 384: gather 8 sheep at 'N1' (2 ticks).
+Action 385: gather 8 sheep at 'N1' (2 ticks).
+Action 386: gather 8 sheep at 'N1' (2 ticks).
+Action 387: gather 8 sheep at 'N1' (2 ticks).
+Action 388: gather 8 sheep at 'N1' (2 ticks).
+Action 389: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 390: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 391: Sell 64 sheep for 320 Enteloot.
+Action 392: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 393: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 394: gather 8 sheep at 'N1' (2 ticks).
+Action 395: gather 8 sheep at 'N1' (2 ticks).
+Action 396: gather 8 sheep at 'N1' (2 ticks).
+Action 397: gather 8 sheep at 'N1' (2 ticks).
+Action 398: gather 8 sheep at 'N1' (2 ticks).
+Action 399: gather 8 sheep at 'N1' (2 ticks).
+Action 400: gather 8 sheep at 'N1' (2 ticks).
+Action 401: gather 8 sheep at 'N1' (2 ticks).
+Action 402: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 403: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 404: Sell 64 sheep for 320 Enteloot.
+Action 405: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 406: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 407: gather 8 sheep at 'N1' (2 ticks).
+Action 408: gather 8 sheep at 'N1' (2 ticks).
+Action 409: gather 8 sheep at 'N1' (2 ticks).
+Action 410: gather 8 sheep at 'N1' (2 ticks).
+Action 411: gather 8 sheep at 'N1' (2 ticks).
+Action 412: gather 8 sheep at 'N1' (2 ticks).
+Action 413: gather 8 sheep at 'N1' (2 ticks).
+Action 414: gather 8 sheep at 'N1' (2 ticks).
+Action 415: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 416: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 417: Sell 64 sheep for 320 Enteloot.
+Action 418: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 419: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 420: gather 8 sheep at 'N1' (2 ticks).
+Action 421: gather 8 sheep at 'N1' (2 ticks).
+Action 422: gather 8 sheep at 'N1' (2 ticks).
+Action 423: gather 8 sheep at 'N1' (2 ticks).
+Action 424: gather 8 sheep at 'N1' (2 ticks).
+Action 425: gather 8 sheep at 'N1' (2 ticks).
+Action 426: gather 8 sheep at 'N1' (2 ticks).
+Action 427: gather 8 sheep at 'N1' (2 ticks).
+Action 428: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 429: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 430: Sell 64 sheep for 320 Enteloot.
+Action 431: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 432: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 433: gather 8 sheep at 'N1' (2 ticks).
+Action 434: gather 8 sheep at 'N1' (2 ticks).
+Action 435: gather 8 sheep at 'N1' (2 ticks).
+Action 436: gather 8 sheep at 'N1' (2 ticks).
+Action 437: gather 8 sheep at 'N1' (2 ticks).
+Action 438: gather 8 sheep at 'N1' (2 ticks).
+Action 439: gather 8 sheep at 'N1' (2 ticks).
+Action 440: gather 8 sheep at 'N1' (2 ticks).
+Action 441: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 442: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 443: Sell 64 sheep for 320 Enteloot.
+Action 444: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 445: Travel to 'N1' (standard, 3 ticks, Toll 0).
+Action 446: gather 8 sheep at 'N1' (2 ticks).
+Action 447: gather 8 sheep at 'N1' (2 ticks).
+Action 448: gather 8 sheep at 'N1' (2 ticks).
+Action 449: gather 8 sheep at 'N1' (2 ticks).
+Action 450: gather 8 sheep at 'N1' (2 ticks).
+Action 451: gather 8 sheep at 'N1' (2 ticks).
+Action 452: gather 8 sheep at 'N1' (2 ticks).
+Action 453: gather 8 sheep at 'N1' (2 ticks).
+Action 454: Travel to 'N2' (standard, 3 ticks, Toll 0).
+Action 455: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 456: Sell 64 sheep for 320 Enteloot.
+Action 457: Sell 547 clay for 2188 Enteloot.
+Action 458: Sell 602 fish for 2408 Enteloot.
+Action 459: Sell 378 stone for 1134 Enteloot.
+Action 460: Sell 189 wheat for 378 Enteloot.
+Action 461: Sell 5 clay for 20 Enteloot.
+Action 462: Sell 6 fish for 24 Enteloot.
+Action 463: Sell 6 stone for 18 Enteloot.
+Action 464: Sell 3 wheat for 6 Enteloot.
+===================================
+Level 1 Scoring
+===================================
+Your Enteloot: 30514
+Held items value: 0
+Total sale revenue: 17376
+===================================
+Final score: 5657800.0
