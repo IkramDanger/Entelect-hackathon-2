@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from engine import Sim, load_constants          # noqa: E402
 from route import Map, order_stops              # noqa: E402
 
-BATCHES = (1, 2, 3, 5, 8, 12, 25, 50, 100, 200)
+BATCHES = (1, 2, 3, 5, 8, 12, 25, 50, 100, 200, 350, 500, 1000, 2000)
 
 
 def _tour_cost(home, stops, ticks, tolls, prevs):
@@ -43,12 +43,26 @@ def _tour_cost(home, stops, ticks, tolls, prevs):
     return {"seq": seq, "legs": legs, "ticks": t, "toll": tl}
 
 
-def _source_options(resource, need, home, towns, node_by_res, nodes, C, prefer_buy):
-    """Return (kind, payload, ticks_local, enteloot_cost, node) or None."""
+def _source_options(resource, need, home, towns, node_by_res, nodes, C,
+                    prefer_buy, ticks=None, remote_buy=True):
+    """Return (kind, payload, ticks_local, enteloot_cost, stop) or None.
+
+    kind 'buy' buys at home; 'buy_at' travels to a producing town and buys
+    there (the tour prices the detour); 'gather' mines a node. Buying at
+    ANY producer unlocks multi-input recipes — restricting buys to the home
+    town silently forced the planner onto single-input goods.
+    """
     price = C["resources"].get(resource, {}).get("buy_price")
-    can_buy = price is not None and resource in towns[home].get("production", {}).get("resources", {})
-    if prefer_buy and can_buy:
-        return ("buy", need, 1, price * need, None)
+    if price is not None:
+        if resource in towns[home].get("production", {}).get("resources", {}):
+            return ("buy", need, 1, price * need, None)
+        producers = [t for t, d in towns.items()
+                     if resource in d.get("production", {}).get("resources", {})] \
+            if remote_buy else []
+        if producers:
+            stop = (min(producers, key=lambda t: ticks[home].get(t, 10 ** 9))
+                    if ticks else producers[0])
+            return ("buy_at", need, 1, price * need, stop)
     best = None
     for n in node_by_res.get(resource, []):
         yld = nodes[n]["yield"]
@@ -56,13 +70,16 @@ def _source_options(resource, need, home, towns, node_by_res, nodes, C, prefer_b
         cost = gathers * nodes[n].get("gather-time", 2)
         if best is None or cost < best[2]:
             best = ("gather", gathers, cost, 0, n)
-    if best is None and can_buy:
-        return ("buy", need, 1, price * need, None)
     return best
 
 
-def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True):
+def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True,
+                remote_buy=True):
     towns, nodes = level["towns"], level.get("nodes", {})
+    total = level["run"]["total_ticks"]
+    # a loop should never dwarf its level: short runs need granularity
+    max_q = max(12, total // 25)
+    max_reps = max(8, total // 3)
     node_by_res = defaultdict(list)
     for n, d in nodes.items():
         node_by_res[d["resource"]].append(n)
@@ -74,7 +91,8 @@ def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True):
             for n in ns:
                 if n not in ticks[home]:
                     continue
-                for reps in (1, 2, 4, 8, 16, 32, 64):
+                for reps in (r for r in (1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024)
+                             if r <= max_reps):
                     yld = nodes[n]["yield"] * reps
                     t = (ticks[home][n] * 2 + reps * nodes[n].get("gather-time", 2) + 1)
                     toll = tolls[home][n] * 2
@@ -106,21 +124,22 @@ def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True):
                 # 2c at weight 1.5), so a loop is worth 4.5*revenue - 3*spend.
                 if sell_town not in ticks[home]:
                     continue
-                for q in BATCHES:
+                for q in (q for q in BATCHES if q <= max_q):
                     for prefer_buy in (False, True):
                         srcs, gather_ticks, spend, stops, bad = [], 0, 0, [], False
                         for res, per in rec["inputs"].items():
                             opt = _source_options(res, per * q, home, towns,
-                                                  node_by_res, nodes, C, prefer_buy)
+                                                  node_by_res, nodes, C,
+                                                  prefer_buy, ticks, remote_buy)
                             if opt is None:
                                 bad = True
                                 break
-                            kind, payload, lt, cost, node = opt
-                            srcs.append((res, kind, payload, node))
+                            kind, payload, lt, cost, stop = opt
+                            srcs.append((res, kind, payload, stop))
                             gather_ticks += lt
                             spend += cost
-                            if node:
-                                stops.append(node)
+                            if stop:
+                                stops.append(stop)
                         if bad:
                             continue
                         tour = _tour_cost(home, stops, ticks, tolls, prevs) if stops else \
@@ -144,14 +163,14 @@ def build_loops(level, C, level_num, ticks, tolls, prevs, sell_bonus=True):
     return loops
 
 
-def choose(loops, budget, starting_enteloot, time_limit=20.0):
+def choose(loops, budget, starting_enteloot, time_limit=20.0, overhead=0):
     from ortools.sat.python import cp_model
     m = cp_model.CpModel()
     xs = []
     for l in loops:
         cap = max(1, budget // max(1, l["ticks"]))
         xs.append(m.new_int_var(0, cap, f"x{len(xs)}"))
-    m.add(sum(x * l["ticks"] for x, l in zip(xs, loops)) <= budget)
+    m.add(sum(x * (l["ticks"] + overhead) for x, l in zip(xs, loops)) <= budget)
     # keep upfront spending inside a plausible cash envelope
     m.add(sum(x * l["spend"] for x, l in zip(xs, loops))
           <= starting_enteloot + sum(x * l["profit"] for x, l in zip(xs, loops)))
@@ -215,8 +234,13 @@ def emit(picked, level, mp, ticks, tolls, prevs, C, level_num, all_loops=()):
             acts.append({"type": "buy", "item": res, "quantity": qty})
         for stop in loop["seq"]:
             go(stop)
-            reps = next((p for r, k, p, n in loop["srcs"] if n == stop), 1)
-            acts.extend([{"type": "gather"}] * reps)
+            for res, kind, payload, at in loop["srcs"]:
+                if at != stop:
+                    continue
+                if kind == "buy_at":
+                    acts.append({"type": "buy", "item": res, "quantity": payload})
+                elif kind == "gather":
+                    acts.extend([{"type": "gather"}] * payload)
         go(loop["home"])
         acts.append({"type": "craft", "item": loop["good"], "quantity": loop["q"]})
         go(loop["sell_town"])
@@ -384,19 +408,30 @@ def main():
              allow_fast=args.level_num >= 3)
     ticks, tolls, prevs = mp.all_pairs()
 
-    loops = build_loops(level, C, args.level_num, ticks, tolls, prevs,
-                        sell_bonus=not args.no_sell_bonus)
-    print(f"candidate loops: {len(loops)}")
     budget = level["run"]["total_ticks"] - args.reserve
-    picked, status = choose(loops, budget, level["run"]["starting_enteloot"], args.time_limit)
-    print(f"solver: {status}, loops chosen: {sum(c for _, c in picked)}")
-    for loop, count in picked:
-        tag = loop.get("good") or loop.get("res")
-        print(f"  x{count:<4} {loop['kind']:<5} {tag:<15} home={loop['home']:<10} "
-              f"ticks={loop['ticks']:<4} profit={loop['profit']}")
 
-    earn = emit(picked, level, mp, ticks, tolls, prevs, C, args.level_num,
-                all_loops=loops)
+    # sweep sourcing style and per-instance overhead; keep the best simulated
+    # outcome. Remote buying wins where producers cluster (L3/L4), loses
+    # where the map punishes tours (L2).
+    # per sourcing style, pick the best overhead by pre-finish score; the
+    # styles themselves are compared on their fully finished plans below,
+    # because churn and builds can reorder the ranking
+    earn_candidates = {}
+    for remote in (True, False):
+        loops = build_loops(level, C, args.level_num, ticks, tolls, prevs,
+                            sell_bonus=not args.no_sell_bonus, remote_buy=remote)
+        branch, branch_score = None, None
+        for over in (0, 2, 4):
+            picked, status = choose(loops, budget, level["run"]["starting_enteloot"],
+                                    args.time_limit, overhead=over)
+            cand = emit(picked, level, mp, ticks, tolls, prevs, C, args.level_num,
+                        all_loops=loops)
+            rep = Sim(level, level_num=args.level_num, constants=C).run(list(cand))
+            print(f"remote={remote} overhead={over}: {status}, "
+                  f"pre-finish score {rep['official_score']:,}")
+            if branch is None or rep["official_score"] > branch_score:
+                branch, branch_score = cand, rep["official_score"]
+        earn_candidates[remote] = branch
 
     def finish(base):
         out = list(base)
@@ -411,11 +446,15 @@ def main():
                             mp, ticks, prevs)
         return out
 
-    variants = {"no-build": finish(earn)}
-    if args.level_num >= 2 and not args.no_build:
-        from build import plan_builds
-        variants["build"] = finish(
-            plan_builds(level, C, args.level_num, earn, mp, ticks, tolls, prevs))
+    variants = {}
+    for remote, earn in earn_candidates.items():
+        tag = "remote" if remote else "local"
+        variants[f"{tag}/no-build"] = finish(earn)
+        if args.level_num >= 2 and not args.no_build:
+            from build import plan_builds
+            variants[f"{tag}/build"] = finish(
+                plan_builds(level, C, args.level_num, earn, mp, ticks, tolls,
+                            prevs, verbose=lambda *a: None))
     scored = {}
     for name, acts in variants.items():
         rep = Sim(level, level_num=args.level_num, constants=C).run(list(acts))

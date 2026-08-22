@@ -32,32 +32,17 @@
   {
    "type": "buy",
    "item": "sheep",
-   "quantity": 75
+   "quantity": 9
   },
   {
    "type": "craft",
    "item": "wool-garments",
-   "quantity": 25
+   "quantity": 3
   },
   {
    "type": "sell",
    "item": "wool-garments",
-   "quantity": 25
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 15
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 5
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 5
+   "quantity": 3
   },
   {
    "type": "travel",
@@ -289,1579 +274,40 @@
    "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Targon"
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N20"
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N8"
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Bilgewater"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N8"
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N20"
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Targon"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "gather"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "Evermoor"
-  },
-  {
-   "type": "buy",
-   "item": "wood",
-   "quantity": 1028
-  },
-  {
-   "type": "buy",
-   "item": "stone",
-   "quantity": 885
-  },
-  {
-   "type": "travel",
-   "destination": "Borealis"
-  },
-  {
-   "type": "buy",
-   "item": "wheat",
-   "quantity": 120
-  },
-  {
-   "type": "travel",
-   "destination": "N9",
-   "fast": true
+   "type": "gather"
   },
   {
    "type": "gather"
@@ -1900,44 +346,2788 @@
    "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Borealis",
-   "fast": true
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Evermoor"
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Ixtal"
+   "type": "gather"
   },
   {
-   "type": "buy",
-   "item": "clay",
-   "quantity": 1425
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N6"
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N18",
-   "fast": true
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N19"
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
   },
   {
    "type": "travel",
    "destination": "Targon"
   },
   {
-   "type": "buy",
+   "type": "sell",
    "item": "sheep",
-   "quantity": 394
+   "quantity": 8192
   },
   {
    "type": "travel",
@@ -1967,6 +3157,407 @@
   {
    "type": "travel",
    "destination": "Demacia"
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
+  },
+  {
+   "type": "travel",
+   "destination": "Borealis",
+   "fast": true
+  },
+  {
+   "type": "travel",
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "Ixtal"
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 3000
+  },
+  {
+   "type": "travel",
+   "destination": "Evermoor"
+  },
+  {
+   "type": "travel",
+   "destination": "Borealis"
+  },
+  {
+   "type": "travel",
+   "destination": "N9",
+   "fast": true
+  },
+  {
+   "type": "travel",
+   "destination": "Demacia"
+  },
+  {
+   "type": "craft",
+   "item": "roof-tiles",
+   "quantity": 1000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
+  },
+  {
+   "type": "travel",
+   "destination": "Borealis",
+   "fast": true
+  },
+  {
+   "type": "travel",
+   "destination": "Evermoor"
+  },
+  {
+   "type": "travel",
+   "destination": "Bilgewater"
+  },
+  {
+   "type": "sell",
+   "item": "roof-tiles",
+   "quantity": 1000
+  },
+  {
+   "type": "travel",
+   "destination": "N8"
+  },
+  {
+   "type": "travel",
+   "destination": "N20"
+  },
+  {
+   "type": "travel",
+   "destination": "Targon"
+  },
+  {
+   "type": "buy",
+   "item": "sheep",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N20"
+  },
+  {
+   "type": "travel",
+   "destination": "N8"
+  },
+  {
+   "type": "travel",
+   "destination": "Aurora"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "buy",
+   "item": "wood",
+   "quantity": 6000
+  },
+  {
+   "type": "travel",
+   "destination": "Aurora"
+  },
+  {
+   "type": "travel",
+   "destination": "N8"
+  },
+  {
+   "type": "travel",
+   "destination": "N20"
+  },
+  {
+   "type": "travel",
+   "destination": "Targon"
+  },
+  {
+   "type": "craft",
+   "item": "furniture",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N19"
+  },
+  {
+   "type": "travel",
+   "destination": "N18"
+  },
+  {
+   "type": "travel",
+   "destination": "Freljord"
+  },
+  {
+   "type": "sell",
+   "item": "furniture",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N18"
+  },
+  {
+   "type": "travel",
+   "destination": "N19"
+  },
+  {
+   "type": "travel",
+   "destination": "Targon"
+  },
+  {
+   "type": "buy",
+   "item": "sheep",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N20"
+  },
+  {
+   "type": "travel",
+   "destination": "N8"
+  },
+  {
+   "type": "travel",
+   "destination": "Aurora"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "buy",
+   "item": "wood",
+   "quantity": 6000
+  },
+  {
+   "type": "travel",
+   "destination": "Aurora"
+  },
+  {
+   "type": "travel",
+   "destination": "N8"
+  },
+  {
+   "type": "travel",
+   "destination": "N20"
+  },
+  {
+   "type": "travel",
+   "destination": "Targon"
+  },
+  {
+   "type": "craft",
+   "item": "furniture",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N19"
+  },
+  {
+   "type": "travel",
+   "destination": "N18"
+  },
+  {
+   "type": "travel",
+   "destination": "Freljord"
+  },
+  {
+   "type": "sell",
+   "item": "furniture",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N18"
+  },
+  {
+   "type": "travel",
+   "destination": "N19"
+  },
+  {
+   "type": "travel",
+   "destination": "Targon"
+  },
+  {
+   "type": "buy",
+   "item": "sheep",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N20"
+  },
+  {
+   "type": "travel",
+   "destination": "N8"
+  },
+  {
+   "type": "travel",
+   "destination": "Aurora"
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "buy",
+   "item": "wood",
+   "quantity": 6000
+  },
+  {
+   "type": "travel",
+   "destination": "Aurora"
+  },
+  {
+   "type": "travel",
+   "destination": "N8"
+  },
+  {
+   "type": "travel",
+   "destination": "N20"
+  },
+  {
+   "type": "travel",
+   "destination": "Targon"
+  },
+  {
+   "type": "craft",
+   "item": "furniture",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N19"
+  },
+  {
+   "type": "travel",
+   "destination": "N18"
+  },
+  {
+   "type": "travel",
+   "destination": "Freljord"
+  },
+  {
+   "type": "sell",
+   "item": "furniture",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "Aurora"
+  },
+  {
+   "type": "buy",
+   "item": "clay",
+   "quantity": 1425
+  },
+  {
+   "type": "travel",
+   "destination": "Piltover"
+  },
+  {
+   "type": "buy",
+   "item": "wood",
+   "quantity": 1028
+  },
+  {
+   "type": "travel",
+   "destination": "Aurora"
+  },
+  {
+   "type": "travel",
+   "destination": "N11",
+   "fast": true
+  },
+  {
+   "type": "travel",
+   "destination": "N2"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "travel",
+   "destination": "N11"
+  },
+  {
+   "type": "travel",
+   "destination": "N5"
+  },
+  {
+   "type": "travel",
+   "destination": "Zaun"
+  },
+  {
+   "type": "buy",
+   "item": "wheat",
+   "quantity": 120
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 885
+  },
+  {
+   "type": "travel",
+   "destination": "N4"
+  },
+  {
+   "type": "travel",
+   "destination": "Targon"
+  },
+  {
+   "type": "buy",
+   "item": "sheep",
+   "quantity": 394
   },
   {
    "type": "craft",
@@ -2030,11 +3621,11 @@
   },
   {
    "type": "build",
-   "upgrade": "pier"
+   "upgrade": "farmhouse"
   },
   {
    "type": "build",
-   "upgrade": "farmhouse"
+   "upgrade": "pier"
   },
   {
    "type": "build",
@@ -2074,64 +3665,72 @@
   },
   {
    "type": "travel",
-   "destination": "N9"
+   "destination": "N4"
   },
   {
    "type": "travel",
-   "destination": "Borealis",
+   "destination": "Zaun"
+  },
+  {
+   "type": "build",
+   "upgrade": "fertilised-fields"
+  },
+  {
+   "type": "build",
+   "upgrade": "quarry"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "fire-station"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "police-station"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "build",
+   "upgrade": "farmhouse"
+  },
+  {
+   "type": "build",
+   "upgrade": "woodlands"
+  },
+  {
+   "type": "build",
+   "upgrade": "pier"
+  },
+  {
+   "type": "build",
+   "upgrade": "pottery-house"
+  },
+  {
+   "type": "travel",
+   "destination": "N5"
+  },
+  {
+   "type": "travel",
+   "destination": "N11"
+  },
+  {
+   "type": "travel",
+   "destination": "Highgarden",
    "fast": true
   },
   {
    "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "police-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
    "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "travel",
-   "destination": "Evermoor"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
   },
   {
    "type": "build",
@@ -2167,120 +3766,21 @@
   },
   {
    "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "travel",
-   "destination": "Ixtal"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "police-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
    "upgrade": "woodlands"
   },
   {
    "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
+   "upgrade": "pottery-house"
   },
   {
    "type": "travel",
-   "destination": "N6"
-  },
-  {
-   "type": "travel",
-   "destination": "N18",
+   "destination": "N11",
    "fast": true
   },
   {
    "type": "travel",
-   "destination": "Freljord"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "police-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "pottery-house"
-  },
-  {
-   "type": "travel",
-   "destination": "Aurora"
+   "destination": "Aurora",
+   "fast": true
   },
   {
    "type": "build",
@@ -2380,78 +3880,72 @@
   },
   {
    "type": "travel",
-   "destination": "N11",
+   "destination": "Freljord"
+  },
+  {
+   "type": "build",
+   "upgrade": "woodlands"
+  },
+  {
+   "type": "build",
+   "upgrade": "pier"
+  },
+  {
+   "type": "build",
+   "upgrade": "rec-center"
+  },
+  {
+   "type": "build",
+   "upgrade": "fire-station"
+  },
+  {
+   "type": "build",
+   "upgrade": "school"
+  },
+  {
+   "type": "build",
+   "upgrade": "police-station"
+  },
+  {
+   "type": "build",
+   "upgrade": "library"
+  },
+  {
+   "type": "build",
+   "upgrade": "farmhouse"
+  },
+  {
+   "type": "build",
+   "upgrade": "fertilised-fields"
+  },
+  {
+   "type": "build",
+   "upgrade": "quarry"
+  },
+  {
+   "type": "build",
+   "upgrade": "pottery-house"
+  },
+  {
+   "type": "travel",
+   "destination": "N18"
+  },
+  {
+   "type": "travel",
+   "destination": "N6",
    "fast": true
   },
   {
    "type": "travel",
-   "destination": "Highgarden",
-   "fast": true
-  },
-  {
-   "type": "build",
-   "upgrade": "pier"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
-  },
-  {
-   "type": "build",
-   "upgrade": "rec-center"
-  },
-  {
-   "type": "build",
-   "upgrade": "fire-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "school"
-  },
-  {
-   "type": "build",
-   "upgrade": "police-station"
-  },
-  {
-   "type": "build",
-   "upgrade": "library"
-  },
-  {
-   "type": "build",
-   "upgrade": "farmhouse"
+   "destination": "Ixtal"
   },
   {
    "type": "build",
    "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "woodlands"
   },
   {
    "type": "build",
    "upgrade": "pottery-house"
-  },
-  {
-   "type": "travel",
-   "destination": "N11",
-   "fast": true
-  },
-  {
-   "type": "travel",
-   "destination": "N5"
-  },
-  {
-   "type": "travel",
-   "destination": "Zaun"
-  },
-  {
-   "type": "build",
-   "upgrade": "fertilised-fields"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
   },
   {
    "type": "build",
@@ -2487,23 +3981,19 @@
   },
   {
    "type": "build",
-   "upgrade": "pottery-house"
+   "upgrade": "quarry"
   },
   {
    "type": "travel",
-   "destination": "N4"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
+   "destination": "Evermoor"
   },
   {
    "type": "build",
-   "upgrade": "farmhouse"
+   "upgrade": "woodlands"
   },
   {
    "type": "build",
-   "upgrade": "pier"
+   "upgrade": "quarry"
   },
   {
    "type": "build",
@@ -2527,15 +4017,15 @@
   },
   {
    "type": "build",
+   "upgrade": "farmhouse"
+  },
+  {
+   "type": "build",
    "upgrade": "fertilised-fields"
   },
   {
    "type": "build",
-   "upgrade": "woodlands"
-  },
-  {
-   "type": "build",
-   "upgrade": "quarry"
+   "upgrade": "pier"
   },
   {
    "type": "build",
@@ -2543,15 +4033,7 @@
   },
   {
    "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Shurima"
+   "destination": "Borealis"
   },
   {
    "type": "build",
@@ -2599,20 +4081,16 @@
   },
   {
    "type": "travel",
-   "destination": "N10"
-  },
-  {
-   "type": "travel",
-   "destination": "N7",
+   "destination": "N9",
    "fast": true
   },
   {
    "type": "travel",
-   "destination": "Noxus"
+   "destination": "Demacia"
   },
   {
    "type": "build",
-   "upgrade": "woodlands"
+   "upgrade": "pier"
   },
   {
    "type": "build",
@@ -2644,7 +4122,7 @@
   },
   {
    "type": "build",
-   "upgrade": "pier"
+   "upgrade": "woodlands"
   },
   {
    "type": "build",
@@ -2656,7 +4134,16 @@
   },
   {
    "type": "travel",
-   "destination": "N7"
+   "destination": "N9"
+  },
+  {
+   "type": "travel",
+   "destination": "Borealis",
+   "fast": true
+  },
+  {
+   "type": "travel",
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -2822,5220 +4309,221 @@
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "N7"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Noxus"
   },
   {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "build",
+   "upgrade": "woodlands"
   },
   {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "build",
+   "upgrade": "farmhouse"
   },
   {
-   "type": "travel",
-   "destination": "N20"
+   "type": "build",
+   "upgrade": "rec-center"
   },
   {
-   "type": "travel",
-   "destination": "N8"
+   "type": "build",
+   "upgrade": "fire-station"
   },
   {
-   "type": "travel",
-   "destination": "Bilgewater"
+   "type": "build",
+   "upgrade": "school"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "build",
+   "upgrade": "police-station"
   },
   {
-   "type": "travel",
-   "destination": "N8"
+   "type": "build",
+   "upgrade": "library"
   },
   {
-   "type": "travel",
-   "destination": "N20"
+   "type": "build",
+   "upgrade": "fertilised-fields"
   },
   {
-   "type": "travel",
-   "destination": "Targon"
+   "type": "build",
+   "upgrade": "pier"
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "build",
+   "upgrade": "quarry"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "build",
+   "upgrade": "pottery-house"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "N7"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "N10",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Shurima"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "build",
+   "upgrade": "fertilised-fields"
   },
   {
-   "type": "travel",
-   "destination": "N8"
+   "type": "build",
+   "upgrade": "farmhouse"
   },
   {
-   "type": "travel",
-   "destination": "N20"
+   "type": "build",
+   "upgrade": "rec-center"
   },
   {
-   "type": "travel",
-   "destination": "Targon"
+   "type": "build",
+   "upgrade": "fire-station"
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "build",
+   "upgrade": "school"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "build",
+   "upgrade": "police-station"
   },
   {
-   "type": "travel",
-   "destination": "N20"
+   "type": "build",
+   "upgrade": "library"
   },
   {
-   "type": "travel",
-   "destination": "N8"
+   "type": "build",
+   "upgrade": "woodlands"
   },
   {
-   "type": "travel",
-   "destination": "Bilgewater"
+   "type": "build",
+   "upgrade": "pier"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "build",
+   "upgrade": "quarry"
   },
   {
-   "type": "travel",
-   "destination": "N8"
+   "type": "build",
+   "upgrade": "pottery-house"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "N21"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N6"
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
    "type": "travel",
-   "destination": "N20"
+   "destination": "N18",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Freljord"
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "destination": "N18"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "N6",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Ixtal"
   },
   {
    "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "N9",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "destination": "Demacia"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "Evermoor"
   },
   {
    "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "Ixtal"
   },
   {
    "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "N9",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "destination": "N9"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8043,155 +4531,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "Targon"
-  },
-  {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "destination": "Evermoor"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "N9",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Demacia"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
    "type": "travel",
-   "destination": "N8"
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "Evermoor"
   },
   {
    "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "Ixtal"
   },
   {
    "type": "buy",
-   "item": "sheep",
-   "quantity": 600
-  },
-  {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
-  },
-  {
-   "type": "travel",
-   "destination": "N20"
-  },
-  {
-   "type": "travel",
-   "destination": "N8"
-  },
-  {
-   "type": "travel",
-   "destination": "Bilgewater"
-  },
-  {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8199,77 +4619,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8277,155 +4707,175 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
+  },
+  {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
+   "destination": "Evermoor"
+  },
+  {
+   "type": "travel",
    "destination": "Bilgewater"
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8433,77 +4883,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8511,77 +4971,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8589,155 +5059,175 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
+  },
+  {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
+   "destination": "Evermoor"
+  },
+  {
+   "type": "travel",
    "destination": "Bilgewater"
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8745,77 +5235,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8823,77 +5323,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -8901,155 +5411,175 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
+  },
+  {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
+   "destination": "Evermoor"
+  },
+  {
+   "type": "travel",
    "destination": "Bilgewater"
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -9057,77 +5587,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -9135,77 +5675,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -9213,155 +5763,175 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
+  },
+  {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
+   "destination": "Evermoor"
+  },
+  {
+   "type": "travel",
    "destination": "Bilgewater"
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -9369,77 +5939,87 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
+  },
+  {
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
@@ -9447,94 +6027,99 @@
   },
   {
    "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "item": "roof-tiles",
+   "quantity": 2000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
-   "type": "craft",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "travel",
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 4000
   },
   {
    "type": "travel",
-   "destination": "Bilgewater"
+   "destination": "Ixtal"
   },
   {
-   "type": "sell",
-   "item": "wool-garments",
-   "quantity": 200
+   "type": "buy",
+   "item": "clay",
+   "quantity": 6000
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Evermoor"
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "Borealis"
   },
   {
    "type": "travel",
-   "destination": "Targon"
+   "destination": "N9",
+   "fast": true
   },
   {
-   "type": "buy",
-   "item": "sheep",
-   "quantity": 600
+   "type": "travel",
+   "destination": "Demacia"
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 59588
+   "quantity": 63722
   },
   {
    "type": "sell",
    "item": "fish",
-   "quantity": 87481
+   "quantity": 84851
   },
   {
    "type": "sell",
    "item": "sheep",
-   "quantity": 33617
+   "quantity": 32138
   },
   {
    "type": "sell",
    "item": "stone",
-   "quantity": 91749
+   "quantity": 93013
   },
   {
    "type": "sell",
    "item": "wheat",
-   "quantity": 78618
+   "quantity": 76168
   },
   {
    "type": "sell",
    "item": "wood",
-   "quantity": 102848
+   "quantity": 99573
   },
   {
    "type": "sell",
@@ -9544,12 +6129,7 @@
   {
    "type": "sell",
    "item": "fish",
-   "quantity": 9
-  },
-  {
-   "type": "sell",
-   "item": "wood",
-   "quantity": 15
+   "quantity": 21
   },
   {
    "type": "sell",
@@ -9559,12 +6139,37 @@
   {
    "type": "sell",
    "item": "stone",
-   "quantity": 15
+   "quantity": 25
   },
   {
    "type": "sell",
    "item": "wheat",
-   "quantity": 17
+   "quantity": 19
+  },
+  {
+   "type": "sell",
+   "item": "wood",
+   "quantity": 29
+  },
+  {
+   "type": "sell",
+   "item": "clay",
+   "quantity": 12
+  },
+  {
+   "type": "sell",
+   "item": "fish",
+   "quantity": 10
+  },
+  {
+   "type": "sell",
+   "item": "stone",
+   "quantity": 10
+  },
+  {
+   "type": "sell",
+   "item": "wheat",
+   "quantity": 12
   },
   {
    "type": "sell",
@@ -9573,415 +6178,420 @@
   },
   {
    "type": "travel",
-   "destination": "N20"
+   "destination": "N9"
   },
   {
    "type": "travel",
-   "destination": "N8"
+   "destination": "Borealis",
+   "fast": true
   },
   {
    "type": "travel",
-   "destination": "Aurora"
+   "destination": "Evermoor"
+  },
+  {
+   "type": "travel",
+   "destination": "Ixtal"
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 253118
+   "quantity": 281279
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 253118
+   "quantity": 281279
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 206713
+   "quantity": 229711
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 206713
+   "quantity": 229711
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 168815
+   "quantity": 187597
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 168815
+   "quantity": 187597
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 137866
+   "quantity": 153205
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 137866
+   "quantity": 153205
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 112591
+   "quantity": 125117
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 112591
+   "quantity": 125117
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 91949
+   "quantity": 102179
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 91949
+   "quantity": 102179
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 75092
+   "quantity": 83446
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 75092
+   "quantity": 83446
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 61325
+   "quantity": 68148
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 61325
+   "quantity": 68148
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 50082
+   "quantity": 55654
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 50082
+   "quantity": 55654
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 40900
+   "quantity": 45451
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 40900
+   "quantity": 45451
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 33402
+   "quantity": 37118
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 33402
+   "quantity": 37118
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 27278
+   "quantity": 30313
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 27278
+   "quantity": 30313
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 22277
+   "quantity": 24756
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 22277
+   "quantity": 24756
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 18193
+   "quantity": 20217
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 18193
+   "quantity": 20217
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 14858
+   "quantity": 16511
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 14858
+   "quantity": 16511
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 12134
+   "quantity": 13483
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 12134
+   "quantity": 13483
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 9909
+   "quantity": 11012
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 9909
+   "quantity": 11012
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 8092
+   "quantity": 8993
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 8092
+   "quantity": 8993
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 6609
+   "quantity": 7344
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 6609
+   "quantity": 7344
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 5397
+   "quantity": 5998
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 5397
+   "quantity": 5998
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 4408
+   "quantity": 4898
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 4408
+   "quantity": 4898
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 3600
+   "quantity": 4000
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 3600
+   "quantity": 4000
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 2940
+   "quantity": 3267
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 2940
+   "quantity": 3267
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 2401
+   "quantity": 2668
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 2401
+   "quantity": 2668
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1960
+   "quantity": 2179
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1960
+   "quantity": 2179
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1601
+   "quantity": 1779
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1601
+   "quantity": 1779
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1308
+   "quantity": 1453
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1308
+   "quantity": 1453
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1068
+   "quantity": 1187
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1068
+   "quantity": 1187
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 872
+   "quantity": 969
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 872
+   "quantity": 969
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 712
+   "quantity": 791
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 712
+   "quantity": 791
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 582
+   "quantity": 646
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 582
+   "quantity": 646
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 475
+   "quantity": 528
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 475
+   "quantity": 528
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 388
+   "quantity": 431
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 388
+   "quantity": 431
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 317
+   "quantity": 352
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 317
+   "quantity": 352
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 259
+   "quantity": 288
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 259
+   "quantity": 288
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 211
+   "quantity": 235
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 211
+   "quantity": 235
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 172
+   "quantity": 192
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 172
+   "quantity": 192
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 141
+   "quantity": 156
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 141
+   "quantity": 156
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 115
+   "quantity": 128
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 115
+   "quantity": 128
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 94
+   "quantity": 104
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 94
+   "quantity": 104
   }
  ]
 }

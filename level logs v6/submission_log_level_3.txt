@@ -1,0 +1,1840 @@
+Action 0: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 2: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 3: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 4: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 5: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 6: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 7: Buy 9 sheep for 72 Enteloot.
+Action 8: craft 3x wool-garments (recipe).
+Action 9: Sell 3 wool-garments for 141 Enteloot.
+Action 10: Travel to 'N3' (standard, 4 ticks, Toll 0).
+Action 11: gather 8 sheep at 'N3' (2 ticks).
+Action 12: gather 8 sheep at 'N3' (2 ticks).
+Action 13: gather 8 sheep at 'N3' (2 ticks).
+Action 14: gather 8 sheep at 'N3' (2 ticks).
+Action 15: gather 8 sheep at 'N3' (2 ticks).
+Action 16: gather 8 sheep at 'N3' (2 ticks).
+Action 17: gather 8 sheep at 'N3' (2 ticks).
+Action 18: gather 8 sheep at 'N3' (2 ticks).
+Action 19: gather 8 sheep at 'N3' (2 ticks).
+Action 20: gather 8 sheep at 'N3' (2 ticks).
+Action 21: gather 8 sheep at 'N3' (2 ticks).
+Action 22: gather 8 sheep at 'N3' (2 ticks).
+Action 23: gather 8 sheep at 'N3' (2 ticks).
+Action 24: gather 8 sheep at 'N3' (2 ticks).
+Action 25: gather 8 sheep at 'N3' (2 ticks).
+Action 26: gather 8 sheep at 'N3' (2 ticks).
+Action 27: gather 8 sheep at 'N3' (2 ticks).
+Action 28: gather 8 sheep at 'N3' (2 ticks).
+Action 29: gather 8 sheep at 'N3' (2 ticks).
+Action 30: gather 8 sheep at 'N3' (2 ticks).
+Action 31: gather 8 sheep at 'N3' (2 ticks).
+Action 32: gather 8 sheep at 'N3' (2 ticks).
+Action 33: gather 8 sheep at 'N3' (2 ticks).
+Action 34: gather 8 sheep at 'N3' (2 ticks).
+Action 35: gather 8 sheep at 'N3' (2 ticks).
+Action 36: gather 8 sheep at 'N3' (2 ticks).
+Action 37: gather 8 sheep at 'N3' (2 ticks).
+Action 38: gather 8 sheep at 'N3' (2 ticks).
+Action 39: gather 8 sheep at 'N3' (2 ticks).
+Action 40: gather 8 sheep at 'N3' (2 ticks).
+Action 41: gather 8 sheep at 'N3' (2 ticks).
+Action 42: gather 8 sheep at 'N3' (2 ticks).
+Action 43: gather 8 sheep at 'N3' (2 ticks).
+Action 44: gather 8 sheep at 'N3' (2 ticks).
+Action 45: gather 8 sheep at 'N3' (2 ticks).
+Action 46: gather 8 sheep at 'N3' (2 ticks).
+Action 47: gather 8 sheep at 'N3' (2 ticks).
+Action 48: gather 8 sheep at 'N3' (2 ticks).
+Action 49: gather 8 sheep at 'N3' (2 ticks).
+Action 50: gather 8 sheep at 'N3' (2 ticks).
+Action 51: gather 8 sheep at 'N3' (2 ticks).
+Action 52: gather 8 sheep at 'N3' (2 ticks).
+Action 53: gather 8 sheep at 'N3' (2 ticks).
+Action 54: gather 8 sheep at 'N3' (2 ticks).
+Action 55: gather 8 sheep at 'N3' (2 ticks).
+Action 56: gather 8 sheep at 'N3' (2 ticks).
+Action 57: gather 8 sheep at 'N3' (2 ticks).
+Action 58: gather 8 sheep at 'N3' (2 ticks).
+Action 59: gather 8 sheep at 'N3' (2 ticks).
+Action 60: gather 8 sheep at 'N3' (2 ticks).
+Action 61: gather 8 sheep at 'N3' (2 ticks).
+Action 62: gather 8 sheep at 'N3' (2 ticks).
+Action 63: gather 8 sheep at 'N3' (2 ticks).
+Action 64: gather 8 sheep at 'N3' (2 ticks).
+Action 65: gather 8 sheep at 'N3' (2 ticks).
+Action 66: gather 8 sheep at 'N3' (2 ticks).
+Action 67: gather 8 sheep at 'N3' (2 ticks).
+Action 68: gather 8 sheep at 'N3' (2 ticks).
+Action 69: gather 8 sheep at 'N3' (2 ticks).
+Action 70: gather 8 sheep at 'N3' (2 ticks).
+Action 71: gather 8 sheep at 'N3' (2 ticks).
+Action 72: gather 8 sheep at 'N3' (2 ticks).
+Action 73: gather 8 sheep at 'N3' (2 ticks).
+Action 74: gather 8 sheep at 'N3' (2 ticks).
+Action 75: gather 8 sheep at 'N3' (2 ticks).
+Action 76: gather 8 sheep at 'N3' (2 ticks).
+Action 77: gather 8 sheep at 'N3' (2 ticks).
+Action 78: gather 8 sheep at 'N3' (2 ticks).
+Action 79: gather 8 sheep at 'N3' (2 ticks).
+Action 80: gather 8 sheep at 'N3' (2 ticks).
+Action 81: gather 8 sheep at 'N3' (2 ticks).
+Action 82: gather 8 sheep at 'N3' (2 ticks).
+Action 83: gather 8 sheep at 'N3' (2 ticks).
+Action 84: gather 8 sheep at 'N3' (2 ticks).
+Action 85: gather 8 sheep at 'N3' (2 ticks).
+Action 86: gather 8 sheep at 'N3' (2 ticks).
+Action 87: gather 8 sheep at 'N3' (2 ticks).
+Action 88: gather 8 sheep at 'N3' (2 ticks).
+Action 89: gather 8 sheep at 'N3' (2 ticks).
+Action 90: gather 8 sheep at 'N3' (2 ticks).
+Action 91: gather 8 sheep at 'N3' (2 ticks).
+Action 92: gather 8 sheep at 'N3' (2 ticks).
+Action 93: gather 8 sheep at 'N3' (2 ticks).
+Action 94: gather 8 sheep at 'N3' (2 ticks).
+Action 95: gather 8 sheep at 'N3' (2 ticks).
+Action 96: gather 8 sheep at 'N3' (2 ticks).
+Action 97: gather 8 sheep at 'N3' (2 ticks).
+Action 98: gather 8 sheep at 'N3' (2 ticks).
+Action 99: gather 8 sheep at 'N3' (2 ticks).
+Action 100: gather 8 sheep at 'N3' (2 ticks).
+Action 101: gather 8 sheep at 'N3' (2 ticks).
+Action 102: gather 8 sheep at 'N3' (2 ticks).
+Action 103: gather 8 sheep at 'N3' (2 ticks).
+Action 104: gather 8 sheep at 'N3' (2 ticks).
+Action 105: gather 8 sheep at 'N3' (2 ticks).
+Action 106: gather 8 sheep at 'N3' (2 ticks).
+Action 107: gather 8 sheep at 'N3' (2 ticks).
+Action 108: gather 8 sheep at 'N3' (2 ticks).
+Action 109: gather 8 sheep at 'N3' (2 ticks).
+Action 110: gather 8 sheep at 'N3' (2 ticks).
+Action 111: gather 8 sheep at 'N3' (2 ticks).
+Action 112: gather 8 sheep at 'N3' (2 ticks).
+Action 113: gather 8 sheep at 'N3' (2 ticks).
+Action 114: gather 8 sheep at 'N3' (2 ticks).
+Action 115: gather 8 sheep at 'N3' (2 ticks).
+Action 116: gather 8 sheep at 'N3' (2 ticks).
+Action 117: gather 8 sheep at 'N3' (2 ticks).
+Action 118: gather 8 sheep at 'N3' (2 ticks).
+Action 119: gather 8 sheep at 'N3' (2 ticks).
+Action 120: gather 8 sheep at 'N3' (2 ticks).
+Action 121: gather 8 sheep at 'N3' (2 ticks).
+Action 122: gather 8 sheep at 'N3' (2 ticks).
+Action 123: gather 8 sheep at 'N3' (2 ticks).
+Action 124: gather 8 sheep at 'N3' (2 ticks).
+Action 125: gather 8 sheep at 'N3' (2 ticks).
+Action 126: gather 8 sheep at 'N3' (2 ticks).
+Action 127: gather 8 sheep at 'N3' (2 ticks).
+Action 128: gather 8 sheep at 'N3' (2 ticks).
+Action 129: gather 8 sheep at 'N3' (2 ticks).
+Action 130: gather 8 sheep at 'N3' (2 ticks).
+Action 131: gather 8 sheep at 'N3' (2 ticks).
+Action 132: gather 8 sheep at 'N3' (2 ticks).
+Action 133: gather 8 sheep at 'N3' (2 ticks).
+Action 134: gather 8 sheep at 'N3' (2 ticks).
+Action 135: gather 8 sheep at 'N3' (2 ticks).
+Action 136: gather 8 sheep at 'N3' (2 ticks).
+Action 137: gather 8 sheep at 'N3' (2 ticks).
+Action 138: gather 8 sheep at 'N3' (2 ticks).
+Action 139: gather 8 sheep at 'N3' (2 ticks).
+Action 140: gather 8 sheep at 'N3' (2 ticks).
+Action 141: gather 8 sheep at 'N3' (2 ticks).
+Action 142: gather 8 sheep at 'N3' (2 ticks).
+Action 143: gather 8 sheep at 'N3' (2 ticks).
+Action 144: gather 8 sheep at 'N3' (2 ticks).
+Action 145: gather 8 sheep at 'N3' (2 ticks).
+Action 146: gather 8 sheep at 'N3' (2 ticks).
+Action 147: gather 8 sheep at 'N3' (2 ticks).
+Action 148: gather 8 sheep at 'N3' (2 ticks).
+Action 149: gather 8 sheep at 'N3' (2 ticks).
+Action 150: gather 8 sheep at 'N3' (2 ticks).
+Action 151: gather 8 sheep at 'N3' (2 ticks).
+Action 152: gather 8 sheep at 'N3' (2 ticks).
+Action 153: gather 8 sheep at 'N3' (2 ticks).
+Action 154: gather 8 sheep at 'N3' (2 ticks).
+Action 155: gather 8 sheep at 'N3' (2 ticks).
+Action 156: gather 8 sheep at 'N3' (2 ticks).
+Action 157: gather 8 sheep at 'N3' (2 ticks).
+Action 158: gather 8 sheep at 'N3' (2 ticks).
+Action 159: gather 8 sheep at 'N3' (2 ticks).
+Action 160: gather 8 sheep at 'N3' (2 ticks).
+Action 161: gather 8 sheep at 'N3' (2 ticks).
+Action 162: gather 8 sheep at 'N3' (2 ticks).
+Action 163: gather 8 sheep at 'N3' (2 ticks).
+Action 164: gather 8 sheep at 'N3' (2 ticks).
+Action 165: gather 8 sheep at 'N3' (2 ticks).
+Action 166: gather 8 sheep at 'N3' (2 ticks).
+Action 167: gather 8 sheep at 'N3' (2 ticks).
+Action 168: gather 8 sheep at 'N3' (2 ticks).
+Action 169: gather 8 sheep at 'N3' (2 ticks).
+Action 170: gather 8 sheep at 'N3' (2 ticks).
+Action 171: gather 8 sheep at 'N3' (2 ticks).
+Action 172: gather 8 sheep at 'N3' (2 ticks).
+Action 173: gather 8 sheep at 'N3' (2 ticks).
+Action 174: gather 8 sheep at 'N3' (2 ticks).
+Action 175: gather 8 sheep at 'N3' (2 ticks).
+Action 176: gather 8 sheep at 'N3' (2 ticks).
+Action 177: gather 8 sheep at 'N3' (2 ticks).
+Action 178: gather 8 sheep at 'N3' (2 ticks).
+Action 179: gather 8 sheep at 'N3' (2 ticks).
+Action 180: gather 8 sheep at 'N3' (2 ticks).
+Action 181: gather 8 sheep at 'N3' (2 ticks).
+Action 182: gather 8 sheep at 'N3' (2 ticks).
+Action 183: gather 8 sheep at 'N3' (2 ticks).
+Action 184: gather 8 sheep at 'N3' (2 ticks).
+Action 185: gather 8 sheep at 'N3' (2 ticks).
+Action 186: gather 8 sheep at 'N3' (2 ticks).
+Action 187: gather 8 sheep at 'N3' (2 ticks).
+Action 188: gather 8 sheep at 'N3' (2 ticks).
+Action 189: gather 8 sheep at 'N3' (2 ticks).
+Action 190: gather 8 sheep at 'N3' (2 ticks).
+Action 191: gather 8 sheep at 'N3' (2 ticks).
+Action 192: gather 8 sheep at 'N3' (2 ticks).
+Action 193: gather 8 sheep at 'N3' (2 ticks).
+Action 194: gather 8 sheep at 'N3' (2 ticks).
+Action 195: gather 8 sheep at 'N3' (2 ticks).
+Action 196: gather 8 sheep at 'N3' (2 ticks).
+Action 197: gather 8 sheep at 'N3' (2 ticks).
+Action 198: gather 8 sheep at 'N3' (2 ticks).
+Action 199: gather 8 sheep at 'N3' (2 ticks).
+Action 200: gather 8 sheep at 'N3' (2 ticks).
+Action 201: gather 8 sheep at 'N3' (2 ticks).
+Action 202: gather 8 sheep at 'N3' (2 ticks).
+Action 203: gather 8 sheep at 'N3' (2 ticks).
+Action 204: gather 8 sheep at 'N3' (2 ticks).
+Action 205: gather 8 sheep at 'N3' (2 ticks).
+Action 206: gather 8 sheep at 'N3' (2 ticks).
+Action 207: gather 8 sheep at 'N3' (2 ticks).
+Action 208: gather 8 sheep at 'N3' (2 ticks).
+Action 209: gather 8 sheep at 'N3' (2 ticks).
+Action 210: gather 8 sheep at 'N3' (2 ticks).
+Action 211: gather 8 sheep at 'N3' (2 ticks).
+Action 212: gather 8 sheep at 'N3' (2 ticks).
+Action 213: gather 8 sheep at 'N3' (2 ticks).
+Action 214: gather 8 sheep at 'N3' (2 ticks).
+Action 215: gather 8 sheep at 'N3' (2 ticks).
+Action 216: gather 8 sheep at 'N3' (2 ticks).
+Action 217: gather 8 sheep at 'N3' (2 ticks).
+Action 218: gather 8 sheep at 'N3' (2 ticks).
+Action 219: gather 8 sheep at 'N3' (2 ticks).
+Action 220: gather 8 sheep at 'N3' (2 ticks).
+Action 221: gather 8 sheep at 'N3' (2 ticks).
+Action 222: gather 8 sheep at 'N3' (2 ticks).
+Action 223: gather 8 sheep at 'N3' (2 ticks).
+Action 224: gather 8 sheep at 'N3' (2 ticks).
+Action 225: gather 8 sheep at 'N3' (2 ticks).
+Action 226: gather 8 sheep at 'N3' (2 ticks).
+Action 227: gather 8 sheep at 'N3' (2 ticks).
+Action 228: gather 8 sheep at 'N3' (2 ticks).
+Action 229: gather 8 sheep at 'N3' (2 ticks).
+Action 230: gather 8 sheep at 'N3' (2 ticks).
+Action 231: gather 8 sheep at 'N3' (2 ticks).
+Action 232: gather 8 sheep at 'N3' (2 ticks).
+Action 233: gather 8 sheep at 'N3' (2 ticks).
+Action 234: gather 8 sheep at 'N3' (2 ticks).
+Action 235: gather 8 sheep at 'N3' (2 ticks).
+Action 236: gather 8 sheep at 'N3' (2 ticks).
+Action 237: gather 8 sheep at 'N3' (2 ticks).
+Action 238: gather 8 sheep at 'N3' (2 ticks).
+Action 239: gather 8 sheep at 'N3' (2 ticks).
+Action 240: gather 8 sheep at 'N3' (2 ticks).
+Action 241: gather 8 sheep at 'N3' (2 ticks).
+Action 242: gather 8 sheep at 'N3' (2 ticks).
+Action 243: gather 8 sheep at 'N3' (2 ticks).
+Action 244: gather 8 sheep at 'N3' (2 ticks).
+Action 245: gather 8 sheep at 'N3' (2 ticks).
+Action 246: gather 8 sheep at 'N3' (2 ticks).
+Action 247: gather 8 sheep at 'N3' (2 ticks).
+Action 248: gather 8 sheep at 'N3' (2 ticks).
+Action 249: gather 8 sheep at 'N3' (2 ticks).
+Action 250: gather 8 sheep at 'N3' (2 ticks).
+Action 251: gather 8 sheep at 'N3' (2 ticks).
+Action 252: gather 8 sheep at 'N3' (2 ticks).
+Action 253: gather 8 sheep at 'N3' (2 ticks).
+Action 254: gather 8 sheep at 'N3' (2 ticks).
+Action 255: gather 8 sheep at 'N3' (2 ticks).
+Action 256: gather 8 sheep at 'N3' (2 ticks).
+Action 257: gather 8 sheep at 'N3' (2 ticks).
+Action 258: gather 8 sheep at 'N3' (2 ticks).
+Action 259: gather 8 sheep at 'N3' (2 ticks).
+Action 260: gather 8 sheep at 'N3' (2 ticks).
+Action 261: gather 8 sheep at 'N3' (2 ticks).
+Action 262: gather 8 sheep at 'N3' (2 ticks).
+Action 263: gather 8 sheep at 'N3' (2 ticks).
+Action 264: gather 8 sheep at 'N3' (2 ticks).
+Action 265: gather 8 sheep at 'N3' (2 ticks).
+Action 266: gather 8 sheep at 'N3' (2 ticks).
+Action 267: gather 8 sheep at 'N3' (2 ticks).
+Action 268: gather 8 sheep at 'N3' (2 ticks).
+Action 269: gather 8 sheep at 'N3' (2 ticks).
+Action 270: gather 8 sheep at 'N3' (2 ticks).
+Action 271: gather 8 sheep at 'N3' (2 ticks).
+Action 272: gather 8 sheep at 'N3' (2 ticks).
+Action 273: gather 8 sheep at 'N3' (2 ticks).
+Action 274: gather 8 sheep at 'N3' (2 ticks).
+Action 275: gather 8 sheep at 'N3' (2 ticks).
+Action 276: gather 8 sheep at 'N3' (2 ticks).
+Action 277: gather 8 sheep at 'N3' (2 ticks).
+Action 278: gather 8 sheep at 'N3' (2 ticks).
+Action 279: gather 8 sheep at 'N3' (2 ticks).
+Action 280: gather 8 sheep at 'N3' (2 ticks).
+Action 281: gather 8 sheep at 'N3' (2 ticks).
+Action 282: gather 8 sheep at 'N3' (2 ticks).
+Action 283: gather 8 sheep at 'N3' (2 ticks).
+Action 284: gather 8 sheep at 'N3' (2 ticks).
+Action 285: gather 8 sheep at 'N3' (2 ticks).
+Action 286: gather 8 sheep at 'N3' (2 ticks).
+Action 287: gather 8 sheep at 'N3' (2 ticks).
+Action 288: gather 8 sheep at 'N3' (2 ticks).
+Action 289: gather 8 sheep at 'N3' (2 ticks).
+Action 290: gather 8 sheep at 'N3' (2 ticks).
+Action 291: gather 8 sheep at 'N3' (2 ticks).
+Action 292: gather 8 sheep at 'N3' (2 ticks).
+Action 293: gather 8 sheep at 'N3' (2 ticks).
+Action 294: gather 8 sheep at 'N3' (2 ticks).
+Action 295: gather 8 sheep at 'N3' (2 ticks).
+Action 296: gather 8 sheep at 'N3' (2 ticks).
+Action 297: gather 8 sheep at 'N3' (2 ticks).
+Action 298: gather 8 sheep at 'N3' (2 ticks).
+Action 299: gather 8 sheep at 'N3' (2 ticks).
+Action 300: gather 8 sheep at 'N3' (2 ticks).
+Action 301: gather 8 sheep at 'N3' (2 ticks).
+Action 302: gather 8 sheep at 'N3' (2 ticks).
+Action 303: gather 8 sheep at 'N3' (2 ticks).
+Action 304: gather 8 sheep at 'N3' (2 ticks).
+Action 305: gather 8 sheep at 'N3' (2 ticks).
+Action 306: gather 8 sheep at 'N3' (2 ticks).
+Action 307: gather 8 sheep at 'N3' (2 ticks).
+Action 308: gather 8 sheep at 'N3' (2 ticks).
+Action 309: gather 8 sheep at 'N3' (2 ticks).
+Action 310: gather 8 sheep at 'N3' (2 ticks).
+Action 311: gather 8 sheep at 'N3' (2 ticks).
+Action 312: gather 8 sheep at 'N3' (2 ticks).
+Action 313: gather 8 sheep at 'N3' (2 ticks).
+Action 314: gather 8 sheep at 'N3' (2 ticks).
+Action 315: gather 8 sheep at 'N3' (2 ticks).
+Action 316: gather 8 sheep at 'N3' (2 ticks).
+Action 317: gather 8 sheep at 'N3' (2 ticks).
+Action 318: gather 8 sheep at 'N3' (2 ticks).
+Action 319: gather 8 sheep at 'N3' (2 ticks).
+Action 320: gather 8 sheep at 'N3' (2 ticks).
+Action 321: gather 8 sheep at 'N3' (2 ticks).
+Action 322: gather 8 sheep at 'N3' (2 ticks).
+Action 323: gather 8 sheep at 'N3' (2 ticks).
+Action 324: gather 8 sheep at 'N3' (2 ticks).
+Action 325: gather 8 sheep at 'N3' (2 ticks).
+Action 326: gather 8 sheep at 'N3' (2 ticks).
+Action 327: gather 8 sheep at 'N3' (2 ticks).
+Action 328: gather 8 sheep at 'N3' (2 ticks).
+Action 329: gather 8 sheep at 'N3' (2 ticks).
+Action 330: gather 8 sheep at 'N3' (2 ticks).
+Action 331: gather 8 sheep at 'N3' (2 ticks).
+Action 332: gather 8 sheep at 'N3' (2 ticks).
+Action 333: gather 8 sheep at 'N3' (2 ticks).
+Action 334: gather 8 sheep at 'N3' (2 ticks).
+Action 335: gather 8 sheep at 'N3' (2 ticks).
+Action 336: gather 8 sheep at 'N3' (2 ticks).
+Action 337: gather 8 sheep at 'N3' (2 ticks).
+Action 338: gather 8 sheep at 'N3' (2 ticks).
+Action 339: gather 8 sheep at 'N3' (2 ticks).
+Action 340: gather 8 sheep at 'N3' (2 ticks).
+Action 341: gather 8 sheep at 'N3' (2 ticks).
+Action 342: gather 8 sheep at 'N3' (2 ticks).
+Action 343: gather 8 sheep at 'N3' (2 ticks).
+Action 344: gather 8 sheep at 'N3' (2 ticks).
+Action 345: gather 8 sheep at 'N3' (2 ticks).
+Action 346: gather 8 sheep at 'N3' (2 ticks).
+Action 347: gather 8 sheep at 'N3' (2 ticks).
+Action 348: gather 8 sheep at 'N3' (2 ticks).
+Action 349: gather 8 sheep at 'N3' (2 ticks).
+Action 350: gather 8 sheep at 'N3' (2 ticks).
+Action 351: gather 8 sheep at 'N3' (2 ticks).
+Action 352: gather 8 sheep at 'N3' (2 ticks).
+Action 353: gather 8 sheep at 'N3' (2 ticks).
+Action 354: gather 8 sheep at 'N3' (2 ticks).
+Action 355: gather 8 sheep at 'N3' (2 ticks).
+Action 356: gather 8 sheep at 'N3' (2 ticks).
+Action 357: gather 8 sheep at 'N3' (2 ticks).
+Action 358: gather 8 sheep at 'N3' (2 ticks).
+Action 359: gather 8 sheep at 'N3' (2 ticks).
+Action 360: gather 8 sheep at 'N3' (2 ticks).
+Action 361: gather 8 sheep at 'N3' (2 ticks).
+Action 362: gather 8 sheep at 'N3' (2 ticks).
+Action 363: gather 8 sheep at 'N3' (2 ticks).
+Action 364: gather 8 sheep at 'N3' (2 ticks).
+Action 365: gather 8 sheep at 'N3' (2 ticks).
+Action 366: gather 8 sheep at 'N3' (2 ticks).
+Action 367: gather 8 sheep at 'N3' (2 ticks).
+Action 368: gather 8 sheep at 'N3' (2 ticks).
+Action 369: gather 8 sheep at 'N3' (2 ticks).
+Action 370: gather 8 sheep at 'N3' (2 ticks).
+Action 371: gather 8 sheep at 'N3' (2 ticks).
+Action 372: gather 8 sheep at 'N3' (2 ticks).
+Action 373: gather 8 sheep at 'N3' (2 ticks).
+Action 374: gather 8 sheep at 'N3' (2 ticks).
+Action 375: gather 8 sheep at 'N3' (2 ticks).
+Action 376: gather 8 sheep at 'N3' (2 ticks).
+Action 377: gather 8 sheep at 'N3' (2 ticks).
+Action 378: gather 8 sheep at 'N3' (2 ticks).
+Action 379: gather 8 sheep at 'N3' (2 ticks).
+Action 380: gather 8 sheep at 'N3' (2 ticks).
+Action 381: gather 8 sheep at 'N3' (2 ticks).
+Action 382: gather 8 sheep at 'N3' (2 ticks).
+Action 383: gather 8 sheep at 'N3' (2 ticks).
+Action 384: gather 8 sheep at 'N3' (2 ticks).
+Action 385: gather 8 sheep at 'N3' (2 ticks).
+Action 386: gather 8 sheep at 'N3' (2 ticks).
+Action 387: gather 8 sheep at 'N3' (2 ticks).
+Action 388: gather 8 sheep at 'N3' (2 ticks).
+Action 389: gather 8 sheep at 'N3' (2 ticks).
+Action 390: gather 8 sheep at 'N3' (2 ticks).
+Action 391: gather 8 sheep at 'N3' (2 ticks).
+Action 392: gather 8 sheep at 'N3' (2 ticks).
+Action 393: gather 8 sheep at 'N3' (2 ticks).
+Action 394: gather 8 sheep at 'N3' (2 ticks).
+Action 395: gather 8 sheep at 'N3' (2 ticks).
+Action 396: gather 8 sheep at 'N3' (2 ticks).
+Action 397: gather 8 sheep at 'N3' (2 ticks).
+Action 398: gather 8 sheep at 'N3' (2 ticks).
+Action 399: gather 8 sheep at 'N3' (2 ticks).
+Action 400: gather 8 sheep at 'N3' (2 ticks).
+Action 401: gather 8 sheep at 'N3' (2 ticks).
+Action 402: gather 8 sheep at 'N3' (2 ticks).
+Action 403: gather 8 sheep at 'N3' (2 ticks).
+Action 404: gather 8 sheep at 'N3' (2 ticks).
+Action 405: gather 8 sheep at 'N3' (2 ticks).
+Action 406: gather 8 sheep at 'N3' (2 ticks).
+Action 407: gather 8 sheep at 'N3' (2 ticks).
+Action 408: gather 8 sheep at 'N3' (2 ticks).
+Action 409: gather 8 sheep at 'N3' (2 ticks).
+Action 410: gather 8 sheep at 'N3' (2 ticks).
+Action 411: gather 8 sheep at 'N3' (2 ticks).
+Action 412: gather 8 sheep at 'N3' (2 ticks).
+Action 413: gather 8 sheep at 'N3' (2 ticks).
+Action 414: gather 8 sheep at 'N3' (2 ticks).
+Action 415: gather 8 sheep at 'N3' (2 ticks).
+Action 416: gather 8 sheep at 'N3' (2 ticks).
+Action 417: gather 8 sheep at 'N3' (2 ticks).
+Action 418: gather 8 sheep at 'N3' (2 ticks).
+Action 419: gather 8 sheep at 'N3' (2 ticks).
+Action 420: gather 8 sheep at 'N3' (2 ticks).
+Action 421: gather 8 sheep at 'N3' (2 ticks).
+Action 422: gather 8 sheep at 'N3' (2 ticks).
+Action 423: gather 8 sheep at 'N3' (2 ticks).
+Action 424: gather 8 sheep at 'N3' (2 ticks).
+Action 425: gather 8 sheep at 'N3' (2 ticks).
+Action 426: gather 8 sheep at 'N3' (2 ticks).
+Action 427: gather 8 sheep at 'N3' (2 ticks).
+Action 428: gather 8 sheep at 'N3' (2 ticks).
+Action 429: gather 8 sheep at 'N3' (2 ticks).
+Action 430: gather 8 sheep at 'N3' (2 ticks).
+Action 431: gather 8 sheep at 'N3' (2 ticks).
+Action 432: gather 8 sheep at 'N3' (2 ticks).
+Action 433: gather 8 sheep at 'N3' (2 ticks).
+Action 434: gather 8 sheep at 'N3' (2 ticks).
+Action 435: gather 8 sheep at 'N3' (2 ticks).
+Action 436: gather 8 sheep at 'N3' (2 ticks).
+Action 437: gather 8 sheep at 'N3' (2 ticks).
+Action 438: gather 8 sheep at 'N3' (2 ticks).
+Action 439: gather 8 sheep at 'N3' (2 ticks).
+Action 440: gather 8 sheep at 'N3' (2 ticks).
+Action 441: gather 8 sheep at 'N3' (2 ticks).
+Action 442: gather 8 sheep at 'N3' (2 ticks).
+Action 443: gather 8 sheep at 'N3' (2 ticks).
+Action 444: gather 8 sheep at 'N3' (2 ticks).
+Action 445: gather 8 sheep at 'N3' (2 ticks).
+Action 446: gather 8 sheep at 'N3' (2 ticks).
+Action 447: gather 8 sheep at 'N3' (2 ticks).
+Action 448: gather 8 sheep at 'N3' (2 ticks).
+Action 449: gather 8 sheep at 'N3' (2 ticks).
+Action 450: gather 8 sheep at 'N3' (2 ticks).
+Action 451: gather 8 sheep at 'N3' (2 ticks).
+Action 452: gather 8 sheep at 'N3' (2 ticks).
+Action 453: gather 8 sheep at 'N3' (2 ticks).
+Action 454: gather 8 sheep at 'N3' (2 ticks).
+Action 455: gather 8 sheep at 'N3' (2 ticks).
+Action 456: gather 8 sheep at 'N3' (2 ticks).
+Action 457: gather 8 sheep at 'N3' (2 ticks).
+Action 458: gather 8 sheep at 'N3' (2 ticks).
+Action 459: gather 8 sheep at 'N3' (2 ticks).
+Action 460: gather 8 sheep at 'N3' (2 ticks).
+Action 461: gather 8 sheep at 'N3' (2 ticks).
+Action 462: gather 8 sheep at 'N3' (2 ticks).
+Action 463: gather 8 sheep at 'N3' (2 ticks).
+Action 464: gather 8 sheep at 'N3' (2 ticks).
+Action 465: gather 8 sheep at 'N3' (2 ticks).
+Action 466: gather 8 sheep at 'N3' (2 ticks).
+Action 467: gather 8 sheep at 'N3' (2 ticks).
+Action 468: gather 8 sheep at 'N3' (2 ticks).
+Action 469: gather 8 sheep at 'N3' (2 ticks).
+Action 470: gather 8 sheep at 'N3' (2 ticks).
+Action 471: gather 8 sheep at 'N3' (2 ticks).
+Action 472: gather 8 sheep at 'N3' (2 ticks).
+Action 473: gather 8 sheep at 'N3' (2 ticks).
+Action 474: gather 8 sheep at 'N3' (2 ticks).
+Action 475: gather 8 sheep at 'N3' (2 ticks).
+Action 476: gather 8 sheep at 'N3' (2 ticks).
+Action 477: gather 8 sheep at 'N3' (2 ticks).
+Action 478: gather 8 sheep at 'N3' (2 ticks).
+Action 479: gather 8 sheep at 'N3' (2 ticks).
+Action 480: gather 8 sheep at 'N3' (2 ticks).
+Action 481: gather 8 sheep at 'N3' (2 ticks).
+Action 482: gather 8 sheep at 'N3' (2 ticks).
+Action 483: gather 8 sheep at 'N3' (2 ticks).
+Action 484: gather 8 sheep at 'N3' (2 ticks).
+Action 485: gather 8 sheep at 'N3' (2 ticks).
+Action 486: gather 8 sheep at 'N3' (2 ticks).
+Action 487: gather 8 sheep at 'N3' (2 ticks).
+Action 488: gather 8 sheep at 'N3' (2 ticks).
+Action 489: gather 8 sheep at 'N3' (2 ticks).
+Action 490: gather 8 sheep at 'N3' (2 ticks).
+Action 491: gather 8 sheep at 'N3' (2 ticks).
+Action 492: gather 8 sheep at 'N3' (2 ticks).
+Action 493: gather 8 sheep at 'N3' (2 ticks).
+Action 494: gather 8 sheep at 'N3' (2 ticks).
+Action 495: gather 8 sheep at 'N3' (2 ticks).
+Action 496: gather 8 sheep at 'N3' (2 ticks).
+Action 497: gather 8 sheep at 'N3' (2 ticks).
+Action 498: gather 8 sheep at 'N3' (2 ticks).
+Action 499: gather 8 sheep at 'N3' (2 ticks).
+Action 500: gather 8 sheep at 'N3' (2 ticks).
+Action 501: gather 8 sheep at 'N3' (2 ticks).
+Action 502: gather 8 sheep at 'N3' (2 ticks).
+Action 503: gather 8 sheep at 'N3' (2 ticks).
+Action 504: gather 8 sheep at 'N3' (2 ticks).
+Action 505: gather 8 sheep at 'N3' (2 ticks).
+Action 506: gather 8 sheep at 'N3' (2 ticks).
+Action 507: gather 8 sheep at 'N3' (2 ticks).
+Action 508: gather 8 sheep at 'N3' (2 ticks).
+Action 509: gather 8 sheep at 'N3' (2 ticks).
+Action 510: gather 8 sheep at 'N3' (2 ticks).
+Action 511: gather 8 sheep at 'N3' (2 ticks).
+Action 512: gather 8 sheep at 'N3' (2 ticks).
+Action 513: gather 8 sheep at 'N3' (2 ticks).
+Action 514: gather 8 sheep at 'N3' (2 ticks).
+Action 515: gather 8 sheep at 'N3' (2 ticks).
+Action 516: gather 8 sheep at 'N3' (2 ticks).
+Action 517: gather 8 sheep at 'N3' (2 ticks).
+Action 518: gather 8 sheep at 'N3' (2 ticks).
+Action 519: gather 8 sheep at 'N3' (2 ticks).
+Action 520: gather 8 sheep at 'N3' (2 ticks).
+Action 521: gather 8 sheep at 'N3' (2 ticks).
+Action 522: gather 8 sheep at 'N3' (2 ticks).
+Action 523: gather 8 sheep at 'N3' (2 ticks).
+Action 524: gather 8 sheep at 'N3' (2 ticks).
+Action 525: gather 8 sheep at 'N3' (2 ticks).
+Action 526: gather 8 sheep at 'N3' (2 ticks).
+Action 527: gather 8 sheep at 'N3' (2 ticks).
+Action 528: gather 8 sheep at 'N3' (2 ticks).
+Action 529: gather 8 sheep at 'N3' (2 ticks).
+Action 530: gather 8 sheep at 'N3' (2 ticks).
+Action 531: gather 8 sheep at 'N3' (2 ticks).
+Action 532: gather 8 sheep at 'N3' (2 ticks).
+Action 533: gather 8 sheep at 'N3' (2 ticks).
+Action 534: gather 8 sheep at 'N3' (2 ticks).
+Action 535: gather 8 sheep at 'N3' (2 ticks).
+Action 536: gather 8 sheep at 'N3' (2 ticks).
+Action 537: gather 8 sheep at 'N3' (2 ticks).
+Action 538: gather 8 sheep at 'N3' (2 ticks).
+Action 539: gather 8 sheep at 'N3' (2 ticks).
+Action 540: gather 8 sheep at 'N3' (2 ticks).
+Action 541: gather 8 sheep at 'N3' (2 ticks).
+Action 542: gather 8 sheep at 'N3' (2 ticks).
+Action 543: gather 8 sheep at 'N3' (2 ticks).
+Action 544: gather 8 sheep at 'N3' (2 ticks).
+Action 545: gather 8 sheep at 'N3' (2 ticks).
+Action 546: gather 8 sheep at 'N3' (2 ticks).
+Action 547: gather 8 sheep at 'N3' (2 ticks).
+Action 548: gather 8 sheep at 'N3' (2 ticks).
+Action 549: gather 8 sheep at 'N3' (2 ticks).
+Action 550: gather 8 sheep at 'N3' (2 ticks).
+Action 551: gather 8 sheep at 'N3' (2 ticks).
+Action 552: gather 8 sheep at 'N3' (2 ticks).
+Action 553: gather 8 sheep at 'N3' (2 ticks).
+Action 554: gather 8 sheep at 'N3' (2 ticks).
+Action 555: gather 8 sheep at 'N3' (2 ticks).
+Action 556: gather 8 sheep at 'N3' (2 ticks).
+Action 557: gather 8 sheep at 'N3' (2 ticks).
+Action 558: gather 8 sheep at 'N3' (2 ticks).
+Action 559: gather 8 sheep at 'N3' (2 ticks).
+Action 560: gather 8 sheep at 'N3' (2 ticks).
+Action 561: gather 8 sheep at 'N3' (2 ticks).
+Action 562: gather 8 sheep at 'N3' (2 ticks).
+Action 563: gather 8 sheep at 'N3' (2 ticks).
+Action 564: gather 8 sheep at 'N3' (2 ticks).
+Action 565: gather 8 sheep at 'N3' (2 ticks).
+Action 566: gather 8 sheep at 'N3' (2 ticks).
+Action 567: gather 8 sheep at 'N3' (2 ticks).
+Action 568: gather 8 sheep at 'N3' (2 ticks).
+Action 569: gather 8 sheep at 'N3' (2 ticks).
+Action 570: gather 8 sheep at 'N3' (2 ticks).
+Action 571: gather 8 sheep at 'N3' (2 ticks).
+Action 572: gather 8 sheep at 'N3' (2 ticks).
+Action 573: gather 8 sheep at 'N3' (2 ticks).
+Action 574: gather 8 sheep at 'N3' (2 ticks).
+Action 575: gather 8 sheep at 'N3' (2 ticks).
+Action 576: gather 8 sheep at 'N3' (2 ticks).
+Action 577: gather 8 sheep at 'N3' (2 ticks).
+Action 578: gather 8 sheep at 'N3' (2 ticks).
+Action 579: gather 8 sheep at 'N3' (2 ticks).
+Action 580: gather 8 sheep at 'N3' (2 ticks).
+Action 581: gather 8 sheep at 'N3' (2 ticks).
+Action 582: gather 8 sheep at 'N3' (2 ticks).
+Action 583: gather 8 sheep at 'N3' (2 ticks).
+Action 584: gather 8 sheep at 'N3' (2 ticks).
+Action 585: gather 8 sheep at 'N3' (2 ticks).
+Action 586: gather 8 sheep at 'N3' (2 ticks).
+Action 587: gather 8 sheep at 'N3' (2 ticks).
+Action 588: gather 8 sheep at 'N3' (2 ticks).
+Action 589: gather 8 sheep at 'N3' (2 ticks).
+Action 590: gather 8 sheep at 'N3' (2 ticks).
+Action 591: gather 8 sheep at 'N3' (2 ticks).
+Action 592: gather 8 sheep at 'N3' (2 ticks).
+Action 593: gather 8 sheep at 'N3' (2 ticks).
+Action 594: gather 8 sheep at 'N3' (2 ticks).
+Action 595: gather 8 sheep at 'N3' (2 ticks).
+Action 596: gather 8 sheep at 'N3' (2 ticks).
+Action 597: gather 8 sheep at 'N3' (2 ticks).
+Action 598: gather 8 sheep at 'N3' (2 ticks).
+Action 599: gather 8 sheep at 'N3' (2 ticks).
+Action 600: gather 8 sheep at 'N3' (2 ticks).
+Action 601: gather 8 sheep at 'N3' (2 ticks).
+Action 602: gather 8 sheep at 'N3' (2 ticks).
+Action 603: gather 8 sheep at 'N3' (2 ticks).
+Action 604: gather 8 sheep at 'N3' (2 ticks).
+Action 605: gather 8 sheep at 'N3' (2 ticks).
+Action 606: gather 8 sheep at 'N3' (2 ticks).
+Action 607: gather 8 sheep at 'N3' (2 ticks).
+Action 608: gather 8 sheep at 'N3' (2 ticks).
+Action 609: gather 8 sheep at 'N3' (2 ticks).
+Action 610: gather 8 sheep at 'N3' (2 ticks).
+Action 611: gather 8 sheep at 'N3' (2 ticks).
+Action 612: gather 8 sheep at 'N3' (2 ticks).
+Action 613: gather 8 sheep at 'N3' (2 ticks).
+Action 614: gather 8 sheep at 'N3' (2 ticks).
+Action 615: gather 8 sheep at 'N3' (2 ticks).
+Action 616: gather 8 sheep at 'N3' (2 ticks).
+Action 617: gather 8 sheep at 'N3' (2 ticks).
+Action 618: gather 8 sheep at 'N3' (2 ticks).
+Action 619: gather 8 sheep at 'N3' (2 ticks).
+Action 620: gather 8 sheep at 'N3' (2 ticks).
+Action 621: gather 8 sheep at 'N3' (2 ticks).
+Action 622: gather 8 sheep at 'N3' (2 ticks).
+Action 623: gather 8 sheep at 'N3' (2 ticks).
+Action 624: gather 8 sheep at 'N3' (2 ticks).
+Action 625: gather 8 sheep at 'N3' (2 ticks).
+Action 626: gather 8 sheep at 'N3' (2 ticks).
+Action 627: gather 8 sheep at 'N3' (2 ticks).
+Action 628: gather 8 sheep at 'N3' (2 ticks).
+Action 629: gather 8 sheep at 'N3' (2 ticks).
+Action 630: gather 8 sheep at 'N3' (2 ticks).
+Action 631: gather 8 sheep at 'N3' (2 ticks).
+Action 632: gather 8 sheep at 'N3' (2 ticks).
+Action 633: gather 8 sheep at 'N3' (2 ticks).
+Action 634: gather 8 sheep at 'N3' (2 ticks).
+Action 635: gather 8 sheep at 'N3' (2 ticks).
+Action 636: gather 8 sheep at 'N3' (2 ticks).
+Action 637: gather 8 sheep at 'N3' (2 ticks).
+Action 638: gather 8 sheep at 'N3' (2 ticks).
+Action 639: gather 8 sheep at 'N3' (2 ticks).
+Action 640: gather 8 sheep at 'N3' (2 ticks).
+Action 641: gather 8 sheep at 'N3' (2 ticks).
+Action 642: gather 8 sheep at 'N3' (2 ticks).
+Action 643: gather 8 sheep at 'N3' (2 ticks).
+Action 644: gather 8 sheep at 'N3' (2 ticks).
+Action 645: gather 8 sheep at 'N3' (2 ticks).
+Action 646: gather 8 sheep at 'N3' (2 ticks).
+Action 647: gather 8 sheep at 'N3' (2 ticks).
+Action 648: gather 8 sheep at 'N3' (2 ticks).
+Action 649: gather 8 sheep at 'N3' (2 ticks).
+Action 650: gather 8 sheep at 'N3' (2 ticks).
+Action 651: gather 8 sheep at 'N3' (2 ticks).
+Action 652: gather 8 sheep at 'N3' (2 ticks).
+Action 653: gather 8 sheep at 'N3' (2 ticks).
+Action 654: gather 8 sheep at 'N3' (2 ticks).
+Action 655: gather 8 sheep at 'N3' (2 ticks).
+Action 656: gather 8 sheep at 'N3' (2 ticks).
+Action 657: gather 8 sheep at 'N3' (2 ticks).
+Action 658: gather 8 sheep at 'N3' (2 ticks).
+Action 659: gather 8 sheep at 'N3' (2 ticks).
+Action 660: gather 8 sheep at 'N3' (2 ticks).
+Action 661: gather 8 sheep at 'N3' (2 ticks).
+Action 662: gather 8 sheep at 'N3' (2 ticks).
+Action 663: gather 8 sheep at 'N3' (2 ticks).
+Action 664: gather 8 sheep at 'N3' (2 ticks).
+Action 665: gather 8 sheep at 'N3' (2 ticks).
+Action 666: gather 8 sheep at 'N3' (2 ticks).
+Action 667: gather 8 sheep at 'N3' (2 ticks).
+Action 668: gather 8 sheep at 'N3' (2 ticks).
+Action 669: gather 8 sheep at 'N3' (2 ticks).
+Action 670: gather 8 sheep at 'N3' (2 ticks).
+Action 671: gather 8 sheep at 'N3' (2 ticks).
+Action 672: gather 8 sheep at 'N3' (2 ticks).
+Action 673: gather 8 sheep at 'N3' (2 ticks).
+Action 674: gather 8 sheep at 'N3' (2 ticks).
+Action 675: gather 8 sheep at 'N3' (2 ticks).
+Action 676: gather 8 sheep at 'N3' (2 ticks).
+Action 677: gather 8 sheep at 'N3' (2 ticks).
+Action 678: gather 8 sheep at 'N3' (2 ticks).
+Action 679: gather 8 sheep at 'N3' (2 ticks).
+Action 680: gather 8 sheep at 'N3' (2 ticks).
+Action 681: gather 8 sheep at 'N3' (2 ticks).
+Action 682: gather 8 sheep at 'N3' (2 ticks).
+Action 683: gather 8 sheep at 'N3' (2 ticks).
+Action 684: gather 8 sheep at 'N3' (2 ticks).
+Action 685: gather 8 sheep at 'N3' (2 ticks).
+Action 686: gather 8 sheep at 'N3' (2 ticks).
+Action 687: gather 8 sheep at 'N3' (2 ticks).
+Action 688: gather 8 sheep at 'N3' (2 ticks).
+Action 689: gather 8 sheep at 'N3' (2 ticks).
+Action 690: gather 8 sheep at 'N3' (2 ticks).
+Action 691: gather 8 sheep at 'N3' (2 ticks).
+Action 692: gather 8 sheep at 'N3' (2 ticks).
+Action 693: gather 8 sheep at 'N3' (2 ticks).
+Action 694: gather 8 sheep at 'N3' (2 ticks).
+Action 695: gather 8 sheep at 'N3' (2 ticks).
+Action 696: gather 8 sheep at 'N3' (2 ticks).
+Action 697: gather 8 sheep at 'N3' (2 ticks).
+Action 698: gather 8 sheep at 'N3' (2 ticks).
+Action 699: gather 8 sheep at 'N3' (2 ticks).
+Action 700: gather 8 sheep at 'N3' (2 ticks).
+Action 701: gather 8 sheep at 'N3' (2 ticks).
+Action 702: gather 8 sheep at 'N3' (2 ticks).
+Action 703: gather 8 sheep at 'N3' (2 ticks).
+Action 704: gather 8 sheep at 'N3' (2 ticks).
+Action 705: gather 8 sheep at 'N3' (2 ticks).
+Action 706: gather 8 sheep at 'N3' (2 ticks).
+Action 707: gather 8 sheep at 'N3' (2 ticks).
+Action 708: gather 8 sheep at 'N3' (2 ticks).
+Action 709: gather 8 sheep at 'N3' (2 ticks).
+Action 710: gather 8 sheep at 'N3' (2 ticks).
+Action 711: gather 8 sheep at 'N3' (2 ticks).
+Action 712: gather 8 sheep at 'N3' (2 ticks).
+Action 713: gather 8 sheep at 'N3' (2 ticks).
+Action 714: gather 8 sheep at 'N3' (2 ticks).
+Action 715: gather 8 sheep at 'N3' (2 ticks).
+Action 716: gather 8 sheep at 'N3' (2 ticks).
+Action 717: gather 8 sheep at 'N3' (2 ticks).
+Action 718: gather 8 sheep at 'N3' (2 ticks).
+Action 719: gather 8 sheep at 'N3' (2 ticks).
+Action 720: gather 8 sheep at 'N3' (2 ticks).
+Action 721: gather 8 sheep at 'N3' (2 ticks).
+Action 722: gather 8 sheep at 'N3' (2 ticks).
+Action 723: gather 8 sheep at 'N3' (2 ticks).
+Action 724: gather 8 sheep at 'N3' (2 ticks).
+Action 725: gather 8 sheep at 'N3' (2 ticks).
+Action 726: gather 8 sheep at 'N3' (2 ticks).
+Action 727: gather 8 sheep at 'N3' (2 ticks).
+Action 728: gather 8 sheep at 'N3' (2 ticks).
+Action 729: gather 8 sheep at 'N3' (2 ticks).
+Action 730: gather 8 sheep at 'N3' (2 ticks).
+Action 731: gather 8 sheep at 'N3' (2 ticks).
+Action 732: gather 8 sheep at 'N3' (2 ticks).
+Action 733: gather 8 sheep at 'N3' (2 ticks).
+Action 734: gather 8 sheep at 'N3' (2 ticks).
+Action 735: gather 8 sheep at 'N3' (2 ticks).
+Action 736: gather 8 sheep at 'N3' (2 ticks).
+Action 737: gather 8 sheep at 'N3' (2 ticks).
+Action 738: gather 8 sheep at 'N3' (2 ticks).
+Action 739: gather 8 sheep at 'N3' (2 ticks).
+Action 740: gather 8 sheep at 'N3' (2 ticks).
+Action 741: gather 8 sheep at 'N3' (2 ticks).
+Action 742: gather 8 sheep at 'N3' (2 ticks).
+Action 743: gather 8 sheep at 'N3' (2 ticks).
+Action 744: gather 8 sheep at 'N3' (2 ticks).
+Action 745: gather 8 sheep at 'N3' (2 ticks).
+Action 746: gather 8 sheep at 'N3' (2 ticks).
+Action 747: gather 8 sheep at 'N3' (2 ticks).
+Action 748: gather 8 sheep at 'N3' (2 ticks).
+Action 749: gather 8 sheep at 'N3' (2 ticks).
+Action 750: gather 8 sheep at 'N3' (2 ticks).
+Action 751: gather 8 sheep at 'N3' (2 ticks).
+Action 752: gather 8 sheep at 'N3' (2 ticks).
+Action 753: gather 8 sheep at 'N3' (2 ticks).
+Action 754: gather 8 sheep at 'N3' (2 ticks).
+Action 755: gather 8 sheep at 'N3' (2 ticks).
+Action 756: gather 8 sheep at 'N3' (2 ticks).
+Action 757: gather 8 sheep at 'N3' (2 ticks).
+Action 758: gather 8 sheep at 'N3' (2 ticks).
+Action 759: gather 8 sheep at 'N3' (2 ticks).
+Action 760: gather 8 sheep at 'N3' (2 ticks).
+Action 761: gather 8 sheep at 'N3' (2 ticks).
+Action 762: gather 8 sheep at 'N3' (2 ticks).
+Action 763: gather 8 sheep at 'N3' (2 ticks).
+Action 764: gather 8 sheep at 'N3' (2 ticks).
+Action 765: gather 8 sheep at 'N3' (2 ticks).
+Action 766: gather 8 sheep at 'N3' (2 ticks).
+Action 767: gather 8 sheep at 'N3' (2 ticks).
+Action 768: gather 8 sheep at 'N3' (2 ticks).
+Action 769: gather 8 sheep at 'N3' (2 ticks).
+Action 770: gather 8 sheep at 'N3' (2 ticks).
+Action 771: gather 8 sheep at 'N3' (2 ticks).
+Action 772: gather 8 sheep at 'N3' (2 ticks).
+Action 773: gather 8 sheep at 'N3' (2 ticks).
+Action 774: gather 8 sheep at 'N3' (2 ticks).
+Action 775: gather 8 sheep at 'N3' (2 ticks).
+Action 776: gather 8 sheep at 'N3' (2 ticks).
+Action 777: gather 8 sheep at 'N3' (2 ticks).
+Action 778: gather 8 sheep at 'N3' (2 ticks).
+Action 779: gather 8 sheep at 'N3' (2 ticks).
+Action 780: gather 8 sheep at 'N3' (2 ticks).
+Action 781: gather 8 sheep at 'N3' (2 ticks).
+Action 782: gather 8 sheep at 'N3' (2 ticks).
+Action 783: gather 8 sheep at 'N3' (2 ticks).
+Action 784: gather 8 sheep at 'N3' (2 ticks).
+Action 785: gather 8 sheep at 'N3' (2 ticks).
+Action 786: gather 8 sheep at 'N3' (2 ticks).
+Action 787: gather 8 sheep at 'N3' (2 ticks).
+Action 788: gather 8 sheep at 'N3' (2 ticks).
+Action 789: gather 8 sheep at 'N3' (2 ticks).
+Action 790: gather 8 sheep at 'N3' (2 ticks).
+Action 791: gather 8 sheep at 'N3' (2 ticks).
+Action 792: gather 8 sheep at 'N3' (2 ticks).
+Action 793: gather 8 sheep at 'N3' (2 ticks).
+Action 794: gather 8 sheep at 'N3' (2 ticks).
+Action 795: gather 8 sheep at 'N3' (2 ticks).
+Action 796: gather 8 sheep at 'N3' (2 ticks).
+Action 797: gather 8 sheep at 'N3' (2 ticks).
+Action 798: gather 8 sheep at 'N3' (2 ticks).
+Action 799: gather 8 sheep at 'N3' (2 ticks).
+Action 800: gather 8 sheep at 'N3' (2 ticks).
+Action 801: gather 8 sheep at 'N3' (2 ticks).
+Action 802: gather 8 sheep at 'N3' (2 ticks).
+Action 803: gather 8 sheep at 'N3' (2 ticks).
+Action 804: gather 8 sheep at 'N3' (2 ticks).
+Action 805: gather 8 sheep at 'N3' (2 ticks).
+Action 806: gather 8 sheep at 'N3' (2 ticks).
+Action 807: gather 8 sheep at 'N3' (2 ticks).
+Action 808: gather 8 sheep at 'N3' (2 ticks).
+Action 809: gather 8 sheep at 'N3' (2 ticks).
+Action 810: gather 8 sheep at 'N3' (2 ticks).
+Action 811: gather 8 sheep at 'N3' (2 ticks).
+Action 812: gather 8 sheep at 'N3' (2 ticks).
+Action 813: gather 8 sheep at 'N3' (2 ticks).
+Action 814: gather 8 sheep at 'N3' (2 ticks).
+Action 815: gather 8 sheep at 'N3' (2 ticks).
+Action 816: gather 8 sheep at 'N3' (2 ticks).
+Action 817: gather 8 sheep at 'N3' (2 ticks).
+Action 818: gather 8 sheep at 'N3' (2 ticks).
+Action 819: gather 8 sheep at 'N3' (2 ticks).
+Action 820: gather 8 sheep at 'N3' (2 ticks).
+Action 821: gather 8 sheep at 'N3' (2 ticks).
+Action 822: gather 8 sheep at 'N3' (2 ticks).
+Action 823: gather 8 sheep at 'N3' (2 ticks).
+Action 824: gather 8 sheep at 'N3' (2 ticks).
+Action 825: gather 8 sheep at 'N3' (2 ticks).
+Action 826: gather 8 sheep at 'N3' (2 ticks).
+Action 827: gather 8 sheep at 'N3' (2 ticks).
+Action 828: gather 8 sheep at 'N3' (2 ticks).
+Action 829: gather 8 sheep at 'N3' (2 ticks).
+Action 830: gather 8 sheep at 'N3' (2 ticks).
+Action 831: gather 8 sheep at 'N3' (2 ticks).
+Action 832: gather 8 sheep at 'N3' (2 ticks).
+Action 833: gather 8 sheep at 'N3' (2 ticks).
+Action 834: gather 8 sheep at 'N3' (2 ticks).
+Action 835: gather 8 sheep at 'N3' (2 ticks).
+Action 836: gather 8 sheep at 'N3' (2 ticks).
+Action 837: gather 8 sheep at 'N3' (2 ticks).
+Action 838: gather 8 sheep at 'N3' (2 ticks).
+Action 839: gather 8 sheep at 'N3' (2 ticks).
+Action 840: gather 8 sheep at 'N3' (2 ticks).
+Action 841: gather 8 sheep at 'N3' (2 ticks).
+Action 842: gather 8 sheep at 'N3' (2 ticks).
+Action 843: gather 8 sheep at 'N3' (2 ticks).
+Action 844: gather 8 sheep at 'N3' (2 ticks).
+Action 845: gather 8 sheep at 'N3' (2 ticks).
+Action 846: gather 8 sheep at 'N3' (2 ticks).
+Action 847: gather 8 sheep at 'N3' (2 ticks).
+Action 848: gather 8 sheep at 'N3' (2 ticks).
+Action 849: gather 8 sheep at 'N3' (2 ticks).
+Action 850: gather 8 sheep at 'N3' (2 ticks).
+Action 851: gather 8 sheep at 'N3' (2 ticks).
+Action 852: gather 8 sheep at 'N3' (2 ticks).
+Action 853: gather 8 sheep at 'N3' (2 ticks).
+Action 854: gather 8 sheep at 'N3' (2 ticks).
+Action 855: gather 8 sheep at 'N3' (2 ticks).
+Action 856: gather 8 sheep at 'N3' (2 ticks).
+Action 857: gather 8 sheep at 'N3' (2 ticks).
+Action 858: gather 8 sheep at 'N3' (2 ticks).
+Action 859: gather 8 sheep at 'N3' (2 ticks).
+Action 860: gather 8 sheep at 'N3' (2 ticks).
+Action 861: gather 8 sheep at 'N3' (2 ticks).
+Action 862: gather 8 sheep at 'N3' (2 ticks).
+Action 863: gather 8 sheep at 'N3' (2 ticks).
+Action 864: gather 8 sheep at 'N3' (2 ticks).
+Action 865: gather 8 sheep at 'N3' (2 ticks).
+Action 866: gather 8 sheep at 'N3' (2 ticks).
+Action 867: gather 8 sheep at 'N3' (2 ticks).
+Action 868: gather 8 sheep at 'N3' (2 ticks).
+Action 869: gather 8 sheep at 'N3' (2 ticks).
+Action 870: gather 8 sheep at 'N3' (2 ticks).
+Action 871: gather 8 sheep at 'N3' (2 ticks).
+Action 872: gather 8 sheep at 'N3' (2 ticks).
+Action 873: gather 8 sheep at 'N3' (2 ticks).
+Action 874: gather 8 sheep at 'N3' (2 ticks).
+Action 875: gather 8 sheep at 'N3' (2 ticks).
+Action 876: gather 8 sheep at 'N3' (2 ticks).
+Action 877: gather 8 sheep at 'N3' (2 ticks).
+Action 878: gather 8 sheep at 'N3' (2 ticks).
+Action 879: gather 8 sheep at 'N3' (2 ticks).
+Action 880: gather 8 sheep at 'N3' (2 ticks).
+Action 881: gather 8 sheep at 'N3' (2 ticks).
+Action 882: gather 8 sheep at 'N3' (2 ticks).
+Action 883: gather 8 sheep at 'N3' (2 ticks).
+Action 884: gather 8 sheep at 'N3' (2 ticks).
+Action 885: gather 8 sheep at 'N3' (2 ticks).
+Action 886: gather 8 sheep at 'N3' (2 ticks).
+Action 887: gather 8 sheep at 'N3' (2 ticks).
+Action 888: gather 8 sheep at 'N3' (2 ticks).
+Action 889: gather 8 sheep at 'N3' (2 ticks).
+Action 890: gather 8 sheep at 'N3' (2 ticks).
+Action 891: gather 8 sheep at 'N3' (2 ticks).
+Action 892: gather 8 sheep at 'N3' (2 ticks).
+Action 893: gather 8 sheep at 'N3' (2 ticks).
+Action 894: gather 8 sheep at 'N3' (2 ticks).
+Action 895: gather 8 sheep at 'N3' (2 ticks).
+Action 896: gather 8 sheep at 'N3' (2 ticks).
+Action 897: gather 8 sheep at 'N3' (2 ticks).
+Action 898: gather 8 sheep at 'N3' (2 ticks).
+Action 899: gather 8 sheep at 'N3' (2 ticks).
+Action 900: gather 8 sheep at 'N3' (2 ticks).
+Action 901: gather 8 sheep at 'N3' (2 ticks).
+Action 902: gather 8 sheep at 'N3' (2 ticks).
+Action 903: gather 8 sheep at 'N3' (2 ticks).
+Action 904: gather 8 sheep at 'N3' (2 ticks).
+Action 905: gather 8 sheep at 'N3' (2 ticks).
+Action 906: gather 8 sheep at 'N3' (2 ticks).
+Action 907: gather 8 sheep at 'N3' (2 ticks).
+Action 908: gather 8 sheep at 'N3' (2 ticks).
+Action 909: gather 8 sheep at 'N3' (2 ticks).
+Action 910: gather 8 sheep at 'N3' (2 ticks).
+Action 911: gather 8 sheep at 'N3' (2 ticks).
+Action 912: gather 8 sheep at 'N3' (2 ticks).
+Action 913: gather 8 sheep at 'N3' (2 ticks).
+Action 914: gather 8 sheep at 'N3' (2 ticks).
+Action 915: gather 8 sheep at 'N3' (2 ticks).
+Action 916: gather 8 sheep at 'N3' (2 ticks).
+Action 917: gather 8 sheep at 'N3' (2 ticks).
+Action 918: gather 8 sheep at 'N3' (2 ticks).
+Action 919: gather 8 sheep at 'N3' (2 ticks).
+Action 920: gather 8 sheep at 'N3' (2 ticks).
+Action 921: gather 8 sheep at 'N3' (2 ticks).
+Action 922: gather 8 sheep at 'N3' (2 ticks).
+Action 923: gather 8 sheep at 'N3' (2 ticks).
+Action 924: gather 8 sheep at 'N3' (2 ticks).
+Action 925: gather 8 sheep at 'N3' (2 ticks).
+Action 926: gather 8 sheep at 'N3' (2 ticks).
+Action 927: gather 8 sheep at 'N3' (2 ticks).
+Action 928: gather 8 sheep at 'N3' (2 ticks).
+Action 929: gather 8 sheep at 'N3' (2 ticks).
+Action 930: gather 8 sheep at 'N3' (2 ticks).
+Action 931: gather 8 sheep at 'N3' (2 ticks).
+Action 932: gather 8 sheep at 'N3' (2 ticks).
+Action 933: gather 8 sheep at 'N3' (2 ticks).
+Action 934: gather 8 sheep at 'N3' (2 ticks).
+Action 935: gather 8 sheep at 'N3' (2 ticks).
+Action 936: gather 8 sheep at 'N3' (2 ticks).
+Action 937: gather 8 sheep at 'N3' (2 ticks).
+Action 938: gather 8 sheep at 'N3' (2 ticks).
+Action 939: gather 8 sheep at 'N3' (2 ticks).
+Action 940: gather 8 sheep at 'N3' (2 ticks).
+Action 941: gather 8 sheep at 'N3' (2 ticks).
+Action 942: gather 8 sheep at 'N3' (2 ticks).
+Action 943: gather 8 sheep at 'N3' (2 ticks).
+Action 944: gather 8 sheep at 'N3' (2 ticks).
+Action 945: gather 8 sheep at 'N3' (2 ticks).
+Action 946: gather 8 sheep at 'N3' (2 ticks).
+Action 947: gather 8 sheep at 'N3' (2 ticks).
+Action 948: gather 8 sheep at 'N3' (2 ticks).
+Action 949: gather 8 sheep at 'N3' (2 ticks).
+Action 950: gather 8 sheep at 'N3' (2 ticks).
+Action 951: gather 8 sheep at 'N3' (2 ticks).
+Action 952: gather 8 sheep at 'N3' (2 ticks).
+Action 953: gather 8 sheep at 'N3' (2 ticks).
+Action 954: gather 8 sheep at 'N3' (2 ticks).
+Action 955: gather 8 sheep at 'N3' (2 ticks).
+Action 956: gather 8 sheep at 'N3' (2 ticks).
+Action 957: gather 8 sheep at 'N3' (2 ticks).
+Action 958: gather 8 sheep at 'N3' (2 ticks).
+Action 959: gather 8 sheep at 'N3' (2 ticks).
+Action 960: gather 8 sheep at 'N3' (2 ticks).
+Action 961: gather 8 sheep at 'N3' (2 ticks).
+Action 962: gather 8 sheep at 'N3' (2 ticks).
+Action 963: gather 8 sheep at 'N3' (2 ticks).
+Action 964: gather 8 sheep at 'N3' (2 ticks).
+Action 965: gather 8 sheep at 'N3' (2 ticks).
+Action 966: gather 8 sheep at 'N3' (2 ticks).
+Action 967: gather 8 sheep at 'N3' (2 ticks).
+Action 968: gather 8 sheep at 'N3' (2 ticks).
+Action 969: gather 8 sheep at 'N3' (2 ticks).
+Action 970: gather 8 sheep at 'N3' (2 ticks).
+Action 971: gather 8 sheep at 'N3' (2 ticks).
+Action 972: gather 8 sheep at 'N3' (2 ticks).
+Action 973: gather 8 sheep at 'N3' (2 ticks).
+Action 974: gather 8 sheep at 'N3' (2 ticks).
+Action 975: gather 8 sheep at 'N3' (2 ticks).
+Action 976: gather 8 sheep at 'N3' (2 ticks).
+Action 977: gather 8 sheep at 'N3' (2 ticks).
+Action 978: gather 8 sheep at 'N3' (2 ticks).
+Action 979: gather 8 sheep at 'N3' (2 ticks).
+Action 980: gather 8 sheep at 'N3' (2 ticks).
+Action 981: gather 8 sheep at 'N3' (2 ticks).
+Action 982: gather 8 sheep at 'N3' (2 ticks).
+Action 983: gather 8 sheep at 'N3' (2 ticks).
+Action 984: gather 8 sheep at 'N3' (2 ticks).
+Action 985: gather 8 sheep at 'N3' (2 ticks).
+Action 986: gather 8 sheep at 'N3' (2 ticks).
+Action 987: gather 8 sheep at 'N3' (2 ticks).
+Action 988: gather 8 sheep at 'N3' (2 ticks).
+Action 989: gather 8 sheep at 'N3' (2 ticks).
+Action 990: gather 8 sheep at 'N3' (2 ticks).
+Action 991: gather 8 sheep at 'N3' (2 ticks).
+Action 992: gather 8 sheep at 'N3' (2 ticks).
+Action 993: gather 8 sheep at 'N3' (2 ticks).
+Action 994: gather 8 sheep at 'N3' (2 ticks).
+Action 995: gather 8 sheep at 'N3' (2 ticks).
+Action 996: gather 8 sheep at 'N3' (2 ticks).
+Action 997: gather 8 sheep at 'N3' (2 ticks).
+Action 998: gather 8 sheep at 'N3' (2 ticks).
+Action 999: gather 8 sheep at 'N3' (2 ticks).
+Action 1000: gather 8 sheep at 'N3' (2 ticks).
+Action 1001: gather 8 sheep at 'N3' (2 ticks).
+Action 1002: gather 8 sheep at 'N3' (2 ticks).
+Action 1003: gather 8 sheep at 'N3' (2 ticks).
+Action 1004: gather 8 sheep at 'N3' (2 ticks).
+Action 1005: gather 8 sheep at 'N3' (2 ticks).
+Action 1006: gather 8 sheep at 'N3' (2 ticks).
+Action 1007: gather 8 sheep at 'N3' (2 ticks).
+Action 1008: gather 8 sheep at 'N3' (2 ticks).
+Action 1009: gather 8 sheep at 'N3' (2 ticks).
+Action 1010: gather 8 sheep at 'N3' (2 ticks).
+Action 1011: gather 8 sheep at 'N3' (2 ticks).
+Action 1012: gather 8 sheep at 'N3' (2 ticks).
+Action 1013: gather 8 sheep at 'N3' (2 ticks).
+Action 1014: gather 8 sheep at 'N3' (2 ticks).
+Action 1015: gather 8 sheep at 'N3' (2 ticks).
+Action 1016: gather 8 sheep at 'N3' (2 ticks).
+Action 1017: gather 8 sheep at 'N3' (2 ticks).
+Action 1018: gather 8 sheep at 'N3' (2 ticks).
+Action 1019: gather 8 sheep at 'N3' (2 ticks).
+Action 1020: gather 8 sheep at 'N3' (2 ticks).
+Action 1021: gather 8 sheep at 'N3' (2 ticks).
+Action 1022: gather 8 sheep at 'N3' (2 ticks).
+Action 1023: gather 8 sheep at 'N3' (2 ticks).
+Action 1024: gather 8 sheep at 'N3' (2 ticks).
+Action 1025: gather 8 sheep at 'N3' (2 ticks).
+Action 1026: gather 8 sheep at 'N3' (2 ticks).
+Action 1027: gather 8 sheep at 'N3' (2 ticks).
+Action 1028: gather 8 sheep at 'N3' (2 ticks).
+Action 1029: gather 8 sheep at 'N3' (2 ticks).
+Action 1030: gather 8 sheep at 'N3' (2 ticks).
+Action 1031: gather 8 sheep at 'N3' (2 ticks).
+Action 1032: gather 8 sheep at 'N3' (2 ticks).
+Action 1033: gather 8 sheep at 'N3' (2 ticks).
+Action 1034: gather 8 sheep at 'N3' (2 ticks).
+Action 1035: Travel to 'Targon' (standard, 4 ticks, Toll 0).
+Action 1036: Sell 8192 sheep for 40960 Enteloot.
+Action 1037: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1038: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 1039: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 1040: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 1041: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1042: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1043: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1044: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1045: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1046: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1047: Buy 2000 stone for 10000 Enteloot.
+Action 1048: Travel to 'Ixtal' (standard, 6 ticks, Toll 0).
+Action 1049: Buy 3000 clay for 18000 Enteloot.
+Action 1050: Travel to 'Evermoor' (standard, 6 ticks, Toll 0).
+Action 1051: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1052: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1053: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1054: craft 1000x roof-tiles (recipe).
+Action 1055: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1056: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1057: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1058: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 1059: Sell 1000 roof-tiles for 68000 Enteloot.
+Action 1060: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 1061: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 1062: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1063: Buy 2000 sheep for 16000 Enteloot.
+Action 1064: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1065: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 1066: Travel to 'Aurora' (standard, 5 ticks, Toll 0).
+Action 1067: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 1068: Buy 6000 wood for 30000 Enteloot.
+Action 1069: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 1070: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 1071: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 1072: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1073: craft 2000x furniture (recipe).
+Action 1074: Travel to 'N19' (standard, 5 ticks, Toll 0).
+Action 1075: Travel to 'N18' (standard, 6 ticks, Toll 0).
+Action 1076: Travel to 'Freljord' (standard, 1 ticks, Toll 0).
+Action 1077: Sell 2000 furniture for 130000 Enteloot.
+Action 1078: Travel to 'N18' (standard, 1 ticks, Toll 0).
+Action 1079: Travel to 'N19' (standard, 6 ticks, Toll 0).
+Action 1080: Travel to 'Targon' (standard, 5 ticks, Toll 0).
+Action 1081: Buy 2000 sheep for 16000 Enteloot.
+Action 1082: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1083: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 1084: Travel to 'Aurora' (standard, 5 ticks, Toll 0).
+Action 1085: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 1086: Buy 6000 wood for 30000 Enteloot.
+Action 1087: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 1088: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 1089: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 1090: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1091: craft 2000x furniture (recipe).
+Action 1092: Travel to 'N19' (standard, 5 ticks, Toll 0).
+Action 1093: Travel to 'N18' (standard, 6 ticks, Toll 0).
+Action 1094: Travel to 'Freljord' (standard, 1 ticks, Toll 0).
+Action 1095: Sell 2000 furniture for 130000 Enteloot.
+Action 1096: Travel to 'N18' (standard, 1 ticks, Toll 0).
+Action 1097: Travel to 'N19' (standard, 6 ticks, Toll 0).
+Action 1098: Travel to 'Targon' (standard, 5 ticks, Toll 0).
+Action 1099: Buy 2000 sheep for 16000 Enteloot.
+Action 1100: Travel to 'N20' (standard, 1 ticks, Toll 0).
+Action 1101: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 1102: Travel to 'Aurora' (standard, 5 ticks, Toll 0).
+Action 1103: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 1104: Buy 6000 wood for 30000 Enteloot.
+Action 1105: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 1106: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 1107: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 1108: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 1109: craft 2000x furniture (recipe).
+Action 1110: Travel to 'N19' (standard, 5 ticks, Toll 0).
+Action 1111: Travel to 'N18' (standard, 6 ticks, Toll 0).
+Action 1112: Travel to 'Freljord' (standard, 1 ticks, Toll 0).
+Action 1113: Sell 2000 furniture for 130000 Enteloot.
+Action 1114: Travel to 'Aurora' (standard, 2 ticks, Toll 0).
+Action 1115: Buy 1425 clay for 8550 Enteloot.
+Action 1116: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 1117: Buy 1028 wood for 5140 Enteloot.
+Action 1118: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 1119: Travel to 'N11' (fast, 4 ticks, Toll 50).
+Action 1120: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 1121: gather 6 ore at 'N2' (3 ticks).
+Action 1122: gather 6 ore at 'N2' (3 ticks).
+Action 1123: gather 6 ore at 'N2' (3 ticks).
+Action 1124: gather 6 ore at 'N2' (3 ticks).
+Action 1125: gather 6 ore at 'N2' (3 ticks).
+Action 1126: gather 6 ore at 'N2' (3 ticks).
+Action 1127: gather 6 ore at 'N2' (3 ticks).
+Action 1128: gather 6 ore at 'N2' (3 ticks).
+Action 1129: gather 6 ore at 'N2' (3 ticks).
+Action 1130: gather 6 ore at 'N2' (3 ticks).
+Action 1131: gather 6 ore at 'N2' (3 ticks).
+Action 1132: gather 6 ore at 'N2' (3 ticks).
+Action 1133: Travel to 'N11' (standard, 2 ticks, Toll 0).
+Action 1134: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 1135: Travel to 'Zaun' (standard, 1 ticks, Toll 0).
+Action 1136: Buy 120 wheat for 480 Enteloot.
+Action 1137: Buy 885 stone for 4425 Enteloot.
+Action 1138: Travel to 'N4' (standard, 4 ticks, Toll 0).
+Action 1139: Travel to 'Targon' (standard, 6 ticks, Toll 0).
+Action 1140: Buy 394 sheep for 3152 Enteloot.
+Action 1141: craft 197x rope (component).
+Action 1142: craft 60x thatch (component).
+Action 1143: craft 347x planks (component).
+Action 1144: craft 435x mortar (component).
+Action 1145: craft 150x stone-blocks (component).
+Action 1146: craft 60x kiln-glass (component).
+Action 1147: craft 34x iron-fittings (component).
+Action 1148: craft 90x fencing (component).
+Action 1149: craft 435x bricks (component).
+Action 1150: craft 30x nets (component).
+Action 1151: craft 1x boots (tool).
+Action 1152: craft 1x pickaxe (tool).
+Action 1153: Build 'farmhouse' in 'Targon'.
+Action 1154: Build 'pier' in 'Targon'.
+Action 1155: Build 'rec-center' in 'Targon'.
+Action 1156: Build 'fire-station' in 'Targon'.
+Action 1157: Build 'school' in 'Targon'.
+Action 1158: Build 'police-station' in 'Targon'.
+Action 1159: Build 'library' in 'Targon'.
+Action 1160: Build 'fertilised-fields' in 'Targon'.
+Action 1161: Build 'woodlands' in 'Targon'.
+Action 1162: Build 'quarry' in 'Targon'.
+Action 1163: Build 'pottery-house' in 'Targon'.
+Action 1164: Travel to 'N4' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1165: Travel to 'Zaun' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1166: Build 'fertilised-fields' in 'Zaun'.
+Action 1167: Build 'quarry' in 'Zaun'.
+Action 1168: Build 'rec-center' in 'Zaun'.
+Action 1169: Build 'fire-station' in 'Zaun'.
+Action 1170: Build 'school' in 'Zaun'.
+Action 1171: Build 'police-station' in 'Zaun'.
+Action 1172: Build 'library' in 'Zaun'.
+Action 1173: Build 'farmhouse' in 'Zaun'.
+Action 1174: Build 'woodlands' in 'Zaun'.
+Action 1175: Build 'pier' in 'Zaun'.
+Action 1176: Build 'pottery-house' in 'Zaun'.
+Action 1177: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 1178: Travel to 'N11' (standard, 1 ticks, Toll 0).
+Action 1179: Travel to 'Highgarden' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 1180: Build 'pier' in 'Highgarden'.
+Action 1181: Build 'quarry' in 'Highgarden'.
+Action 1182: Build 'rec-center' in 'Highgarden'.
+Action 1183: Build 'fire-station' in 'Highgarden'.
+Action 1184: Build 'school' in 'Highgarden'.
+Action 1185: Build 'police-station' in 'Highgarden'.
+Action 1186: Build 'library' in 'Highgarden'.
+Action 1187: Build 'farmhouse' in 'Highgarden'.
+Action 1188: Build 'fertilised-fields' in 'Highgarden'.
+Action 1189: Build 'woodlands' in 'Highgarden'.
+Action 1190: Build 'pottery-house' in 'Highgarden'.
+Action 1191: Travel to 'N11' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 1192: Travel to 'Aurora' (fast, 3 ticks, Toll 50, boots reduced ticks from 4 to 3).
+Action 1193: Build 'quarry' in 'Aurora'.
+Action 1194: Build 'pottery-house' in 'Aurora'.
+Action 1195: Build 'rec-center' in 'Aurora'.
+Action 1196: Build 'fire-station' in 'Aurora'.
+Action 1197: Build 'school' in 'Aurora'.
+Action 1198: Build 'police-station' in 'Aurora'.
+Action 1199: Build 'library' in 'Aurora'.
+Action 1200: Build 'farmhouse' in 'Aurora'.
+Action 1201: Build 'fertilised-fields' in 'Aurora'.
+Action 1202: Build 'woodlands' in 'Aurora'.
+Action 1203: Build 'pier' in 'Aurora'.
+Action 1204: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 1205: Build 'woodlands' in 'Piltover'.
+Action 1206: Build 'farmhouse' in 'Piltover'.
+Action 1207: Build 'rec-center' in 'Piltover'.
+Action 1208: Build 'fire-station' in 'Piltover'.
+Action 1209: Build 'school' in 'Piltover'.
+Action 1210: Build 'police-station' in 'Piltover'.
+Action 1211: Build 'library' in 'Piltover'.
+Action 1212: Build 'fertilised-fields' in 'Piltover'.
+Action 1213: Build 'pier' in 'Piltover'.
+Action 1214: Build 'quarry' in 'Piltover'.
+Action 1215: Build 'pottery-house' in 'Piltover'.
+Action 1216: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 1217: Travel to 'Freljord' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1218: Build 'woodlands' in 'Freljord'.
+Action 1219: Build 'pier' in 'Freljord'.
+Action 1220: Build 'rec-center' in 'Freljord'.
+Action 1221: Build 'fire-station' in 'Freljord'.
+Action 1222: Build 'school' in 'Freljord'.
+Action 1223: Build 'police-station' in 'Freljord'.
+Action 1224: Build 'library' in 'Freljord'.
+Action 1225: Build 'farmhouse' in 'Freljord'.
+Action 1226: Build 'fertilised-fields' in 'Freljord'.
+Action 1227: Build 'quarry' in 'Freljord'.
+Action 1228: Build 'pottery-house' in 'Freljord'.
+Action 1229: Travel to 'N18' (standard, 1 ticks, Toll 0).
+Action 1230: Travel to 'N6' (fast, 1 ticks, Toll 75).
+Action 1231: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1232: Build 'fertilised-fields' in 'Ixtal'.
+Action 1233: Build 'pottery-house' in 'Ixtal'.
+Action 1234: Build 'rec-center' in 'Ixtal'.
+Action 1235: Build 'fire-station' in 'Ixtal'.
+Action 1236: Build 'school' in 'Ixtal'.
+Action 1237: Build 'police-station' in 'Ixtal'.
+Action 1238: Build 'library' in 'Ixtal'.
+Action 1239: Build 'farmhouse' in 'Ixtal'.
+Action 1240: Build 'woodlands' in 'Ixtal'.
+Action 1241: Build 'pier' in 'Ixtal'.
+Action 1242: Build 'quarry' in 'Ixtal'.
+Action 1243: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1244: Build 'woodlands' in 'Evermoor'.
+Action 1245: Build 'quarry' in 'Evermoor'.
+Action 1246: Build 'rec-center' in 'Evermoor'.
+Action 1247: Build 'fire-station' in 'Evermoor'.
+Action 1248: Build 'school' in 'Evermoor'.
+Action 1249: Build 'police-station' in 'Evermoor'.
+Action 1250: Build 'library' in 'Evermoor'.
+Action 1251: Build 'farmhouse' in 'Evermoor'.
+Action 1252: Build 'fertilised-fields' in 'Evermoor'.
+Action 1253: Build 'pier' in 'Evermoor'.
+Action 1254: Build 'pottery-house' in 'Evermoor'.
+Action 1255: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1256: Build 'fertilised-fields' in 'Borealis'.
+Action 1257: Build 'farmhouse' in 'Borealis'.
+Action 1258: Build 'rec-center' in 'Borealis'.
+Action 1259: Build 'fire-station' in 'Borealis'.
+Action 1260: Build 'school' in 'Borealis'.
+Action 1261: Build 'police-station' in 'Borealis'.
+Action 1262: Build 'library' in 'Borealis'.
+Action 1263: Build 'woodlands' in 'Borealis'.
+Action 1264: Build 'pier' in 'Borealis'.
+Action 1265: Build 'quarry' in 'Borealis'.
+Action 1266: Build 'pottery-house' in 'Borealis'.
+Action 1267: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1268: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1269: Build 'pier' in 'Demacia'.
+Action 1270: Build 'farmhouse' in 'Demacia'.
+Action 1271: Build 'rec-center' in 'Demacia'.
+Action 1272: Build 'fire-station' in 'Demacia'.
+Action 1273: Build 'school' in 'Demacia'.
+Action 1274: Build 'police-station' in 'Demacia'.
+Action 1275: Build 'library' in 'Demacia'.
+Action 1276: Build 'fertilised-fields' in 'Demacia'.
+Action 1277: Build 'woodlands' in 'Demacia'.
+Action 1278: Build 'quarry' in 'Demacia'.
+Action 1279: Build 'pottery-house' in 'Demacia'.
+Action 1280: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1281: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1282: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1283: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1284: Build 'woodlands' in 'Bilgewater'.
+Action 1285: Build 'farmhouse' in 'Bilgewater'.
+Action 1286: Build 'rec-center' in 'Bilgewater'.
+Action 1287: Build 'fire-station' in 'Bilgewater'.
+Action 1288: Build 'school' in 'Bilgewater'.
+Action 1289: Build 'police-station' in 'Bilgewater'.
+Action 1290: Build 'library' in 'Bilgewater'.
+Action 1291: Build 'fertilised-fields' in 'Bilgewater'.
+Action 1292: Build 'pier' in 'Bilgewater'.
+Action 1293: Build 'quarry' in 'Bilgewater'.
+Action 1294: Build 'pottery-house' in 'Bilgewater'.
+Action 1295: Travel to 'N17' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1296: Travel to 'Bandle' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 1297: Build 'quarry' in 'Bandle'.
+Action 1298: Build 'farmhouse' in 'Bandle'.
+Action 1299: Build 'rec-center' in 'Bandle'.
+Action 1300: Build 'fire-station' in 'Bandle'.
+Action 1301: Build 'school' in 'Bandle'.
+Action 1302: Build 'police-station' in 'Bandle'.
+Action 1303: Build 'library' in 'Bandle'.
+Action 1304: Build 'fertilised-fields' in 'Bandle'.
+Action 1305: Build 'woodlands' in 'Bandle'.
+Action 1306: Build 'pier' in 'Bandle'.
+Action 1307: Build 'pottery-house' in 'Bandle'.
+Action 1308: Travel to 'Ionia' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1309: Build 'woodlands' in 'Ionia'.
+Action 1310: Build 'quarry' in 'Ionia'.
+Action 1311: Build 'rec-center' in 'Ionia'.
+Action 1312: Build 'fire-station' in 'Ionia'.
+Action 1313: Build 'school' in 'Ionia'.
+Action 1314: Build 'police-station' in 'Ionia'.
+Action 1315: Build 'library' in 'Ionia'.
+Action 1316: Build 'farmhouse' in 'Ionia'.
+Action 1317: Build 'fertilised-fields' in 'Ionia'.
+Action 1318: Build 'pier' in 'Ionia'.
+Action 1319: Build 'pottery-house' in 'Ionia'.
+Action 1320: Travel to 'Bandle' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1321: Travel to 'N17' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 1322: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1323: Travel to 'N7' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1324: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 1325: Build 'woodlands' in 'Noxus'.
+Action 1326: Build 'farmhouse' in 'Noxus'.
+Action 1327: Build 'rec-center' in 'Noxus'.
+Action 1328: Build 'fire-station' in 'Noxus'.
+Action 1329: Build 'school' in 'Noxus'.
+Action 1330: Build 'police-station' in 'Noxus'.
+Action 1331: Build 'library' in 'Noxus'.
+Action 1332: Build 'fertilised-fields' in 'Noxus'.
+Action 1333: Build 'pier' in 'Noxus'.
+Action 1334: Build 'quarry' in 'Noxus'.
+Action 1335: Build 'pottery-house' in 'Noxus'.
+Action 1336: Travel to 'N7' (standard, 1 ticks, Toll 0).
+Action 1337: Travel to 'N10' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 1338: Travel to 'Shurima' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 1339: Build 'fertilised-fields' in 'Shurima'.
+Action 1340: Build 'farmhouse' in 'Shurima'.
+Action 1341: Build 'rec-center' in 'Shurima'.
+Action 1342: Build 'fire-station' in 'Shurima'.
+Action 1343: Build 'school' in 'Shurima'.
+Action 1344: Build 'police-station' in 'Shurima'.
+Action 1345: Build 'library' in 'Shurima'.
+Action 1346: Build 'woodlands' in 'Shurima'.
+Action 1347: Build 'pier' in 'Shurima'.
+Action 1348: Build 'quarry' in 'Shurima'.
+Action 1349: Build 'pottery-house' in 'Shurima'.
+Action 1350: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 1351: Travel to 'N6' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 1352: Travel to 'N18' (fast, 1 ticks, Toll 75).
+Action 1353: Travel to 'Freljord' (standard, 1 ticks, Toll 0).
+Action 1354: Travel to 'N18' (standard, 1 ticks, Toll 0).
+Action 1355: Travel to 'N6' (fast, 1 ticks, Toll 75).
+Action 1356: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1357: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1358: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1359: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1360: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1361: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1362: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1363: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1364: Buy 4000 stone for 20000 Enteloot.
+Action 1365: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1366: Buy 6000 clay for 36000 Enteloot.
+Action 1367: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1368: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1369: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1370: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1371: craft 2000x roof-tiles (recipe).
+Action 1372: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1373: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1374: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1375: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1376: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1377: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1378: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1379: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1380: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1381: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1382: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1383: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1384: Buy 4000 stone for 20000 Enteloot.
+Action 1385: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1386: Buy 6000 clay for 36000 Enteloot.
+Action 1387: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1388: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1389: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1390: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1391: craft 2000x roof-tiles (recipe).
+Action 1392: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1393: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1394: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1395: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1396: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1397: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1398: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1399: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1400: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1401: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1402: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1403: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1404: Buy 4000 stone for 20000 Enteloot.
+Action 1405: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1406: Buy 6000 clay for 36000 Enteloot.
+Action 1407: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1408: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1409: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1410: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1411: craft 2000x roof-tiles (recipe).
+Action 1412: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1413: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1414: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1415: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1416: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1417: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1418: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1419: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1420: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1421: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1422: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1423: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1424: Buy 4000 stone for 20000 Enteloot.
+Action 1425: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1426: Buy 6000 clay for 36000 Enteloot.
+Action 1427: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1428: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1429: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1430: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1431: craft 2000x roof-tiles (recipe).
+Action 1432: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1433: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1434: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1435: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1436: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1437: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1438: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1439: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1440: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1441: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1442: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1443: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1444: Buy 4000 stone for 20000 Enteloot.
+Action 1445: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1446: Buy 6000 clay for 36000 Enteloot.
+Action 1447: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1448: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1449: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1450: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1451: craft 2000x roof-tiles (recipe).
+Action 1452: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1453: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1454: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1455: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1456: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1457: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1458: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1459: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1460: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1461: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1462: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1463: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1464: Buy 4000 stone for 20000 Enteloot.
+Action 1465: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1466: Buy 6000 clay for 36000 Enteloot.
+Action 1467: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1468: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1469: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1470: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1471: craft 2000x roof-tiles (recipe).
+Action 1472: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1473: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1474: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1475: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1476: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1477: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1478: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1479: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1480: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1481: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1482: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1483: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1484: Buy 4000 stone for 20000 Enteloot.
+Action 1485: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1486: Buy 6000 clay for 36000 Enteloot.
+Action 1487: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1488: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1489: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1490: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1491: craft 2000x roof-tiles (recipe).
+Action 1492: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1493: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1494: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1495: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1496: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1497: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1498: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1499: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1500: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1501: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1502: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1503: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1504: Buy 4000 stone for 20000 Enteloot.
+Action 1505: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1506: Buy 6000 clay for 36000 Enteloot.
+Action 1507: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1508: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1509: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1510: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1511: craft 2000x roof-tiles (recipe).
+Action 1512: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1513: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1514: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1515: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1516: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1517: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1518: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1519: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1520: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1521: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1522: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1523: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1524: Buy 4000 stone for 20000 Enteloot.
+Action 1525: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1526: Buy 6000 clay for 36000 Enteloot.
+Action 1527: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1528: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1529: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1530: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1531: craft 2000x roof-tiles (recipe).
+Action 1532: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1533: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1534: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1535: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1536: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1537: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1538: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1539: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1540: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1541: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1542: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1543: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1544: Buy 4000 stone for 20000 Enteloot.
+Action 1545: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1546: Buy 6000 clay for 36000 Enteloot.
+Action 1547: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1548: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1549: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1550: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1551: craft 2000x roof-tiles (recipe).
+Action 1552: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1553: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1554: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1555: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1556: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1557: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1558: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1559: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1560: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1561: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1562: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1563: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1564: Buy 4000 stone for 20000 Enteloot.
+Action 1565: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1566: Buy 6000 clay for 36000 Enteloot.
+Action 1567: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1568: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1569: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1570: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1571: craft 2000x roof-tiles (recipe).
+Action 1572: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1573: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1574: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1575: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1576: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1577: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1578: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1579: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1580: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1581: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1582: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1583: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1584: Buy 4000 stone for 20000 Enteloot.
+Action 1585: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1586: Buy 6000 clay for 36000 Enteloot.
+Action 1587: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1588: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1589: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1590: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1591: craft 2000x roof-tiles (recipe).
+Action 1592: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1593: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1594: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1595: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1596: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1597: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1598: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1599: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1600: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1601: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1602: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1603: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1604: Buy 4000 stone for 20000 Enteloot.
+Action 1605: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1606: Buy 6000 clay for 36000 Enteloot.
+Action 1607: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1608: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1609: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1610: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1611: craft 2000x roof-tiles (recipe).
+Action 1612: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1613: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1614: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1615: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1616: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1617: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1618: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1619: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1620: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1621: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1622: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1623: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1624: Buy 4000 stone for 20000 Enteloot.
+Action 1625: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1626: Buy 6000 clay for 36000 Enteloot.
+Action 1627: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1628: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1629: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1630: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1631: craft 2000x roof-tiles (recipe).
+Action 1632: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1633: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1634: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1635: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1636: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1637: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1638: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1639: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1640: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1641: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1642: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1643: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1644: Buy 4000 stone for 20000 Enteloot.
+Action 1645: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1646: Buy 6000 clay for 36000 Enteloot.
+Action 1647: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1648: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1649: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1650: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1651: craft 2000x roof-tiles (recipe).
+Action 1652: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1653: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1654: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1655: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1656: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1657: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1658: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1659: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1660: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1661: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1662: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1663: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1664: Buy 4000 stone for 20000 Enteloot.
+Action 1665: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1666: Buy 6000 clay for 36000 Enteloot.
+Action 1667: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1668: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1669: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1670: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1671: craft 2000x roof-tiles (recipe).
+Action 1672: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1673: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1674: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1675: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1676: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1677: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1678: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1679: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1680: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1681: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1682: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1683: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1684: Buy 4000 stone for 20000 Enteloot.
+Action 1685: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1686: Buy 6000 clay for 36000 Enteloot.
+Action 1687: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1688: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1689: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1690: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1691: craft 2000x roof-tiles (recipe).
+Action 1692: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1693: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1694: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1695: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1696: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1697: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1698: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1699: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1700: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1701: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1702: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1703: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1704: Buy 4000 stone for 20000 Enteloot.
+Action 1705: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1706: Buy 6000 clay for 36000 Enteloot.
+Action 1707: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1708: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1709: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1710: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1711: craft 2000x roof-tiles (recipe).
+Action 1712: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1713: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1714: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1715: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1716: Sell 2000 roof-tiles for 136000 Enteloot.
+Action 1717: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 1718: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1719: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1720: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1721: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1722: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1723: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1724: Buy 4000 stone for 20000 Enteloot.
+Action 1725: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1726: Buy 6000 clay for 36000 Enteloot.
+Action 1727: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1728: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 1729: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 1730: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 1731: Sell 63722 clay for 254888 Enteloot.
+Action 1732: Sell 84851 fish for 339404 Enteloot.
+Action 1733: Sell 32138 sheep for 160690 Enteloot.
+Action 1734: Sell 93013 stone for 279039 Enteloot.
+Action 1735: Sell 76168 wheat for 152336 Enteloot.
+Action 1736: Sell 99573 wood for 298719 Enteloot.
+Action 1737: Sell 11 clay for 44 Enteloot.
+Action 1738: Sell 21 fish for 84 Enteloot.
+Action 1739: Sell 11 sheep for 55 Enteloot.
+Action 1740 {'type': 'sell', 'item': 'stone', 'quantity': 25}: INVALID - Cannot sell 25 'stone': only 24 available in inventory..
+Action 1741: Sell 19 wheat for 38 Enteloot.
+Action 1742: Sell 29 wood for 87 Enteloot.
+Action 1743: Sell 12 clay for 48 Enteloot.
+Action 1744: Sell 10 fish for 40 Enteloot.
+Action 1745: Sell 10 stone for 30 Enteloot.
+Action 1746: Sell 12 wheat for 24 Enteloot.
+Action 1747: Sell 12 wood for 36 Enteloot.
+Action 1748: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 1749: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 1750: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 1751: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 1752: Buy 281279 clay for 1687674 Enteloot.
+Action 1753: Sell 281279 clay for 1125116 Enteloot.
+Action 1754: Buy 229711 clay for 1378266 Enteloot.
+Action 1755: Sell 229711 clay for 918844 Enteloot.
+Action 1756: Buy 187597 clay for 1125582 Enteloot.
+Action 1757: Sell 187597 clay for 750388 Enteloot.
+Action 1758: Buy 153205 clay for 919230 Enteloot.
+Action 1759: Sell 153205 clay for 612820 Enteloot.
+Action 1760: Buy 125117 clay for 750702 Enteloot.
+Action 1761: Sell 125117 clay for 500468 Enteloot.
+Action 1762: Buy 102179 clay for 613074 Enteloot.
+Action 1763: Sell 102179 clay for 408716 Enteloot.
+Action 1764: Buy 83446 clay for 500676 Enteloot.
+Action 1765: Sell 83446 clay for 333784 Enteloot.
+Action 1766: Buy 68148 clay for 408888 Enteloot.
+Action 1767: Sell 68148 clay for 272592 Enteloot.
+Action 1768: Buy 55654 clay for 333924 Enteloot.
+Action 1769: Sell 55654 clay for 222616 Enteloot.
+Action 1770: Buy 45451 clay for 272706 Enteloot.
+Action 1771: Sell 45451 clay for 181804 Enteloot.
+Action 1772: Buy 37118 clay for 222708 Enteloot.
+Action 1773: Sell 37118 clay for 148472 Enteloot.
+Action 1774: Buy 30313 clay for 181878 Enteloot.
+Action 1775: Sell 30313 clay for 121252 Enteloot.
+Action 1776: Buy 24756 clay for 148536 Enteloot.
+Action 1777: Sell 24756 clay for 99024 Enteloot.
+Action 1778: Buy 20217 clay for 121302 Enteloot.
+Action 1779: Sell 20217 clay for 80868 Enteloot.
+Action 1780: Buy 16511 clay for 99066 Enteloot.
+Action 1781: Sell 16511 clay for 66044 Enteloot.
+Action 1782: Buy 13483 clay for 80898 Enteloot.
+Action 1783: Sell 13483 clay for 53932 Enteloot.
+Action 1784: Buy 11012 clay for 66072 Enteloot.
+Action 1785: Sell 11012 clay for 44048 Enteloot.
+Action 1786: Buy 8993 clay for 53958 Enteloot.
+Action 1787: Sell 8993 clay for 35972 Enteloot.
+Action 1788: Buy 7344 clay for 44064 Enteloot.
+Action 1789: Sell 7344 clay for 29376 Enteloot.
+Action 1790: Buy 5998 clay for 35988 Enteloot.
+Action 1791: Sell 5998 clay for 23992 Enteloot.
+Action 1792: Buy 4898 clay for 29388 Enteloot.
+Action 1793: Sell 4898 clay for 19592 Enteloot.
+Action 1794: Buy 4000 clay for 24000 Enteloot.
+Action 1795: Sell 4000 clay for 16000 Enteloot.
+Action 1796: Buy 3267 clay for 19602 Enteloot.
+Action 1797: Sell 3267 clay for 13068 Enteloot.
+Action 1798: Buy 2668 clay for 16008 Enteloot.
+Action 1799: Sell 2668 clay for 10672 Enteloot.
+Action 1800: Buy 2179 clay for 13074 Enteloot.
+Action 1801: Sell 2179 clay for 8716 Enteloot.
+Action 1802: Buy 1779 clay for 10674 Enteloot.
+Action 1803: Sell 1779 clay for 7116 Enteloot.
+Action 1804: Buy 1453 clay for 8718 Enteloot.
+Action 1805: Sell 1453 clay for 5812 Enteloot.
+Action 1806: Buy 1187 clay for 7122 Enteloot.
+Action 1807: Sell 1187 clay for 4748 Enteloot.
+Action 1808: Buy 969 clay for 5814 Enteloot.
+Action 1809: Sell 969 clay for 3876 Enteloot.
+Action 1810: Buy 791 clay for 4746 Enteloot.
+Action 1811: Sell 791 clay for 3164 Enteloot.
+Action 1812: Buy 646 clay for 3876 Enteloot.
+Action 1813: Sell 646 clay for 2584 Enteloot.
+Action 1814: Buy 528 clay for 3168 Enteloot.
+Action 1815: Sell 528 clay for 2112 Enteloot.
+Action 1816: Buy 431 clay for 2586 Enteloot.
+Action 1817: Sell 431 clay for 1724 Enteloot.
+Action 1818: Buy 352 clay for 2112 Enteloot.
+Action 1819: Sell 352 clay for 1408 Enteloot.
+Action 1820: Buy 288 clay for 1728 Enteloot.
+Action 1821: Sell 288 clay for 1152 Enteloot.
+Action 1822: Buy 235 clay for 1410 Enteloot.
+Action 1823: Sell 235 clay for 940 Enteloot.
+Action 1824: Buy 192 clay for 1152 Enteloot.
+Action 1825: Sell 192 clay for 768 Enteloot.
+Action 1826: Buy 156 clay for 936 Enteloot.
+Action 1827: Sell 156 clay for 624 Enteloot.
+Action 1828: Buy 128 clay for 768 Enteloot.
+Action 1829: Sell 128 clay for 512 Enteloot.
+Action 1830: Buy 104 clay for 624 Enteloot.
+Action 1831: Sell 104 clay for 416 Enteloot.
+===================================
+Level 3 Scoring
+===================================
+Your Enteloot: 1100
+Held items value: 3243
+Total sale revenue: 10567795
+===================================
+Final score: 33452070.0

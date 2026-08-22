@@ -5,6 +5,21 @@
    "destination": "Shurima"
   },
   {
+   "type": "buy",
+   "item": "stone",
+   "quantity": 15
+  },
+  {
+   "type": "craft",
+   "item": "stone-works",
+   "quantity": 3
+  },
+  {
+   "type": "sell",
+   "item": "stone-works",
+   "quantity": 3
+  },
+  {
    "type": "travel",
    "destination": "N2"
   },
@@ -1009,37 +1024,27 @@
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 798
+   "quantity": 800
   },
   {
    "type": "sell",
    "item": "fish",
-   "quantity": 5957
+   "quantity": 5970
   },
   {
    "type": "sell",
    "item": "sheep",
-   "quantity": 3214
+   "quantity": 3222
   },
   {
    "type": "sell",
    "item": "stone",
-   "quantity": 2811
+   "quantity": 2814
   },
   {
    "type": "sell",
    "item": "wheat",
-   "quantity": 2289
-  },
-  {
-   "type": "sell",
-   "item": "fish",
-   "quantity": 18
-  },
-  {
-   "type": "sell",
-   "item": "sheep",
-   "quantity": 13
+   "quantity": 2293
   },
   {
    "type": "sell",
@@ -1049,7 +1054,7 @@
   {
    "type": "sell",
    "item": "wheat",
-   "quantity": 9
+   "quantity": 8
   },
   {
    "type": "travel",
@@ -1070,112 +1075,112 @@
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 21042
+   "quantity": 21048
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 21042
+   "quantity": 21048
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 17184
+   "quantity": 17190
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 17184
+   "quantity": 17190
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 14034
+   "quantity": 14038
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 14034
+   "quantity": 14038
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 11461
+   "quantity": 11464
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 11461
+   "quantity": 11464
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 9360
+   "quantity": 9363
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 9360
+   "quantity": 9363
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 7644
+   "quantity": 7646
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 7644
+   "quantity": 7646
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 6242
+   "quantity": 6244
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 6242
+   "quantity": 6244
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 5098
+   "quantity": 5100
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 5098
+   "quantity": 5100
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 4163
+   "quantity": 4165
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 4163
+   "quantity": 4165
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 3400
+   "quantity": 3401
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 3400
+   "quantity": 3401
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 2777
+   "quantity": 2778
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 2777
+   "quantity": 2778
   },
   {
    "type": "buy",
@@ -1200,22 +1205,22 @@
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1512
+   "quantity": 1513
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1512
+   "quantity": 1513
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1235
+   "quantity": 1236
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1235
+   "quantity": 1236
   },
   {
    "type": "buy",
@@ -1250,12 +1255,12 @@
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 549
+   "quantity": 550
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 549
+   "quantity": 550
   },
   {
    "type": "buy",

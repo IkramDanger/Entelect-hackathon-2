@@ -209,25 +209,388 @@
    "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N2"
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "Piltover"
+   "type": "gather"
   },
   {
-   "type": "sell",
-   "item": "sheep",
-   "quantity": 512
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N2"
+   "type": "gather"
   },
   {
-   "type": "travel",
-   "destination": "N1"
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
   },
   {
    "type": "gather"
@@ -432,7 +795,7 @@
   {
    "type": "sell",
    "item": "sheep",
-   "quantity": 512
+   "quantity": 2048
   },
   {
    "type": "travel",
@@ -441,6 +804,198 @@
   {
    "type": "travel",
    "destination": "N1"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
+  },
+  {
+   "type": "gather"
   },
   {
    "type": "gather"
@@ -645,7 +1200,7 @@
   {
    "type": "sell",
    "item": "sheep",
-   "quantity": 512
+   "quantity": 1024
   },
   {
    "type": "travel",
@@ -720,579 +1275,6 @@
   },
   {
    "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "travel",
-   "destination": "N2"
-  },
-  {
-   "type": "travel",
-   "destination": "Piltover"
-  },
-  {
-   "type": "sell",
-   "item": "sheep",
-   "quantity": 512
-  },
-  {
-   "type": "travel",
-   "destination": "N2"
-  },
-  {
-   "type": "travel",
-   "destination": "N1"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "travel",
-   "destination": "N2"
-  },
-  {
-   "type": "travel",
-   "destination": "Piltover"
-  },
-  {
-   "type": "sell",
-   "item": "sheep",
-   "quantity": 512
-  },
-  {
-   "type": "travel",
-   "destination": "N2"
-  },
-  {
-   "type": "travel",
-   "destination": "N1"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "gather"
-  },
-  {
-   "type": "travel",
-   "destination": "N2"
-  },
-  {
-   "type": "travel",
-   "destination": "Piltover"
-  },
-  {
-   "type": "sell",
-   "item": "sheep",
-   "quantity": 512
-  },
-  {
-   "type": "travel",
-   "destination": "N2"
-  },
-  {
-   "type": "travel",
-   "destination": "N1"
   },
   {
    "type": "gather"
@@ -1314,6 +1296,11 @@
    "type": "sell",
    "item": "fish",
    "quantity": 526
+  },
+  {
+   "type": "sell",
+   "item": "sheep",
+   "quantity": 174
   },
   {
    "type": "sell",
@@ -1348,252 +1335,252 @@
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 2980
+   "quantity": 3060
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 2980
+   "quantity": 3060
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 2434
+   "quantity": 2499
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 2434
+   "quantity": 2499
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1988
+   "quantity": 2041
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1988
+   "quantity": 2041
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1623
+   "quantity": 1667
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1623
+   "quantity": 1667
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1326
+   "quantity": 1361
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1326
+   "quantity": 1361
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 1083
+   "quantity": 1112
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 1083
+   "quantity": 1112
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 884
+   "quantity": 908
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 884
+   "quantity": 908
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 722
+   "quantity": 741
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 722
+   "quantity": 741
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 590
+   "quantity": 606
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 590
+   "quantity": 606
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 482
+   "quantity": 494
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 482
+   "quantity": 494
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 393
+   "quantity": 404
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 393
+   "quantity": 404
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 321
+   "quantity": 330
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 321
+   "quantity": 330
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 262
+   "quantity": 269
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 262
+   "quantity": 269
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 214
+   "quantity": 220
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 214
+   "quantity": 220
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 175
+   "quantity": 180
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 175
+   "quantity": 180
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 143
+   "quantity": 147
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 143
+   "quantity": 147
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 117
+   "quantity": 120
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 117
+   "quantity": 120
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 95
+   "quantity": 98
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 95
+   "quantity": 98
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 78
+   "quantity": 80
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 78
+   "quantity": 80
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 64
+   "quantity": 65
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 64
+   "quantity": 65
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 52
+   "quantity": 53
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 52
+   "quantity": 53
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 42
+   "quantity": 43
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 42
+   "quantity": 43
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 35
+   "quantity": 36
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 35
+   "quantity": 36
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 28
+   "quantity": 29
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 28
+   "quantity": 29
   },
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 23
+   "quantity": 24
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 23
+   "quantity": 24
   },
   {
    "type": "buy",
@@ -1608,12 +1595,12 @@
   {
    "type": "buy",
    "item": "clay",
-   "quantity": 15
+   "quantity": 16
   },
   {
    "type": "sell",
    "item": "clay",
-   "quantity": 15
+   "quantity": 16
   },
   {
    "type": "buy",

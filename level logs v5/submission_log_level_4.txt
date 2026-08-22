@@ -1,0 +1,1314 @@
+Action 0: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 1: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 2: Travel to 'Ixtal' (fast, 2 ticks, Toll 75).
+Action 3: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 4: Buy 75 sheep for 600 Enteloot.
+Action 5: craft 25x wool-garments (recipe).
+Action 6: Sell 25 wool-garments for 1475 Enteloot.
+Action 7: Buy 3 sheep for 24 Enteloot.
+Action 8: craft 1x wool-garments (recipe).
+Action 9: Sell 1 wool-garments for 59 Enteloot.
+Action 10: Travel to 'Ixtal' (standard, 2 ticks, Toll 0).
+Action 11: Travel to 'Thornwood' (fast, 2 ticks, Toll 75).
+Action 12: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 13: Travel to 'N23' (standard, 6 ticks, Toll 0).
+Action 14: gather 8 sheep at 'N23' (2 ticks).
+Action 15: gather 8 sheep at 'N23' (2 ticks).
+Action 16: gather 8 sheep at 'N23' (2 ticks).
+Action 17: gather 8 sheep at 'N23' (2 ticks).
+Action 18: gather 8 sheep at 'N23' (2 ticks).
+Action 19: gather 8 sheep at 'N23' (2 ticks).
+Action 20: gather 8 sheep at 'N23' (2 ticks).
+Action 21: gather 8 sheep at 'N23' (2 ticks).
+Action 22: gather 8 sheep at 'N23' (2 ticks).
+Action 23: gather 8 sheep at 'N23' (2 ticks).
+Action 24: gather 8 sheep at 'N23' (2 ticks).
+Action 25: gather 8 sheep at 'N23' (2 ticks).
+Action 26: gather 8 sheep at 'N23' (2 ticks).
+Action 27: gather 8 sheep at 'N23' (2 ticks).
+Action 28: gather 8 sheep at 'N23' (2 ticks).
+Action 29: gather 8 sheep at 'N23' (2 ticks).
+Action 30: gather 8 sheep at 'N23' (2 ticks).
+Action 31: gather 8 sheep at 'N23' (2 ticks).
+Action 32: gather 8 sheep at 'N23' (2 ticks).
+Action 33: gather 8 sheep at 'N23' (2 ticks).
+Action 34: gather 8 sheep at 'N23' (2 ticks).
+Action 35: gather 8 sheep at 'N23' (2 ticks).
+Action 36: gather 8 sheep at 'N23' (2 ticks).
+Action 37: gather 8 sheep at 'N23' (2 ticks).
+Action 38: gather 8 sheep at 'N23' (2 ticks).
+Action 39: gather 8 sheep at 'N23' (2 ticks).
+Action 40: gather 8 sheep at 'N23' (2 ticks).
+Action 41: gather 8 sheep at 'N23' (2 ticks).
+Action 42: gather 8 sheep at 'N23' (2 ticks).
+Action 43: gather 8 sheep at 'N23' (2 ticks).
+Action 44: gather 8 sheep at 'N23' (2 ticks).
+Action 45: gather 8 sheep at 'N23' (2 ticks).
+Action 46: gather 8 sheep at 'N23' (2 ticks).
+Action 47: gather 8 sheep at 'N23' (2 ticks).
+Action 48: gather 8 sheep at 'N23' (2 ticks).
+Action 49: gather 8 sheep at 'N23' (2 ticks).
+Action 50: gather 8 sheep at 'N23' (2 ticks).
+Action 51: gather 8 sheep at 'N23' (2 ticks).
+Action 52: gather 8 sheep at 'N23' (2 ticks).
+Action 53: gather 8 sheep at 'N23' (2 ticks).
+Action 54: gather 8 sheep at 'N23' (2 ticks).
+Action 55: gather 8 sheep at 'N23' (2 ticks).
+Action 56: gather 8 sheep at 'N23' (2 ticks).
+Action 57: gather 8 sheep at 'N23' (2 ticks).
+Action 58: gather 8 sheep at 'N23' (2 ticks).
+Action 59: gather 8 sheep at 'N23' (2 ticks).
+Action 60: gather 8 sheep at 'N23' (2 ticks).
+Action 61: gather 8 sheep at 'N23' (2 ticks).
+Action 62: gather 8 sheep at 'N23' (2 ticks).
+Action 63: gather 8 sheep at 'N23' (2 ticks).
+Action 64: gather 8 sheep at 'N23' (2 ticks).
+Action 65: gather 8 sheep at 'N23' (2 ticks).
+Action 66: gather 8 sheep at 'N23' (2 ticks).
+Action 67: gather 8 sheep at 'N23' (2 ticks).
+Action 68: gather 8 sheep at 'N23' (2 ticks).
+Action 69: gather 8 sheep at 'N23' (2 ticks).
+Action 70: gather 8 sheep at 'N23' (2 ticks).
+Action 71: gather 8 sheep at 'N23' (2 ticks).
+Action 72: gather 8 sheep at 'N23' (2 ticks).
+Action 73: gather 8 sheep at 'N23' (2 ticks).
+Action 74: gather 8 sheep at 'N23' (2 ticks).
+Action 75: gather 8 sheep at 'N23' (2 ticks).
+Action 76: gather 8 sheep at 'N23' (2 ticks).
+Action 77: gather 8 sheep at 'N23' (2 ticks).
+Action 78: gather 8 sheep at 'N23' (2 ticks).
+Action 79: gather 8 sheep at 'N23' (2 ticks).
+Action 80: gather 8 sheep at 'N23' (2 ticks).
+Action 81: gather 8 sheep at 'N23' (2 ticks).
+Action 82: gather 8 sheep at 'N23' (2 ticks).
+Action 83: gather 8 sheep at 'N23' (2 ticks).
+Action 84: gather 8 sheep at 'N23' (2 ticks).
+Action 85: gather 8 sheep at 'N23' (2 ticks).
+Action 86: gather 8 sheep at 'N23' (2 ticks).
+Action 87: gather 8 sheep at 'N23' (2 ticks).
+Action 88: gather 8 sheep at 'N23' (2 ticks).
+Action 89: gather 8 sheep at 'N23' (2 ticks).
+Action 90: gather 8 sheep at 'N23' (2 ticks).
+Action 91: gather 8 sheep at 'N23' (2 ticks).
+Action 92: gather 8 sheep at 'N23' (2 ticks).
+Action 93: gather 8 sheep at 'N23' (2 ticks).
+Action 94: gather 8 sheep at 'N23' (2 ticks).
+Action 95: gather 8 sheep at 'N23' (2 ticks).
+Action 96: gather 8 sheep at 'N23' (2 ticks).
+Action 97: gather 8 sheep at 'N23' (2 ticks).
+Action 98: gather 8 sheep at 'N23' (2 ticks).
+Action 99: gather 8 sheep at 'N23' (2 ticks).
+Action 100: gather 8 sheep at 'N23' (2 ticks).
+Action 101: gather 8 sheep at 'N23' (2 ticks).
+Action 102: gather 8 sheep at 'N23' (2 ticks).
+Action 103: gather 8 sheep at 'N23' (2 ticks).
+Action 104: gather 8 sheep at 'N23' (2 ticks).
+Action 105: gather 8 sheep at 'N23' (2 ticks).
+Action 106: gather 8 sheep at 'N23' (2 ticks).
+Action 107: gather 8 sheep at 'N23' (2 ticks).
+Action 108: gather 8 sheep at 'N23' (2 ticks).
+Action 109: gather 8 sheep at 'N23' (2 ticks).
+Action 110: gather 8 sheep at 'N23' (2 ticks).
+Action 111: gather 8 sheep at 'N23' (2 ticks).
+Action 112: gather 8 sheep at 'N23' (2 ticks).
+Action 113: gather 8 sheep at 'N23' (2 ticks).
+Action 114: gather 8 sheep at 'N23' (2 ticks).
+Action 115: gather 8 sheep at 'N23' (2 ticks).
+Action 116: gather 8 sheep at 'N23' (2 ticks).
+Action 117: gather 8 sheep at 'N23' (2 ticks).
+Action 118: gather 8 sheep at 'N23' (2 ticks).
+Action 119: gather 8 sheep at 'N23' (2 ticks).
+Action 120: gather 8 sheep at 'N23' (2 ticks).
+Action 121: gather 8 sheep at 'N23' (2 ticks).
+Action 122: gather 8 sheep at 'N23' (2 ticks).
+Action 123: gather 8 sheep at 'N23' (2 ticks).
+Action 124: gather 8 sheep at 'N23' (2 ticks).
+Action 125: gather 8 sheep at 'N23' (2 ticks).
+Action 126: gather 8 sheep at 'N23' (2 ticks).
+Action 127: gather 8 sheep at 'N23' (2 ticks).
+Action 128: gather 8 sheep at 'N23' (2 ticks).
+Action 129: gather 8 sheep at 'N23' (2 ticks).
+Action 130: gather 8 sheep at 'N23' (2 ticks).
+Action 131: gather 8 sheep at 'N23' (2 ticks).
+Action 132: gather 8 sheep at 'N23' (2 ticks).
+Action 133: gather 8 sheep at 'N23' (2 ticks).
+Action 134: gather 8 sheep at 'N23' (2 ticks).
+Action 135: gather 8 sheep at 'N23' (2 ticks).
+Action 136: gather 8 sheep at 'N23' (2 ticks).
+Action 137: gather 8 sheep at 'N23' (2 ticks).
+Action 138: gather 8 sheep at 'N23' (2 ticks).
+Action 139: gather 8 sheep at 'N23' (2 ticks).
+Action 140: gather 8 sheep at 'N23' (2 ticks).
+Action 141: gather 8 sheep at 'N23' (2 ticks).
+Action 142: gather 8 sheep at 'N23' (2 ticks).
+Action 143: gather 8 sheep at 'N23' (2 ticks).
+Action 144: gather 8 sheep at 'N23' (2 ticks).
+Action 145: gather 8 sheep at 'N23' (2 ticks).
+Action 146: gather 8 sheep at 'N23' (2 ticks).
+Action 147: gather 8 sheep at 'N23' (2 ticks).
+Action 148: gather 8 sheep at 'N23' (2 ticks).
+Action 149: gather 8 sheep at 'N23' (2 ticks).
+Action 150: gather 8 sheep at 'N23' (2 ticks).
+Action 151: gather 8 sheep at 'N23' (2 ticks).
+Action 152: gather 8 sheep at 'N23' (2 ticks).
+Action 153: gather 8 sheep at 'N23' (2 ticks).
+Action 154: gather 8 sheep at 'N23' (2 ticks).
+Action 155: gather 8 sheep at 'N23' (2 ticks).
+Action 156: gather 8 sheep at 'N23' (2 ticks).
+Action 157: gather 8 sheep at 'N23' (2 ticks).
+Action 158: gather 8 sheep at 'N23' (2 ticks).
+Action 159: gather 8 sheep at 'N23' (2 ticks).
+Action 160: gather 8 sheep at 'N23' (2 ticks).
+Action 161: gather 8 sheep at 'N23' (2 ticks).
+Action 162: gather 8 sheep at 'N23' (2 ticks).
+Action 163: gather 8 sheep at 'N23' (2 ticks).
+Action 164: gather 8 sheep at 'N23' (2 ticks).
+Action 165: gather 8 sheep at 'N23' (2 ticks).
+Action 166: gather 8 sheep at 'N23' (2 ticks).
+Action 167: gather 8 sheep at 'N23' (2 ticks).
+Action 168: gather 8 sheep at 'N23' (2 ticks).
+Action 169: gather 8 sheep at 'N23' (2 ticks).
+Action 170: gather 8 sheep at 'N23' (2 ticks).
+Action 171: gather 8 sheep at 'N23' (2 ticks).
+Action 172: gather 8 sheep at 'N23' (2 ticks).
+Action 173: gather 8 sheep at 'N23' (2 ticks).
+Action 174: gather 8 sheep at 'N23' (2 ticks).
+Action 175: gather 8 sheep at 'N23' (2 ticks).
+Action 176: gather 8 sheep at 'N23' (2 ticks).
+Action 177: gather 8 sheep at 'N23' (2 ticks).
+Action 178: gather 8 sheep at 'N23' (2 ticks).
+Action 179: gather 8 sheep at 'N23' (2 ticks).
+Action 180: gather 8 sheep at 'N23' (2 ticks).
+Action 181: gather 8 sheep at 'N23' (2 ticks).
+Action 182: gather 8 sheep at 'N23' (2 ticks).
+Action 183: gather 8 sheep at 'N23' (2 ticks).
+Action 184: gather 8 sheep at 'N23' (2 ticks).
+Action 185: gather 8 sheep at 'N23' (2 ticks).
+Action 186: gather 8 sheep at 'N23' (2 ticks).
+Action 187: gather 8 sheep at 'N23' (2 ticks).
+Action 188: gather 8 sheep at 'N23' (2 ticks).
+Action 189: gather 8 sheep at 'N23' (2 ticks).
+Action 190: gather 8 sheep at 'N23' (2 ticks).
+Action 191: gather 8 sheep at 'N23' (2 ticks).
+Action 192: gather 8 sheep at 'N23' (2 ticks).
+Action 193: gather 8 sheep at 'N23' (2 ticks).
+Action 194: gather 8 sheep at 'N23' (2 ticks).
+Action 195: gather 8 sheep at 'N23' (2 ticks).
+Action 196: gather 8 sheep at 'N23' (2 ticks).
+Action 197: gather 8 sheep at 'N23' (2 ticks).
+Action 198: gather 8 sheep at 'N23' (2 ticks).
+Action 199: gather 8 sheep at 'N23' (2 ticks).
+Action 200: gather 8 sheep at 'N23' (2 ticks).
+Action 201: gather 8 sheep at 'N23' (2 ticks).
+Action 202: Travel to 'Marrowfen' (standard, 6 ticks, Toll 0).
+Action 203: craft 500x wool-garments (recipe).
+Action 204: Sell 500 wool-garments for 30000 Enteloot.
+Action 205: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 206: Travel to 'Ixtal' (fast, 2 ticks, Toll 75).
+Action 207: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 208: Buy 1500 sheep for 12000 Enteloot.
+Action 209: craft 500x wool-garments (recipe).
+Action 210: Sell 500 wool-garments for 29500 Enteloot.
+Action 211: Buy 1500 sheep for 12000 Enteloot.
+Action 212: craft 500x wool-garments (recipe).
+Action 213: Sell 500 wool-garments for 29500 Enteloot.
+Action 214: Buy 1500 sheep for 12000 Enteloot.
+Action 215: craft 500x wool-garments (recipe).
+Action 216: Sell 500 wool-garments for 29500 Enteloot.
+Action 217: Buy 1500 sheep for 12000 Enteloot.
+Action 218: craft 500x wool-garments (recipe).
+Action 219: Sell 500 wool-garments for 29500 Enteloot.
+Action 220: Buy 1500 sheep for 12000 Enteloot.
+Action 221: craft 500x wool-garments (recipe).
+Action 222: Sell 500 wool-garments for 29500 Enteloot.
+Action 223: Buy 1500 sheep for 12000 Enteloot.
+Action 224: craft 500x wool-garments (recipe).
+Action 225: Sell 500 wool-garments for 29500 Enteloot.
+Action 226: Buy 1500 sheep for 12000 Enteloot.
+Action 227: craft 500x wool-garments (recipe).
+Action 228: Sell 500 wool-garments for 29500 Enteloot.
+Action 229: Buy 1500 sheep for 12000 Enteloot.
+Action 230: craft 500x wool-garments (recipe).
+Action 231: Sell 500 wool-garments for 29500 Enteloot.
+Action 232: Buy 1500 sheep for 12000 Enteloot.
+Action 233: craft 500x wool-garments (recipe).
+Action 234: Sell 500 wool-garments for 29500 Enteloot.
+Action 235: Buy 1500 sheep for 12000 Enteloot.
+Action 236: craft 500x wool-garments (recipe).
+Action 237: Sell 500 wool-garments for 29500 Enteloot.
+Action 238: Buy 1500 sheep for 12000 Enteloot.
+Action 239: craft 500x wool-garments (recipe).
+Action 240: Sell 500 wool-garments for 29500 Enteloot.
+Action 241: Buy 1500 sheep for 12000 Enteloot.
+Action 242: craft 500x wool-garments (recipe).
+Action 243: Sell 500 wool-garments for 29500 Enteloot.
+Action 244: Buy 1500 sheep for 12000 Enteloot.
+Action 245: craft 500x wool-garments (recipe).
+Action 246: Sell 500 wool-garments for 29500 Enteloot.
+Action 247: Buy 1500 sheep for 12000 Enteloot.
+Action 248: craft 500x wool-garments (recipe).
+Action 249: Sell 500 wool-garments for 29500 Enteloot.
+Action 250: Buy 1500 sheep for 12000 Enteloot.
+Action 251: craft 500x wool-garments (recipe).
+Action 252: Sell 500 wool-garments for 29500 Enteloot.
+Action 253: Buy 1500 sheep for 12000 Enteloot.
+Action 254: craft 500x wool-garments (recipe).
+Action 255: Sell 500 wool-garments for 29500 Enteloot.
+Action 256: Buy 1500 sheep for 12000 Enteloot.
+Action 257: craft 500x wool-garments (recipe).
+Action 258: Sell 500 wool-garments for 29500 Enteloot.
+Action 259: Buy 1500 sheep for 12000 Enteloot.
+Action 260: craft 500x wool-garments (recipe).
+Action 261: Sell 500 wool-garments for 29500 Enteloot.
+Action 262: Buy 1500 sheep for 12000 Enteloot.
+Action 263: craft 500x wool-garments (recipe).
+Action 264: Sell 500 wool-garments for 29500 Enteloot.
+Action 265: Buy 1500 sheep for 12000 Enteloot.
+Action 266: craft 500x wool-garments (recipe).
+Action 267: Sell 500 wool-garments for 29500 Enteloot.
+Action 268: Buy 1500 sheep for 12000 Enteloot.
+Action 269: craft 500x wool-garments (recipe).
+Action 270: Sell 500 wool-garments for 29500 Enteloot.
+Action 271: Buy 1500 sheep for 12000 Enteloot.
+Action 272: craft 500x wool-garments (recipe).
+Action 273: Sell 500 wool-garments for 29500 Enteloot.
+Action 274: Buy 1500 sheep for 12000 Enteloot.
+Action 275: craft 500x wool-garments (recipe).
+Action 276: Sell 500 wool-garments for 29500 Enteloot.
+Action 277: Buy 1500 sheep for 12000 Enteloot.
+Action 278: craft 500x wool-garments (recipe).
+Action 279: Sell 500 wool-garments for 29500 Enteloot.
+Action 280: Buy 1500 sheep for 12000 Enteloot.
+Action 281: craft 500x wool-garments (recipe).
+Action 282: Sell 500 wool-garments for 29500 Enteloot.
+Action 283: Buy 1500 sheep for 12000 Enteloot.
+Action 284: craft 500x wool-garments (recipe).
+Action 285: Sell 500 wool-garments for 29500 Enteloot.
+Action 286: Buy 1500 sheep for 12000 Enteloot.
+Action 287: craft 500x wool-garments (recipe).
+Action 288: Sell 500 wool-garments for 29500 Enteloot.
+Action 289: Buy 1500 sheep for 12000 Enteloot.
+Action 290: craft 500x wool-garments (recipe).
+Action 291: Sell 500 wool-garments for 29500 Enteloot.
+Action 292: Buy 1500 sheep for 12000 Enteloot.
+Action 293: craft 500x wool-garments (recipe).
+Action 294: Sell 500 wool-garments for 29500 Enteloot.
+Action 295: Buy 784 sheep for 6272 Enteloot.
+Action 296: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 297: Buy 2850 clay for 17100 Enteloot.
+Action 298: Travel to 'N24' (standard, 2 ticks, Toll 0).
+Action 299: Travel to 'Thornwood' (fast, 2 ticks, Toll 75).
+Action 300: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 301: Buy 1770 stone for 8850 Enteloot.
+Action 302: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 303: Travel to 'Ixtal' (fast, 2 ticks, Toll 75).
+Action 304: Buy 240 wheat for 960 Enteloot.
+Action 305: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 306: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 307: Travel to 'N15' (standard, 2 ticks, Toll 0).
+Action 308: gather 5 ore at 'N15' (3 ticks).
+Action 309: gather 5 ore at 'N15' (3 ticks).
+Action 310: gather 5 ore at 'N15' (3 ticks).
+Action 311: gather 5 ore at 'N15' (3 ticks).
+Action 312: gather 5 ore at 'N15' (3 ticks).
+Action 313: gather 5 ore at 'N15' (3 ticks).
+Action 314: gather 5 ore at 'N15' (3 ticks).
+Action 315: gather 5 ore at 'N15' (3 ticks).
+Action 316: gather 5 ore at 'N15' (3 ticks).
+Action 317: gather 5 ore at 'N15' (3 ticks).
+Action 318: gather 5 ore at 'N15' (3 ticks).
+Action 319: gather 5 ore at 'N15' (3 ticks).
+Action 320: gather 5 ore at 'N15' (3 ticks).
+Action 321: gather 5 ore at 'N15' (3 ticks).
+Action 322: gather 5 ore at 'N15' (3 ticks).
+Action 323: gather 5 ore at 'N15' (3 ticks).
+Action 324: gather 5 ore at 'N15' (3 ticks).
+Action 325: gather 5 ore at 'N15' (3 ticks).
+Action 326: gather 5 ore at 'N15' (3 ticks).
+Action 327: gather 5 ore at 'N15' (3 ticks).
+Action 328: gather 5 ore at 'N15' (3 ticks).
+Action 329: gather 5 ore at 'N15' (3 ticks).
+Action 330: gather 5 ore at 'N15' (3 ticks).
+Action 331: gather 5 ore at 'N15' (3 ticks).
+Action 332: gather 5 ore at 'N15' (3 ticks).
+Action 333: gather 5 ore at 'N15' (3 ticks).
+Action 334: Travel to 'Borealis' (standard, 2 ticks, Toll 0).
+Action 335: Travel to 'Stormgate' (fast, 3 ticks, Toll 30).
+Action 336: Buy 2048 wood for 10240 Enteloot.
+Action 337: Travel to 'Borealis' (fast, 3 ticks, Toll 30).
+Action 338: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 339: craft 692x planks (component).
+Action 340: craft 120x thatch (component).
+Action 341: craft 392x rope (component).
+Action 342: craft 870x mortar (component).
+Action 343: craft 300x stone-blocks (component).
+Action 344: craft 120x kiln-glass (component).
+Action 345: craft 64x iron-fittings (component).
+Action 346: craft 180x fencing (component).
+Action 347: craft 870x bricks (component).
+Action 348: craft 60x nets (component).
+Action 349: craft 1x boots (tool).
+Action 350: craft 1x pickaxe (tool).
+Action 351: Build 'farmhouse' in 'Questral'.
+Action 352: Build 'fertilised-fields' in 'Questral'.
+Action 353: Build 'rec-center' in 'Questral'.
+Action 354: Build 'fire-station' in 'Questral'.
+Action 355: Build 'school' in 'Questral'.
+Action 356: Build 'police-station' in 'Questral'.
+Action 357: Build 'library' in 'Questral'.
+Action 358: Build 'woodlands' in 'Questral'.
+Action 359: Build 'pier' in 'Questral'.
+Action 360: Build 'quarry' in 'Questral'.
+Action 361: Build 'pottery-house' in 'Questral'.
+Action 362: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 363: Build 'pottery-house' in 'Borealis'.
+Action 364: Build 'farmhouse' in 'Borealis'.
+Action 365: Build 'rec-center' in 'Borealis'.
+Action 366: Build 'fire-station' in 'Borealis'.
+Action 367: Build 'school' in 'Borealis'.
+Action 368: Build 'police-station' in 'Borealis'.
+Action 369: Build 'library' in 'Borealis'.
+Action 370: Build 'fertilised-fields' in 'Borealis'.
+Action 371: Build 'woodlands' in 'Borealis'.
+Action 372: Build 'pier' in 'Borealis'.
+Action 373: Build 'quarry' in 'Borealis'.
+Action 374: Travel to 'Stormgate' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 375: Build 'woodlands' in 'Stormgate'.
+Action 376: Build 'pier' in 'Stormgate'.
+Action 377: Build 'rec-center' in 'Stormgate'.
+Action 378: Build 'fire-station' in 'Stormgate'.
+Action 379: Build 'school' in 'Stormgate'.
+Action 380: Build 'police-station' in 'Stormgate'.
+Action 381: Build 'library' in 'Stormgate'.
+Action 382: Build 'farmhouse' in 'Stormgate'.
+Action 383: Build 'fertilised-fields' in 'Stormgate'.
+Action 384: Build 'quarry' in 'Stormgate'.
+Action 385: Build 'pottery-house' in 'Stormgate'.
+Action 386: Travel to 'Ravensford' (fast, 3 ticks, Toll 50, boots reduced ticks from 4 to 3).
+Action 387: Build 'woodlands' in 'Ravensford'.
+Action 388: Build 'pottery-house' in 'Ravensford'.
+Action 389: Build 'rec-center' in 'Ravensford'.
+Action 390: Build 'fire-station' in 'Ravensford'.
+Action 391: Build 'school' in 'Ravensford'.
+Action 392: Build 'police-station' in 'Ravensford'.
+Action 393: Build 'library' in 'Ravensford'.
+Action 394: Build 'farmhouse' in 'Ravensford'.
+Action 395: Build 'fertilised-fields' in 'Ravensford'.
+Action 396: Build 'pier' in 'Ravensford'.
+Action 397: Build 'quarry' in 'Ravensford'.
+Action 398: Travel to 'Oakhaven' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 399: Build 'quarry' in 'Oakhaven'.
+Action 400: Build 'farmhouse' in 'Oakhaven'.
+Action 401: Build 'rec-center' in 'Oakhaven'.
+Action 402: Build 'fire-station' in 'Oakhaven'.
+Action 403: Build 'school' in 'Oakhaven'.
+Action 404: Build 'police-station' in 'Oakhaven'.
+Action 405: Build 'library' in 'Oakhaven'.
+Action 406: Build 'fertilised-fields' in 'Oakhaven'.
+Action 407: Build 'woodlands' in 'Oakhaven'.
+Action 408: Build 'pier' in 'Oakhaven'.
+Action 409: Build 'pottery-house' in 'Oakhaven'.
+Action 410: Travel to 'Ravensford' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 411: Travel to 'Windmere' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 412: Build 'fertilised-fields' in 'Windmere'.
+Action 413: Build 'pier' in 'Windmere'.
+Action 414: Build 'rec-center' in 'Windmere'.
+Action 415: Build 'fire-station' in 'Windmere'.
+Action 416: Build 'school' in 'Windmere'.
+Action 417: Build 'police-station' in 'Windmere'.
+Action 418: Build 'library' in 'Windmere'.
+Action 419: Build 'farmhouse' in 'Windmere'.
+Action 420: Build 'woodlands' in 'Windmere'.
+Action 421: Build 'quarry' in 'Windmere'.
+Action 422: Build 'pottery-house' in 'Windmere'.
+Action 423: Travel to 'Highgarden' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 424: Build 'farmhouse' in 'Highgarden'.
+Action 425: Build 'fertilised-fields' in 'Highgarden'.
+Action 426: Build 'rec-center' in 'Highgarden'.
+Action 427: Build 'fire-station' in 'Highgarden'.
+Action 428: Build 'school' in 'Highgarden'.
+Action 429: Build 'police-station' in 'Highgarden'.
+Action 430: Build 'library' in 'Highgarden'.
+Action 431: Build 'woodlands' in 'Highgarden'.
+Action 432: Build 'pier' in 'Highgarden'.
+Action 433: Build 'quarry' in 'Highgarden'.
+Action 434: Build 'pottery-house' in 'Highgarden'.
+Action 435: Travel to 'N14' (fast, 3 ticks, Toll 75, boots reduced ticks from 4 to 3).
+Action 436: Travel to 'Freljord' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 437: Build 'woodlands' in 'Freljord'.
+Action 438: Build 'farmhouse' in 'Freljord'.
+Action 439: Build 'rec-center' in 'Freljord'.
+Action 440: Build 'fire-station' in 'Freljord'.
+Action 441: Build 'school' in 'Freljord'.
+Action 442: Build 'police-station' in 'Freljord'.
+Action 443: Build 'library' in 'Freljord'.
+Action 444: Build 'fertilised-fields' in 'Freljord'.
+Action 445: Build 'pier' in 'Freljord'.
+Action 446: Build 'quarry' in 'Freljord'.
+Action 447: Build 'pottery-house' in 'Freljord'.
+Action 448: Travel to 'N14' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 449: Travel to 'N10' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 450: Travel to 'Karthus' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 451: Build 'fertilised-fields' in 'Karthus'.
+Action 452: Build 'pottery-house' in 'Karthus'.
+Action 453: Build 'rec-center' in 'Karthus'.
+Action 454: Build 'fire-station' in 'Karthus'.
+Action 455: Build 'school' in 'Karthus'.
+Action 456: Build 'police-station' in 'Karthus'.
+Action 457: Build 'library' in 'Karthus'.
+Action 458: Build 'farmhouse' in 'Karthus'.
+Action 459: Build 'woodlands' in 'Karthus'.
+Action 460: Build 'pier' in 'Karthus'.
+Action 461: Build 'quarry' in 'Karthus'.
+Action 462: Travel to 'N10' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 463: Travel to 'N5' (fast, 1 ticks, Toll 100, boots reduced ticks from 2 to 1).
+Action 464: Travel to 'Valcrest' (standard, 1 ticks, Toll 0).
+Action 465: Travel to 'N3' (fast, 1 ticks, Toll 30, boots reduced ticks from 2 to 1).
+Action 466: Travel to 'Umberford' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 467: Travel to 'Lumenvale' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 468: Build 'farmhouse' in 'Lumenvale'.
+Action 469: Build 'fertilised-fields' in 'Lumenvale'.
+Action 470: Build 'rec-center' in 'Lumenvale'.
+Action 471: Build 'fire-station' in 'Lumenvale'.
+Action 472: Build 'school' in 'Lumenvale'.
+Action 473: Build 'police-station' in 'Lumenvale'.
+Action 474: Build 'library' in 'Lumenvale'.
+Action 475: Build 'woodlands' in 'Lumenvale'.
+Action 476: Build 'pier' in 'Lumenvale'.
+Action 477: Build 'quarry' in 'Lumenvale'.
+Action 478: Build 'pottery-house' in 'Lumenvale'.
+Action 479: Travel to 'Umberford' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 480: Build 'farmhouse' in 'Umberford'.
+Action 481: Build 'fertilised-fields' in 'Umberford'.
+Action 482: Build 'rec-center' in 'Umberford'.
+Action 483: Build 'fire-station' in 'Umberford'.
+Action 484: Build 'school' in 'Umberford'.
+Action 485: Build 'police-station' in 'Umberford'.
+Action 486: Build 'library' in 'Umberford'.
+Action 487: Build 'woodlands' in 'Umberford'.
+Action 488: Build 'pier' in 'Umberford'.
+Action 489: Build 'quarry' in 'Umberford'.
+Action 490: Build 'pottery-house' in 'Umberford'.
+Action 491: Travel to 'N3' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 492: Travel to 'Valcrest' (fast, 1 ticks, Toll 30, boots reduced ticks from 2 to 1).
+Action 493: Build 'quarry' in 'Valcrest'.
+Action 494: Build 'farmhouse' in 'Valcrest'.
+Action 495: Build 'rec-center' in 'Valcrest'.
+Action 496: Build 'fire-station' in 'Valcrest'.
+Action 497: Build 'school' in 'Valcrest'.
+Action 498: Build 'police-station' in 'Valcrest'.
+Action 499: Build 'library' in 'Valcrest'.
+Action 500: Build 'fertilised-fields' in 'Valcrest'.
+Action 501: Build 'woodlands' in 'Valcrest'.
+Action 502: Build 'pier' in 'Valcrest'.
+Action 503: Build 'pottery-house' in 'Valcrest'.
+Action 504: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 505: Travel to 'Zaun' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 506: Build 'farmhouse' in 'Zaun'.
+Action 507: Build 'fertilised-fields' in 'Zaun'.
+Action 508: Build 'rec-center' in 'Zaun'.
+Action 509: Build 'fire-station' in 'Zaun'.
+Action 510: Build 'school' in 'Zaun'.
+Action 511: Build 'police-station' in 'Zaun'.
+Action 512: Build 'library' in 'Zaun'.
+Action 513: Build 'woodlands' in 'Zaun'.
+Action 514: Build 'pier' in 'Zaun'.
+Action 515: Build 'quarry' in 'Zaun'.
+Action 516: Build 'pottery-house' in 'Zaun'.
+Action 517: Travel to 'N5' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 518: Travel to 'Yarrowdale' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 519: Travel to 'Shurima' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 520: Build 'quarry' in 'Shurima'.
+Action 521: Build 'farmhouse' in 'Shurima'.
+Action 522: Build 'rec-center' in 'Shurima'.
+Action 523: Build 'fire-station' in 'Shurima'.
+Action 524: Build 'school' in 'Shurima'.
+Action 525: Build 'police-station' in 'Shurima'.
+Action 526: Build 'library' in 'Shurima'.
+Action 527: Build 'fertilised-fields' in 'Shurima'.
+Action 528: Build 'woodlands' in 'Shurima'.
+Action 529: Build 'pier' in 'Shurima'.
+Action 530: Build 'pottery-house' in 'Shurima'.
+Action 531: Travel to 'Yarrowdale' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 532: Build 'farmhouse' in 'Yarrowdale'.
+Action 533: Build 'quarry' in 'Yarrowdale'.
+Action 534: Build 'rec-center' in 'Yarrowdale'.
+Action 535: Build 'fire-station' in 'Yarrowdale'.
+Action 536: Build 'school' in 'Yarrowdale'.
+Action 537: Build 'police-station' in 'Yarrowdale'.
+Action 538: Build 'library' in 'Yarrowdale'.
+Action 539: Build 'fertilised-fields' in 'Yarrowdale'.
+Action 540: Build 'woodlands' in 'Yarrowdale'.
+Action 541: Build 'pier' in 'Yarrowdale'.
+Action 542: Build 'pottery-house' in 'Yarrowdale'.
+Action 543: Travel to 'N5' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 544: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 545: Build 'fertilised-fields' in 'Evermoor'.
+Action 546: Build 'pottery-house' in 'Evermoor'.
+Action 547: Build 'rec-center' in 'Evermoor'.
+Action 548: Build 'fire-station' in 'Evermoor'.
+Action 549: Build 'school' in 'Evermoor'.
+Action 550: Build 'police-station' in 'Evermoor'.
+Action 551: Build 'library' in 'Evermoor'.
+Action 552: Build 'farmhouse' in 'Evermoor'.
+Action 553: Build 'woodlands' in 'Evermoor'.
+Action 554: Build 'pier' in 'Evermoor'.
+Action 555: Build 'quarry' in 'Evermoor'.
+Action 556: Travel to 'Ionia' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 557: Build 'fertilised-fields' in 'Ionia'.
+Action 558: Build 'pier' in 'Ionia'.
+Action 559: Build 'rec-center' in 'Ionia'.
+Action 560: Build 'fire-station' in 'Ionia'.
+Action 561: Build 'school' in 'Ionia'.
+Action 562: Build 'police-station' in 'Ionia'.
+Action 563: Build 'library' in 'Ionia'.
+Action 564: Build 'farmhouse' in 'Ionia'.
+Action 565: Build 'woodlands' in 'Ionia'.
+Action 566: Build 'quarry' in 'Ionia'.
+Action 567: Build 'pottery-house' in 'Ionia'.
+Action 568: Travel to 'Marrowfen' (fast, 2 ticks, Toll 100, boots reduced ticks from 3 to 2).
+Action 569: Travel to 'Demacia' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 570: Build 'quarry' in 'Demacia'.
+Action 571: Build 'farmhouse' in 'Demacia'.
+Action 572: Build 'rec-center' in 'Demacia'.
+Action 573: Build 'fire-station' in 'Demacia'.
+Action 574: Build 'school' in 'Demacia'.
+Action 575: Build 'police-station' in 'Demacia'.
+Action 576: Build 'library' in 'Demacia'.
+Action 577: Build 'fertilised-fields' in 'Demacia'.
+Action 578: Build 'woodlands' in 'Demacia'.
+Action 579: Build 'pier' in 'Demacia'.
+Action 580: Build 'pottery-house' in 'Demacia'.
+Action 581: Travel to 'N26' (standard, 1 ticks, Toll 0).
+Action 582: Travel to 'N7' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 583: Travel to 'Bandle' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 584: Travel to 'Pinecliff' (fast, 4 ticks, Toll 100, boots reduced ticks from 5 to 4).
+Action 585: Build 'pier' in 'Pinecliff'.
+Action 586: Build 'farmhouse' in 'Pinecliff'.
+Action 587: Build 'rec-center' in 'Pinecliff'.
+Action 588: Build 'fire-station' in 'Pinecliff'.
+Action 589: Build 'school' in 'Pinecliff'.
+Action 590: Build 'police-station' in 'Pinecliff'.
+Action 591: Build 'library' in 'Pinecliff'.
+Action 592: Build 'fertilised-fields' in 'Pinecliff'.
+Action 593: Build 'woodlands' in 'Pinecliff'.
+Action 594: Build 'quarry' in 'Pinecliff'.
+Action 595: Build 'pottery-house' in 'Pinecliff'.
+Action 596: Travel to 'Bandle' (fast, 4 ticks, Toll 100, boots reduced ticks from 5 to 4).
+Action 597: Build 'woodlands' in 'Bandle'.
+Action 598: Build 'pier' in 'Bandle'.
+Action 599: Build 'rec-center' in 'Bandle'.
+Action 600: Build 'fire-station' in 'Bandle'.
+Action 601: Build 'school' in 'Bandle'.
+Action 602: Build 'police-station' in 'Bandle'.
+Action 603: Build 'library' in 'Bandle'.
+Action 604: Build 'farmhouse' in 'Bandle'.
+Action 605: Build 'fertilised-fields' in 'Bandle'.
+Action 606: Build 'quarry' in 'Bandle'.
+Action 607: Build 'pottery-house' in 'Bandle'.
+Action 608: Travel to 'N2' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 609: Travel to 'Piltover' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 610: Build 'woodlands' in 'Piltover'.
+Action 611: Build 'farmhouse' in 'Piltover'.
+Action 612: Build 'rec-center' in 'Piltover'.
+Action 613: Build 'fire-station' in 'Piltover'.
+Action 614: Build 'school' in 'Piltover'.
+Action 615: Build 'police-station' in 'Piltover'.
+Action 616: Build 'library' in 'Piltover'.
+Action 617: Build 'fertilised-fields' in 'Piltover'.
+Action 618: Build 'pier' in 'Piltover'.
+Action 619: Build 'quarry' in 'Piltover'.
+Action 620: Build 'pottery-house' in 'Piltover'.
+Action 621: Travel to 'Thornwood' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 622: Travel to 'Ixtal' (fast, 1 ticks, Toll 75, boots reduced ticks from 2 to 1).
+Action 623: Build 'fertilised-fields' in 'Ixtal'.
+Action 624: Build 'pier' in 'Ixtal'.
+Action 625: Build 'rec-center' in 'Ixtal'.
+Action 626: Build 'fire-station' in 'Ixtal'.
+Action 627: Build 'school' in 'Ixtal'.
+Action 628: Build 'police-station' in 'Ixtal'.
+Action 629: Build 'library' in 'Ixtal'.
+Action 630: Build 'farmhouse' in 'Ixtal'.
+Action 631: Build 'woodlands' in 'Ixtal'.
+Action 632: Build 'quarry' in 'Ixtal'.
+Action 633: Build 'pottery-house' in 'Ixtal'.
+Action 634: Travel to 'Thornwood' (fast, 1 ticks, Toll 75, boots reduced ticks from 2 to 1).
+Action 635: Travel to 'Targon' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 636: Build 'woodlands' in 'Targon'.
+Action 637: Build 'pier' in 'Targon'.
+Action 638: Build 'rec-center' in 'Targon'.
+Action 639: Build 'fire-station' in 'Targon'.
+Action 640: Build 'school' in 'Targon'.
+Action 641: Build 'police-station' in 'Targon'.
+Action 642: Build 'library' in 'Targon'.
+Action 643: Build 'farmhouse' in 'Targon'.
+Action 644: Build 'fertilised-fields' in 'Targon'.
+Action 645: Build 'quarry' in 'Targon'.
+Action 646: Build 'pottery-house' in 'Targon'.
+Action 647: Travel to 'Thornwood' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 648: Build 'pier' in 'Thornwood'.
+Action 649: Build 'farmhouse' in 'Thornwood'.
+Action 650: Build 'rec-center' in 'Thornwood'.
+Action 651: Build 'fire-station' in 'Thornwood'.
+Action 652: Build 'school' in 'Thornwood'.
+Action 653: Build 'police-station' in 'Thornwood'.
+Action 654: Build 'library' in 'Thornwood'.
+Action 655: Build 'fertilised-fields' in 'Thornwood'.
+Action 656: Build 'woodlands' in 'Thornwood'.
+Action 657: Build 'quarry' in 'Thornwood'.
+Action 658: Build 'pottery-house' in 'Thornwood'.
+Action 659: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 660: Build 'fertilised-fields' in 'Marrowfen'.
+Action 661: Build 'quarry' in 'Marrowfen'.
+Action 662: Build 'rec-center' in 'Marrowfen'.
+Action 663: Build 'fire-station' in 'Marrowfen'.
+Action 664: Build 'school' in 'Marrowfen'.
+Action 665: Build 'police-station' in 'Marrowfen'.
+Action 666: Build 'library' in 'Marrowfen'.
+Action 667: Build 'farmhouse' in 'Marrowfen'.
+Action 668: Build 'woodlands' in 'Marrowfen'.
+Action 669: Build 'pier' in 'Marrowfen'.
+Action 670: Build 'pottery-house' in 'Marrowfen'.
+Action 671: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 672: Build 'pier' in 'Noxus'.
+Action 673: Build 'farmhouse' in 'Noxus'.
+Action 674: Build 'rec-center' in 'Noxus'.
+Action 675: Build 'fire-station' in 'Noxus'.
+Action 676: Build 'school' in 'Noxus'.
+Action 677: Build 'police-station' in 'Noxus'.
+Action 678: Build 'library' in 'Noxus'.
+Action 679: Build 'fertilised-fields' in 'Noxus'.
+Action 680: Build 'woodlands' in 'Noxus'.
+Action 681: Build 'quarry' in 'Noxus'.
+Action 682: Build 'pottery-house' in 'Noxus'.
+Action 683: Travel to 'Bilgewater' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 684: Build 'quarry' in 'Bilgewater'.
+Action 685: Build 'farmhouse' in 'Bilgewater'.
+Action 686: Build 'rec-center' in 'Bilgewater'.
+Action 687: Build 'fire-station' in 'Bilgewater'.
+Action 688: Build 'school' in 'Bilgewater'.
+Action 689: Build 'police-station' in 'Bilgewater'.
+Action 690: Build 'library' in 'Bilgewater'.
+Action 691: Build 'fertilised-fields' in 'Bilgewater'.
+Action 692: Build 'woodlands' in 'Bilgewater'.
+Action 693: Build 'pier' in 'Bilgewater'.
+Action 694: Build 'pottery-house' in 'Bilgewater'.
+Action 695: Travel to 'Noxus' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 696: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 697: Travel to 'Northwind' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 698: Build 'pier' in 'Northwind'.
+Action 699: Build 'farmhouse' in 'Northwind'.
+Action 700: Build 'rec-center' in 'Northwind'.
+Action 701: Build 'fire-station' in 'Northwind'.
+Action 702: Build 'school' in 'Northwind'.
+Action 703: Build 'police-station' in 'Northwind'.
+Action 704: Build 'library' in 'Northwind'.
+Action 705: Build 'fertilised-fields' in 'Northwind'.
+Action 706: Build 'woodlands' in 'Northwind'.
+Action 707: Build 'quarry' in 'Northwind'.
+Action 708: Build 'pottery-house' in 'Northwind'.
+Action 709: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 710: Travel to 'Ironhold' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 711: Build 'farmhouse' in 'Ironhold'.
+Action 712: Build 'fertilised-fields' in 'Ironhold'.
+Action 713: Build 'rec-center' in 'Ironhold'.
+Action 714: Build 'fire-station' in 'Ironhold'.
+Action 715: Build 'school' in 'Ironhold'.
+Action 716: Build 'police-station' in 'Ironhold'.
+Action 717: Build 'library' in 'Ironhold'.
+Action 718: Build 'woodlands' in 'Ironhold'.
+Action 719: Build 'pier' in 'Ironhold'.
+Action 720: Build 'quarry' in 'Ironhold'.
+Action 721: Build 'pottery-house' in 'Ironhold'.
+Action 722: Travel to 'N24' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 723: Travel to 'Aurora' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 724: Build 'pottery-house' in 'Aurora'.
+Action 725: Build 'farmhouse' in 'Aurora'.
+Action 726: Build 'rec-center' in 'Aurora'.
+Action 727: Build 'fire-station' in 'Aurora'.
+Action 728: Build 'school' in 'Aurora'.
+Action 729: Build 'police-station' in 'Aurora'.
+Action 730: Build 'library' in 'Aurora'.
+Action 731: Build 'fertilised-fields' in 'Aurora'.
+Action 732: Build 'woodlands' in 'Aurora'.
+Action 733: Build 'pier' in 'Aurora'.
+Action 734: Build 'quarry' in 'Aurora'.
+Action 735: Travel to 'Questral' (standard, 1 ticks, Toll 0).
+Action 736: Buy 1500 sheep for 12000 Enteloot.
+Action 737: craft 500x wool-garments (recipe).
+Action 738: Sell 500 wool-garments for 29500 Enteloot.
+Action 739: Buy 1500 sheep for 12000 Enteloot.
+Action 740: craft 500x wool-garments (recipe).
+Action 741: Sell 500 wool-garments for 29500 Enteloot.
+Action 742: Buy 1500 sheep for 12000 Enteloot.
+Action 743: craft 500x wool-garments (recipe).
+Action 744: Sell 500 wool-garments for 29500 Enteloot.
+Action 745: Buy 1500 sheep for 12000 Enteloot.
+Action 746: craft 500x wool-garments (recipe).
+Action 747: Sell 500 wool-garments for 29500 Enteloot.
+Action 748: Buy 1500 sheep for 12000 Enteloot.
+Action 749: craft 500x wool-garments (recipe).
+Action 750: Sell 500 wool-garments for 29500 Enteloot.
+Action 751: Buy 1500 sheep for 12000 Enteloot.
+Action 752: craft 500x wool-garments (recipe).
+Action 753: Sell 500 wool-garments for 29500 Enteloot.
+Action 754: Buy 1500 sheep for 12000 Enteloot.
+Action 755: craft 500x wool-garments (recipe).
+Action 756: Sell 500 wool-garments for 29500 Enteloot.
+Action 757: Buy 1500 sheep for 12000 Enteloot.
+Action 758: craft 500x wool-garments (recipe).
+Action 759: Sell 500 wool-garments for 29500 Enteloot.
+Action 760: Buy 1500 sheep for 12000 Enteloot.
+Action 761: craft 500x wool-garments (recipe).
+Action 762: Sell 500 wool-garments for 29500 Enteloot.
+Action 763: Buy 1500 sheep for 12000 Enteloot.
+Action 764: craft 500x wool-garments (recipe).
+Action 765: Sell 500 wool-garments for 29500 Enteloot.
+Action 766: Buy 1500 sheep for 12000 Enteloot.
+Action 767: craft 500x wool-garments (recipe).
+Action 768: Sell 500 wool-garments for 29500 Enteloot.
+Action 769: Buy 1500 sheep for 12000 Enteloot.
+Action 770: craft 500x wool-garments (recipe).
+Action 771: Sell 500 wool-garments for 29500 Enteloot.
+Action 772: Buy 1500 sheep for 12000 Enteloot.
+Action 773: craft 500x wool-garments (recipe).
+Action 774: Sell 500 wool-garments for 29500 Enteloot.
+Action 775: Buy 1500 sheep for 12000 Enteloot.
+Action 776: craft 500x wool-garments (recipe).
+Action 777: Sell 500 wool-garments for 29500 Enteloot.
+Action 778: Buy 1500 sheep for 12000 Enteloot.
+Action 779: craft 500x wool-garments (recipe).
+Action 780: Sell 500 wool-garments for 29500 Enteloot.
+Action 781: Buy 1500 sheep for 12000 Enteloot.
+Action 782: craft 500x wool-garments (recipe).
+Action 783: Sell 500 wool-garments for 29500 Enteloot.
+Action 784: Buy 1500 sheep for 12000 Enteloot.
+Action 785: craft 500x wool-garments (recipe).
+Action 786: Sell 500 wool-garments for 29500 Enteloot.
+Action 787: Buy 1500 sheep for 12000 Enteloot.
+Action 788: craft 500x wool-garments (recipe).
+Action 789: Sell 500 wool-garments for 29500 Enteloot.
+Action 790: Buy 1500 sheep for 12000 Enteloot.
+Action 791: craft 500x wool-garments (recipe).
+Action 792: Sell 500 wool-garments for 29500 Enteloot.
+Action 793: Buy 1500 sheep for 12000 Enteloot.
+Action 794: craft 500x wool-garments (recipe).
+Action 795: Sell 500 wool-garments for 29500 Enteloot.
+Action 796: Buy 1500 sheep for 12000 Enteloot.
+Action 797: craft 500x wool-garments (recipe).
+Action 798: Sell 500 wool-garments for 29500 Enteloot.
+Action 799: Buy 1500 sheep for 12000 Enteloot.
+Action 800: craft 500x wool-garments (recipe).
+Action 801: Sell 500 wool-garments for 29500 Enteloot.
+Action 802: Buy 1500 sheep for 12000 Enteloot.
+Action 803: craft 500x wool-garments (recipe).
+Action 804: Sell 500 wool-garments for 29500 Enteloot.
+Action 805: Buy 1500 sheep for 12000 Enteloot.
+Action 806: craft 500x wool-garments (recipe).
+Action 807: Sell 500 wool-garments for 29500 Enteloot.
+Action 808: Buy 1500 sheep for 12000 Enteloot.
+Action 809: craft 500x wool-garments (recipe).
+Action 810: Sell 500 wool-garments for 29500 Enteloot.
+Action 811: Buy 1500 sheep for 12000 Enteloot.
+Action 812: craft 500x wool-garments (recipe).
+Action 813: Sell 500 wool-garments for 29500 Enteloot.
+Action 814: Buy 1500 sheep for 12000 Enteloot.
+Action 815: craft 500x wool-garments (recipe).
+Action 816: Sell 500 wool-garments for 29500 Enteloot.
+Action 817: Buy 1500 sheep for 12000 Enteloot.
+Action 818: craft 500x wool-garments (recipe).
+Action 819: Sell 500 wool-garments for 29500 Enteloot.
+Action 820: Buy 1500 sheep for 12000 Enteloot.
+Action 821: craft 500x wool-garments (recipe).
+Action 822: Sell 500 wool-garments for 29500 Enteloot.
+Action 823: Buy 1500 sheep for 12000 Enteloot.
+Action 824: craft 500x wool-garments (recipe).
+Action 825: Sell 500 wool-garments for 29500 Enteloot.
+Action 826: Buy 1500 sheep for 12000 Enteloot.
+Action 827: craft 500x wool-garments (recipe).
+Action 828: Sell 500 wool-garments for 29500 Enteloot.
+Action 829: Buy 1500 sheep for 12000 Enteloot.
+Action 830: craft 500x wool-garments (recipe).
+Action 831: Sell 500 wool-garments for 29500 Enteloot.
+Action 832: Buy 1500 sheep for 12000 Enteloot.
+Action 833: craft 500x wool-garments (recipe).
+Action 834: Sell 500 wool-garments for 29500 Enteloot.
+Action 835: Buy 1500 sheep for 12000 Enteloot.
+Action 836: craft 500x wool-garments (recipe).
+Action 837: Sell 500 wool-garments for 29500 Enteloot.
+Action 838: Buy 1500 sheep for 12000 Enteloot.
+Action 839: craft 500x wool-garments (recipe).
+Action 840: Sell 500 wool-garments for 29500 Enteloot.
+Action 841: Buy 1500 sheep for 12000 Enteloot.
+Action 842: craft 500x wool-garments (recipe).
+Action 843: Sell 500 wool-garments for 29500 Enteloot.
+Action 844: Buy 1500 sheep for 12000 Enteloot.
+Action 845: craft 500x wool-garments (recipe).
+Action 846: Sell 500 wool-garments for 29500 Enteloot.
+Action 847: Buy 1500 sheep for 12000 Enteloot.
+Action 848: craft 500x wool-garments (recipe).
+Action 849: Sell 500 wool-garments for 29500 Enteloot.
+Action 850: Buy 1500 sheep for 12000 Enteloot.
+Action 851: craft 500x wool-garments (recipe).
+Action 852: Sell 500 wool-garments for 29500 Enteloot.
+Action 853: Buy 1500 sheep for 12000 Enteloot.
+Action 854: craft 500x wool-garments (recipe).
+Action 855: Sell 500 wool-garments for 29500 Enteloot.
+Action 856: Buy 1500 sheep for 12000 Enteloot.
+Action 857: craft 500x wool-garments (recipe).
+Action 858: Sell 500 wool-garments for 29500 Enteloot.
+Action 859: Buy 1500 sheep for 12000 Enteloot.
+Action 860: craft 500x wool-garments (recipe).
+Action 861: Sell 500 wool-garments for 29500 Enteloot.
+Action 862: Buy 1500 sheep for 12000 Enteloot.
+Action 863: craft 500x wool-garments (recipe).
+Action 864: Sell 500 wool-garments for 29500 Enteloot.
+Action 865: Buy 1500 sheep for 12000 Enteloot.
+Action 866: craft 500x wool-garments (recipe).
+Action 867: Sell 500 wool-garments for 29500 Enteloot.
+Action 868: Buy 1500 sheep for 12000 Enteloot.
+Action 869: craft 500x wool-garments (recipe).
+Action 870: Sell 500 wool-garments for 29500 Enteloot.
+Action 871: Buy 1500 sheep for 12000 Enteloot.
+Action 872: craft 500x wool-garments (recipe).
+Action 873: Sell 500 wool-garments for 29500 Enteloot.
+Action 874: Buy 1500 sheep for 12000 Enteloot.
+Action 875: craft 500x wool-garments (recipe).
+Action 876: Sell 500 wool-garments for 29500 Enteloot.
+Action 877: Buy 1500 sheep for 12000 Enteloot.
+Action 878: craft 500x wool-garments (recipe).
+Action 879: Sell 500 wool-garments for 29500 Enteloot.
+Action 880: Buy 1500 sheep for 12000 Enteloot.
+Action 881: craft 500x wool-garments (recipe).
+Action 882: Sell 500 wool-garments for 29500 Enteloot.
+Action 883: Buy 1500 sheep for 12000 Enteloot.
+Action 884: craft 500x wool-garments (recipe).
+Action 885: Sell 500 wool-garments for 29500 Enteloot.
+Action 886: Buy 1500 sheep for 12000 Enteloot.
+Action 887: craft 500x wool-garments (recipe).
+Action 888: Sell 500 wool-garments for 29500 Enteloot.
+Action 889: Buy 1500 sheep for 12000 Enteloot.
+Action 890: craft 500x wool-garments (recipe).
+Action 891: Sell 500 wool-garments for 29500 Enteloot.
+Action 892: Buy 1500 sheep for 12000 Enteloot.
+Action 893: craft 500x wool-garments (recipe).
+Action 894: Sell 500 wool-garments for 29500 Enteloot.
+Action 895: Buy 1500 sheep for 12000 Enteloot.
+Action 896: craft 500x wool-garments (recipe).
+Action 897: Sell 500 wool-garments for 29500 Enteloot.
+Action 898: Buy 1500 sheep for 12000 Enteloot.
+Action 899: craft 500x wool-garments (recipe).
+Action 900: Sell 500 wool-garments for 29500 Enteloot.
+Action 901: Buy 1500 sheep for 12000 Enteloot.
+Action 902: craft 500x wool-garments (recipe).
+Action 903: Sell 500 wool-garments for 29500 Enteloot.
+Action 904: Buy 1500 sheep for 12000 Enteloot.
+Action 905: craft 500x wool-garments (recipe).
+Action 906: Sell 500 wool-garments for 29500 Enteloot.
+Action 907: Buy 1500 sheep for 12000 Enteloot.
+Action 908: craft 500x wool-garments (recipe).
+Action 909: Sell 500 wool-garments for 29500 Enteloot.
+Action 910: Buy 1500 sheep for 12000 Enteloot.
+Action 911: craft 500x wool-garments (recipe).
+Action 912: Sell 500 wool-garments for 29500 Enteloot.
+Action 913: Buy 1500 sheep for 12000 Enteloot.
+Action 914: craft 500x wool-garments (recipe).
+Action 915: Sell 500 wool-garments for 29500 Enteloot.
+Action 916: Buy 1500 sheep for 12000 Enteloot.
+Action 917: craft 500x wool-garments (recipe).
+Action 918: Sell 500 wool-garments for 29500 Enteloot.
+Action 919: Buy 1500 sheep for 12000 Enteloot.
+Action 920: craft 500x wool-garments (recipe).
+Action 921: Sell 500 wool-garments for 29500 Enteloot.
+Action 922: Buy 1500 sheep for 12000 Enteloot.
+Action 923: craft 500x wool-garments (recipe).
+Action 924: Sell 500 wool-garments for 29500 Enteloot.
+Action 925: Buy 1500 sheep for 12000 Enteloot.
+Action 926: craft 500x wool-garments (recipe).
+Action 927: Sell 500 wool-garments for 29500 Enteloot.
+Action 928: Buy 1500 sheep for 12000 Enteloot.
+Action 929: craft 500x wool-garments (recipe).
+Action 930: Sell 500 wool-garments for 29500 Enteloot.
+Action 931: Buy 1500 sheep for 12000 Enteloot.
+Action 932: craft 500x wool-garments (recipe).
+Action 933: Sell 500 wool-garments for 29500 Enteloot.
+Action 934: Buy 1500 sheep for 12000 Enteloot.
+Action 935: craft 500x wool-garments (recipe).
+Action 936: Sell 500 wool-garments for 29500 Enteloot.
+Action 937: Buy 1500 sheep for 12000 Enteloot.
+Action 938: craft 500x wool-garments (recipe).
+Action 939: Sell 500 wool-garments for 29500 Enteloot.
+Action 940: Buy 1500 sheep for 12000 Enteloot.
+Action 941: craft 500x wool-garments (recipe).
+Action 942: Sell 500 wool-garments for 29500 Enteloot.
+Action 943: Buy 1500 sheep for 12000 Enteloot.
+Action 944: craft 500x wool-garments (recipe).
+Action 945: Sell 500 wool-garments for 29500 Enteloot.
+Action 946: Buy 1500 sheep for 12000 Enteloot.
+Action 947: craft 500x wool-garments (recipe).
+Action 948: Sell 500 wool-garments for 29500 Enteloot.
+Action 949: Buy 1500 sheep for 12000 Enteloot.
+Action 950: craft 500x wool-garments (recipe).
+Action 951: Sell 500 wool-garments for 29500 Enteloot.
+Action 952: Buy 1500 sheep for 12000 Enteloot.
+Action 953: craft 500x wool-garments (recipe).
+Action 954: Sell 500 wool-garments for 29500 Enteloot.
+Action 955: Buy 1500 sheep for 12000 Enteloot.
+Action 956: craft 500x wool-garments (recipe).
+Action 957: Sell 500 wool-garments for 29500 Enteloot.
+Action 958: Buy 1500 sheep for 12000 Enteloot.
+Action 959: craft 500x wool-garments (recipe).
+Action 960: Sell 500 wool-garments for 29500 Enteloot.
+Action 961: Buy 1500 sheep for 12000 Enteloot.
+Action 962: craft 500x wool-garments (recipe).
+Action 963: Sell 500 wool-garments for 29500 Enteloot.
+Action 964: Buy 1500 sheep for 12000 Enteloot.
+Action 965: craft 500x wool-garments (recipe).
+Action 966: Sell 500 wool-garments for 29500 Enteloot.
+Action 967: Buy 1500 sheep for 12000 Enteloot.
+Action 968: craft 500x wool-garments (recipe).
+Action 969: Sell 500 wool-garments for 29500 Enteloot.
+Action 970: Buy 1500 sheep for 12000 Enteloot.
+Action 971: craft 500x wool-garments (recipe).
+Action 972: Sell 500 wool-garments for 29500 Enteloot.
+Action 973: Buy 1500 sheep for 12000 Enteloot.
+Action 974: craft 500x wool-garments (recipe).
+Action 975: Sell 500 wool-garments for 29500 Enteloot.
+Action 976: Buy 1500 sheep for 12000 Enteloot.
+Action 977: craft 500x wool-garments (recipe).
+Action 978: Sell 500 wool-garments for 29500 Enteloot.
+Action 979: Buy 1500 sheep for 12000 Enteloot.
+Action 980: craft 500x wool-garments (recipe).
+Action 981: Sell 500 wool-garments for 29500 Enteloot.
+Action 982: Buy 1500 sheep for 12000 Enteloot.
+Action 983: craft 500x wool-garments (recipe).
+Action 984: Sell 500 wool-garments for 29500 Enteloot.
+Action 985: Buy 1500 sheep for 12000 Enteloot.
+Action 986: craft 500x wool-garments (recipe).
+Action 987: Sell 500 wool-garments for 29500 Enteloot.
+Action 988: Buy 1500 sheep for 12000 Enteloot.
+Action 989: craft 500x wool-garments (recipe).
+Action 990: Sell 500 wool-garments for 29500 Enteloot.
+Action 991: Buy 1500 sheep for 12000 Enteloot.
+Action 992: craft 500x wool-garments (recipe).
+Action 993: Sell 500 wool-garments for 29500 Enteloot.
+Action 994: Buy 1500 sheep for 12000 Enteloot.
+Action 995: craft 500x wool-garments (recipe).
+Action 996: Sell 500 wool-garments for 29500 Enteloot.
+Action 997: Buy 1500 sheep for 12000 Enteloot.
+Action 998: craft 500x wool-garments (recipe).
+Action 999: Sell 500 wool-garments for 29500 Enteloot.
+Action 1000: Buy 1500 sheep for 12000 Enteloot.
+Action 1001: craft 500x wool-garments (recipe).
+Action 1002: Sell 500 wool-garments for 29500 Enteloot.
+Action 1003: Buy 1500 sheep for 12000 Enteloot.
+Action 1004: craft 500x wool-garments (recipe).
+Action 1005: Sell 500 wool-garments for 29500 Enteloot.
+Action 1006: Buy 1500 sheep for 12000 Enteloot.
+Action 1007: craft 500x wool-garments (recipe).
+Action 1008: Sell 500 wool-garments for 29500 Enteloot.
+Action 1009: Buy 1500 sheep for 12000 Enteloot.
+Action 1010: craft 500x wool-garments (recipe).
+Action 1011: Sell 500 wool-garments for 29500 Enteloot.
+Action 1012: Buy 1500 sheep for 12000 Enteloot.
+Action 1013: craft 500x wool-garments (recipe).
+Action 1014: Sell 500 wool-garments for 29500 Enteloot.
+Action 1015: Buy 1500 sheep for 12000 Enteloot.
+Action 1016: craft 500x wool-garments (recipe).
+Action 1017: Sell 500 wool-garments for 29500 Enteloot.
+Action 1018: Buy 1500 sheep for 12000 Enteloot.
+Action 1019: craft 500x wool-garments (recipe).
+Action 1020: Sell 500 wool-garments for 29500 Enteloot.
+Action 1021: Buy 1500 sheep for 12000 Enteloot.
+Action 1022: craft 500x wool-garments (recipe).
+Action 1023: Sell 500 wool-garments for 29500 Enteloot.
+Action 1024: Buy 1500 sheep for 12000 Enteloot.
+Action 1025: craft 500x wool-garments (recipe).
+Action 1026: Sell 500 wool-garments for 29500 Enteloot.
+Action 1027: Buy 1500 sheep for 12000 Enteloot.
+Action 1028: craft 500x wool-garments (recipe).
+Action 1029: Sell 500 wool-garments for 29500 Enteloot.
+Action 1030: Buy 1500 sheep for 12000 Enteloot.
+Action 1031: craft 500x wool-garments (recipe).
+Action 1032: Sell 500 wool-garments for 29500 Enteloot.
+Action 1033: Buy 1500 sheep for 12000 Enteloot.
+Action 1034: craft 500x wool-garments (recipe).
+Action 1035: Sell 500 wool-garments for 29500 Enteloot.
+Action 1036: Buy 1500 sheep for 12000 Enteloot.
+Action 1037: craft 500x wool-garments (recipe).
+Action 1038: Sell 500 wool-garments for 29500 Enteloot.
+Action 1039: Buy 1500 sheep for 12000 Enteloot.
+Action 1040: craft 500x wool-garments (recipe).
+Action 1041: Sell 500 wool-garments for 29500 Enteloot.
+Action 1042: Buy 1500 sheep for 12000 Enteloot.
+Action 1043: craft 500x wool-garments (recipe).
+Action 1044: Sell 500 wool-garments for 29500 Enteloot.
+Action 1045: Buy 1500 sheep for 12000 Enteloot.
+Action 1046: craft 500x wool-garments (recipe).
+Action 1047: Sell 500 wool-garments for 29500 Enteloot.
+Action 1048: Buy 1500 sheep for 12000 Enteloot.
+Action 1049: craft 500x wool-garments (recipe).
+Action 1050: Sell 500 wool-garments for 29500 Enteloot.
+Action 1051: Buy 1500 sheep for 12000 Enteloot.
+Action 1052: craft 500x wool-garments (recipe).
+Action 1053: Sell 500 wool-garments for 29500 Enteloot.
+Action 1054: Buy 1500 sheep for 12000 Enteloot.
+Action 1055: craft 500x wool-garments (recipe).
+Action 1056: Sell 500 wool-garments for 29500 Enteloot.
+Action 1057: Buy 1500 sheep for 12000 Enteloot.
+Action 1058: craft 500x wool-garments (recipe).
+Action 1059: Sell 500 wool-garments for 29500 Enteloot.
+Action 1060: Buy 1500 sheep for 12000 Enteloot.
+Action 1061: craft 500x wool-garments (recipe).
+Action 1062: Sell 500 wool-garments for 29500 Enteloot.
+Action 1063: Buy 1500 sheep for 12000 Enteloot.
+Action 1064: craft 500x wool-garments (recipe).
+Action 1065: Sell 500 wool-garments for 29500 Enteloot.
+Action 1066: Buy 1500 sheep for 12000 Enteloot.
+Action 1067: craft 500x wool-garments (recipe).
+Action 1068: Sell 500 wool-garments for 29500 Enteloot.
+Action 1069: Buy 1500 sheep for 12000 Enteloot.
+Action 1070: craft 500x wool-garments (recipe).
+Action 1071: Sell 500 wool-garments for 29500 Enteloot.
+Action 1072: Buy 1500 sheep for 12000 Enteloot.
+Action 1073: craft 500x wool-garments (recipe).
+Action 1074: Sell 500 wool-garments for 29500 Enteloot.
+Action 1075: Buy 1500 sheep for 12000 Enteloot.
+Action 1076: craft 500x wool-garments (recipe).
+Action 1077: Sell 500 wool-garments for 29500 Enteloot.
+Action 1078: Buy 1500 sheep for 12000 Enteloot.
+Action 1079: craft 500x wool-garments (recipe).
+Action 1080: Sell 500 wool-garments for 29500 Enteloot.
+Action 1081: Buy 1500 sheep for 12000 Enteloot.
+Action 1082: craft 500x wool-garments (recipe).
+Action 1083: Sell 500 wool-garments for 29500 Enteloot.
+Action 1084: Buy 1500 sheep for 12000 Enteloot.
+Action 1085: craft 500x wool-garments (recipe).
+Action 1086: Sell 500 wool-garments for 29500 Enteloot.
+Action 1087: Buy 1500 sheep for 12000 Enteloot.
+Action 1088: craft 500x wool-garments (recipe).
+Action 1089: Sell 500 wool-garments for 29500 Enteloot.
+Action 1090: Buy 1500 sheep for 12000 Enteloot.
+Action 1091: craft 500x wool-garments (recipe).
+Action 1092: Sell 500 wool-garments for 29500 Enteloot.
+Action 1093: Buy 1500 sheep for 12000 Enteloot.
+Action 1094: craft 500x wool-garments (recipe).
+Action 1095: Sell 500 wool-garments for 29500 Enteloot.
+Action 1096: Buy 1500 sheep for 12000 Enteloot.
+Action 1097: craft 500x wool-garments (recipe).
+Action 1098: Sell 500 wool-garments for 29500 Enteloot.
+Action 1099: Buy 1500 sheep for 12000 Enteloot.
+Action 1100: craft 500x wool-garments (recipe).
+Action 1101: Sell 500 wool-garments for 29500 Enteloot.
+Action 1102: Buy 1500 sheep for 12000 Enteloot.
+Action 1103: craft 500x wool-garments (recipe).
+Action 1104: Sell 500 wool-garments for 29500 Enteloot.
+Action 1105: Buy 1500 sheep for 12000 Enteloot.
+Action 1106: craft 500x wool-garments (recipe).
+Action 1107: Sell 500 wool-garments for 29500 Enteloot.
+Action 1108: Buy 1500 sheep for 12000 Enteloot.
+Action 1109: craft 500x wool-garments (recipe).
+Action 1110: Sell 500 wool-garments for 29500 Enteloot.
+Action 1111: Buy 1500 sheep for 12000 Enteloot.
+Action 1112: craft 500x wool-garments (recipe).
+Action 1113: Sell 500 wool-garments for 29500 Enteloot.
+Action 1114: Buy 1500 sheep for 12000 Enteloot.
+Action 1115: craft 500x wool-garments (recipe).
+Action 1116: Sell 500 wool-garments for 29500 Enteloot.
+Action 1117: Buy 1500 sheep for 12000 Enteloot.
+Action 1118: craft 500x wool-garments (recipe).
+Action 1119: Sell 500 wool-garments for 29500 Enteloot.
+Action 1120: Buy 1500 sheep for 12000 Enteloot.
+Action 1121: craft 500x wool-garments (recipe).
+Action 1122: Sell 500 wool-garments for 29500 Enteloot.
+Action 1123: Buy 1500 sheep for 12000 Enteloot.
+Action 1124: craft 500x wool-garments (recipe).
+Action 1125: Sell 500 wool-garments for 29500 Enteloot.
+Action 1126: Buy 1500 sheep for 12000 Enteloot.
+Action 1127: craft 500x wool-garments (recipe).
+Action 1128: Sell 500 wool-garments for 29500 Enteloot.
+Action 1129: Buy 1500 sheep for 12000 Enteloot.
+Action 1130: craft 500x wool-garments (recipe).
+Action 1131: Sell 500 wool-garments for 29500 Enteloot.
+Action 1132: Buy 1500 sheep for 12000 Enteloot.
+Action 1133: craft 500x wool-garments (recipe).
+Action 1134: Sell 500 wool-garments for 29500 Enteloot.
+Action 1135: Buy 1500 sheep for 12000 Enteloot.
+Action 1136: craft 500x wool-garments (recipe).
+Action 1137: Sell 500 wool-garments for 29500 Enteloot.
+Action 1138: Buy 1500 sheep for 12000 Enteloot.
+Action 1139: craft 500x wool-garments (recipe).
+Action 1140: Sell 500 wool-garments for 29500 Enteloot.
+Action 1141: Buy 1500 sheep for 12000 Enteloot.
+Action 1142: craft 500x wool-garments (recipe).
+Action 1143: Sell 500 wool-garments for 29500 Enteloot.
+Action 1144: Buy 1500 sheep for 12000 Enteloot.
+Action 1145: craft 500x wool-garments (recipe).
+Action 1146: Sell 500 wool-garments for 29500 Enteloot.
+Action 1147: Buy 1500 sheep for 12000 Enteloot.
+Action 1148: craft 500x wool-garments (recipe).
+Action 1149: Sell 500 wool-garments for 29500 Enteloot.
+Action 1150: Buy 1500 sheep for 12000 Enteloot.
+Action 1151: craft 500x wool-garments (recipe).
+Action 1152: Sell 500 wool-garments for 29500 Enteloot.
+Action 1153: Buy 1500 sheep for 12000 Enteloot.
+Action 1154: craft 500x wool-garments (recipe).
+Action 1155: Sell 500 wool-garments for 29500 Enteloot.
+Action 1156: Buy 1500 sheep for 12000 Enteloot.
+Action 1157: craft 500x wool-garments (recipe).
+Action 1158: Sell 500 wool-garments for 29500 Enteloot.
+Action 1159: Buy 1500 sheep for 12000 Enteloot.
+Action 1160: craft 500x wool-garments (recipe).
+Action 1161: Sell 500 wool-garments for 29500 Enteloot.
+Action 1162: Buy 1500 sheep for 12000 Enteloot.
+Action 1163: craft 500x wool-garments (recipe).
+Action 1164: Sell 500 wool-garments for 29500 Enteloot.
+Action 1165: Buy 1500 sheep for 12000 Enteloot.
+Action 1166: craft 500x wool-garments (recipe).
+Action 1167: Sell 500 wool-garments for 29500 Enteloot.
+Action 1168: Buy 1500 sheep for 12000 Enteloot.
+Action 1169: craft 500x wool-garments (recipe).
+Action 1170: Sell 500 wool-garments for 29500 Enteloot.
+Action 1171: Buy 1500 sheep for 12000 Enteloot.
+Action 1172: craft 500x wool-garments (recipe).
+Action 1173: Sell 500 wool-garments for 29500 Enteloot.
+Action 1174: Buy 1500 sheep for 12000 Enteloot.
+Action 1175: craft 500x wool-garments (recipe).
+Action 1176: Sell 500 wool-garments for 29500 Enteloot.
+Action 1177: Buy 1500 sheep for 12000 Enteloot.
+Action 1178: craft 500x wool-garments (recipe).
+Action 1179: Sell 500 wool-garments for 29500 Enteloot.
+Action 1180: Buy 1500 sheep for 12000 Enteloot.
+Action 1181: craft 500x wool-garments (recipe).
+Action 1182: Sell 500 wool-garments for 29500 Enteloot.
+Action 1183: Buy 1500 sheep for 12000 Enteloot.
+Action 1184: craft 500x wool-garments (recipe).
+Action 1185: Sell 500 wool-garments for 29500 Enteloot.
+Action 1186: Buy 1500 sheep for 12000 Enteloot.
+Action 1187: craft 500x wool-garments (recipe).
+Action 1188: Sell 500 wool-garments for 29500 Enteloot.
+Action 1189: Buy 1500 sheep for 12000 Enteloot.
+Action 1190: craft 500x wool-garments (recipe).
+Action 1191: Sell 500 wool-garments for 29500 Enteloot.
+Action 1192: Buy 1500 sheep for 12000 Enteloot.
+Action 1193: craft 500x wool-garments (recipe).
+Action 1194: Sell 500 wool-garments for 29500 Enteloot.
+Action 1195: Buy 1500 sheep for 12000 Enteloot.
+Action 1196: craft 500x wool-garments (recipe).
+Action 1197: Sell 500 wool-garments for 29500 Enteloot.
+Action 1198: Buy 1500 sheep for 12000 Enteloot.
+Action 1199: craft 500x wool-garments (recipe).
+Action 1200: Sell 500 wool-garments for 29500 Enteloot.
+Action 1201: Buy 1500 sheep for 12000 Enteloot.
+Action 1202: craft 500x wool-garments (recipe).
+Action 1203: Sell 500 wool-garments for 29500 Enteloot.
+Action 1204: Buy 1500 sheep for 12000 Enteloot.
+Action 1205: craft 500x wool-garments (recipe).
+Action 1206: Sell 500 wool-garments for 29500 Enteloot.
+Action 1207: Buy 1500 sheep for 12000 Enteloot.
+Action 1208: Sell 119482 clay for 477928 Enteloot.
+Action 1209: Sell 303906 fish for 1215624 Enteloot.
+Action 1210: Sell 288070 sheep for 1440350 Enteloot.
+Action 1211: Sell 263654 stone for 790962 Enteloot.
+Action 1212: Sell 296606 wheat for 593212 Enteloot.
+Action 1213: Sell 161242 wood for 483726 Enteloot.
+Action 1214: Sell 13 clay for 52 Enteloot.
+Action 1215: Sell 32 fish for 128 Enteloot.
+Action 1216 {'type': 'sell', 'item': 'sheep', 'quantity': 31}: INVALID - Cannot sell 31 'sheep': only 30 available in inventory..
+Action 1217: Sell 31 stone for 93 Enteloot.
+Action 1218: Sell 29 wheat for 58 Enteloot.
+Action 1219: Sell 25 wood for 75 Enteloot.
+Action 1220: Sell 10 clay for 40 Enteloot.
+Action 1221: Sell 19 fish for 76 Enteloot.
+Action 1222: Sell 26 sheep for 130 Enteloot.
+Action 1223: Sell 20 stone for 60 Enteloot.
+Action 1224: Sell 28 wheat for 56 Enteloot.
+Action 1225: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 1226: Buy 731899 clay for 4391394 Enteloot.
+Action 1227: Sell 731899 clay for 2927596 Enteloot.
+Action 1228: Buy 597717 clay for 3586302 Enteloot.
+Action 1229: Sell 597717 clay for 2390868 Enteloot.
+Action 1230: Buy 488136 clay for 2928816 Enteloot.
+Action 1231: Sell 488136 clay for 1952544 Enteloot.
+Action 1232: Buy 398644 clay for 2391864 Enteloot.
+Action 1233: Sell 398644 clay for 1594576 Enteloot.
+Action 1234: Buy 325560 clay for 1953360 Enteloot.
+Action 1235: Sell 325560 clay for 1302240 Enteloot.
+Action 1236: Buy 265874 clay for 1595244 Enteloot.
+Action 1237: Sell 265874 clay for 1063496 Enteloot.
+Action 1238: Buy 217130 clay for 1302780 Enteloot.
+Action 1239: Sell 217130 clay for 868520 Enteloot.
+Action 1240: Buy 177323 clay for 1063938 Enteloot.
+Action 1241: Sell 177323 clay for 709292 Enteloot.
+Action 1242: Buy 144814 clay for 868884 Enteloot.
+Action 1243: Sell 144814 clay for 579256 Enteloot.
+Action 1244: Buy 118264 clay for 709584 Enteloot.
+Action 1245: Sell 118264 clay for 473056 Enteloot.
+Action 1246: Buy 96583 clay for 579498 Enteloot.
+Action 1247: Sell 96583 clay for 386332 Enteloot.
+Action 1248: Buy 78876 clay for 473256 Enteloot.
+Action 1249: Sell 78876 clay for 315504 Enteloot.
+Action 1250: Buy 64415 clay for 386490 Enteloot.
+Action 1251: Sell 64415 clay for 257660 Enteloot.
+Action 1252: Buy 52606 clay for 315636 Enteloot.
+Action 1253: Sell 52606 clay for 210424 Enteloot.
+Action 1254: Buy 42961 clay for 257766 Enteloot.
+Action 1255: Sell 42961 clay for 171844 Enteloot.
+Action 1256: Buy 35085 clay for 210510 Enteloot.
+Action 1257: Sell 35085 clay for 140340 Enteloot.
+Action 1258: Buy 28653 clay for 171918 Enteloot.
+Action 1259: Sell 28653 clay for 114612 Enteloot.
+Action 1260: Buy 23400 clay for 140400 Enteloot.
+Action 1261: Sell 23400 clay for 93600 Enteloot.
+Action 1262: Buy 19110 clay for 114660 Enteloot.
+Action 1263: Sell 19110 clay for 76440 Enteloot.
+Action 1264: Buy 15606 clay for 93636 Enteloot.
+Action 1265: Sell 15606 clay for 62424 Enteloot.
+Action 1266: Buy 12745 clay for 76470 Enteloot.
+Action 1267: Sell 12745 clay for 50980 Enteloot.
+Action 1268: Buy 10409 clay for 62454 Enteloot.
+Action 1269: Sell 10409 clay for 41636 Enteloot.
+Action 1270: Buy 8500 clay for 51000 Enteloot.
+Action 1271: Sell 8500 clay for 34000 Enteloot.
+Action 1272: Buy 6942 clay for 41652 Enteloot.
+Action 1273: Sell 6942 clay for 27768 Enteloot.
+Action 1274: Buy 5669 clay for 34014 Enteloot.
+Action 1275: Sell 5669 clay for 22676 Enteloot.
+Action 1276: Buy 4630 clay for 27780 Enteloot.
+Action 1277: Sell 4630 clay for 18520 Enteloot.
+Action 1278: Buy 3781 clay for 22686 Enteloot.
+Action 1279: Sell 3781 clay for 15124 Enteloot.
+Action 1280: Buy 3088 clay for 18528 Enteloot.
+Action 1281: Sell 3088 clay for 12352 Enteloot.
+Action 1282: Buy 2522 clay for 15132 Enteloot.
+Action 1283: Sell 2522 clay for 10088 Enteloot.
+Action 1284: Buy 2059 clay for 12354 Enteloot.
+Action 1285: Sell 2059 clay for 8236 Enteloot.
+Action 1286: Buy 1682 clay for 10092 Enteloot.
+Action 1287: Sell 1682 clay for 6728 Enteloot.
+Action 1288: Buy 1374 clay for 8244 Enteloot.
+Action 1289: Sell 1374 clay for 5496 Enteloot.
+Action 1290: Buy 1122 clay for 6732 Enteloot.
+Action 1291: Sell 1122 clay for 4488 Enteloot.
+Action 1292: Buy 916 clay for 5496 Enteloot.
+Action 1293: Sell 916 clay for 3664 Enteloot.
+Action 1294: Buy 748 clay for 4488 Enteloot.
+Action 1295: Sell 748 clay for 2992 Enteloot.
+Action 1296: Buy 611 clay for 3666 Enteloot.
+Action 1297: Sell 611 clay for 2444 Enteloot.
+Action 1298: Buy 499 clay for 2994 Enteloot.
+Action 1299: Sell 499 clay for 1996 Enteloot.
+Action 1300: Buy 407 clay for 2442 Enteloot.
+Action 1301: Sell 407 clay for 1628 Enteloot.
+Action 1302: Buy 333 clay for 1998 Enteloot.
+Action 1303: Sell 333 clay for 1332 Enteloot.
+Action 1304: Buy 272 clay for 1632 Enteloot.
+Action 1305: Sell 272 clay for 1088 Enteloot.
+===================================
+Level 4 Scoring
+===================================
+Your Enteloot: 2231
+Held items value: 4862
+Total sale revenue: 26484964
+===================================
+Final score: 41474539.0
